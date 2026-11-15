@@ -50,7 +50,7 @@ Irregular stems (same endings, and the same stems for the conditionnel):
 | *vouloir* | voudr- | *courir* | courr- |
 | *devoir* | devr- | *venir* | viendr- |
 
-Conditionnel présent: futur stem plus *`-ais, -ais, -ait, -ions, -iez, -aient`*. The ending sound is /e/ in the futur (*je parlerai*) and /ɛ/ in the conditionnel (*je parlerais*).
+Conditionnel présent: futur stem plus *`-ais, -ais, -ait, -ions, -iez, -aient`*. In careful speech, the ending sound is /e/ in the futur (*je parlerai*) and /ɛ/ in the conditionnel (*je parlerais*); many speakers merge them in daily talk.
 
 | Use | Pattern | Example |
 |---|---|---|

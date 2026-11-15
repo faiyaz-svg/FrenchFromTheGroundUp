@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 87 of 205. New lessons appear here as they are added.
+Lessons written so far: 91 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -115,3 +115,10 @@ Lessons written so far: 87 of 205. New lessons appear here as they are added.
 - [ ] [A short booking email](07-pronouns-and-getting-things-done/11-short-booking-email.md) (write)
 - [ ] [Notices and instructions](07-pronouns-and-getting-things-done/12-notices-and-instructions.md) (read)
 - [ ] [Solving problems while travelling](07-pronouns-and-getting-things-done/13-solving-problems-while-travelling.md) (speak, review)
+
+### Stage 8: Comparing, duration and settling in
+
+- [ ] [Comparatives](08-comparing-duration-and-settling-in/01-comparatives.md) (grammar)
+- [ ] [Superlatives](08-comparing-duration-and-settling-in/02-superlatives.md) (grammar)
+- [ ] [Depuis, il y a and pendant](08-comparing-duration-and-settling-in/03-depuis-il-y-a-pendant.md) (grammar)
+- [ ] [The relative pronouns qui and que](08-comparing-duration-and-settling-in/04-relative-qui-que.md) (grammar)

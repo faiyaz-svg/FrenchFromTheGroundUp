@@ -48,7 +48,7 @@ Some very common adverbs have their own form.
 | *meilleur* | *mieux* | *Je comprends mieux.* |
 | *rapide* | *vite* (*rapidement* also exists) | *Il mange vite.* |
 
-Watch out: *bon* and *bien* are not the same. *Bon* is an adjective and describes a noun: *un bon café*. *Bien* is an adverb and describes a verb: *Il parle bien*. The same goes for *mauvais* (adjective) and *mal* (adverb). *Mieux* means "better" as an adverb: *Tu parles mieux qu'hier*. The full comparison, with *que*, is in Comparatives<!-- link: ../08-comparing-duration-and-settling-in/01-comparatives.md -->.
+Watch out: *bon* and *bien* are not the same. *Bon* is an adjective and describes a noun: *un bon café*. *Bien* is an adverb and describes a verb: *Il parle bien*. The same goes for *mauvais* (adjective) and *mal* (adverb). *Mieux* means "better" as an adverb: *Tu parles mieux qu'hier*. The full comparison, with *que*, is in [Comparatives](../08-comparing-duration-and-settling-in/01-comparatives.md).
 
 Other adverbs have small spelling surprises: *gentil* gives *gentiment*, *bref* gives *brièvement*, and *énorme* gives *énormément*. These are exceptions you will meet, and you can learn them as they come.
 

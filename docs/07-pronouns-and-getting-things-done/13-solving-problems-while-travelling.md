@@ -143,4 +143,4 @@ Writing *en panne* with an adjective ending: *en pannes*. The phrase does not ch
 
 - **Participle used as an adjective**: a past participle that describes a noun and agrees with it, such as *cassé*, *perdu* or *volé*.
 
-Next: Comparatives<!-- link: ../08-comparing-duration-and-settling-in/01-comparatives.md -->
+Next: [Comparatives](../08-comparing-duration-and-settling-in/01-comparatives.md)

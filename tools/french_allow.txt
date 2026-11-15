@@ -19,3 +19,22 @@ DEBARBOUILLETTE
 ES_TU | est-tu
 # Register-only rule on casual t' (t'as, t'sais): the book uses these only as marked casual examples.
 BARBARISME_TU
+# COND_VS_FUTUR on correct conditionnels in 09-03 and 09-04 (checked by the stage 9 proofreader and by me).
+COND_VS_FUTUR | Appelle-moi au cas où tu aurais un problème.
+COND_VS_FUTUR | Je te recommanderais d'écrire d'abord ce que tu veux.
+COND_VS_FUTUR | Je vous recommanderais cette option.
+COND_VS_FUTUR | Si j'avais un mois de congé, je voyagerais en Europe. Je verrais mes amis.
+COND_VS_FUTUR | Si le bureau déménageait, je resterais à Montréal. Je travaillerais de chez moi.
+COND_VS_FUTUR | je travaillerais à la maison.
+COND_VS_FUTUR | je viendrais.
+# Style suggestion only (prefer dans lequel over où): où is correct and taught in 10-02.
+OU_LEQUEL
+# Flagged only as a Quebec word; 10-09 teaches téléroman (OQLF fiche).
+TELEROMAN
+# Style suggestions that fire on correct French: adjective position (des nouvelles courtes),
+# remercier de + abstract noun (OQLF accepts it), d'ici + time (d'ici deux ans).
+PLACE_ADJ
+REMERCIER_POUR
+CONSTRUCTION_DANS_LES_EXPRESSIONS
+# Correct double pronoun order taught in 10-06.
+ACCORD_PRONOM_POSSESSIF_LEUR | Je les leur montre.

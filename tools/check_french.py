@@ -243,16 +243,23 @@ def extract_md(text: str, path: str) -> Doc:
             doc.items.append(Item("fence", path, idx + 1, p["french"], "qc", p["flags"], p["speaker"], True,
                                   bool(p["gloss"])))
             continue
-        mode = "full" if len(p["french"].split()) >= 2 else "spell"
+        mode = "full" if len(p["french"].split()) >= 2 and "___" not in p["french"] else "spell"
         doc.items.append(Item("fence", path, idx + 1, p["french"], mode, p["flags"], p["speaker"], True,
                               bool(p["gloss"])))
     for a, b in fr_paras:
-        para = strip_md(" ".join(lines[a:b + 1]))
+        # French explanations quote French examples in italics and name lessons in links.
+        # LanguageTool would read those as part of the sentence, so each one becomes a
+        # neutral placeholder here; the italic examples are checked on their own below.
+        para = strip_md(mask_mentions(" ".join(lines[a:b + 1])))
         if para:
             doc.items.append(Item("frpara", path, a + 1, para, "full", (), "", True))
+        for k in range(a, b + 1):
+            for span in italic_spans(lines[k]):
+                add_italic(doc, path, k + 1, span)
     # pass 2: tables, new words, italics
     in_html_comment = False
     section_newwords = False
+    section_mistakes = False
     i = start
     while i < n:
         raw = lines[i]
@@ -270,6 +277,7 @@ def extract_md(text: str, path: str) -> Doc:
         hm = HEADING.match(raw_nc)
         if hm:
             section_newwords = bool(NEWWORDS_HEAD.match(hm.group(2)))
+            section_mistakes = bool(MISTAKES_HEAD.match(hm.group(2)))
         # table block
         if raw_nc.lstrip().startswith("|"):
             j = i
@@ -284,17 +292,35 @@ def extract_md(text: str, path: str) -> Doc:
             i = j
             continue
         for span in italic_spans(raw_nc):
-            add_italic(doc, path, i + 1, span)
+            add_italic(doc, path, i + 1, span, spell_only=section_mistakes)
         for m in IPA_PAIR.finditer(re.sub(r"`[^`]*`", "", raw_nc)):
             doc.ipa_pairs.append((i + 1, m.group(1).strip(), m.group(2).strip()))
         i += 1
     return doc
 
 
-def add_italic(doc: Doc, path: str, line: int, span: str) -> None:
+MISTAKES_HEAD = re.compile(r"(Common mistakes|Erreurs fréquentes)", re.I)
+MENTION_PLACEHOLDER = "X"
+FRPARA_SKIP = {"POINT", "POINTS_2", "PRONOMS_PERSONNELS_MINUSCULE", "UPPERCASE_SENTENCE_START",
+               "A_ACCENT", "EST_CE_QUE", "PAS_DE_VIRGULE"}
+
+
+def mask_mentions(text: str) -> str:
+    """Replace links and italic spans (quoted French, lesson titles) with a placeholder."""
+    t = re.sub(r"\[([^\]]*)\]\([^)]*\)", MENTION_PLACEHOLDER, text)
+    t = re.sub(r"<!--.*?-->", "", t)
+    t = re.sub(r"(?<![*\w])\*(?!\*)([^*\n]+?)\*(?![*\w])", MENTION_PLACEHOLDER, t)
+    # Quoted text in guillemets (often English glosses) and IPA in slashes are mentions too.
+    t = re.sub(r"«[^»]*»", MENTION_PLACEHOLDER, t)
+    return re.sub(r"/[^/\s][^/]*/", MENTION_PLACEHOLDER, t)
+
+
+def add_italic(doc: Doc, path: str, line: int, span: str, spell_only: bool = False) -> None:
     span = span.strip()
     full_mode = classify_mode(span)
-    if full_mode == "full":
+    # Exercise prompts with blanks, and the wrong forms shown under Common mistakes,
+    # are checked for spelling only.
+    if full_mode == "full" and not spell_only and "___" not in span:
         doc.items.append(Item("italic", path, line, span, "full"))
         return
     for cand in spell_candidates(span):
@@ -949,6 +975,10 @@ def analyse(docs: list[Doc], use_lt: bool, allow=None):
                     continue
                 # An italic French phrase inside English prose is a fragment, so it starts lowercase.
                 if it.kind == "italic" and rule == "UPPERCASE_SENTENCE_START":
+                    continue
+                # In masked explanation paragraphs, rules about sentence ends and capitals
+                # react to the placeholders, not to the French.
+                if it.kind == "frpara" and rule in FRPARA_SKIP:
                     continue
                 if it.mode == "spell" or (spell and it.kind == "italic"):
                     findings.append(Finding("warning", "spelling", it.path, it.line, it.text, rule,

@@ -138,10 +138,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="8">
 <a class="fm-seg-name" href="08-comparing-duration-and-settling-in/">8 · Comparing, duration and settling in</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="Comparatives"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Superlatives"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Depuis, il y a and pendant"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="The relative pronouns qui and que"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/01-comparatives/" data-lesson="08-comparing-duration-and-settling-in/01-comparatives/" title="Comparatives"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/02-superlatives/" data-lesson="08-comparing-duration-and-settling-in/02-superlatives/" title="Superlatives"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/03-depuis-il-y-a-pendant/" data-lesson="08-comparing-duration-and-settling-in/03-depuis-il-y-a-pendant/" title="Depuis, il y a and pendant"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/04-relative-qui-que/" data-lesson="08-comparing-duration-and-settling-in/04-relative-qui-que/" title="The relative pronouns qui and que"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Verbs followed by à and de"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Weather and seasons"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="Small talk: weather and hockey"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
