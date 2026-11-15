@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 10.
 6. [News vocabulary](06-news-vocabulary.md) (words)
 7. [Giving your opinion](07-giving-opinions.md) (speak)
 8. [Making a complaint](08-complaints.md) (speak)
-9. News and institutions in Quebec (not written yet) (quebec)
-10. Radio news (not written yet) (listen)
-11. Writing a complaint (not written yet) (write)
-12. Opinion columns (not written yet) (read)
-13. News and opinions roundup (not written yet) (listen, review)
+9. [News and institutions in Quebec](09-quebec-news-and-institutions.md) (quebec)
+10. [Radio news](10-radio-news.md) (listen)
+11. [Writing a complaint](11-writing-a-complaint.md) (write)
+12. [Opinion columns](12-opinion-columns.md) (read)
+13. [News and opinions roundup](13-news-and-opinions-roundup.md) (listen, review)
 
 <!-- lessons:end -->
 

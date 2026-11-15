@@ -2016,6 +2016,214 @@
    ],
    "en": "I would like to make a transfer to my savings account.",
    "stage": 10
+  },
+  {
+   "q": "La loi ___ adoptée hier.",
+   "hint": "être, passé composé",
+   "a": [
+    "a été"
+   ],
+   "en": "The law was passed yesterday.",
+   "stage": 11
+  },
+  {
+   "q": "Les règles ___ publiées demain.",
+   "hint": "être, futur simple",
+   "a": [
+    "seront"
+   ],
+   "en": "The rules will be published tomorrow.",
+   "stage": 11
+  },
+  {
+   "q": "Les rues ont été ___.",
+   "hint": "fermer",
+   "a": [
+    "fermées"
+   ],
+   "en": "The streets were closed.",
+   "stage": 11
+  },
+  {
+   "q": "Il dit ___ le bureau est fermé.",
+   "hint": "que",
+   "a": [
+    "que"
+   ],
+   "en": "He says the office is closed.",
+   "stage": 11
+  },
+  {
+   "q": "Il demande ___ tu aimes ton travail.",
+   "hint": "si",
+   "a": [
+    "si"
+   ],
+   "en": "He asks if you like your job.",
+   "stage": 11
+  },
+  {
+   "q": "Paul me demande ___ je veux.",
+   "hint": "qu'est-ce que",
+   "a": [
+    "ce que"
+   ],
+   "en": "Paul asks me what I want.",
+   "stage": 11
+  },
+  {
+   "q": "Il a dit qu'il ___ fatigué.",
+   "hint": "être, imparfait",
+   "a": [
+    "était"
+   ],
+   "en": "He said he was tired.",
+   "stage": 11
+  },
+  {
+   "q": "Elle a dit qu'elle ___ le travail.",
+   "hint": "finir, plus-que-parfait",
+   "a": [
+    "avait fini"
+   ],
+   "en": "She said she had finished the work.",
+   "stage": 11
+  },
+  {
+   "q": "Il a dit qu'il ___ le lendemain.",
+   "hint": "venir, conditionnel",
+   "a": [
+    "viendrait"
+   ],
+   "en": "He said he would come the next day.",
+   "stage": 11
+  },
+  {
+   "q": "Lundi, Paul a dit qu'il viendrait ___.",
+   "hint": "demain, in the past",
+   "a": [
+    "le lendemain"
+   ],
+   "en": "On Monday, Paul said he would come the next day.",
+   "stage": 11
+  },
+  {
+   "q": "Il est arrivé ___.",
+   "hint": "courir, gérondif",
+   "a": [
+    "en courant"
+   ],
+   "en": "He arrived running.",
+   "stage": 11
+  },
+  {
+   "q": "Elle travaille en ___ la radio.",
+   "hint": "écouter",
+   "a": [
+    "écoutant"
+   ],
+   "en": "She works while listening to the radio.",
+   "stage": 11
+  },
+  {
+   "q": "___ en retard, il a pris un taxi.",
+   "hint": "être, participe présent",
+   "a": [
+    "Étant"
+   ],
+   "en": "Being late, he took a taxi.",
+   "stage": 11
+  },
+  {
+   "q": "C'est une histoire ___.",
+   "hint": "passionner, adjectif",
+   "a": [
+    "passionnante"
+   ],
+   "en": "It's a gripping story.",
+   "stage": 11
+  },
+  {
+   "q": "Il pleut, ___ je prends un parapluie.",
+   "hint": "consequence",
+   "a": [
+    "donc"
+   ],
+   "en": "It's raining, so I'm taking an umbrella.",
+   "stage": 11
+  },
+  {
+   "q": "Je reste, ___ j'aime mon équipe.",
+   "hint": "cause, after the clause",
+   "a": [
+    "car"
+   ],
+   "en": "I'm staying, because I like my team.",
+   "stage": 11
+  },
+  {
+   "q": "Les horaires sont longs. ___, le salaire est bon.",
+   "hint": "contrast",
+   "a": [
+    "En revanche",
+    "Par contre"
+   ],
+   "en": "The hours are long. On the other hand, the pay is good.",
+   "stage": 11
+  },
+  {
+   "q": "Ce produit ___ en pharmacie.",
+   "hint": "se vendre",
+   "a": [
+    "se vend"
+   ],
+   "en": "This product is sold in pharmacies.",
+   "stage": 11
+  },
+  {
+   "q": "Le produit est encore sous ___.",
+   "hint": "warranty",
+   "a": [
+    "garantie"
+   ],
+   "en": "The product is still under warranty.",
+   "stage": 11
+  },
+  {
+   "q": "À ___ de réponse, je ferai valoir mes droits.",
+   "hint": "failing",
+   "a": [
+    "défaut"
+   ],
+   "en": "Failing a reply, I will assert my rights.",
+   "stage": 11
+  },
+  {
+   "q": "Je ne suis pas tout à fait d'___.",
+   "hint": "agree",
+   "a": [
+    "accord"
+   ],
+   "en": "I don't quite agree.",
+   "stage": 11
+  },
+  {
+   "q": "L'Assemblée nationale siège à ___.",
+   "hint": "city",
+   "a": [
+    "Québec"
+   ],
+   "en": "The National Assembly sits in Québec City.",
+   "stage": 11
+  },
+  {
+   "q": "On m'___ dit que le bureau était fermé.",
+   "hint": "avoir, passé composé",
+   "a": [
+    "a"
+   ],
+   "en": "I was told the office was closed.",
+   "stage": 11
   }
  ]
 }

@@ -468,6 +468,13 @@
    "en": "PIN",
    "note": "Quebec; Europe: PIN",
    "stage": 10
+  },
+  {
+   "qc": "par contre",
+   "std": "en revanche",
+   "en": "on the other hand",
+   "note": "frequent in Quebec speech; the OQLF accepts it for a plain contrast, en revanche suggests a compensation",
+   "stage": 11
   }
  ]
 }

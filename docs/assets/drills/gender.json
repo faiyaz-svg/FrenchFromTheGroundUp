@@ -1955,6 +1955,204 @@
    "answer": "la",
    "en": "procedure, step",
    "stage": 10
+  },
+  {
+   "noun": "loi",
+   "answer": "la",
+   "en": "law",
+   "stage": 11
+  },
+  {
+   "noun": "projet",
+   "answer": "le",
+   "en": "project, bill",
+   "stage": 11
+  },
+  {
+   "noun": "élection",
+   "answer": "la",
+   "elided": true,
+   "en": "election",
+   "stage": 11
+  },
+  {
+   "noun": "vote",
+   "answer": "le",
+   "en": "vote",
+   "stage": 11
+  },
+  {
+   "noun": "électeur",
+   "answer": "le",
+   "elided": true,
+   "en": "voter",
+   "stage": 11
+  },
+  {
+   "noun": "manifestation",
+   "answer": "la",
+   "en": "demonstration",
+   "stage": 11
+  },
+  {
+   "noun": "chômage",
+   "answer": "le",
+   "en": "unemployment",
+   "stage": 11
+  },
+  {
+   "noun": "hausse",
+   "answer": "la",
+   "en": "rise",
+   "stage": 11
+  },
+  {
+   "noun": "baisse",
+   "answer": "la",
+   "en": "drop",
+   "stage": 11
+  },
+  {
+   "noun": "économie",
+   "answer": "la",
+   "elided": true,
+   "en": "economy",
+   "stage": 11
+  },
+  {
+   "noun": "santé",
+   "answer": "la",
+   "en": "health",
+   "stage": 11
+  },
+  {
+   "noun": "climat",
+   "answer": "le",
+   "en": "climate",
+   "stage": 11
+  },
+  {
+   "noun": "pollution",
+   "answer": "la",
+   "en": "pollution",
+   "stage": 11
+  },
+  {
+   "noun": "inondation",
+   "answer": "la",
+   "elided": true,
+   "en": "flood",
+   "stage": 11
+  },
+  {
+   "noun": "crise",
+   "answer": "la",
+   "en": "crisis",
+   "stage": 11
+  },
+  {
+   "noun": "guerre",
+   "answer": "la",
+   "en": "war",
+   "stage": 11
+  },
+  {
+   "noun": "tribunal",
+   "answer": "le",
+   "en": "court",
+   "stage": 11
+  },
+  {
+   "noun": "enquête",
+   "answer": "la",
+   "elided": true,
+   "en": "investigation, survey",
+   "stage": 11
+  },
+  {
+   "noun": "sondage",
+   "answer": "le",
+   "en": "poll",
+   "stage": 11
+  },
+  {
+   "noun": "réforme",
+   "answer": "la",
+   "en": "reform",
+   "stage": 11
+  },
+  {
+   "noun": "gouvernement",
+   "answer": "le",
+   "en": "government",
+   "stage": 11
+  },
+  {
+   "noun": "bulletin",
+   "answer": "le",
+   "en": "bulletin",
+   "stage": 11
+  },
+  {
+   "noun": "reportage",
+   "answer": "le",
+   "en": "report",
+   "stage": 11
+  },
+  {
+   "noun": "témoin",
+   "answer": "le",
+   "en": "witness",
+   "stage": 11
+  },
+  {
+   "noun": "plainte",
+   "answer": "la",
+   "en": "complaint",
+   "stage": 11
+  },
+  {
+   "noun": "garantie",
+   "answer": "la",
+   "en": "warranty",
+   "stage": 11
+  },
+  {
+   "noun": "malentendu",
+   "answer": "le",
+   "en": "misunderstanding",
+   "stage": 11
+  },
+  {
+   "noun": "chronique",
+   "answer": "la",
+   "en": "column",
+   "stage": 11
+  },
+  {
+   "noun": "débat",
+   "answer": "le",
+   "en": "debate",
+   "stage": 11
+  },
+  {
+   "noun": "tendance",
+   "answer": "la",
+   "en": "trend",
+   "stage": 11
+  },
+  {
+   "noun": "conséquence",
+   "answer": "la",
+   "en": "consequence",
+   "stage": 11
+  },
+  {
+   "noun": "arrondissement",
+   "answer": "le",
+   "elided": true,
+   "en": "borough",
+   "stage": 11
   }
  ]
 }

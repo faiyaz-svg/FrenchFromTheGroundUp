@@ -754,6 +754,81 @@
    "fr": "Nous accusons réception de votre demande.",
    "en": "We acknowledge receipt of your request.",
    "stage": 10
+  },
+  {
+   "fr": "La loi a été adoptée hier.",
+   "en": "The law was passed yesterday.",
+   "stage": 11
+  },
+  {
+   "fr": "Les règles seront publiées demain.",
+   "en": "The rules will be published tomorrow.",
+   "stage": 11
+  },
+  {
+   "fr": "On m'a dit que le bureau était fermé.",
+   "en": "I was told the office was closed.",
+   "stage": 11
+  },
+  {
+   "fr": "Elle dit qu'elle rappellera demain matin.",
+   "en": "She says she will call back tomorrow morning.",
+   "stage": 11
+  },
+  {
+   "fr": "Il demande si vous avez reçu son courriel.",
+   "en": "He asks if you received his email.",
+   "stage": 11
+  },
+  {
+   "fr": "Il a dit qu'il viendrait le lendemain.",
+   "en": "He said he would come the next day.",
+   "stage": 11
+  },
+  {
+   "fr": "Elle nous a dit d'attendre ici.",
+   "en": "She told us to wait here.",
+   "stage": 11
+  },
+  {
+   "fr": "Elle travaille en écoutant la radio.",
+   "en": "She works while listening to the radio.",
+   "stage": 11
+  },
+  {
+   "fr": "On apprend en pratiquant.",
+   "en": "You learn by practising.",
+   "stage": 11
+  },
+  {
+   "fr": "À mon avis, c'est une bonne idée.",
+   "en": "In my opinion, it's a good idea.",
+   "stage": 11
+  },
+  {
+   "fr": "Je ne suis pas tout à fait d'accord.",
+   "en": "I don't quite agree.",
+   "stage": 11
+  },
+  {
+   "fr": "Les horaires sont longs. En revanche, le salaire est bon.",
+   "en": "The hours are long. On the other hand, the pay is good.",
+   "stage": 11
+  },
+  {
+   "fr": "Le produit est défectueux.",
+   "en": "The product is defective.",
+   "stage": 11
+  },
+  {
+   "fr": "Pourrais-je parler à la gérante?",
+   "en": "Could I speak to the manager?",
+   "stage": 11
+  },
+  {
+   "fr": "Un sondage montre que les électeurs sont inquiets.",
+   "en": "A poll shows that voters are worried.",
+   "stage": 11
   }
  ]
 }

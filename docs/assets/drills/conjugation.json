@@ -2335,6 +2335,286 @@
    "answer": "voulions",
    "en": "to want",
    "stage": 10
+  },
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "étais",
+   "en": "to be",
+   "stage": 11
+  },
+  {
+   "verb": "avoir",
+   "tense": "imparfait",
+   "person": "il",
+   "answer": "avait",
+   "en": "to have",
+   "stage": 11
+  },
+  {
+   "verb": "faire",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "faisions",
+   "en": "to do, to make",
+   "stage": 11
+  },
+  {
+   "verb": "aller",
+   "tense": "imparfait",
+   "person": "ils",
+   "answer": "allaient",
+   "en": "to go",
+   "stage": 11
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "imparfait",
+   "person": "vous",
+   "answer": "pouviez",
+   "en": "can, to be able to",
+   "stage": 11
+  },
+  {
+   "verb": "vouloir",
+   "tense": "imparfait",
+   "person": "elle",
+   "answer": "voulait",
+   "en": "to want",
+   "stage": 11
+  },
+  {
+   "verb": "venir",
+   "tense": "imparfait",
+   "person": "tu",
+   "answer": "venais",
+   "en": "to come",
+   "stage": 11
+  },
+  {
+   "verb": "savoir",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "savais",
+   "en": "to know",
+   "stage": 11
+  },
+  {
+   "verb": "dire",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "disions",
+   "en": "to say",
+   "stage": 11
+  },
+  {
+   "verb": "prendre",
+   "tense": "imparfait",
+   "person": "ils",
+   "answer": "prenaient",
+   "en": "to take",
+   "stage": 11
+  },
+  {
+   "verb": "devoir",
+   "tense": "imparfait",
+   "person": "il",
+   "answer": "devait",
+   "en": "to have to",
+   "stage": 11
+  },
+  {
+   "verb": "venir",
+   "tense": "conditionnel présent",
+   "person": "il",
+   "answer": "viendrait",
+   "en": "to come",
+   "stage": 11
+  },
+  {
+   "verb": "aller",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "irais",
+   "en": "to go",
+   "stage": 11
+  },
+  {
+   "verb": "faire",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "ferions",
+   "en": "to do, to make",
+   "stage": 11
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "seraient",
+   "en": "to be",
+   "stage": 11
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel présent",
+   "person": "tu",
+   "answer": "aurais",
+   "en": "to have",
+   "stage": 11
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel présent",
+   "person": "elle",
+   "answer": "pourrait",
+   "en": "can, to be able to",
+   "stage": 11
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel présent",
+   "person": "vous",
+   "answer": "voudriez",
+   "en": "to want",
+   "stage": 11
+  },
+  {
+   "verb": "voir",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "verrais",
+   "en": "to see",
+   "stage": 11
+  },
+  {
+   "verb": "devoir",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "devrions",
+   "en": "to have to",
+   "stage": 11
+  },
+  {
+   "verb": "savoir",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "sauraient",
+   "en": "to know",
+   "stage": 11
+  },
+  {
+   "verb": "finir",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais fini",
+   "en": "to finish",
+   "stage": 11
+  },
+  {
+   "verb": "partir",
+   "tense": "plus-que-parfait",
+   "person": "elle",
+   "answer": "était partie",
+   "en": "to leave",
+   "stage": 11
+  },
+  {
+   "verb": "arriver",
+   "tense": "plus-que-parfait",
+   "person": "ils",
+   "answer": "étaient arrivés",
+   "en": "to arrive",
+   "stage": 11
+  },
+  {
+   "verb": "prendre",
+   "tense": "plus-que-parfait",
+   "person": "nous",
+   "answer": "avions pris",
+   "en": "to take",
+   "stage": 11
+  },
+  {
+   "verb": "faire",
+   "tense": "plus-que-parfait",
+   "person": "tu",
+   "answer": "avais fait",
+   "en": "to do, to make",
+   "stage": 11
+  },
+  {
+   "verb": "dire",
+   "tense": "plus-que-parfait",
+   "person": "il",
+   "answer": "avait dit",
+   "en": "to say",
+   "stage": 11
+  },
+  {
+   "verb": "voir",
+   "tense": "plus-que-parfait",
+   "person": "vous",
+   "answer": "aviez vu",
+   "en": "to see",
+   "stage": 11
+  },
+  {
+   "verb": "aller",
+   "tense": "plus-que-parfait",
+   "person": "il",
+   "answer": "était allé",
+   "en": "to go",
+   "stage": 11
+  },
+  {
+   "verb": "commencer",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais commencé",
+   "en": "to begin",
+   "stage": 11
+  },
+  {
+   "verb": "adopter",
+   "tense": "futur simple",
+   "person": "il",
+   "answer": "adoptera",
+   "en": "to adopt, to pass (a law)",
+   "stage": 11
+  },
+  {
+   "verb": "être",
+   "tense": "futur simple",
+   "person": "elle",
+   "answer": "sera",
+   "en": "to be",
+   "stage": 11
+  },
+  {
+   "verb": "publier",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "publieront",
+   "en": "to publish",
+   "stage": 11
+  },
+  {
+   "verb": "construire",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "construirons",
+   "en": "to build",
+   "stage": 11
+  },
+  {
+   "verb": "être",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a été",
+   "en": "to be",
+   "stage": 11
   }
  ]
 }

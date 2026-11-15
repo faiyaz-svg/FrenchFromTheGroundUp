@@ -204,11 +204,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="11-reporting-and-opinions/06-news-vocabulary/" data-lesson="11-reporting-and-opinions/06-news-vocabulary/" title="News vocabulary"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="11-reporting-and-opinions/07-giving-opinions/" data-lesson="11-reporting-and-opinions/07-giving-opinions/" title="Giving your opinion"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="11-reporting-and-opinions/08-complaints/" data-lesson="11-reporting-and-opinions/08-complaints/" title="Making a complaint"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="News and institutions in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Radio news"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Writing a complaint"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Opinion columns"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="News and opinions roundup"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/09-quebec-news-and-institutions/" data-lesson="11-reporting-and-opinions/09-quebec-news-and-institutions/" title="News and institutions in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/10-radio-news/" data-lesson="11-reporting-and-opinions/10-radio-news/" title="Radio news"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/11-writing-a-complaint/" data-lesson="11-reporting-and-opinions/11-writing-a-complaint/" title="Writing a complaint"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/12-opinion-columns/" data-lesson="11-reporting-and-opinions/12-opinion-columns/" title="Opinion columns"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/13-news-and-opinions-roundup/" data-lesson="11-reporting-and-opinions/13-news-and-opinions-roundup/" title="News and opinions roundup"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="12">

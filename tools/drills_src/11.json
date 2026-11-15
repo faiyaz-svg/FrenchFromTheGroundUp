@@ -1,0 +1,780 @@
+{
+ "conjugation": [
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "étais",
+   "en": "to be",
+   "stage": 11
+  },
+  {
+   "verb": "avoir",
+   "tense": "imparfait",
+   "person": "il",
+   "answer": "avait",
+   "en": "to have",
+   "stage": 11
+  },
+  {
+   "verb": "faire",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "faisions",
+   "en": "to do, to make",
+   "stage": 11
+  },
+  {
+   "verb": "aller",
+   "tense": "imparfait",
+   "person": "ils",
+   "answer": "allaient",
+   "en": "to go",
+   "stage": 11
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "imparfait",
+   "person": "vous",
+   "answer": "pouviez",
+   "en": "can, to be able to",
+   "stage": 11
+  },
+  {
+   "verb": "vouloir",
+   "tense": "imparfait",
+   "person": "elle",
+   "answer": "voulait",
+   "en": "to want",
+   "stage": 11
+  },
+  {
+   "verb": "venir",
+   "tense": "imparfait",
+   "person": "tu",
+   "answer": "venais",
+   "en": "to come",
+   "stage": 11
+  },
+  {
+   "verb": "savoir",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "savais",
+   "en": "to know",
+   "stage": 11
+  },
+  {
+   "verb": "dire",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "disions",
+   "en": "to say",
+   "stage": 11
+  },
+  {
+   "verb": "prendre",
+   "tense": "imparfait",
+   "person": "ils",
+   "answer": "prenaient",
+   "en": "to take",
+   "stage": 11
+  },
+  {
+   "verb": "devoir",
+   "tense": "imparfait",
+   "person": "il",
+   "answer": "devait",
+   "en": "to have to",
+   "stage": 11
+  },
+  {
+   "verb": "venir",
+   "tense": "conditionnel présent",
+   "person": "il",
+   "answer": "viendrait",
+   "en": "to come",
+   "stage": 11
+  },
+  {
+   "verb": "aller",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "irais",
+   "en": "to go",
+   "stage": 11
+  },
+  {
+   "verb": "faire",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "ferions",
+   "en": "to do, to make",
+   "stage": 11
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "seraient",
+   "en": "to be",
+   "stage": 11
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel présent",
+   "person": "tu",
+   "answer": "aurais",
+   "en": "to have",
+   "stage": 11
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel présent",
+   "person": "elle",
+   "answer": "pourrait",
+   "en": "can, to be able to",
+   "stage": 11
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel présent",
+   "person": "vous",
+   "answer": "voudriez",
+   "en": "to want",
+   "stage": 11
+  },
+  {
+   "verb": "voir",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "verrais",
+   "en": "to see",
+   "stage": 11
+  },
+  {
+   "verb": "devoir",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "devrions",
+   "en": "to have to",
+   "stage": 11
+  },
+  {
+   "verb": "savoir",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "sauraient",
+   "en": "to know",
+   "stage": 11
+  },
+  {
+   "verb": "finir",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais fini",
+   "en": "to finish",
+   "stage": 11
+  },
+  {
+   "verb": "partir",
+   "tense": "plus-que-parfait",
+   "person": "elle",
+   "answer": "était partie",
+   "en": "to leave",
+   "stage": 11
+  },
+  {
+   "verb": "arriver",
+   "tense": "plus-que-parfait",
+   "person": "ils",
+   "answer": "étaient arrivés",
+   "en": "to arrive",
+   "stage": 11
+  },
+  {
+   "verb": "prendre",
+   "tense": "plus-que-parfait",
+   "person": "nous",
+   "answer": "avions pris",
+   "en": "to take",
+   "stage": 11
+  },
+  {
+   "verb": "faire",
+   "tense": "plus-que-parfait",
+   "person": "tu",
+   "answer": "avais fait",
+   "en": "to do, to make",
+   "stage": 11
+  },
+  {
+   "verb": "dire",
+   "tense": "plus-que-parfait",
+   "person": "il",
+   "answer": "avait dit",
+   "en": "to say",
+   "stage": 11
+  },
+  {
+   "verb": "voir",
+   "tense": "plus-que-parfait",
+   "person": "vous",
+   "answer": "aviez vu",
+   "en": "to see",
+   "stage": 11
+  },
+  {
+   "verb": "aller",
+   "tense": "plus-que-parfait",
+   "person": "il",
+   "answer": "était allé",
+   "en": "to go",
+   "stage": 11
+  },
+  {
+   "verb": "commencer",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais commencé",
+   "en": "to begin",
+   "stage": 11
+  },
+  {
+   "verb": "adopter",
+   "tense": "futur simple",
+   "person": "il",
+   "answer": "adoptera",
+   "en": "to adopt, to pass (a law)",
+   "stage": 11
+  },
+  {
+   "verb": "être",
+   "tense": "futur simple",
+   "person": "elle",
+   "answer": "sera",
+   "en": "to be",
+   "stage": 11
+  },
+  {
+   "verb": "publier",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "publieront",
+   "en": "to publish",
+   "stage": 11
+  },
+  {
+   "verb": "construire",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "construirons",
+   "en": "to build",
+   "stage": 11
+  },
+  {
+   "verb": "être",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a été",
+   "en": "to be",
+   "stage": 11
+  }
+ ],
+ "gender": [
+  {
+   "noun": "loi",
+   "answer": "la",
+   "en": "law",
+   "stage": 11
+  },
+  {
+   "noun": "projet",
+   "answer": "le",
+   "en": "project, bill",
+   "stage": 11
+  },
+  {
+   "noun": "élection",
+   "answer": "la",
+   "elided": true,
+   "en": "election",
+   "stage": 11
+  },
+  {
+   "noun": "vote",
+   "answer": "le",
+   "en": "vote",
+   "stage": 11
+  },
+  {
+   "noun": "électeur",
+   "answer": "le",
+   "elided": true,
+   "en": "voter",
+   "stage": 11
+  },
+  {
+   "noun": "manifestation",
+   "answer": "la",
+   "en": "demonstration",
+   "stage": 11
+  },
+  {
+   "noun": "chômage",
+   "answer": "le",
+   "en": "unemployment",
+   "stage": 11
+  },
+  {
+   "noun": "hausse",
+   "answer": "la",
+   "en": "rise",
+   "stage": 11
+  },
+  {
+   "noun": "baisse",
+   "answer": "la",
+   "en": "drop",
+   "stage": 11
+  },
+  {
+   "noun": "économie",
+   "answer": "la",
+   "elided": true,
+   "en": "economy",
+   "stage": 11
+  },
+  {
+   "noun": "santé",
+   "answer": "la",
+   "en": "health",
+   "stage": 11
+  },
+  {
+   "noun": "climat",
+   "answer": "le",
+   "en": "climate",
+   "stage": 11
+  },
+  {
+   "noun": "pollution",
+   "answer": "la",
+   "en": "pollution",
+   "stage": 11
+  },
+  {
+   "noun": "inondation",
+   "answer": "la",
+   "elided": true,
+   "en": "flood",
+   "stage": 11
+  },
+  {
+   "noun": "crise",
+   "answer": "la",
+   "en": "crisis",
+   "stage": 11
+  },
+  {
+   "noun": "guerre",
+   "answer": "la",
+   "en": "war",
+   "stage": 11
+  },
+  {
+   "noun": "tribunal",
+   "answer": "le",
+   "en": "court",
+   "stage": 11
+  },
+  {
+   "noun": "enquête",
+   "answer": "la",
+   "elided": true,
+   "en": "investigation, survey",
+   "stage": 11
+  },
+  {
+   "noun": "sondage",
+   "answer": "le",
+   "en": "poll",
+   "stage": 11
+  },
+  {
+   "noun": "réforme",
+   "answer": "la",
+   "en": "reform",
+   "stage": 11
+  },
+  {
+   "noun": "gouvernement",
+   "answer": "le",
+   "en": "government",
+   "stage": 11
+  },
+  {
+   "noun": "bulletin",
+   "answer": "le",
+   "en": "bulletin",
+   "stage": 11
+  },
+  {
+   "noun": "reportage",
+   "answer": "le",
+   "en": "report",
+   "stage": 11
+  },
+  {
+   "noun": "témoin",
+   "answer": "le",
+   "en": "witness",
+   "stage": 11
+  },
+  {
+   "noun": "plainte",
+   "answer": "la",
+   "en": "complaint",
+   "stage": 11
+  },
+  {
+   "noun": "garantie",
+   "answer": "la",
+   "en": "warranty",
+   "stage": 11
+  },
+  {
+   "noun": "malentendu",
+   "answer": "le",
+   "en": "misunderstanding",
+   "stage": 11
+  },
+  {
+   "noun": "chronique",
+   "answer": "la",
+   "en": "column",
+   "stage": 11
+  },
+  {
+   "noun": "débat",
+   "answer": "le",
+   "en": "debate",
+   "stage": 11
+  },
+  {
+   "noun": "tendance",
+   "answer": "la",
+   "en": "trend",
+   "stage": 11
+  },
+  {
+   "noun": "conséquence",
+   "answer": "la",
+   "en": "consequence",
+   "stage": 11
+  },
+  {
+   "noun": "arrondissement",
+   "answer": "le",
+   "elided": true,
+   "en": "borough",
+   "stage": 11
+  }
+ ],
+ "fill": [
+  {
+   "q": "La loi ___ adoptée hier.",
+   "hint": "être, passé composé",
+   "a": [
+    "a été"
+   ],
+   "en": "The law was passed yesterday.",
+   "stage": 11
+  },
+  {
+   "q": "Les règles ___ publiées demain.",
+   "hint": "être, futur simple",
+   "a": [
+    "seront"
+   ],
+   "en": "The rules will be published tomorrow.",
+   "stage": 11
+  },
+  {
+   "q": "Les rues ont été ___.",
+   "hint": "fermer",
+   "a": [
+    "fermées"
+   ],
+   "en": "The streets were closed.",
+   "stage": 11
+  },
+  {
+   "q": "Il dit ___ le bureau est fermé.",
+   "hint": "que",
+   "a": [
+    "que"
+   ],
+   "en": "He says the office is closed.",
+   "stage": 11
+  },
+  {
+   "q": "Il demande ___ tu aimes ton travail.",
+   "hint": "si",
+   "a": [
+    "si"
+   ],
+   "en": "He asks if you like your job.",
+   "stage": 11
+  },
+  {
+   "q": "Paul me demande ___ je veux.",
+   "hint": "qu'est-ce que",
+   "a": [
+    "ce que"
+   ],
+   "en": "Paul asks me what I want.",
+   "stage": 11
+  },
+  {
+   "q": "Il a dit qu'il ___ fatigué.",
+   "hint": "être, imparfait",
+   "a": [
+    "était"
+   ],
+   "en": "He said he was tired.",
+   "stage": 11
+  },
+  {
+   "q": "Elle a dit qu'elle ___ le travail.",
+   "hint": "finir, plus-que-parfait",
+   "a": [
+    "avait fini"
+   ],
+   "en": "She said she had finished the work.",
+   "stage": 11
+  },
+  {
+   "q": "Il a dit qu'il ___ le lendemain.",
+   "hint": "venir, conditionnel",
+   "a": [
+    "viendrait"
+   ],
+   "en": "He said he would come the next day.",
+   "stage": 11
+  },
+  {
+   "q": "Lundi, Paul a dit qu'il viendrait ___.",
+   "hint": "demain, in the past",
+   "a": [
+    "le lendemain"
+   ],
+   "en": "On Monday, Paul said he would come the next day.",
+   "stage": 11
+  },
+  {
+   "q": "Il est arrivé ___.",
+   "hint": "courir, gérondif",
+   "a": [
+    "en courant"
+   ],
+   "en": "He arrived running.",
+   "stage": 11
+  },
+  {
+   "q": "Elle travaille en ___ la radio.",
+   "hint": "écouter",
+   "a": [
+    "écoutant"
+   ],
+   "en": "She works while listening to the radio.",
+   "stage": 11
+  },
+  {
+   "q": "___ en retard, il a pris un taxi.",
+   "hint": "être, participe présent",
+   "a": [
+    "Étant"
+   ],
+   "en": "Being late, he took a taxi.",
+   "stage": 11
+  },
+  {
+   "q": "C'est une histoire ___.",
+   "hint": "passionner, adjectif",
+   "a": [
+    "passionnante"
+   ],
+   "en": "It's a gripping story.",
+   "stage": 11
+  },
+  {
+   "q": "Il pleut, ___ je prends un parapluie.",
+   "hint": "consequence",
+   "a": [
+    "donc"
+   ],
+   "en": "It's raining, so I'm taking an umbrella.",
+   "stage": 11
+  },
+  {
+   "q": "Je reste, ___ j'aime mon équipe.",
+   "hint": "cause, after the clause",
+   "a": [
+    "car"
+   ],
+   "en": "I'm staying, because I like my team.",
+   "stage": 11
+  },
+  {
+   "q": "Les horaires sont longs. ___, le salaire est bon.",
+   "hint": "contrast",
+   "a": [
+    "En revanche",
+    "Par contre"
+   ],
+   "en": "The hours are long. On the other hand, the pay is good.",
+   "stage": 11
+  },
+  {
+   "q": "Ce produit ___ en pharmacie.",
+   "hint": "se vendre",
+   "a": [
+    "se vend"
+   ],
+   "en": "This product is sold in pharmacies.",
+   "stage": 11
+  },
+  {
+   "q": "Le produit est encore sous ___.",
+   "hint": "warranty",
+   "a": [
+    "garantie"
+   ],
+   "en": "The product is still under warranty.",
+   "stage": 11
+  },
+  {
+   "q": "À ___ de réponse, je ferai valoir mes droits.",
+   "hint": "failing",
+   "a": [
+    "défaut"
+   ],
+   "en": "Failing a reply, I will assert my rights.",
+   "stage": 11
+  },
+  {
+   "q": "Je ne suis pas tout à fait d'___.",
+   "hint": "agree",
+   "a": [
+    "accord"
+   ],
+   "en": "I don't quite agree.",
+   "stage": 11
+  },
+  {
+   "q": "L'Assemblée nationale siège à ___.",
+   "hint": "city",
+   "a": [
+    "Québec"
+   ],
+   "en": "The National Assembly sits in Québec City.",
+   "stage": 11
+  },
+  {
+   "q": "On m'___ dit que le bureau était fermé.",
+   "hint": "avoir, passé composé",
+   "a": [
+    "a"
+   ],
+   "en": "I was told the office was closed.",
+   "stage": 11
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "La loi a été adoptée hier.",
+   "en": "The law was passed yesterday.",
+   "stage": 11
+  },
+  {
+   "fr": "Les règles seront publiées demain.",
+   "en": "The rules will be published tomorrow.",
+   "stage": 11
+  },
+  {
+   "fr": "On m'a dit que le bureau était fermé.",
+   "en": "I was told the office was closed.",
+   "stage": 11
+  },
+  {
+   "fr": "Elle dit qu'elle rappellera demain matin.",
+   "en": "She says she will call back tomorrow morning.",
+   "stage": 11
+  },
+  {
+   "fr": "Il demande si vous avez reçu son courriel.",
+   "en": "He asks if you received his email.",
+   "stage": 11
+  },
+  {
+   "fr": "Il a dit qu'il viendrait le lendemain.",
+   "en": "He said he would come the next day.",
+   "stage": 11
+  },
+  {
+   "fr": "Elle nous a dit d'attendre ici.",
+   "en": "She told us to wait here.",
+   "stage": 11
+  },
+  {
+   "fr": "Elle travaille en écoutant la radio.",
+   "en": "She works while listening to the radio.",
+   "stage": 11
+  },
+  {
+   "fr": "On apprend en pratiquant.",
+   "en": "You learn by practising.",
+   "stage": 11
+  },
+  {
+   "fr": "À mon avis, c'est une bonne idée.",
+   "en": "In my opinion, it's a good idea.",
+   "stage": 11
+  },
+  {
+   "fr": "Je ne suis pas tout à fait d'accord.",
+   "en": "I don't quite agree.",
+   "stage": 11
+  },
+  {
+   "fr": "Les horaires sont longs. En revanche, le salaire est bon.",
+   "en": "The hours are long. On the other hand, the pay is good.",
+   "stage": 11
+  },
+  {
+   "fr": "Le produit est défectueux.",
+   "en": "The product is defective.",
+   "stage": 11
+  },
+  {
+   "fr": "Pourrais-je parler à la gérante?",
+   "en": "Could I speak to the manager?",
+   "stage": 11
+  },
+  {
+   "fr": "Un sondage montre que les électeurs sont inquiets.",
+   "en": "A poll shows that voters are worried.",
+   "stage": 11
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "par contre",
+   "std": "en revanche",
+   "en": "on the other hand",
+   "note": "frequent in Quebec speech; the OQLF accepts it for a plain contrast, en revanche suggests a compensation",
+   "stage": 11
+  }
+ ]
+}
