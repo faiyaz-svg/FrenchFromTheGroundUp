@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 5.
 6. [Imparfait or passé composé](06-imparfait-vs-passe-compose.md) (grammar)
 7. [Adverbs ending in -ment](07-adverbs-in-ment.md) (grammar)
 8. [At the restaurant](08-at-the-restaurant.md) (speak)
-9. Table culture in Quebec (not written yet) (quebec)
-10. Casual speech at the resto (not written yet) (listen)
-11. Describing your childhood (not written yet) (write)
-12. Menus and recipes (not written yet) (read)
-13. Dinner with friends (not written yet) (speak, review)
+9. [Table culture in Quebec](09-quebec-table-culture.md) (quebec)
+10. [Casual speech at the resto](10-casual-speech-at-the-resto.md) (listen)
+11. [Describing your childhood](11-describing-your-childhood.md) (write)
+12. [Menus and recipes](12-menus-and-recipes.md) (read)
+13. [Dinner with friends](13-dinner-with-friends.md) (speak, review)
 
 <!-- lessons:end -->
 

@@ -131,7 +131,7 @@ Using *du* with a verb of liking: *J'aime du café*. Use the definite article: *
 
 ## In Quebec
 
-In casual Quebec speech you will hear *du fun* for "some fun", from the English word. It is casual, and Casual speech at the resto<!-- link: ../06-habits-memories-and-food/10-casual-speech-at-the-resto.md --> covers it.
+In casual Quebec speech you will hear *du fun* for "some fun", from the English word. It is casual, and [Casual speech at the resto](../06-habits-memories-and-food/10-casual-speech-at-the-resto.md) covers it.
 
 ## New words
 

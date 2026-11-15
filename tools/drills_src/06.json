@@ -1,0 +1,856 @@
+{
+ "conjugation": [
+  {
+   "verb": "vouloir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "veux",
+   "en": "to want",
+   "stage": 6
+  },
+  {
+   "verb": "vouloir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "voulons",
+   "en": "to want",
+   "stage": 6
+  },
+  {
+   "verb": "vouloir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "veulent",
+   "en": "to want",
+   "stage": 6
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "peux",
+   "en": "can, to be able to",
+   "stage": 6
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "présent",
+   "person": "il",
+   "answer": "peut",
+   "en": "can, to be able to",
+   "stage": 6
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "pouvez",
+   "en": "can, to be able to",
+   "stage": 6
+  },
+  {
+   "verb": "devoir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "dois",
+   "en": "to have to",
+   "stage": 6
+  },
+  {
+   "verb": "devoir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "devons",
+   "en": "to have to",
+   "stage": 6
+  },
+  {
+   "verb": "devoir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "doivent",
+   "en": "to have to",
+   "stage": 6
+  },
+  {
+   "verb": "préférer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "préfère",
+   "en": "to prefer",
+   "stage": 6
+  },
+  {
+   "verb": "préférer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "préférons",
+   "en": "to prefer",
+   "stage": 6
+  },
+  {
+   "verb": "préférer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "préfèrent",
+   "en": "to prefer",
+   "stage": 6
+  },
+  {
+   "verb": "acheter",
+   "tense": "présent",
+   "person": "je",
+   "answer": "achète",
+   "en": "to buy",
+   "stage": 6
+  },
+  {
+   "verb": "acheter",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "achetons",
+   "en": "to buy",
+   "stage": 6
+  },
+  {
+   "verb": "acheter",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "achètent",
+   "en": "to buy",
+   "stage": 6
+  },
+  {
+   "verb": "payer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "payons",
+   "en": "to pay",
+   "stage": 6
+  },
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "étais",
+   "en": "to be",
+   "stage": 6
+  },
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "il",
+   "answer": "était",
+   "en": "to be",
+   "stage": 6
+  },
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "étions",
+   "en": "to be",
+   "stage": 6
+  },
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "ils",
+   "answer": "étaient",
+   "en": "to be",
+   "stage": 6
+  },
+  {
+   "verb": "avoir",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "avais",
+   "en": "to have",
+   "stage": 6
+  },
+  {
+   "verb": "avoir",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "avions",
+   "en": "to have",
+   "stage": 6
+  },
+  {
+   "verb": "faire",
+   "tense": "imparfait",
+   "person": "il",
+   "answer": "faisait",
+   "en": "to do, to make",
+   "stage": 6
+  },
+  {
+   "verb": "faire",
+   "tense": "imparfait",
+   "person": "vous",
+   "answer": "faisiez",
+   "en": "to do, to make",
+   "stage": 6
+  },
+  {
+   "verb": "parler",
+   "tense": "imparfait",
+   "person": "tu",
+   "answer": "parlais",
+   "en": "to speak",
+   "stage": 6
+  },
+  {
+   "verb": "parler",
+   "tense": "imparfait",
+   "person": "ils",
+   "answer": "parlaient",
+   "en": "to speak",
+   "stage": 6
+  },
+  {
+   "verb": "manger",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "mangeais",
+   "en": "to eat",
+   "stage": 6
+  },
+  {
+   "verb": "manger",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "mangions",
+   "en": "to eat",
+   "stage": 6
+  },
+  {
+   "verb": "aller",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "allions",
+   "en": "to go",
+   "stage": 6
+  },
+  {
+   "verb": "finir",
+   "tense": "imparfait",
+   "person": "vous",
+   "answer": "finissiez",
+   "en": "to finish",
+   "stage": 6
+  },
+  {
+   "verb": "prendre",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "prenais",
+   "en": "to take",
+   "stage": 6
+  },
+  {
+   "verb": "commencer",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "commencions",
+   "en": "to begin",
+   "stage": 6
+  },
+  {
+   "verb": "boire",
+   "tense": "imparfait",
+   "person": "tu",
+   "answer": "buvais",
+   "en": "to drink",
+   "stage": 6
+  },
+  {
+   "verb": "vouloir",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai voulu",
+   "en": "to want",
+   "stage": 6
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a pu",
+   "en": "can, to be able to",
+   "stage": 6
+  },
+  {
+   "verb": "devoir",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "avons dû",
+   "en": "to have to",
+   "stage": 6
+  }
+ ],
+ "gender": [
+  {
+   "noun": "beurre",
+   "answer": "le",
+   "en": "butter",
+   "stage": 6
+  },
+  {
+   "noun": "fromage",
+   "answer": "le",
+   "en": "cheese",
+   "stage": 6
+  },
+  {
+   "noun": "riz",
+   "answer": "le",
+   "en": "rice",
+   "stage": 6
+  },
+  {
+   "noun": "viande",
+   "answer": "la",
+   "en": "meat",
+   "stage": 6
+  },
+  {
+   "noun": "poulet",
+   "answer": "le",
+   "en": "chicken",
+   "stage": 6
+  },
+  {
+   "noun": "poisson",
+   "answer": "le",
+   "en": "fish",
+   "stage": 6
+  },
+  {
+   "noun": "pomme",
+   "answer": "la",
+   "en": "apple",
+   "stage": 6
+  },
+  {
+   "noun": "banane",
+   "answer": "la",
+   "en": "banana",
+   "stage": 6
+  },
+  {
+   "noun": "fraise",
+   "answer": "la",
+   "en": "strawberry",
+   "stage": 6
+  },
+  {
+   "noun": "tomate",
+   "answer": "la",
+   "en": "tomato",
+   "stage": 6
+  },
+  {
+   "noun": "carotte",
+   "answer": "la",
+   "en": "carrot",
+   "stage": 6
+  },
+  {
+   "noun": "laitue",
+   "answer": "la",
+   "en": "lettuce",
+   "stage": 6
+  },
+  {
+   "noun": "champignon",
+   "answer": "le",
+   "en": "mushroom",
+   "stage": 6
+  },
+  {
+   "noun": "repas",
+   "answer": "le",
+   "en": "meal",
+   "stage": 6
+  },
+  {
+   "noun": "poêle",
+   "answer": "la",
+   "en": "frying pan",
+   "stage": 6
+  },
+  {
+   "noun": "casserole",
+   "answer": "la",
+   "en": "pot",
+   "stage": 6
+  },
+  {
+   "noun": "recette",
+   "answer": "la",
+   "en": "recipe",
+   "stage": 6
+  },
+  {
+   "noun": "boulangerie",
+   "answer": "la",
+   "en": "bakery",
+   "stage": 6
+  },
+  {
+   "noun": "supermarché",
+   "answer": "le",
+   "en": "supermarket",
+   "stage": 6
+  },
+  {
+   "noun": "douzaine",
+   "answer": "la",
+   "en": "dozen",
+   "stage": 6
+  },
+  {
+   "noun": "huile",
+   "answer": "la",
+   "en": "oil",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "oignon",
+   "answer": "le",
+   "en": "onion",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "épicerie",
+   "answer": "la",
+   "en": "grocery store",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "érable",
+   "answer": "le",
+   "en": "maple tree",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "allergie",
+   "answer": "la",
+   "en": "allergy",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "enfance",
+   "answer": "la",
+   "en": "childhood",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "habitude",
+   "answer": "la",
+   "en": "habit",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "événement",
+   "answer": "le",
+   "en": "event",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "ingrédient",
+   "answer": "le",
+   "en": "ingredient",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "argent",
+   "answer": "le",
+   "en": "money",
+   "elided": true,
+   "stage": 6
+  }
+ ],
+ "fill": [
+  {
+   "q": "Je bois ___ café le matin.",
+   "hint": "partitive",
+   "a": [
+    "du"
+   ],
+   "en": "I drink coffee in the morning.",
+   "stage": 6
+  },
+  {
+   "q": "Tu veux ___ soupe?",
+   "hint": "partitive",
+   "a": [
+    "de la"
+   ],
+   "en": "Do you want some soup?",
+   "stage": 6
+  },
+  {
+   "q": "Il y a ___ dans le frigo.",
+   "hint": "partitive + eau",
+   "a": [
+    "de l'eau"
+   ],
+   "en": "There is water in the fridge.",
+   "stage": 6
+  },
+  {
+   "q": "Nous mangeons ___ œufs.",
+   "hint": "partitive",
+   "a": [
+    "des"
+   ],
+   "en": "We are eating eggs.",
+   "stage": 6
+  },
+  {
+   "q": "Je ne bois pas ___ lait.",
+   "hint": "négation",
+   "a": [
+    "de"
+   ],
+   "en": "I don't drink milk.",
+   "stage": 6
+  },
+  {
+   "q": "Elle a beaucoup ___ patience.",
+   "hint": "quantité",
+   "a": [
+    "de"
+   ],
+   "en": "She has a lot of patience.",
+   "stage": 6
+  },
+  {
+   "q": "Un kilo ___ pommes de terre, s'il vous plaît.",
+   "hint": "quantité",
+   "a": [
+    "de"
+   ],
+   "en": "A kilo of potatoes, please.",
+   "stage": 6
+  },
+  {
+   "q": "Nous ___ partir à 6 h.",
+   "hint": "devoir",
+   "a": [
+    "devons"
+   ],
+   "en": "We have to leave at 6.",
+   "stage": 6
+  },
+  {
+   "q": "Tu ___ venir samedi?",
+   "hint": "pouvoir",
+   "a": [
+    "peux"
+   ],
+   "en": "Can you come on Saturday?",
+   "stage": 6
+  },
+  {
+   "q": "Ils ___ travailler demain.",
+   "hint": "devoir",
+   "a": [
+    "doivent"
+   ],
+   "en": "They have to work tomorrow.",
+   "stage": 6
+  },
+  {
+   "q": "Je ne ___ pas venir ce soir.",
+   "hint": "pouvoir",
+   "a": [
+    "peux"
+   ],
+   "en": "I can't come tonight.",
+   "stage": 6
+  },
+  {
+   "q": "Je me ___ à 7 h.",
+   "hint": "se lever",
+   "a": [
+    "lève"
+   ],
+   "en": "I get up at 7.",
+   "stage": 6
+  },
+  {
+   "q": "Nous nous ___ à 11 h.",
+   "hint": "se coucher",
+   "a": [
+    "couchons"
+   ],
+   "en": "We go to bed at 11.",
+   "stage": 6
+  },
+  {
+   "q": "Hier, elle s'___ à 7 h.",
+   "hint": "se réveiller (passé composé)",
+   "a": [
+    "est réveillée"
+   ],
+   "en": "Yesterday she woke up at 7.",
+   "stage": 6
+  },
+  {
+   "q": "Quand j'___ petit, j'habitais à Gatineau.",
+   "hint": "être (imparfait)",
+   "a": [
+    "étais"
+   ],
+   "en": "When I was little, I lived in Gatineau.",
+   "stage": 6
+  },
+  {
+   "q": "Nous ___ au parc chaque samedi.",
+   "hint": "aller (imparfait)",
+   "a": [
+    "allions"
+   ],
+   "en": "We went to the park every Saturday.",
+   "stage": 6
+  },
+  {
+   "q": "Il ___ très froid hier.",
+   "hint": "faire (imparfait)",
+   "a": [
+    "faisait"
+   ],
+   "en": "It was very cold yesterday.",
+   "stage": 6
+  },
+  {
+   "q": "Je mangeais quand mon ami ___.",
+   "hint": "arriver (passé composé)",
+   "a": [
+    "est arrivé"
+   ],
+   "en": "I was eating when my friend arrived.",
+   "stage": 6
+  },
+  {
+   "q": "Il parle très ___.",
+   "hint": "bon",
+   "a": [
+    "bien"
+   ],
+   "en": "He speaks very well.",
+   "stage": 6
+  },
+  {
+   "q": "Elle joue ___.",
+   "hint": "mauvais",
+   "a": [
+    "mal"
+   ],
+   "en": "She plays badly.",
+   "stage": 6
+  },
+  {
+   "q": "Il répond ___.",
+   "hint": "facile",
+   "a": [
+    "facilement"
+   ],
+   "en": "He answers easily.",
+   "stage": 6
+  },
+  {
+   "q": "J'___ du pain à la boulangerie.",
+   "hint": "acheter",
+   "a": [
+    "achète"
+   ],
+   "en": "I buy bread at the bakery.",
+   "stage": 6
+  },
+  {
+   "q": "Au Québec, le ___ est le repas du soir.",
+   "hint": "repas",
+   "a": [
+    "souper"
+   ],
+   "en": "In Quebec, supper is the evening meal.",
+   "stage": 6
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "Je bois du café le matin.",
+   "en": "I drink coffee in the morning.",
+   "stage": 6
+  },
+  {
+   "fr": "Il n'y a pas de lait.",
+   "en": "There is no milk.",
+   "stage": 6
+  },
+  {
+   "fr": "Je voudrais un kilo de pommes de terre.",
+   "en": "I'd like a kilo of potatoes.",
+   "stage": 6
+  },
+  {
+   "fr": "Tu peux venir samedi?",
+   "en": "Can you come on Saturday?",
+   "stage": 6
+  },
+  {
+   "fr": "Je dois travailler demain.",
+   "en": "I have to work tomorrow.",
+   "stage": 6
+  },
+  {
+   "fr": "Je me lève à 7 h.",
+   "en": "I get up at 7.",
+   "stage": 6
+  },
+  {
+   "fr": "Hier, je me suis couché tôt.",
+   "en": "Yesterday I went to bed early.",
+   "stage": 6
+  },
+  {
+   "fr": "Il faisait froid et il y avait beaucoup de monde.",
+   "en": "It was cold and there were a lot of people.",
+   "stage": 6
+  },
+  {
+   "fr": "Quand j'étais petite, j'habitais à Sudbury.",
+   "en": "When I was little, I lived in Sudbury.",
+   "stage": 6
+  },
+  {
+   "fr": "Je mangeais quand mon ami est arrivé.",
+   "en": "I was eating when my friend arrived.",
+   "stage": 6
+  },
+  {
+   "fr": "Il parle lentement.",
+   "en": "He speaks slowly.",
+   "stage": 6
+  },
+  {
+   "fr": "Je voudrais réserver une table pour quatre.",
+   "en": "I'd like to book a table for four.",
+   "stage": 6
+  },
+  {
+   "fr": "L'addition, s'il vous plaît.",
+   "en": "The bill, please.",
+   "stage": 6
+  },
+  {
+   "fr": "Le souper, c'est à 18 h.",
+   "en": "Supper is at 6 p.m.",
+   "stage": 6
+  },
+  {
+   "fr": "Santé! Merci pour le repas.",
+   "en": "Cheers! Thanks for the meal.",
+   "stage": 6
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "le déjeuner",
+   "std": "le petit-déjeuner",
+   "en": "breakfast",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "le dîner",
+   "std": "le déjeuner",
+   "en": "the midday meal",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "le souper",
+   "std": "le dîner",
+   "en": "the evening meal",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "le soccer",
+   "std": "le football",
+   "en": "soccer",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "une crème molle",
+   "std": "une glace à l'italienne",
+   "en": "soft ice cream",
+   "note": "everyday Quebec word; OQLF term: crème glacée molle",
+   "stage": 6
+  },
+  {
+   "qc": "un casse-croûte",
+   "std": "un snack-bar",
+   "en": "a small counter restaurant",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "un gars",
+   "std": "un garçon",
+   "en": "a guy",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "la bouffe",
+   "std": "la nourriture",
+   "en": "food",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "le fun",
+   "std": "le plaisir",
+   "en": "fun",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "en masse",
+   "std": "beaucoup",
+   "en": "a lot",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "jaser",
+   "std": "parler",
+   "en": "to chat",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "correct",
+   "std": "bien",
+   "en": "fine, OK",
+   "note": "casual",
+   "stage": 6
+  }
+ ]
+}

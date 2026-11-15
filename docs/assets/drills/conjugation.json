@@ -887,6 +887,294 @@
    "answer": "sont restées",
    "en": "to stay",
    "stage": 5
+  },
+  {
+   "verb": "vouloir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "veux",
+   "en": "to want",
+   "stage": 6
+  },
+  {
+   "verb": "vouloir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "voulons",
+   "en": "to want",
+   "stage": 6
+  },
+  {
+   "verb": "vouloir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "veulent",
+   "en": "to want",
+   "stage": 6
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "peux",
+   "en": "can, to be able to",
+   "stage": 6
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "présent",
+   "person": "il",
+   "answer": "peut",
+   "en": "can, to be able to",
+   "stage": 6
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "pouvez",
+   "en": "can, to be able to",
+   "stage": 6
+  },
+  {
+   "verb": "devoir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "dois",
+   "en": "to have to",
+   "stage": 6
+  },
+  {
+   "verb": "devoir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "devons",
+   "en": "to have to",
+   "stage": 6
+  },
+  {
+   "verb": "devoir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "doivent",
+   "en": "to have to",
+   "stage": 6
+  },
+  {
+   "verb": "préférer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "préfère",
+   "en": "to prefer",
+   "stage": 6
+  },
+  {
+   "verb": "préférer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "préférons",
+   "en": "to prefer",
+   "stage": 6
+  },
+  {
+   "verb": "préférer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "préfèrent",
+   "en": "to prefer",
+   "stage": 6
+  },
+  {
+   "verb": "acheter",
+   "tense": "présent",
+   "person": "je",
+   "answer": "achète",
+   "en": "to buy",
+   "stage": 6
+  },
+  {
+   "verb": "acheter",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "achetons",
+   "en": "to buy",
+   "stage": 6
+  },
+  {
+   "verb": "acheter",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "achètent",
+   "en": "to buy",
+   "stage": 6
+  },
+  {
+   "verb": "payer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "payons",
+   "en": "to pay",
+   "stage": 6
+  },
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "étais",
+   "en": "to be",
+   "stage": 6
+  },
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "il",
+   "answer": "était",
+   "en": "to be",
+   "stage": 6
+  },
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "étions",
+   "en": "to be",
+   "stage": 6
+  },
+  {
+   "verb": "être",
+   "tense": "imparfait",
+   "person": "ils",
+   "answer": "étaient",
+   "en": "to be",
+   "stage": 6
+  },
+  {
+   "verb": "avoir",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "avais",
+   "en": "to have",
+   "stage": 6
+  },
+  {
+   "verb": "avoir",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "avions",
+   "en": "to have",
+   "stage": 6
+  },
+  {
+   "verb": "faire",
+   "tense": "imparfait",
+   "person": "il",
+   "answer": "faisait",
+   "en": "to do, to make",
+   "stage": 6
+  },
+  {
+   "verb": "faire",
+   "tense": "imparfait",
+   "person": "vous",
+   "answer": "faisiez",
+   "en": "to do, to make",
+   "stage": 6
+  },
+  {
+   "verb": "parler",
+   "tense": "imparfait",
+   "person": "tu",
+   "answer": "parlais",
+   "en": "to speak",
+   "stage": 6
+  },
+  {
+   "verb": "parler",
+   "tense": "imparfait",
+   "person": "ils",
+   "answer": "parlaient",
+   "en": "to speak",
+   "stage": 6
+  },
+  {
+   "verb": "manger",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "mangeais",
+   "en": "to eat",
+   "stage": 6
+  },
+  {
+   "verb": "manger",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "mangions",
+   "en": "to eat",
+   "stage": 6
+  },
+  {
+   "verb": "aller",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "allions",
+   "en": "to go",
+   "stage": 6
+  },
+  {
+   "verb": "finir",
+   "tense": "imparfait",
+   "person": "vous",
+   "answer": "finissiez",
+   "en": "to finish",
+   "stage": 6
+  },
+  {
+   "verb": "prendre",
+   "tense": "imparfait",
+   "person": "je",
+   "answer": "prenais",
+   "en": "to take",
+   "stage": 6
+  },
+  {
+   "verb": "commencer",
+   "tense": "imparfait",
+   "person": "nous",
+   "answer": "commencions",
+   "en": "to begin",
+   "stage": 6
+  },
+  {
+   "verb": "boire",
+   "tense": "imparfait",
+   "person": "tu",
+   "answer": "buvais",
+   "en": "to drink",
+   "stage": 6
+  },
+  {
+   "verb": "vouloir",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai voulu",
+   "en": "to want",
+   "stage": 6
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a pu",
+   "en": "can, to be able to",
+   "stage": 6
+  },
+  {
+   "verb": "devoir",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "avons dû",
+   "en": "to have to",
+   "stage": 6
   }
  ]
 }

@@ -110,11 +110,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="06-habits-memories-and-food/06-imparfait-vs-passe-compose/" data-lesson="06-habits-memories-and-food/06-imparfait-vs-passe-compose/" title="Imparfait or passé composé"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="06-habits-memories-and-food/07-adverbs-in-ment/" data-lesson="06-habits-memories-and-food/07-adverbs-in-ment/" title="Adverbs ending in -ment"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="06-habits-memories-and-food/08-at-the-restaurant/" data-lesson="06-habits-memories-and-food/08-at-the-restaurant/" title="At the restaurant"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Table culture in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Casual speech at the resto"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Describing your childhood"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Menus and recipes"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="Dinner with friends"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="06-habits-memories-and-food/09-quebec-table-culture/" data-lesson="06-habits-memories-and-food/09-quebec-table-culture/" title="Table culture in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="06-habits-memories-and-food/10-casual-speech-at-the-resto/" data-lesson="06-habits-memories-and-food/10-casual-speech-at-the-resto/" title="Casual speech at the resto"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="06-habits-memories-and-food/11-describing-your-childhood/" data-lesson="06-habits-memories-and-food/11-describing-your-childhood/" title="Describing your childhood"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="06-habits-memories-and-food/12-menus-and-recipes/" data-lesson="06-habits-memories-and-food/12-menus-and-recipes/" title="Menus and recipes"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="06-habits-memories-and-food/13-dinner-with-friends/" data-lesson="06-habits-memories-and-food/13-dinner-with-friends/" title="Dinner with friends"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="7">

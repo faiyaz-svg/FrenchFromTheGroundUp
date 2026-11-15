@@ -981,6 +981,213 @@
    ],
    "en": "He opened the door.",
    "stage": 5
+  },
+  {
+   "q": "Je bois ___ café le matin.",
+   "hint": "partitive",
+   "a": [
+    "du"
+   ],
+   "en": "I drink coffee in the morning.",
+   "stage": 6
+  },
+  {
+   "q": "Tu veux ___ soupe?",
+   "hint": "partitive",
+   "a": [
+    "de la"
+   ],
+   "en": "Do you want some soup?",
+   "stage": 6
+  },
+  {
+   "q": "Il y a ___ dans le frigo.",
+   "hint": "partitive + eau",
+   "a": [
+    "de l'eau"
+   ],
+   "en": "There is water in the fridge.",
+   "stage": 6
+  },
+  {
+   "q": "Nous mangeons ___ œufs.",
+   "hint": "partitive",
+   "a": [
+    "des"
+   ],
+   "en": "We are eating eggs.",
+   "stage": 6
+  },
+  {
+   "q": "Je ne bois pas ___ lait.",
+   "hint": "négation",
+   "a": [
+    "de"
+   ],
+   "en": "I don't drink milk.",
+   "stage": 6
+  },
+  {
+   "q": "Elle a beaucoup ___ patience.",
+   "hint": "quantité",
+   "a": [
+    "de"
+   ],
+   "en": "She has a lot of patience.",
+   "stage": 6
+  },
+  {
+   "q": "Un kilo ___ pommes de terre, s'il vous plaît.",
+   "hint": "quantité",
+   "a": [
+    "de"
+   ],
+   "en": "A kilo of potatoes, please.",
+   "stage": 6
+  },
+  {
+   "q": "Nous ___ partir à 6 h.",
+   "hint": "devoir",
+   "a": [
+    "devons"
+   ],
+   "en": "We have to leave at 6.",
+   "stage": 6
+  },
+  {
+   "q": "Tu ___ venir samedi?",
+   "hint": "pouvoir",
+   "a": [
+    "peux"
+   ],
+   "en": "Can you come on Saturday?",
+   "stage": 6
+  },
+  {
+   "q": "Ils ___ travailler demain.",
+   "hint": "devoir",
+   "a": [
+    "doivent"
+   ],
+   "en": "They have to work tomorrow.",
+   "stage": 6
+  },
+  {
+   "q": "Je ne ___ pas venir ce soir.",
+   "hint": "pouvoir",
+   "a": [
+    "peux"
+   ],
+   "en": "I can't come tonight.",
+   "stage": 6
+  },
+  {
+   "q": "Je me ___ à 7 h.",
+   "hint": "se lever",
+   "a": [
+    "lève"
+   ],
+   "en": "I get up at 7.",
+   "stage": 6
+  },
+  {
+   "q": "Nous nous ___ à 11 h.",
+   "hint": "se coucher",
+   "a": [
+    "couchons"
+   ],
+   "en": "We go to bed at 11.",
+   "stage": 6
+  },
+  {
+   "q": "Hier, elle s'___ à 7 h.",
+   "hint": "se réveiller (passé composé)",
+   "a": [
+    "est réveillée"
+   ],
+   "en": "Yesterday she woke up at 7.",
+   "stage": 6
+  },
+  {
+   "q": "Quand j'___ petit, j'habitais à Gatineau.",
+   "hint": "être (imparfait)",
+   "a": [
+    "étais"
+   ],
+   "en": "When I was little, I lived in Gatineau.",
+   "stage": 6
+  },
+  {
+   "q": "Nous ___ au parc chaque samedi.",
+   "hint": "aller (imparfait)",
+   "a": [
+    "allions"
+   ],
+   "en": "We went to the park every Saturday.",
+   "stage": 6
+  },
+  {
+   "q": "Il ___ très froid hier.",
+   "hint": "faire (imparfait)",
+   "a": [
+    "faisait"
+   ],
+   "en": "It was very cold yesterday.",
+   "stage": 6
+  },
+  {
+   "q": "Je mangeais quand mon ami ___.",
+   "hint": "arriver (passé composé)",
+   "a": [
+    "est arrivé"
+   ],
+   "en": "I was eating when my friend arrived.",
+   "stage": 6
+  },
+  {
+   "q": "Il parle très ___.",
+   "hint": "bon",
+   "a": [
+    "bien"
+   ],
+   "en": "He speaks very well.",
+   "stage": 6
+  },
+  {
+   "q": "Elle joue ___.",
+   "hint": "mauvais",
+   "a": [
+    "mal"
+   ],
+   "en": "She plays badly.",
+   "stage": 6
+  },
+  {
+   "q": "Il répond ___.",
+   "hint": "facile",
+   "a": [
+    "facilement"
+   ],
+   "en": "He answers easily.",
+   "stage": 6
+  },
+  {
+   "q": "J'___ du pain à la boulangerie.",
+   "hint": "acheter",
+   "a": [
+    "achète"
+   ],
+   "en": "I buy bread at the bakery.",
+   "stage": 6
+  },
+  {
+   "q": "Au Québec, le ___ est le repas du soir.",
+   "hint": "repas",
+   "a": [
+    "souper"
+   ],
+   "en": "In Quebec, supper is the evening meal.",
+   "stage": 6
   }
  ]
 }

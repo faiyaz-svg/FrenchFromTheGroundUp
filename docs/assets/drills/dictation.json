@@ -394,6 +394,81 @@
    "fr": "Le lendemain, elle est rentrée à la maison.",
    "en": "The next day, she went home.",
    "stage": 5
+  },
+  {
+   "fr": "Je bois du café le matin.",
+   "en": "I drink coffee in the morning.",
+   "stage": 6
+  },
+  {
+   "fr": "Il n'y a pas de lait.",
+   "en": "There is no milk.",
+   "stage": 6
+  },
+  {
+   "fr": "Je voudrais un kilo de pommes de terre.",
+   "en": "I'd like a kilo of potatoes.",
+   "stage": 6
+  },
+  {
+   "fr": "Tu peux venir samedi?",
+   "en": "Can you come on Saturday?",
+   "stage": 6
+  },
+  {
+   "fr": "Je dois travailler demain.",
+   "en": "I have to work tomorrow.",
+   "stage": 6
+  },
+  {
+   "fr": "Je me lève à 7 h.",
+   "en": "I get up at 7.",
+   "stage": 6
+  },
+  {
+   "fr": "Hier, je me suis couché tôt.",
+   "en": "Yesterday I went to bed early.",
+   "stage": 6
+  },
+  {
+   "fr": "Il faisait froid et il y avait beaucoup de monde.",
+   "en": "It was cold and there were a lot of people.",
+   "stage": 6
+  },
+  {
+   "fr": "Quand j'étais petite, j'habitais à Sudbury.",
+   "en": "When I was little, I lived in Sudbury.",
+   "stage": 6
+  },
+  {
+   "fr": "Je mangeais quand mon ami est arrivé.",
+   "en": "I was eating when my friend arrived.",
+   "stage": 6
+  },
+  {
+   "fr": "Il parle lentement.",
+   "en": "He speaks slowly.",
+   "stage": 6
+  },
+  {
+   "fr": "Je voudrais réserver une table pour quatre.",
+   "en": "I'd like to book a table for four.",
+   "stage": 6
+  },
+  {
+   "fr": "L'addition, s'il vous plaît.",
+   "en": "The bill, please.",
+   "stage": 6
+  },
+  {
+   "fr": "Le souper, c'est à 18 h.",
+   "en": "Supper is at 6 p.m.",
+   "stage": 6
+  },
+  {
+   "fr": "Santé! Merci pour le repas.",
+   "en": "Cheers! Thanks for the meal.",
+   "stage": 6
   }
  ]
 }

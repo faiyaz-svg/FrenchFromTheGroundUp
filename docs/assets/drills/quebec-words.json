@@ -244,6 +244,90 @@
    "en": "right now",
    "note": "neutral",
    "stage": 5
+  },
+  {
+   "qc": "le déjeuner",
+   "std": "le petit-déjeuner",
+   "en": "breakfast",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "le dîner",
+   "std": "le déjeuner",
+   "en": "the midday meal",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "le souper",
+   "std": "le dîner",
+   "en": "the evening meal",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "le soccer",
+   "std": "le football",
+   "en": "soccer",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "une crème molle",
+   "std": "une glace à l'italienne",
+   "en": "soft ice cream",
+   "note": "everyday Quebec word; OQLF term: crème glacée molle",
+   "stage": 6
+  },
+  {
+   "qc": "un casse-croûte",
+   "std": "un snack-bar",
+   "en": "a small counter restaurant",
+   "note": "neutral in Quebec",
+   "stage": 6
+  },
+  {
+   "qc": "un gars",
+   "std": "un garçon",
+   "en": "a guy",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "la bouffe",
+   "std": "la nourriture",
+   "en": "food",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "le fun",
+   "std": "le plaisir",
+   "en": "fun",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "en masse",
+   "std": "beaucoup",
+   "en": "a lot",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "jaser",
+   "std": "parler",
+   "en": "to chat",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "correct",
+   "std": "bien",
+   "en": "fine, OK",
+   "note": "casual",
+   "stage": 6
   }
  ]
 }

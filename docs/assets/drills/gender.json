@@ -911,6 +911,196 @@
    "answer": "le",
    "en": "ferry",
    "stage": 5
+  },
+  {
+   "noun": "beurre",
+   "answer": "le",
+   "en": "butter",
+   "stage": 6
+  },
+  {
+   "noun": "fromage",
+   "answer": "le",
+   "en": "cheese",
+   "stage": 6
+  },
+  {
+   "noun": "riz",
+   "answer": "le",
+   "en": "rice",
+   "stage": 6
+  },
+  {
+   "noun": "viande",
+   "answer": "la",
+   "en": "meat",
+   "stage": 6
+  },
+  {
+   "noun": "poulet",
+   "answer": "le",
+   "en": "chicken",
+   "stage": 6
+  },
+  {
+   "noun": "poisson",
+   "answer": "le",
+   "en": "fish",
+   "stage": 6
+  },
+  {
+   "noun": "pomme",
+   "answer": "la",
+   "en": "apple",
+   "stage": 6
+  },
+  {
+   "noun": "banane",
+   "answer": "la",
+   "en": "banana",
+   "stage": 6
+  },
+  {
+   "noun": "fraise",
+   "answer": "la",
+   "en": "strawberry",
+   "stage": 6
+  },
+  {
+   "noun": "tomate",
+   "answer": "la",
+   "en": "tomato",
+   "stage": 6
+  },
+  {
+   "noun": "carotte",
+   "answer": "la",
+   "en": "carrot",
+   "stage": 6
+  },
+  {
+   "noun": "laitue",
+   "answer": "la",
+   "en": "lettuce",
+   "stage": 6
+  },
+  {
+   "noun": "champignon",
+   "answer": "le",
+   "en": "mushroom",
+   "stage": 6
+  },
+  {
+   "noun": "repas",
+   "answer": "le",
+   "en": "meal",
+   "stage": 6
+  },
+  {
+   "noun": "poêle",
+   "answer": "la",
+   "en": "frying pan",
+   "stage": 6
+  },
+  {
+   "noun": "casserole",
+   "answer": "la",
+   "en": "pot",
+   "stage": 6
+  },
+  {
+   "noun": "recette",
+   "answer": "la",
+   "en": "recipe",
+   "stage": 6
+  },
+  {
+   "noun": "boulangerie",
+   "answer": "la",
+   "en": "bakery",
+   "stage": 6
+  },
+  {
+   "noun": "supermarché",
+   "answer": "le",
+   "en": "supermarket",
+   "stage": 6
+  },
+  {
+   "noun": "douzaine",
+   "answer": "la",
+   "en": "dozen",
+   "stage": 6
+  },
+  {
+   "noun": "huile",
+   "answer": "la",
+   "en": "oil",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "oignon",
+   "answer": "le",
+   "en": "onion",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "épicerie",
+   "answer": "la",
+   "en": "grocery store",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "érable",
+   "answer": "le",
+   "en": "maple tree",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "allergie",
+   "answer": "la",
+   "en": "allergy",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "enfance",
+   "answer": "la",
+   "en": "childhood",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "habitude",
+   "answer": "la",
+   "en": "habit",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "événement",
+   "answer": "le",
+   "en": "event",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "ingrédient",
+   "answer": "le",
+   "en": "ingredient",
+   "elided": true,
+   "stage": 6
+  },
+  {
+   "noun": "argent",
+   "answer": "le",
+   "en": "money",
+   "elided": true,
+   "stage": 6
   }
  ]
 }
