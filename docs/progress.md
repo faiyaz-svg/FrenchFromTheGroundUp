@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 53 of 205. New lessons appear here as they are added.
+Lessons written so far: 57 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -75,3 +75,7 @@ Lessons written so far: 53 of 205. New lessons appear here as they are added.
 - [ ] [Prendre, venir, boire and voir](05-the-past-what-happened/02-prendre-venir-boire-voir.md) (grammar)
 - [ ] [The passé composé with avoir](05-the-past-what-happened/03-passe-compose-avoir.md) (grammar)
 - [ ] [Irregular past participles](05-the-past-what-happened/04-irregular-participles.md) (grammar)
+- [ ] [The passé composé with être](05-the-past-what-happened/05-passe-compose-etre.md) (grammar)
+- [ ] [The passé composé: no, questions and agreement](05-the-past-what-happened/06-pc-negation-questions-agreement.md) (grammar)
+- [ ] [Past time words](05-the-past-what-happened/07-past-time-words.md) (words)
+- [ ] [Telling about your weekend](05-the-past-what-happened/08-telling-about-your-weekend.md) (speak)

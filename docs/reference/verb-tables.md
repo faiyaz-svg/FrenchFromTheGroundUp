@@ -8,7 +8,7 @@ Each table shows one tense (the verb form that tells when the action happens) wi
 
 The subjonctif is always said with *que* before the pronoun (*que je sois*). The table leaves *que* out to keep the cells short.
 
-Lessons that teach these forms: the present of regular verbs<!-- link: ../03-verbs-and-questions/02-regular-er-verbs.md -->, [the passé composé with avoir](../05-the-past-what-happened/03-passe-compose-avoir.md), the passé composé with être<!-- link: ../05-the-past-what-happened/05-passe-compose-etre.md -->, the imparfait<!-- link: ../06-habits-memories-and-food/05-imparfait.md -->, the futur simple<!-- link: ../09-work-and-the-future/01-futur-simple-regular.md -->, the conditionnel<!-- link: ../09-work-and-the-future/03-conditionnel-politeness.md --> and the subjonctif<!-- link: ../10-complex-sentences-and-requests/04-subjunctive-il-faut-que.md -->.
+Lessons that teach these forms: the present of regular verbs<!-- link: ../03-verbs-and-questions/02-regular-er-verbs.md -->, [the passé composé with avoir](../05-the-past-what-happened/03-passe-compose-avoir.md), [the passé composé with être](../05-the-past-what-happened/05-passe-compose-etre.md), the imparfait<!-- link: ../06-habits-memories-and-food/05-imparfait.md -->, the futur simple<!-- link: ../09-work-and-the-future/01-futur-simple-regular.md -->, the conditionnel<!-- link: ../09-work-and-the-future/03-conditionnel-politeness.md --> and the subjonctif<!-- link: ../10-complex-sentences-and-requests/04-subjunctive-il-faut-que.md -->.
 
 ## Present tense
 

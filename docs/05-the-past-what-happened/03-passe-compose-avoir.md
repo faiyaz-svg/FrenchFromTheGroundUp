@@ -127,7 +127,7 @@ Using the infinitive instead of the participle: *j'ai parler*. The two sound the
 
 Putting the participle before *avoir*, or leaving out *avoir*. Say *j'ai mangé*, not *mangé* alone and not *je mangé*.
 
-Using *être* as the helper because English says "I am finished". With the verbs in this lesson, *avoir* is the helper. The verbs that take *être* come in The passé composé with être<!-- link: 05-passe-compose-etre.md -->.
+Using *être* as the helper because English says "I am finished". With the verbs in this lesson, *avoir* is the helper. The verbs that take *être* come in [The passé composé with être](05-passe-compose-etre.md).
 
 ## New words
 

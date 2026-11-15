@@ -89,10 +89,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="05-the-past-what-happened/02-prendre-venir-boire-voir/" data-lesson="05-the-past-what-happened/02-prendre-venir-boire-voir/" title="Prendre, venir, boire and voir"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="05-the-past-what-happened/03-passe-compose-avoir/" data-lesson="05-the-past-what-happened/03-passe-compose-avoir/" title="The passé composé with avoir"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="05-the-past-what-happened/04-irregular-participles/" data-lesson="05-the-past-what-happened/04-irregular-participles/" title="Irregular past participles"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="The passé composé with être"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="The passé composé: no, questions and agreement"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="Past time words"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Telling about your weekend"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="05-the-past-what-happened/05-passe-compose-etre/" data-lesson="05-the-past-what-happened/05-passe-compose-etre/" title="The passé composé with être"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="05-the-past-what-happened/06-pc-negation-questions-agreement/" data-lesson="05-the-past-what-happened/06-pc-negation-questions-agreement/" title="The passé composé: no, questions and agreement"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="05-the-past-what-happened/07-past-time-words/" data-lesson="05-the-past-what-happened/07-past-time-words/" title="Past time words"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="05-the-past-what-happened/08-telling-about-your-weekend/" data-lesson="05-the-past-what-happened/08-telling-about-your-weekend/" title="Telling about your weekend"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="Everyday nouns in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="Listening to a story"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="A message about yesterday"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
