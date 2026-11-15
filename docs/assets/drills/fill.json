@@ -170,6 +170,204 @@
    ],
    "en": "How are you?",
    "stage": 1
+  },
+  {
+   "q": "Nous ___ faim.",
+   "hint": "avoir",
+   "a": [
+    "avons"
+   ],
+   "en": "We are hungry.",
+   "stage": 2
+  },
+  {
+   "q": "Tu ___ vingt ans.",
+   "hint": "avoir",
+   "a": [
+    "as"
+   ],
+   "en": "You are twenty.",
+   "stage": 2
+  },
+  {
+   "q": "J'___ froid.",
+   "hint": "avoir",
+   "a": [
+    "ai"
+   ],
+   "en": "I'm cold.",
+   "stage": 2
+  },
+  {
+   "q": "Ils ___ un chat.",
+   "hint": "avoir",
+   "a": [
+    "ont"
+   ],
+   "en": "They have a cat.",
+   "stage": 2
+  },
+  {
+   "q": "Vous ___ une carte d'identité?",
+   "hint": "avoir",
+   "a": [
+    "avez"
+   ],
+   "en": "Do you have an ID card?",
+   "stage": 2
+  },
+  {
+   "q": "Voilà ___ table.",
+   "hint": "la ou le",
+   "a": [
+    "la"
+   ],
+   "en": "Here is the table.",
+   "stage": 2
+  },
+  {
+   "q": "Voilà ___ chat.",
+   "hint": "un ou une",
+   "a": [
+    "un"
+   ],
+   "en": "Here is a cat.",
+   "stage": 2
+  },
+  {
+   "q": "J'ai besoin d'___ café.",
+   "hint": "un ou une",
+   "a": [
+    "un"
+   ],
+   "en": "I need a coffee.",
+   "stage": 2
+  },
+  {
+   "q": "Un cadeau, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "cadeaux"
+   ],
+   "en": "A gift, some gifts.",
+   "stage": 2
+  },
+  {
+   "q": "Un journal, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "journaux"
+   ],
+   "en": "A newspaper, some newspapers.",
+   "stage": 2
+  },
+  {
+   "q": "Un œil, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "yeux"
+   ],
+   "en": "An eye, some eyes.",
+   "stage": 2
+  },
+  {
+   "q": "Un prix, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "prix"
+   ],
+   "en": "A price, some prices.",
+   "stage": 2
+  },
+  {
+   "q": "Les journaux ___ ici.",
+   "hint": "être",
+   "a": [
+    "sont"
+   ],
+   "en": "The newspapers are here.",
+   "stage": 2
+  },
+  {
+   "q": "71 : soixante ___ onze.",
+   "hint": "nombre",
+   "a": [
+    "et"
+   ],
+   "en": "71: seventy-one.",
+   "stage": 2
+  },
+  {
+   "q": "81 : quatre-vingt-___.",
+   "hint": "nombre",
+   "a": [
+    "un"
+   ],
+   "en": "81: eighty-one.",
+   "stage": 2
+  },
+  {
+   "q": "Je voudrais un café, s'il vous ___.",
+   "hint": "chunk",
+   "a": [
+    "plaît"
+   ],
+   "en": "I would like a coffee, please.",
+   "stage": 2
+  },
+  {
+   "q": "Pour ici ou pour ___?",
+   "hint": "chunk",
+   "a": [
+    "emporter"
+   ],
+   "en": "For here or to take away?",
+   "stage": 2
+  },
+  {
+   "q": "Ça ___ six dollars.",
+   "hint": "chunk",
+   "a": [
+    "fait"
+   ],
+   "en": "That comes to six dollars.",
+   "stage": 2
+  },
+  {
+   "q": "Il y ___ un café ici.",
+   "hint": "avoir",
+   "a": [
+    "a"
+   ],
+   "en": "There is a café here.",
+   "stage": 2
+  },
+  {
+   "q": "Un ami, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "amis"
+   ],
+   "en": "A friend, some friends.",
+   "stage": 2
+  },
+  {
+   "q": "Le ___ est à six heures.",
+   "hint": "Quebec : repas du soir",
+   "a": [
+    "souper"
+   ],
+   "en": "The evening meal is at six o'clock.",
+   "stage": 2
+  },
+  {
+   "q": "Mon ___, c'est Tremblay.",
+   "hint": "nom de famille",
+   "a": [
+    "nom"
+   ],
+   "en": "My family name is Tremblay.",
+   "stage": 2
   }
  ]
 }

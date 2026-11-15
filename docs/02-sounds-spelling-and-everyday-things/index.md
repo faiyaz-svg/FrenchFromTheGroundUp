@@ -15,10 +15,10 @@ Before this stage: Stage 1.
 6. [Numbers from 0 to 100](06-numbers-0-100.md) (words)
 7. [Avoir and il y a](07-avoir-and-il-y-a.md) (grammar)
 8. [Ordering at a café](08-ordering-at-a-cafe.md) (speak)
-9. Quebec words: dépanneur and café (not written yet) (quebec)
-10. Hearing numbers and prices (not written yet) (listen)
-11. Filling in forms (not written yet) (write)
-12. A morning at the café (not written yet) (read, review)
+9. [Quebec words: dépanneur and café](09-quebec-dep-and-cafe-words.md) (quebec)
+10. [Hearing numbers and prices](10-hearing-numbers-and-prices.md) (listen)
+11. [Filling in forms](11-filling-in-forms.md) (write)
+12. [A morning at the café](12-a-morning-at-the-cafe.md) (read, review)
 
 <!-- lessons:end -->
 

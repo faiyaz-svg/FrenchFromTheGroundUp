@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 20 of 205. New lessons appear here as they are added.
+Lessons written so far: 24 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -31,3 +31,7 @@ Lessons written so far: 20 of 205. New lessons appear here as they are added.
 - [ ] [Numbers from 0 to 100](02-sounds-spelling-and-everyday-things/06-numbers-0-100.md) (words)
 - [ ] [Avoir and il y a](02-sounds-spelling-and-everyday-things/07-avoir-and-il-y-a.md) (grammar)
 - [ ] [Ordering at a café](02-sounds-spelling-and-everyday-things/08-ordering-at-a-cafe.md) (speak)
+- [ ] [Quebec words: dépanneur and café](02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md) (quebec)
+- [ ] [Hearing numbers and prices](02-sounds-spelling-and-everyday-things/10-hearing-numbers-and-prices.md) (listen)
+- [ ] [Filling in forms](02-sounds-spelling-and-everyday-things/11-filling-in-forms.md) (write)
+- [ ] [A morning at the café](02-sounds-spelling-and-everyday-things/12-a-morning-at-the-cafe.md) (read, review)

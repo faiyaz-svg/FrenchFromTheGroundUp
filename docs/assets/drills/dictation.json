@@ -89,6 +89,86 @@
    "fr": "Où est l'hôtel?",
    "en": "Where is the hotel?",
    "stage": 1
+  },
+  {
+   "fr": "Je voudrais un café, s'il vous plaît.",
+   "en": "I would like a coffee, please.",
+   "stage": 2
+  },
+  {
+   "fr": "Pour ici ou pour emporter?",
+   "en": "For here or to take away?",
+   "stage": 2
+  },
+  {
+   "fr": "Ça fait six dollars cinquante.",
+   "en": "That comes to six dollars fifty.",
+   "stage": 2
+  },
+  {
+   "fr": "J'ai vingt ans.",
+   "en": "I'm twenty years old.",
+   "stage": 2
+  },
+  {
+   "fr": "Nous avons faim.",
+   "en": "We are hungry.",
+   "stage": 2
+  },
+  {
+   "fr": "Il y a un café ici.",
+   "en": "There is a café here.",
+   "stage": 2
+  },
+  {
+   "fr": "Les amis sont à la maison.",
+   "en": "The friends are at the house.",
+   "stage": 2
+  },
+  {
+   "fr": "Voilà des cadeaux pour la fête.",
+   "en": "Here are some gifts for the party.",
+   "stage": 2
+  },
+  {
+   "fr": "Vous avez une carte d'identité?",
+   "en": "Do you have an ID card?",
+   "stage": 2
+  },
+  {
+   "fr": "Mon nom, c'est Tremblay.",
+   "en": "My family name is Tremblay.",
+   "stage": 2
+  },
+  {
+   "fr": "Je voudrais un chocolat chaud et un croissant.",
+   "en": "I would like a hot chocolate and a croissant.",
+   "stage": 2
+  },
+  {
+   "fr": "Les journaux sont pour le magasin.",
+   "en": "The newspapers are for the shop.",
+   "stage": 2
+  },
+  {
+   "fr": "Elle a raison.",
+   "en": "She is right.",
+   "stage": 2
+  },
+  {
+   "fr": "Il y a douze tables et un comptoir.",
+   "en": "There are twelve tables and a counter.",
+   "stage": 2
+  },
+  {
+   "fr": "Le souper est à six heures.",
+   "en": "The evening meal is at six o'clock.",
+   "stage": 2
+  },
+  {
+   "fr": "C'est combien?",
+   "en": "How much is it?",
+   "stage": 2
   }
  ]
 }

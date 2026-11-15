@@ -1,0 +1,195 @@
+id	french	english	notes	tags
+l01-une-table	une table	table		a1 lesson01 sounds
+l01-une-chaise	une chaise	chair		a1 lesson01 sounds
+l01-un-bureau	un bureau	desk, office		a1 lesson01 sounds
+l01-un-livre	un livre	book		a1 lesson01 sounds
+l01-un-stylo	un stylo	pen		a1 lesson01 sounds
+l01-un-sac	un sac	bag		a1 lesson01 sounds
+l01-un-telephone	un téléphone	phone		a1 lesson01 sounds
+l01-un-ordinateur	un ordinateur	computer		a1 lesson01 sounds
+l01-une-photo	une photo	photo		a1 lesson01 sounds
+l01-une-cle	une clé	key		a1 lesson01 sounds
+l01-un-jour	un jour	day		a1 lesson01 sounds
+l01-une-chose	une chose	thing		a1 lesson01 sounds
+l01-un-chat	un chat	cat		a1 lesson01 sounds
+l01-une-page	une page	page		a1 lesson01 sounds
+l01-une-guitare	une guitare	guitar		a1 lesson01 sounds
+l02-la-nuit	la nuit	night		a1 lesson02 sounds
+l02-lui	lui	him, to him		a1 lesson02 sounds
+l02-moi	moi	me	a sound word for now	a1 lesson02 sounds
+l02-toi	toi	you (informal)	a sound word for now	a1 lesson02 sounds
+l02-un-voyage	un voyage	trip		a1 lesson02 sounds
+l02-le-travail	le travail	work		a1 lesson02 sounds
+l02-une-fille	une fille	girl, daughter		a1 lesson02 sounds
+l02-un-fruit	un fruit	fruit		a1 lesson02 sounds
+l02-le-soir	le soir	evening		a1 lesson02 sounds
+l02-la-voiture	la voiture	car		a1 lesson02 sounds
+l02-loin	loin	far		a1 lesson02 sounds
+l03-un-homme	un homme	man	h muet	a1 lesson03 sounds
+l03-une-femme	une femme	woman, wife	said /fam/	a1 lesson03 sounds
+l03-les-gens	les gens	people	masculine	a1 lesson03 sounds
+l03-une-histoire	une histoire	story, history	h muet	a1 lesson03 sounds
+l03-beaucoup	beaucoup	a lot, very much		a1 lesson03 sounds
+l03-toujours	toujours	always		a1 lesson03 sounds
+l03-souvent	souvent	often		a1 lesson03 sounds
+l03-un-heros	un héros	hero	h aspiré	a1 lesson03 sounds
+l03-un-hamburger	un hamburger	hamburger	h aspiré	a1 lesson03 sounds
+l03-un-uf	un œuf	egg	plural des œufs /dez ø/	a1 lesson03 sounds
+l03-un-ami-une-amie	un ami, une amie	friend	the n links in un ami	a1 lesson03 sounds
+l03-vous-avez	vous avez	you have	learn as a sound pattern for now	a1 lesson03 sounds
+l03-ils-ont	ils ont	they have	learn as a sound pattern for now	a1 lesson03 sounds
+l03-nous-avons	nous avons	we have	learn as a sound pattern for now	a1 lesson03 sounds
+l03-d-accord	d'accord	okay		a1 lesson03 sounds
+l04-une-maison	une maison	house		a1 lesson04 grammar
+l04-une-ville	une ville	city, town		a1 lesson04 grammar
+l04-un-pays	un pays	country		a1 lesson04 grammar
+l04-une-chambre	une chambre	bedroom, room		a1 lesson04 grammar
+l04-une-cuisine	une cuisine	kitchen		a1 lesson04 grammar
+l04-un-magasin	un magasin	shop		a1 lesson04 grammar
+l04-un-velo	un vélo	bike		a1 lesson04 grammar
+l04-un-lit	un lit	bed		a1 lesson04 grammar
+l04-un-probleme	un problème	problem	masculine despite the -e	a1 lesson04 grammar
+l04-un-exemple	un exemple	example		a1 lesson04 grammar
+l04-une-idee	une idée	idea		a1 lesson04 grammar
+l04-un-moment	un moment	moment		a1 lesson04 grammar
+l04-un-programme	un programme	program	masculine despite the -e	a1 lesson04 grammar
+l04-un-systeme	un système	system	masculine despite the -e	a1 lesson04 grammar
+l04-une-question	une question	question		a1 lesson04 grammar
+l04-une-conversation	une conversation	conversation		a1 lesson04 grammar
+l04-un-appartement	un appartement	apartment		a1 lesson04 grammar
+l04-un-garage	un garage	garage		a1 lesson04 grammar
+l04-un-docteur	un docteur	doctor		a1 lesson04 grammar
+l05-un-journal	un journal	newspaper	plural des journaux	a1 lesson05 grammar
+l05-un-animal	un animal	animal	plural des animaux	a1 lesson05 grammar
+l05-un-prix	un prix	price, prize	plural des prix	a1 lesson05 grammar
+l05-une-personne	une personne	person	feminine for men too	a1 lesson05 grammar
+l05-un-il	un œil	eye	plural des yeux	a1 lesson05 grammar
+l05-un-cadeau	un cadeau	gift	plural des cadeaux	a1 lesson05 grammar
+l05-un-jeu	un jeu	game	plural des jeux	a1 lesson05 grammar
+l05-un-message	un message	message		a1 lesson05 grammar
+l05-un-cours	un cours	class, course	plural des cours	a1 lesson05 grammar
+l05-les	les	the (plural)		a1 lesson05 grammar
+l05-des	des	some, plural of un and une		a1 lesson05 grammar
+l06-zero	zéro	zero		a1 lesson06 words
+l06-un	un	one		a1 lesson06 words
+l06-deux	deux	two		a1 lesson06 words
+l06-trois	trois	three		a1 lesson06 words
+l06-quatre	quatre	four		a1 lesson06 words
+l06-cinq	cinq	five		a1 lesson06 words
+l06-six	six	six		a1 lesson06 words
+l06-sept	sept	seven	p silent	a1 lesson06 words
+l06-huit	huit	eight		a1 lesson06 words
+l06-neuf	neuf	nine		a1 lesson06 words
+l06-dix	dix	ten		a1 lesson06 words
+l06-onze	onze	eleven		a1 lesson06 words
+l06-douze	douze	twelve		a1 lesson06 words
+l06-treize	treize	thirteen		a1 lesson06 words
+l06-quatorze	quatorze	fourteen		a1 lesson06 words
+l06-quinze	quinze	fifteen		a1 lesson06 words
+l06-seize	seize	sixteen		a1 lesson06 words
+l06-vingt	vingt	twenty		a1 lesson06 words
+l06-trente	trente	thirty		a1 lesson06 words
+l06-quarante	quarante	forty		a1 lesson06 words
+l06-cinquante	cinquante	fifty		a1 lesson06 words
+l06-soixante	soixante	sixty		a1 lesson06 words
+l06-cent	cent	one hundred		a1 lesson06 words
+l06-un-numero	un numéro	number (phone, bus, room)		a1 lesson06 words
+l06-un-chiffre	un chiffre	digit		a1 lesson06 words
+l06-un-nombre	un nombre	number, quantity		a1 lesson06 words
+l06-un-poste	un poste	extension, post		a1 lesson06 words
+l07-avoir	avoir	to have		a1 lesson07 grammar
+l07-il-y-a	il y a	there is, there are		a1 lesson07 grammar
+l07-un-an	un an	year	with avoir for age: j'ai vingt ans	a1 lesson07 grammar
+l07-la-faim	la faim	hunger	avoir faim	a1 lesson07 grammar
+l07-la-soif	la soif	thirst	avoir soif	a1 lesson07 grammar
+l07-chaud	chaud	hot, warm	avoir chaud	a1 lesson07 grammar
+l07-froid	froid	cold	avoir froid	a1 lesson07 grammar
+l07-le-sommeil	le sommeil	sleep	avoir sommeil	a1 lesson07 grammar
+l07-raison	raison	right (in avoir raison)		a1 lesson07 grammar
+l07-tort	tort	wrong (in avoir tort)		a1 lesson07 grammar
+l07-un-besoin	un besoin	need	avoir besoin de	a1 lesson07 grammar
+l07-une-envie	une envie	desire, wish	avoir envie de	a1 lesson07 grammar
+l07-une-carte-d-identite	une carte d'identité	ID card		a1 lesson07 grammar
+l07-parfait	parfait	perfect		a1 lesson07 grammar
+l08-je-voudrais	je voudrais	I would like	learn as a chunk	a1 lesson08 speak
+l08-qu-est-ce-que-je-vous-sers	Qu'est-ce que je vous sers?	what can I get you?	learn as a chunk	a1 lesson08 speak
+l08-pour-ici-ou-pour-emporter	Pour ici ou pour emporter?	for here or to take away?	learn as a chunk	a1 lesson08 speak
+l08-et-avec-ca	Et avec ça?	anything else?	learn as a chunk	a1 lesson08 speak
+l08-c-est-tout	C'est tout.	that's all		a1 lesson08 speak
+l08-c-est-combien	C'est combien?	how much is it?		a1 lesson08 speak
+l08-ca-fait-and-a-price	Ça fait and a price	that comes to (a price)	for a price	a1 lesson08 speak
+l08-vous-desirez	Vous désirez?	what would you like?	understand only	a1 lesson08 speak
+l08-sur-place	sur place	for here		a1 lesson08 speak
+l08-pour-emporter	pour emporter	to take away		a1 lesson08 speak
+l08-un-chocolat-chaud	un chocolat chaud	hot chocolate		a1 lesson08 speak
+l08-un-jus	un jus	juice		a1 lesson08 speak
+l08-un-lait	un lait	milk		a1 lesson08 speak
+l08-un-croissant	un croissant	croissant		a1 lesson08 speak
+l08-un-sandwich	un sandwich	sandwich		a1 lesson08 speak
+l08-un-gateau	un gâteau	cake		a1 lesson08 speak
+l08-une-soupe	une soupe	soup		a1 lesson08 speak
+l08-une-salade	une salade	salad		a1 lesson08 speak
+l08-une-biere	une bière	beer		a1 lesson08 speak
+l08-un-verre	un verre	glass		a1 lesson08 speak
+l08-une-tasse	une tasse	cup		a1 lesson08 speak
+l08-une-bouteille	une bouteille	bottle		a1 lesson08 speak
+l08-une-addition	une addition	bill		a1 lesson08 speak
+l08-un-dollar	un dollar	dollar		a1 lesson08 speak
+l09-un-depanneur	un dépanneur	corner shop	Quebec; neutral	a1 lesson09 quebec
+l09-une-piasse	une piasse	dollar	Quebec; casual	a1 lesson09 quebec
+l09-une-cenne	une cenne	cent	Quebec; casual	a1 lesson09 quebec
+l09-une-liqueur	une liqueur	soft drink	Quebec; casual; France: alcoholic drink	a1 lesson09 quebec
+l09-une-poutine	une poutine	poutine		a1 lesson09 quebec
+l09-une-patate	une patate	potato	familiar; pomme de terre is the word used on labels	a1 lesson09 quebec
+l09-un-courriel	un courriel	email	Quebec; France also recommends it	a1 lesson09 quebec
+l09-un-dejeuner	un déjeuner	breakfast	Quebec; France: un petit-déjeuner	a1 lesson09 quebec
+l09-un-diner	un dîner	lunch	Quebec; France: the evening meal	a1 lesson09 quebec
+l09-un-souper	un souper	evening meal	Quebec; France: un dîner	a1 lesson09 quebec
+l09-une-creme-glacee	une crème glacée	ice cream		a1 lesson09 quebec
+l09-un-breuvage	un breuvage	drink	Quebec; casual; criticized; une boisson is the standard word	a1 lesson09 quebec
+l09-un-sous-marin	un sous-marin	long sandwich, sub		a1 lesson09 quebec
+l09-une-boisson	une boisson	drink	standard	a1 lesson09 quebec
+l09-une-boisson-gazeuse	une boisson gazeuse	soft drink	OQLF term	a1 lesson09 quebec
+l10-cher-chere	cher, chère	expensive		a1 lesson10 listen
+l10-bon-marche	bon marché	inexpensive	invariable	a1 lesson10 listen
+l10-gratuit	gratuit	free of charge		a1 lesson10 listen
+l10-une-taxe	une taxe	tax		a1 lesson10 listen
+l10-la-tps	la TPS	federal sales tax	la taxe sur les produits et services	a1 lesson10 listen
+l10-la-tvq	la TVQ	Quebec sales tax	la taxe de vente du Québec	a1 lesson10 listen
+l10-un-rabais	un rabais	discount		a1 lesson10 listen
+l10-en-solde	en solde	on sale		a1 lesson10 listen
+l10-la-monnaie	la monnaie	change (coins and bills)		a1 lesson10 listen
+l10-un-total	un total	total		a1 lesson10 listen
+l10-la-carte-de-debit	la carte de débit	debit card		a1 lesson10 listen
+l10-comptant	comptant	in cash		a1 lesson10 listen
+l10-ca-coute-combien	Ça coûte combien?	how much does it cost?	learn as a chunk	a1 lesson10 listen
+l10-pour-cent	pour cent	percent		a1 lesson10 listen
+l10-un-numero-de-telephone	un numéro de téléphone	phone number		a1 lesson10 listen
+l11-un-formulaire	un formulaire	form		a1 lesson11 write
+l11-un-prenom	un prénom	first name		a1 lesson11 write
+l11-une-adresse	une adresse	address		a1 lesson11 write
+l11-une-date	une date	date		a1 lesson11 write
+l11-la-naissance	la naissance	birth	la date de naissance	a1 lesson11 write
+l11-un-code-postal	un code postal	postal code		a1 lesson11 write
+l11-une-province	une province	province		a1 lesson11 write
+l11-une-nationalite	une nationalité	nationality		a1 lesson11 write
+l11-une-profession	une profession	occupation		a1 lesson11 write
+l11-une-signature	une signature	signature		a1 lesson11 write
+l11-obligatoire	obligatoire	required		a1 lesson11 write
+l11-un-age	un âge	age		a1 lesson11 write
+l11-celibataire	célibataire	single (not married)		a1 lesson11 write
+l11-marie-mariee	marié, mariée	married		a1 lesson11 write
+l11-une-carte	une carte	card		a1 lesson11 write
+l11-un-boulevard	un boulevard	boulevard		a1 lesson11 write
+l11-une-avenue	une avenue	avenue		a1 lesson11 write
+l11-un-champ	un champ	field, box on a form		a1 lesson11 write
+l11-un-mois	un mois	month		a1 lesson11 write
+l11-une-annee	une année	year		a1 lesson11 write
+l12-un-client-une-cliente	un client, une cliente	customer		a1 lesson12 read
+l12-un-patron-une-patronne	un patron, une patronne	boss, owner		a1 lesson12 read
+l12-une-terrasse	une terrasse	terrace		a1 lesson12 read
+l12-un-menu	un menu	menu		a1 lesson12 read
+l12-un-comptoir	un comptoir	counter		a1 lesson12 read
+l12-un-employe-une-employee	un employé, une employée	employee		a1 lesson12 read
+l12-un-enfant	un enfant	child		a1 lesson12 read
+l12-la-nourriture	la nourriture	food		a1 lesson12 read

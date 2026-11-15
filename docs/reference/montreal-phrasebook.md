@@ -6,7 +6,7 @@ The phrases come before the lessons that teach them, so use them as set sentence
 
 - [Greetings and politeness](../01-first-sounds-and-greetings/08-greetings-and-politeness.md)
 - [Ordering at a café](../02-sounds-spelling-and-everyday-things/08-ordering-at-a-cafe.md)
-- Quebec words: dépanneur and café<!-- link: ../02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md -->
+- [Quebec words: dépanneur and café](../02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md)
 - Asking for directions<!-- link: ../04-people-places-and-directions/08-asking-directions.md -->
 - Metro maps and signs<!-- link: ../04-people-places-and-directions/09-metro-maps-and-signs.md -->
 - At the restaurant<!-- link: ../06-habits-memories-and-food/08-at-the-restaurant.md -->

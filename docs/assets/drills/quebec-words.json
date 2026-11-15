@@ -1,3 +1,67 @@
 {
- "items": []
+ "items": [
+  {
+   "qc": "piasse",
+   "std": "dollar",
+   "en": "dollar",
+   "note": "casual",
+   "stage": 2
+  },
+  {
+   "qc": "cenne",
+   "std": "cent",
+   "en": "cent",
+   "note": "casual",
+   "stage": 2
+  },
+  {
+   "qc": "liqueur",
+   "std": "boisson gazeuse",
+   "en": "soft drink",
+   "note": "casual; in France, a sweet alcoholic drink",
+   "stage": 2
+  },
+  {
+   "qc": "breuvage",
+   "std": "boisson",
+   "en": "drink",
+   "note": "casual; criticized",
+   "stage": 2
+  },
+  {
+   "qc": "courriel",
+   "std": "courrier électronique",
+   "en": "email",
+   "note": "OQLF preferred; France also recommends courriel",
+   "stage": 2
+  },
+  {
+   "qc": "souper",
+   "std": "dîner (France)",
+   "en": "evening meal",
+   "note": "neutral; Quebec",
+   "stage": 2
+  },
+  {
+   "qc": "dîner",
+   "std": "déjeuner (France)",
+   "en": "lunch",
+   "note": "neutral; Quebec",
+   "stage": 2
+  },
+  {
+   "qc": "déjeuner",
+   "std": "petit-déjeuner (France)",
+   "en": "breakfast",
+   "note": "neutral; Quebec",
+   "stage": 2
+  },
+  {
+   "qc": "crème glacée",
+   "std": "glace",
+   "en": "ice cream",
+   "note": "neutral",
+   "stage": 2
+  }
+ ]
 }

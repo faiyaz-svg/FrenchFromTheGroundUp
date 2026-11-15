@@ -79,6 +79,6 @@ Serveur: Je vous en prie. | You're welcome.
 
 - Everyday nouns in Quebec<!-- link: ../05-the-past-what-happened/09-quebec-everyday-nouns.md -->
 - Casual speech in Quebec<!-- link: ../12-real-montreal/03-quebec-casual-speech.md -->
-- Quebec words: dépanneur and café<!-- link: ../02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md -->
+- [Quebec words: dépanneur and café](../02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md)
 
 For anglicisms the OQLF advises against, see the [false friends](false-friends.md) page.

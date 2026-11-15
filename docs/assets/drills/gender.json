@@ -185,6 +185,192 @@
    "answer": "le",
    "en": "heart",
    "stage": 1
+  },
+  {
+   "noun": "table",
+   "answer": "la",
+   "en": "table",
+   "stage": 2
+  },
+  {
+   "noun": "livre",
+   "answer": "le",
+   "en": "book",
+   "stage": 2
+  },
+  {
+   "noun": "chat",
+   "answer": "le",
+   "en": "cat",
+   "stage": 2
+  },
+  {
+   "noun": "jour",
+   "answer": "le",
+   "en": "day",
+   "stage": 2
+  },
+  {
+   "noun": "chose",
+   "answer": "la",
+   "en": "thing",
+   "stage": 2
+  },
+  {
+   "noun": "clé",
+   "answer": "la",
+   "en": "key",
+   "stage": 2
+  },
+  {
+   "noun": "stylo",
+   "answer": "le",
+   "en": "pen",
+   "stage": 2
+  },
+  {
+   "noun": "téléphone",
+   "answer": "le",
+   "en": "phone",
+   "stage": 2
+  },
+  {
+   "noun": "chaise",
+   "answer": "la",
+   "en": "chair",
+   "stage": 2
+  },
+  {
+   "noun": "bureau",
+   "answer": "le",
+   "en": "desk",
+   "stage": 2
+  },
+  {
+   "noun": "maison",
+   "answer": "la",
+   "en": "house",
+   "stage": 2
+  },
+  {
+   "noun": "ville",
+   "answer": "la",
+   "en": "city",
+   "stage": 2
+  },
+  {
+   "noun": "pays",
+   "answer": "le",
+   "en": "country",
+   "stage": 2
+  },
+  {
+   "noun": "chambre",
+   "answer": "la",
+   "en": "bedroom",
+   "stage": 2
+  },
+  {
+   "noun": "cuisine",
+   "answer": "la",
+   "en": "kitchen",
+   "stage": 2
+  },
+  {
+   "noun": "magasin",
+   "answer": "le",
+   "en": "shop",
+   "stage": 2
+  },
+  {
+   "noun": "problème",
+   "answer": "le",
+   "en": "problem",
+   "stage": 2
+  },
+  {
+   "noun": "système",
+   "answer": "le",
+   "en": "system",
+   "stage": 2
+  },
+  {
+   "noun": "question",
+   "answer": "la",
+   "en": "question",
+   "stage": 2
+  },
+  {
+   "noun": "journal",
+   "answer": "le",
+   "en": "newspaper",
+   "stage": 2
+  },
+  {
+   "noun": "prix",
+   "answer": "le",
+   "en": "price",
+   "stage": 2
+  },
+  {
+   "noun": "personne",
+   "answer": "la",
+   "en": "person",
+   "stage": 2
+  },
+  {
+   "noun": "soupe",
+   "answer": "la",
+   "en": "soup",
+   "stage": 2
+  },
+  {
+   "noun": "salade",
+   "answer": "la",
+   "en": "salad",
+   "stage": 2
+  },
+  {
+   "noun": "idée",
+   "answer": "la",
+   "elided": true,
+   "en": "idea",
+   "stage": 2
+  },
+  {
+   "noun": "addition",
+   "answer": "la",
+   "elided": true,
+   "en": "bill",
+   "stage": 2
+  },
+  {
+   "noun": "histoire",
+   "answer": "la",
+   "elided": true,
+   "en": "story",
+   "stage": 2
+  },
+  {
+   "noun": "homme",
+   "answer": "le",
+   "elided": true,
+   "en": "man",
+   "stage": 2
+  },
+  {
+   "noun": "œuf",
+   "answer": "le",
+   "elided": true,
+   "en": "egg",
+   "stage": 2
+  },
+  {
+   "noun": "animal",
+   "answer": "le",
+   "elided": true,
+   "en": "animal",
+   "stage": 2
   }
  ]
 }

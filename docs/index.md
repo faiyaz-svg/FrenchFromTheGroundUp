@@ -38,10 +38,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/06-numbers-0-100/" data-lesson="02-sounds-spelling-and-everyday-things/06-numbers-0-100/" title="Numbers from 0 to 100"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/07-avoir-and-il-y-a/" data-lesson="02-sounds-spelling-and-everyday-things/07-avoir-and-il-y-a/" title="Avoir and il y a"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/08-ordering-at-a-cafe/" data-lesson="02-sounds-spelling-and-everyday-things/08-ordering-at-a-cafe/" title="Ordering at a café"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Quebec words: dépanneur and café"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Hearing numbers and prices"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Filling in forms"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="A morning at the café"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words/" data-lesson="02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words/" title="Quebec words: dépanneur and café"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/10-hearing-numbers-and-prices/" data-lesson="02-sounds-spelling-and-everyday-things/10-hearing-numbers-and-prices/" title="Hearing numbers and prices"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/11-filling-in-forms/" data-lesson="02-sounds-spelling-and-everyday-things/11-filling-in-forms/" title="Filling in forms"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/12-a-morning-at-the-cafe/" data-lesson="02-sounds-spelling-and-everyday-things/12-a-morning-at-the-cafe/" title="A morning at the café"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="3">

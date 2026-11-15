@@ -1,0 +1,603 @@
+{
+ "conjugation": [
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "ai",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "as",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "il",
+   "answer": "a",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "a",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "avons",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "avez",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "ont",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "elles",
+   "answer": "ont",
+   "en": "to have",
+   "stage": 2
+  }
+ ],
+ "gender": [
+  {
+   "noun": "table",
+   "answer": "la",
+   "en": "table",
+   "stage": 2
+  },
+  {
+   "noun": "livre",
+   "answer": "le",
+   "en": "book",
+   "stage": 2
+  },
+  {
+   "noun": "chat",
+   "answer": "le",
+   "en": "cat",
+   "stage": 2
+  },
+  {
+   "noun": "jour",
+   "answer": "le",
+   "en": "day",
+   "stage": 2
+  },
+  {
+   "noun": "chose",
+   "answer": "la",
+   "en": "thing",
+   "stage": 2
+  },
+  {
+   "noun": "clé",
+   "answer": "la",
+   "en": "key",
+   "stage": 2
+  },
+  {
+   "noun": "stylo",
+   "answer": "le",
+   "en": "pen",
+   "stage": 2
+  },
+  {
+   "noun": "téléphone",
+   "answer": "le",
+   "en": "phone",
+   "stage": 2
+  },
+  {
+   "noun": "chaise",
+   "answer": "la",
+   "en": "chair",
+   "stage": 2
+  },
+  {
+   "noun": "bureau",
+   "answer": "le",
+   "en": "desk",
+   "stage": 2
+  },
+  {
+   "noun": "maison",
+   "answer": "la",
+   "en": "house",
+   "stage": 2
+  },
+  {
+   "noun": "ville",
+   "answer": "la",
+   "en": "city",
+   "stage": 2
+  },
+  {
+   "noun": "pays",
+   "answer": "le",
+   "en": "country",
+   "stage": 2
+  },
+  {
+   "noun": "chambre",
+   "answer": "la",
+   "en": "bedroom",
+   "stage": 2
+  },
+  {
+   "noun": "cuisine",
+   "answer": "la",
+   "en": "kitchen",
+   "stage": 2
+  },
+  {
+   "noun": "magasin",
+   "answer": "le",
+   "en": "shop",
+   "stage": 2
+  },
+  {
+   "noun": "problème",
+   "answer": "le",
+   "en": "problem",
+   "stage": 2
+  },
+  {
+   "noun": "système",
+   "answer": "le",
+   "en": "system",
+   "stage": 2
+  },
+  {
+   "noun": "question",
+   "answer": "la",
+   "en": "question",
+   "stage": 2
+  },
+  {
+   "noun": "journal",
+   "answer": "le",
+   "en": "newspaper",
+   "stage": 2
+  },
+  {
+   "noun": "prix",
+   "answer": "le",
+   "en": "price",
+   "stage": 2
+  },
+  {
+   "noun": "personne",
+   "answer": "la",
+   "en": "person",
+   "stage": 2
+  },
+  {
+   "noun": "soupe",
+   "answer": "la",
+   "en": "soup",
+   "stage": 2
+  },
+  {
+   "noun": "salade",
+   "answer": "la",
+   "en": "salad",
+   "stage": 2
+  },
+  {
+   "noun": "idée",
+   "answer": "la",
+   "elided": true,
+   "en": "idea",
+   "stage": 2
+  },
+  {
+   "noun": "addition",
+   "answer": "la",
+   "elided": true,
+   "en": "bill",
+   "stage": 2
+  },
+  {
+   "noun": "histoire",
+   "answer": "la",
+   "elided": true,
+   "en": "story",
+   "stage": 2
+  },
+  {
+   "noun": "homme",
+   "answer": "le",
+   "elided": true,
+   "en": "man",
+   "stage": 2
+  },
+  {
+   "noun": "œuf",
+   "answer": "le",
+   "elided": true,
+   "en": "egg",
+   "stage": 2
+  },
+  {
+   "noun": "animal",
+   "answer": "le",
+   "elided": true,
+   "en": "animal",
+   "stage": 2
+  }
+ ],
+ "fill": [
+  {
+   "q": "Nous ___ faim.",
+   "hint": "avoir",
+   "a": [
+    "avons"
+   ],
+   "en": "We are hungry.",
+   "stage": 2
+  },
+  {
+   "q": "Tu ___ vingt ans.",
+   "hint": "avoir",
+   "a": [
+    "as"
+   ],
+   "en": "You are twenty.",
+   "stage": 2
+  },
+  {
+   "q": "J'___ froid.",
+   "hint": "avoir",
+   "a": [
+    "ai"
+   ],
+   "en": "I'm cold.",
+   "stage": 2
+  },
+  {
+   "q": "Ils ___ un chat.",
+   "hint": "avoir",
+   "a": [
+    "ont"
+   ],
+   "en": "They have a cat.",
+   "stage": 2
+  },
+  {
+   "q": "Vous ___ une carte d'identité?",
+   "hint": "avoir",
+   "a": [
+    "avez"
+   ],
+   "en": "Do you have an ID card?",
+   "stage": 2
+  },
+  {
+   "q": "Voilà ___ table.",
+   "hint": "la ou le",
+   "a": [
+    "la"
+   ],
+   "en": "Here is the table.",
+   "stage": 2
+  },
+  {
+   "q": "Voilà ___ chat.",
+   "hint": "un ou une",
+   "a": [
+    "un"
+   ],
+   "en": "Here is a cat.",
+   "stage": 2
+  },
+  {
+   "q": "J'ai besoin d'___ café.",
+   "hint": "un ou une",
+   "a": [
+    "un"
+   ],
+   "en": "I need a coffee.",
+   "stage": 2
+  },
+  {
+   "q": "Un cadeau, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "cadeaux"
+   ],
+   "en": "A gift, some gifts.",
+   "stage": 2
+  },
+  {
+   "q": "Un journal, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "journaux"
+   ],
+   "en": "A newspaper, some newspapers.",
+   "stage": 2
+  },
+  {
+   "q": "Un œil, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "yeux"
+   ],
+   "en": "An eye, some eyes.",
+   "stage": 2
+  },
+  {
+   "q": "Un prix, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "prix"
+   ],
+   "en": "A price, some prices.",
+   "stage": 2
+  },
+  {
+   "q": "Les journaux ___ ici.",
+   "hint": "être",
+   "a": [
+    "sont"
+   ],
+   "en": "The newspapers are here.",
+   "stage": 2
+  },
+  {
+   "q": "71 : soixante ___ onze.",
+   "hint": "nombre",
+   "a": [
+    "et"
+   ],
+   "en": "71: seventy-one.",
+   "stage": 2
+  },
+  {
+   "q": "81 : quatre-vingt-___.",
+   "hint": "nombre",
+   "a": [
+    "un"
+   ],
+   "en": "81: eighty-one.",
+   "stage": 2
+  },
+  {
+   "q": "Je voudrais un café, s'il vous ___.",
+   "hint": "chunk",
+   "a": [
+    "plaît"
+   ],
+   "en": "I would like a coffee, please.",
+   "stage": 2
+  },
+  {
+   "q": "Pour ici ou pour ___?",
+   "hint": "chunk",
+   "a": [
+    "emporter"
+   ],
+   "en": "For here or to take away?",
+   "stage": 2
+  },
+  {
+   "q": "Ça ___ six dollars.",
+   "hint": "chunk",
+   "a": [
+    "fait"
+   ],
+   "en": "That comes to six dollars.",
+   "stage": 2
+  },
+  {
+   "q": "Il y ___ un café ici.",
+   "hint": "avoir",
+   "a": [
+    "a"
+   ],
+   "en": "There is a café here.",
+   "stage": 2
+  },
+  {
+   "q": "Un ami, des ___.",
+   "hint": "pluriel",
+   "a": [
+    "amis"
+   ],
+   "en": "A friend, some friends.",
+   "stage": 2
+  },
+  {
+   "q": "Le ___ est à six heures.",
+   "hint": "Quebec : repas du soir",
+   "a": [
+    "souper"
+   ],
+   "en": "The evening meal is at six o'clock.",
+   "stage": 2
+  },
+  {
+   "q": "Mon ___, c'est Tremblay.",
+   "hint": "nom de famille",
+   "a": [
+    "nom"
+   ],
+   "en": "My family name is Tremblay.",
+   "stage": 2
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "Je voudrais un café, s'il vous plaît.",
+   "en": "I would like a coffee, please.",
+   "stage": 2
+  },
+  {
+   "fr": "Pour ici ou pour emporter?",
+   "en": "For here or to take away?",
+   "stage": 2
+  },
+  {
+   "fr": "Ça fait six dollars cinquante.",
+   "en": "That comes to six dollars fifty.",
+   "stage": 2
+  },
+  {
+   "fr": "J'ai vingt ans.",
+   "en": "I'm twenty years old.",
+   "stage": 2
+  },
+  {
+   "fr": "Nous avons faim.",
+   "en": "We are hungry.",
+   "stage": 2
+  },
+  {
+   "fr": "Il y a un café ici.",
+   "en": "There is a café here.",
+   "stage": 2
+  },
+  {
+   "fr": "Les amis sont à la maison.",
+   "en": "The friends are at the house.",
+   "stage": 2
+  },
+  {
+   "fr": "Voilà des cadeaux pour la fête.",
+   "en": "Here are some gifts for the party.",
+   "stage": 2
+  },
+  {
+   "fr": "Vous avez une carte d'identité?",
+   "en": "Do you have an ID card?",
+   "stage": 2
+  },
+  {
+   "fr": "Mon nom, c'est Tremblay.",
+   "en": "My family name is Tremblay.",
+   "stage": 2
+  },
+  {
+   "fr": "Je voudrais un chocolat chaud et un croissant.",
+   "en": "I would like a hot chocolate and a croissant.",
+   "stage": 2
+  },
+  {
+   "fr": "Les journaux sont pour le magasin.",
+   "en": "The newspapers are for the shop.",
+   "stage": 2
+  },
+  {
+   "fr": "Elle a raison.",
+   "en": "She is right.",
+   "stage": 2
+  },
+  {
+   "fr": "Il y a douze tables et un comptoir.",
+   "en": "There are twelve tables and a counter.",
+   "stage": 2
+  },
+  {
+   "fr": "Le souper est à six heures.",
+   "en": "The evening meal is at six o'clock.",
+   "stage": 2
+  },
+  {
+   "fr": "C'est combien?",
+   "en": "How much is it?",
+   "stage": 2
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "piasse",
+   "std": "dollar",
+   "en": "dollar",
+   "note": "casual",
+   "stage": 2
+  },
+  {
+   "qc": "cenne",
+   "std": "cent",
+   "en": "cent",
+   "note": "casual",
+   "stage": 2
+  },
+  {
+   "qc": "liqueur",
+   "std": "boisson gazeuse",
+   "en": "soft drink",
+   "note": "casual; in France, a sweet alcoholic drink",
+   "stage": 2
+  },
+  {
+   "qc": "breuvage",
+   "std": "boisson",
+   "en": "drink",
+   "note": "casual; criticized",
+   "stage": 2
+  },
+  {
+   "qc": "courriel",
+   "std": "courrier électronique",
+   "en": "email",
+   "note": "OQLF preferred; France also recommends courriel",
+   "stage": 2
+  },
+  {
+   "qc": "souper",
+   "std": "dîner (France)",
+   "en": "evening meal",
+   "note": "neutral; Quebec",
+   "stage": 2
+  },
+  {
+   "qc": "dîner",
+   "std": "déjeuner (France)",
+   "en": "lunch",
+   "note": "neutral; Quebec",
+   "stage": 2
+  },
+  {
+   "qc": "déjeuner",
+   "std": "petit-déjeuner (France)",
+   "en": "breakfast",
+   "note": "neutral; Quebec",
+   "stage": 2
+  },
+  {
+   "qc": "crème glacée",
+   "std": "glace",
+   "en": "ice cream",
+   "note": "neutral",
+   "stage": 2
+  }
+ ]
+}

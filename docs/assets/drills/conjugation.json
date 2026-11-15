@@ -71,6 +71,70 @@
    "answer": "sont",
    "en": "to be",
    "stage": 1
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "ai",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "as",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "il",
+   "answer": "a",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "a",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "avons",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "avez",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "ont",
+   "en": "to have",
+   "stage": 2
+  },
+  {
+   "verb": "avoir",
+   "tense": "présent",
+   "person": "elles",
+   "answer": "ont",
+   "en": "to have",
+   "stage": 2
   }
  ]
 }
