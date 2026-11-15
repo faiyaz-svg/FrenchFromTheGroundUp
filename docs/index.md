@@ -85,10 +85,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="5">
 <a class="fm-seg-name" href="05-the-past-what-happened/">5 · The past: what happened</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="Regular -ir and -re verbs"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Prendre, venir, boire and voir"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="The passé composé with avoir"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="Irregular past participles"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="05-the-past-what-happened/01-regular-ir-and-re-verbs/" data-lesson="05-the-past-what-happened/01-regular-ir-and-re-verbs/" title="Regular -ir and -re verbs"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="05-the-past-what-happened/02-prendre-venir-boire-voir/" data-lesson="05-the-past-what-happened/02-prendre-venir-boire-voir/" title="Prendre, venir, boire and voir"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="05-the-past-what-happened/03-passe-compose-avoir/" data-lesson="05-the-past-what-happened/03-passe-compose-avoir/" title="The passé composé with avoir"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="05-the-past-what-happened/04-irregular-participles/" data-lesson="05-the-past-what-happened/04-irregular-participles/" title="Irregular past participles"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="The passé composé with être"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="The passé composé: no, questions and agreement"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="Past time words"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

@@ -119,4 +119,4 @@ Mixing up *c'est* and *il est* in your own description. Use *c'est* for a genera
 
 - **Review**: a lesson that brings back earlier material and adds no new rule.
 
-Next: Regular -ir and -re verbs<!-- link: ../05-the-past-what-happened/01-regular-ir-and-re-verbs.md -->
+Next: [Regular -ir and -re verbs](../05-the-past-what-happened/01-regular-ir-and-re-verbs.md)

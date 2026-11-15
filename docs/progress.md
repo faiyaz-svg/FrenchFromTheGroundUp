@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 49 of 205. New lessons appear here as they are added.
+Lessons written so far: 53 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -66,3 +66,12 @@ Lessons written so far: 49 of 205. New lessons appear here as they are added.
 - [ ] [Following directions](04-people-places-and-directions/11-following-directions.md) (listen)
 - [ ] [A short self-introduction](04-people-places-and-directions/12-short-self-introduction.md) (write)
 - [ ] [A day in Montreal](04-people-places-and-directions/13-a-day-in-montreal.md) (listen, review)
+
+## A2 orange line
+
+### Stage 5: The past: what happened
+
+- [ ] [Regular -ir and -re verbs](05-the-past-what-happened/01-regular-ir-and-re-verbs.md) (grammar)
+- [ ] [Prendre, venir, boire and voir](05-the-past-what-happened/02-prendre-venir-boire-voir.md) (grammar)
+- [ ] [The passé composé with avoir](05-the-past-what-happened/03-passe-compose-avoir.md) (grammar)
+- [ ] [Irregular past participles](05-the-past-what-happened/04-irregular-participles.md) (grammar)

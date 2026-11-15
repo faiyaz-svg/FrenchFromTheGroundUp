@@ -9,10 +9,10 @@ Before this stage: Stages 1 to 4.
 <!-- lessons:start -->
 ## Lessons
 
-1. Regular -ir and -re verbs (not written yet) (grammar)
-2. Prendre, venir, boire and voir (not written yet) (grammar)
-3. The passé composé with avoir (not written yet) (grammar)
-4. Irregular past participles (not written yet) (grammar)
+1. [Regular -ir and -re verbs](01-regular-ir-and-re-verbs.md) (grammar)
+2. [Prendre, venir, boire and voir](02-prendre-venir-boire-voir.md) (grammar)
+3. [The passé composé with avoir](03-passe-compose-avoir.md) (grammar)
+4. [Irregular past participles](04-irregular-participles.md) (grammar)
 5. The passé composé with être (not written yet) (grammar)
 6. The passé composé: no, questions and agreement (not written yet) (grammar)
 7. Past time words (not written yet) (words)
