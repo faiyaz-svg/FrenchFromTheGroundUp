@@ -68,10 +68,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="04-people-places-and-directions/02-colours-sizes-and-position/" data-lesson="04-people-places-and-directions/02-colours-sizes-and-position/" title="Colours, sizes and where adjectives go"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="04-people-places-and-directions/03-possessives-and-family/" data-lesson="04-people-places-and-directions/03-possessives-and-family/" title="Possessives and family"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="04-people-places-and-directions/04-this-that-and-moi-toi/" data-lesson="04-people-places-and-directions/04-this-that-and-moi-toi/" title="This, that, and moi, toi"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="Prepositions of place"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="The futur proche"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="C&#x27;est or il est"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Asking for directions"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="04-people-places-and-directions/05-prepositions-of-place/" data-lesson="04-people-places-and-directions/05-prepositions-of-place/" title="Prepositions of place"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/06-futur-proche/" data-lesson="04-people-places-and-directions/06-futur-proche/" title="The futur proche"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/07-c-est-vs-il-est/" data-lesson="04-people-places-and-directions/07-c-est-vs-il-est/" title="C&#x27;est or il est"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/08-asking-directions/" data-lesson="04-people-places-and-directions/08-asking-directions/" title="Asking for directions"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="Metro maps and signs"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="The Quebec accent and street words"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="Following directions"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>

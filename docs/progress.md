@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 40 of 205. New lessons appear here as they are added.
+Lessons written so far: 44 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -57,3 +57,7 @@ Lessons written so far: 40 of 205. New lessons appear here as they are added.
 - [ ] [Colours, sizes and where adjectives go](04-people-places-and-directions/02-colours-sizes-and-position.md) (words)
 - [ ] [Possessives and family](04-people-places-and-directions/03-possessives-and-family.md) (grammar)
 - [ ] [This, that, and moi, toi](04-people-places-and-directions/04-this-that-and-moi-toi.md) (grammar)
+- [ ] [Prepositions of place](04-people-places-and-directions/05-prepositions-of-place.md) (grammar)
+- [ ] [The futur proche](04-people-places-and-directions/06-futur-proche.md) (grammar)
+- [ ] [C'est or il est](04-people-places-and-directions/07-c-est-vs-il-est.md) (grammar)
+- [ ] [Asking for directions](04-people-places-and-directions/08-asking-directions.md) (speak)
