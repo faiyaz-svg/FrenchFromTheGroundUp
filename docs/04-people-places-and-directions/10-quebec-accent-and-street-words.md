@@ -25,7 +25,7 @@ The second feature is **laxing**. The tense vowels /i/, /y/ and /u/ become short
 | *ligne* (line) | /liɲ/ | [lɪɲ] |
 | *limite* (limit) | /limit/ | [lɪmɪt] |
 
-The loosening happens mainly in **closed syllables**, which end in a consonant sound such as /p t k b d g m n ɲ f s ʃ l/. The OQLF says the consonants /ʁ z v ʒ/ do not trigger it. A syllable that ends in a vowel, as in *tu* or *rue*, keeps the tense vowel. When you hear a short, open vowel in *ligne* or *jupe*, it is the same word and the same spelling. Quebec vowels and diphthongs<!-- link: ../12-real-montreal/06-quebec-vowels-and-diphthongs.md --> comes back to the Quebec vowel system in much more detail.
+The loosening happens mainly in **closed syllables**, which end in a consonant sound such as /p t k b d g m n ɲ f s ʃ l/. The OQLF says the consonants /ʁ z v ʒ/ do not trigger it. A syllable that ends in a vowel, as in *tu* or *rue*, keeps the tense vowel. When you hear a short, open vowel in *ligne* or *jupe*, it is the same word and the same spelling. [Quebec vowels and diphthongs](../12-real-montreal/06-quebec-vowels-and-diphthongs.md) comes back to the Quebec vowel system in much more detail.
 
 ## Street words
 

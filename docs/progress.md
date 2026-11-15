@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 144 of 205. New lessons appear here as they are added.
+Lessons written so far: 148 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -189,3 +189,7 @@ Lessons written so far: 144 of 205. New lessons appear here as they are added.
 - [ ] [Indefinites, demonstratives and possessives](12-real-montreal/02-indefinites-demonstratives-possessives.md) (grammar)
 - [ ] [Casual speech in Quebec](12-real-montreal/03-quebec-casual-speech.md) (quebec)
 - [ ] [Slang: recognise all, use some](12-real-montreal/04-slang-recognise-all-use-some.md) (words)
+- [ ] [Sacres: recognise, don't use](12-real-montreal/05-sacres-recognise-dont-use.md) (quebec)
+- [ ] [Quebec vowels and diphthongs](12-real-montreal/06-quebec-vowels-and-diphthongs.md) (sounds)
+- [ ] [A real-speed conversation](12-real-montreal/07-real-speed-conversation.md) (listen)
+- [ ] [Role play: making plans](12-real-montreal/08-role-play-making-plans.md) (speak)

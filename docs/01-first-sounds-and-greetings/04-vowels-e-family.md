@@ -108,7 +108,7 @@ Reading *ai* as two vowels. In *lait* the spelling *ai* is one vowel, /ɛ/.
 
 ## In Quebec
 
-This lesson teaches the standard e vowels. The Quebec habits from the last lesson still apply to the words around them: in *petit* the *t* before /i/ is [t͡s], so the word is often [pət͡si]. Quebec vowels and diphthongs<!-- link: ../12-real-montreal/06-quebec-vowels-and-diphthongs.md --> returns to them later.
+This lesson teaches the standard e vowels. The Quebec habits from the last lesson still apply to the words around them: in *petit* the *t* before /i/ is [t͡s], so the word is often [pət͡si]. [Quebec vowels and diphthongs](../12-real-montreal/06-quebec-vowels-and-diphthongs.md) returns to them later.
 
 ## New words
 

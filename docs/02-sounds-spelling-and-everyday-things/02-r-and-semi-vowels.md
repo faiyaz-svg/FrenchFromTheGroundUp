@@ -125,7 +125,7 @@ Saying *huit* as "weet". The lips are tight and rounded as for /y/.
 
 The OQLF says the standard *r* in Quebec is the same back-of-the-mouth sound, /ʁ/, as elsewhere in French. It describes the rolled *r* made with the tongue tip as old-fashioned or tied to some regions, and says it lasted longest in western Quebec ([OQLF: prononciation de la lettre r](https://vitrinelinguistique.oqlf.gouv.qc.ca/24521/la-prononciation/prononciation-de-certaines-lettres/prononciation-de-la-lettre-r)). You may hear it from older speakers and in old songs. You do not need to say it.
 
-For *oi*, the OQLF says it sounds like /wa/ in many words and is longer when a consonant closes the syllable, as in *soir* ([OQLF: la suite de lettres oi](https://vitrinelinguistique.oqlf.gouv.qc.ca/24522/la-prononciation/prononciation-de-certaines-lettres/prononciation-de-la-suite-de-lettres-oi)). Quebec vowels and diphthongs<!-- link: ../12-real-montreal/06-quebec-vowels-and-diphthongs.md --> goes back to this later.
+For *oi*, the OQLF says it sounds like /wa/ in many words and is longer when a consonant closes the syllable, as in *soir* ([OQLF: la suite de lettres oi](https://vitrinelinguistique.oqlf.gouv.qc.ca/24522/la-prononciation/prononciation-de-certaines-lettres/prononciation-de-la-suite-de-lettres-oi)). [Quebec vowels and diphthongs](../12-real-montreal/06-quebec-vowels-and-diphthongs.md) goes back to this later.
 
 ## New words
 

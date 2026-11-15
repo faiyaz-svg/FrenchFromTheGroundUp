@@ -218,10 +218,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="12-real-montreal/02-indefinites-demonstratives-possessives/" data-lesson="12-real-montreal/02-indefinites-demonstratives-possessives/" title="Indefinites, demonstratives and possessives"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="12-real-montreal/03-quebec-casual-speech/" data-lesson="12-real-montreal/03-quebec-casual-speech/" title="Casual speech in Quebec"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="12-real-montreal/04-slang-recognise-all-use-some/" data-lesson="12-real-montreal/04-slang-recognise-all-use-some/" title="Slang: recognise all, use some"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="Sacres: recognise, don&#x27;t use"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="Quebec vowels and diphthongs"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="A real-speed conversation"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Role play: making plans"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="12-real-montreal/05-sacres-recognise-dont-use/" data-lesson="12-real-montreal/05-sacres-recognise-dont-use/" title="Sacres: recognise, don&#x27;t use"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/06-quebec-vowels-and-diphthongs/" data-lesson="12-real-montreal/06-quebec-vowels-and-diphthongs/" title="Quebec vowels and diphthongs"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/07-real-speed-conversation/" data-lesson="12-real-montreal/07-real-speed-conversation/" title="A real-speed conversation"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/08-role-play-making-plans/" data-lesson="12-real-montreal/08-role-play-making-plans/" title="Role play: making plans"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="A short history of Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="A cover letter"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="A magazine article"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>

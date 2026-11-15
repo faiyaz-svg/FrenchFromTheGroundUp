@@ -104,7 +104,7 @@ Sliding the vowel at the end of *beau*, as English "no" ends. Hold /o/ still.
 
 ## In Quebec
 
-This lesson teaches the standard sounds of these four vowels. Quebec vowels and diphthongs<!-- link: ../12-real-montreal/06-quebec-vowels-and-diphthongs.md --> returns to them later.
+This lesson teaches the standard sounds of these four vowels. [Quebec vowels and diphthongs](../12-real-montreal/06-quebec-vowels-and-diphthongs.md) returns to them later.
 
 ## New words
 
