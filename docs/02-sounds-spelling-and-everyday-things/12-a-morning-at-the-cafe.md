@@ -177,4 +177,4 @@ A menu in Quebec may say *boisson gazeuse* or *liqueur* for a soft drink, and *b
 
 - **Description**: a text that says what a place or person is like, with *être*, *avoir* and *il y a*, and no actions.
 
-Next: Rhythm and intonation<!-- link: ../03-verbs-and-questions/01-rhythm-and-intonation.md -->
+Next: [Rhythm and intonation](../03-verbs-and-questions/01-rhythm-and-intonation.md)

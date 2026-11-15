@@ -25,7 +25,7 @@ A verb changes its ending with the subject, and to **conjugate** a verb means to
 | *ils* | they | several men, or a mixed group |
 | *elles* | they | several women |
 
-There is a ninth word, *on*, which in speech often means "we" and takes the same verb form as *il* and *elle*. You will meet it fully in Regular -er verbs<!-- link: ../03-verbs-and-questions/02-regular-er-verbs.md -->. For now you only need the eight above.
+There is a ninth word, *on*, which in speech often means "we" and takes the same verb form as *il* and *elle*. You will meet it fully in [Regular -er verbs](../03-verbs-and-questions/02-regular-er-verbs.md). For now you only need the eight above.
 
 ### The present of être
 

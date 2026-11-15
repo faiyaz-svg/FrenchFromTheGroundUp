@@ -47,10 +47,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="3">
 <a class="fm-seg-name" href="03-verbs-and-questions/">3 · Verbs and questions</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="Rhythm and intonation"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Regular -er verbs"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Saying no: negation"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="Asking questions"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="03-verbs-and-questions/01-rhythm-and-intonation/" data-lesson="03-verbs-and-questions/01-rhythm-and-intonation/" title="Rhythm and intonation"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="03-verbs-and-questions/02-regular-er-verbs/" data-lesson="03-verbs-and-questions/02-regular-er-verbs/" title="Regular -er verbs"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="03-verbs-and-questions/03-negation/" data-lesson="03-verbs-and-questions/03-negation/" title="Saying no: negation"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="03-verbs-and-questions/04-asking-questions/" data-lesson="03-verbs-and-questions/04-asking-questions/" title="Asking questions"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Aller and faire"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Days, dates and big numbers"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="Telling the time"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

@@ -7,10 +7,10 @@ Before this stage: Stages 1 and 2.
 <!-- lessons:start -->
 ## Lessons
 
-1. Rhythm and intonation (not written yet) (sounds)
-2. Regular -er verbs (not written yet) (grammar)
-3. Saying no: negation (not written yet) (grammar)
-4. Asking questions (not written yet) (grammar)
+1. [Rhythm and intonation](01-rhythm-and-intonation.md) (sounds)
+2. [Regular -er verbs](02-regular-er-verbs.md) (grammar)
+3. [Saying no: negation](03-negation.md) (grammar)
+4. [Asking questions](04-asking-questions.md) (grammar)
 5. Aller and faire (not written yet) (grammar)
 6. Days, dates and big numbers (not written yet) (words)
 7. Telling the time (not written yet) (words)

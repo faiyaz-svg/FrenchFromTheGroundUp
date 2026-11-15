@@ -57,7 +57,7 @@ Two more phrases use a noun after them: *avoir besoin de* means "to need" and *a
 
 *Il y a* /il i a/ means both "there is" and "there are". It never changes, whatever follows. It is the word for saying that something exists or is in a place: *Il y a un café ici* (there is a café here), *Il y a des livres sur la table* (there are some books on the table). It has the form *a* of *avoir* inside it, and it is a fixed phrase, so you learn it as one unit.
 
-The pieces are *il*, *y* and *a*. The *y* here means "there", and it is a short word that you will see again. For now, treat *il y a* as a chunk. When you want to ask, raise your voice at the end: *Il y a un café ici?* A negative form, *il n'y a pas de*, will come in Saying no: negation<!-- link: ../03-verbs-and-questions/03-negation.md -->, and you only need to recognise it now.
+The pieces are *il*, *y* and *a*. The *y* here means "there", and it is a short word that you will see again. For now, treat *il y a* as a chunk. When you want to ask, raise your voice at the end: *Il y a un café ici?* A negative form, *il n'y a pas de*, will come in [Saying no: negation](../03-verbs-and-questions/03-negation.md), and you only need to recognise it now.
 
 Do not mix up *il y a* with *c'est*. Use *c'est* to name something you point at (*C'est un livre*) and *il y a* to say what is in a place (*Il y a un livre ici*).
 
