@@ -1,0 +1,5 @@
+# Rules and exact exceptions. Format: RULE_ID  or  RULE_ID | exact text   (comment after " #")
+# LanguageTool wants a no-break space before ? ! ; :, the book uses the OQLF no-space style for ? ! ; and our own typography check covers colons.
+FRENCH_WHITESPACE  # conflicts with the OQLF spacing choice
+# Register warning, not an error: the book teaches intonation questions (Tu vas où?) as normal spoken French.
+POSER_UNE_QUESTION

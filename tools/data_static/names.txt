@@ -1,0 +1,18 @@
+# Proper nouns the vocabulary ledger ignores (lowercase). Add as lessons need them.
+marc
+sophie
+julie
+luc
+anne
+paul
+marie
+karim
+amélie
+montréal
+québec
+canada
+france
+paris
+ontario
+toronto
+ottawa
