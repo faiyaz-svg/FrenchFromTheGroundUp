@@ -17,10 +17,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="01-first-sounds-and-greetings/02-typing-accents/" data-lesson="01-first-sounds-and-greetings/02-typing-accents/" title="Typing accents on your keyboard"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="01-first-sounds-and-greetings/03-vowels-a-i-ou-u/" data-lesson="01-first-sounds-and-greetings/03-vowels-a-i-ou-u/" title="The vowels a, i, ou and u"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="01-first-sounds-and-greetings/04-vowels-e-family/" data-lesson="01-first-sounds-and-greetings/04-vowels-e-family/" title="The e vowels"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="The vowels o and eu"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="Nasal vowels"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="The alphabet and spelling your name"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Greetings and politeness"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/05-vowels-o-and-eu/" data-lesson="01-first-sounds-and-greetings/05-vowels-o-and-eu/" title="The vowels o and eu"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/06-nasal-vowels/" data-lesson="01-first-sounds-and-greetings/06-nasal-vowels/" title="Nasal vowels"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/07-alphabet-and-spelling-names/" data-lesson="01-first-sounds-and-greetings/07-alphabet-and-spelling-names/" title="The alphabet and spelling your name"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/08-greetings-and-politeness/" data-lesson="01-first-sounds-and-greetings/08-greetings-and-politeness/" title="Greetings and politeness"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="Bonjour-hi and other Montreal greetings"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="Être and introducing yourself"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="Your first slow dialogues"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
