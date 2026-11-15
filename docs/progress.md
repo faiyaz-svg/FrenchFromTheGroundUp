@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 44 of 205. New lessons appear here as they are added.
+Lessons written so far: 49 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -61,3 +61,8 @@ Lessons written so far: 44 of 205. New lessons appear here as they are added.
 - [ ] [The futur proche](04-people-places-and-directions/06-futur-proche.md) (grammar)
 - [ ] [C'est or il est](04-people-places-and-directions/07-c-est-vs-il-est.md) (grammar)
 - [ ] [Asking for directions](04-people-places-and-directions/08-asking-directions.md) (speak)
+- [ ] [Metro maps and signs](04-people-places-and-directions/09-metro-maps-and-signs.md) (read)
+- [ ] [The Quebec accent and street words](04-people-places-and-directions/10-quebec-accent-and-street-words.md) (quebec)
+- [ ] [Following directions](04-people-places-and-directions/11-following-directions.md) (listen)
+- [ ] [A short self-introduction](04-people-places-and-directions/12-short-self-introduction.md) (write)
+- [ ] [A day in Montreal](04-people-places-and-directions/13-a-day-in-montreal.md) (listen, review)

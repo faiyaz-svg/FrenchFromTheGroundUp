@@ -8,7 +8,7 @@ The phrases come before the lessons that teach them, so use them as set sentence
 - [Ordering at a café](../02-sounds-spelling-and-everyday-things/08-ordering-at-a-cafe.md)
 - [Quebec words: dépanneur and café](../02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md)
 - [Asking for directions](../04-people-places-and-directions/08-asking-directions.md)
-- Metro maps and signs<!-- link: ../04-people-places-and-directions/09-metro-maps-and-signs.md -->
+- [Metro maps and signs](../04-people-places-and-directions/09-metro-maps-and-signs.md)
 - At the restaurant<!-- link: ../06-habits-memories-and-food/08-at-the-restaurant.md -->
 - At the doctor and the pharmacy<!-- link: ../07-pronouns-and-getting-things-done/07-doctor-and-pharmacy.md -->
 - At a hotel or an Airbnb<!-- link: ../07-pronouns-and-getting-things-done/08-hotel-or-airbnb.md -->

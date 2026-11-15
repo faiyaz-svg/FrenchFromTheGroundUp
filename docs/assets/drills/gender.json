@@ -557,6 +557,181 @@
    "en": "hour, time",
    "stage": 3,
    "elided": true
+  },
+  {
+   "noun": "manteau",
+   "answer": "le",
+   "en": "coat",
+   "stage": 4
+  },
+  {
+   "noun": "pantalon",
+   "answer": "le",
+   "en": "pants",
+   "stage": 4
+  },
+  {
+   "noun": "chemise",
+   "answer": "la",
+   "en": "shirt",
+   "stage": 4
+  },
+  {
+   "noun": "robe",
+   "answer": "la",
+   "en": "dress",
+   "stage": 4
+  },
+  {
+   "noun": "jupe",
+   "answer": "la",
+   "en": "skirt",
+   "stage": 4
+  },
+  {
+   "noun": "veste",
+   "answer": "la",
+   "en": "jacket",
+   "stage": 4
+  },
+  {
+   "noun": "taille",
+   "answer": "la",
+   "en": "size",
+   "stage": 4
+  },
+  {
+   "noun": "famille",
+   "answer": "la",
+   "en": "family",
+   "stage": 4
+  },
+  {
+   "noun": "tante",
+   "answer": "la",
+   "en": "aunt",
+   "stage": 4
+  },
+  {
+   "noun": "mère",
+   "answer": "la",
+   "en": "mother",
+   "stage": 4
+  },
+  {
+   "noun": "sœur",
+   "answer": "la",
+   "en": "sister",
+   "stage": 4
+  },
+  {
+   "noun": "coin",
+   "answer": "le",
+   "en": "corner",
+   "stage": 4
+  },
+  {
+   "noun": "pont",
+   "answer": "le",
+   "en": "bridge",
+   "stage": 4
+  },
+  {
+   "noun": "feu",
+   "answer": "le",
+   "en": "traffic light",
+   "stage": 4
+  },
+  {
+   "noun": "carrefour",
+   "answer": "le",
+   "en": "intersection",
+   "stage": 4
+  },
+  {
+   "noun": "quartier",
+   "answer": "le",
+   "en": "neighbourhood",
+   "stage": 4
+  },
+  {
+   "noun": "fleuve",
+   "answer": "le",
+   "en": "large river",
+   "stage": 4
+  },
+  {
+   "noun": "trottoir",
+   "answer": "le",
+   "en": "sidewalk",
+   "stage": 4
+  },
+  {
+   "noun": "montagne",
+   "answer": "la",
+   "en": "mountain",
+   "stage": 4
+  },
+  {
+   "noun": "côte",
+   "answer": "la",
+   "en": "hill street",
+   "stage": 4
+  },
+  {
+   "noun": "station",
+   "answer": "la",
+   "en": "station",
+   "stage": 4
+  },
+  {
+   "noun": "oncle",
+   "answer": "le",
+   "elided": true,
+   "en": "uncle",
+   "stage": 4
+  },
+  {
+   "noun": "église",
+   "answer": "la",
+   "elided": true,
+   "en": "church",
+   "stage": 4
+  },
+  {
+   "noun": "escalier",
+   "answer": "le",
+   "elided": true,
+   "en": "stairs",
+   "stage": 4
+  },
+  {
+   "noun": "ascenseur",
+   "answer": "le",
+   "elided": true,
+   "en": "elevator",
+   "stage": 4
+  },
+  {
+   "noun": "auto",
+   "answer": "la",
+   "elided": true,
+   "en": "car",
+   "stage": 4
+  },
+  {
+   "noun": "entrée",
+   "answer": "la",
+   "elided": true,
+   "en": "entrance",
+   "stage": 4
+  },
+  {
+   "noun": "autoroute",
+   "answer": "la",
+   "elided": true,
+   "en": "highway",
+   "stage": 4
   }
  ]
 }

@@ -14,7 +14,7 @@ Quebec and France share one grammar and one spelling. The differences are mostly
 
 | Area | What differs | Example | Taught in |
 |---|---|---|---|
-| Sounds | Some vowels are longer or change. *tu* /ty/ is often said [t͡sy] | The accent in a Montreal street | The Quebec accent and street words<!-- link: ../04-people-places-and-directions/10-quebec-accent-and-street-words.md --> and Quebec vowels and diphthongs<!-- link: ../12-real-montreal/06-quebec-vowels-and-diphthongs.md --> |
+| Sounds | Some vowels are longer or change. *tu* /ty/ is often said [t͡sy] | The accent in a Montreal street | [The Quebec accent and street words](../04-people-places-and-directions/10-quebec-accent-and-street-words.md) and Quebec vowels and diphthongs<!-- link: ../12-real-montreal/06-quebec-vowels-and-diphthongs.md --> |
 | Words | Some everyday words are different | *un dépanneur* (a corner store; France: *une supérette*) | [Quebec words: dépanneur and café](../02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md) |
 | Meal names | Quebec uses *déjeuner*, *dîner* and *souper* for breakfast, lunch and dinner. In France *déjeuner* is lunch and *dîner* is dinner | *On soupe à six heures.* | Table culture in Quebec<!-- link: ../06-habits-memories-and-food/09-quebec-table-culture.md --> |
 | Casual forms | Spoken shortcuts, such as *chu* for *je suis* | *Chu fatigué.* {qc} | Casual speech in Quebec<!-- link: ../12-real-montreal/03-quebec-casual-speech.md --> |

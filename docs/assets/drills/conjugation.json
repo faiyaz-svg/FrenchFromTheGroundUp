@@ -391,6 +391,198 @@
    "answer": "font",
    "en": "to do, to make",
    "stage": 3
+  },
+  {
+   "verb": "chercher",
+   "tense": "présent",
+   "person": "je",
+   "answer": "cherche",
+   "en": "to look for",
+   "stage": 4
+  },
+  {
+   "verb": "chercher",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "cherches",
+   "en": "to look for",
+   "stage": 4
+  },
+  {
+   "verb": "chercher",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "cherche",
+   "en": "to look for",
+   "stage": 4
+  },
+  {
+   "verb": "chercher",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "cherchons",
+   "en": "to look for",
+   "stage": 4
+  },
+  {
+   "verb": "chercher",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "cherchez",
+   "en": "to look for",
+   "stage": 4
+  },
+  {
+   "verb": "chercher",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "cherchent",
+   "en": "to look for",
+   "stage": 4
+  },
+  {
+   "verb": "regarder",
+   "tense": "présent",
+   "person": "je",
+   "answer": "regarde",
+   "en": "to watch, to look at",
+   "stage": 4
+  },
+  {
+   "verb": "regarder",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "regardes",
+   "en": "to watch, to look at",
+   "stage": 4
+  },
+  {
+   "verb": "regarder",
+   "tense": "présent",
+   "person": "on",
+   "answer": "regarde",
+   "en": "to watch, to look at",
+   "stage": 4
+  },
+  {
+   "verb": "regarder",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "regardons",
+   "en": "to watch, to look at",
+   "stage": 4
+  },
+  {
+   "verb": "regarder",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "regardez",
+   "en": "to watch, to look at",
+   "stage": 4
+  },
+  {
+   "verb": "regarder",
+   "tense": "présent",
+   "person": "elles",
+   "answer": "regardent",
+   "en": "to watch, to look at",
+   "stage": 4
+  },
+  {
+   "verb": "voyager",
+   "tense": "présent",
+   "person": "je",
+   "answer": "voyage",
+   "en": "to travel",
+   "stage": 4
+  },
+  {
+   "verb": "voyager",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "voyages",
+   "en": "to travel",
+   "stage": 4
+  },
+  {
+   "verb": "voyager",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "voyage",
+   "en": "to travel",
+   "stage": 4
+  },
+  {
+   "verb": "voyager",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "voyageons",
+   "en": "to travel",
+   "stage": 4
+  },
+  {
+   "verb": "voyager",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "voyagez",
+   "en": "to travel",
+   "stage": 4
+  },
+  {
+   "verb": "voyager",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "voyagent",
+   "en": "to travel",
+   "stage": 4
+  },
+  {
+   "verb": "marcher",
+   "tense": "présent",
+   "person": "je",
+   "answer": "marche",
+   "en": "to walk",
+   "stage": 4
+  },
+  {
+   "verb": "marcher",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "marches",
+   "en": "to walk",
+   "stage": 4
+  },
+  {
+   "verb": "marcher",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "marche",
+   "en": "to walk",
+   "stage": 4
+  },
+  {
+   "verb": "marcher",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "marchons",
+   "en": "to walk",
+   "stage": 4
+  },
+  {
+   "verb": "marcher",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "marchez",
+   "en": "to walk",
+   "stage": 4
+  },
+  {
+   "verb": "marcher",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "marchent",
+   "en": "to walk",
+   "stage": 4
   }
  ]
 }

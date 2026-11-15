@@ -244,6 +244,81 @@
    "fr": "Nous faisons les courses le vendredi.",
    "en": "We do the errands on Fridays.",
    "stage": 3
+  },
+  {
+   "fr": "Elle est jeune et très sérieuse.",
+   "en": "She is young and very serious.",
+   "stage": 4
+  },
+  {
+   "fr": "J'ai un petit chat noir.",
+   "en": "I have a small black cat.",
+   "stage": 4
+  },
+  {
+   "fr": "Mon frère habite à Toronto.",
+   "en": "My brother lives in Toronto.",
+   "stage": 4
+  },
+  {
+   "fr": "Voici ma sœur et mes parents.",
+   "en": "Here are my sister and my parents.",
+   "stage": 4
+  },
+  {
+   "fr": "Cet hôtel est près du parc.",
+   "en": "This hotel is near the park.",
+   "stage": 4
+  },
+  {
+   "fr": "Moi aussi, j'aime ce café.",
+   "en": "I like this café too.",
+   "stage": 4
+  },
+  {
+   "fr": "La banque est en face de la pharmacie.",
+   "en": "The bank is across from the pharmacy.",
+   "stage": 4
+  },
+  {
+   "fr": "Je vais travailler demain matin.",
+   "en": "I'm going to work tomorrow morning.",
+   "stage": 4
+  },
+  {
+   "fr": "Nous n'allons pas manger au restaurant.",
+   "en": "We are not going to eat at the restaurant.",
+   "stage": 4
+  },
+  {
+   "fr": "C'est un bon médecin.",
+   "en": "He is a good doctor.",
+   "stage": 4
+  },
+  {
+   "fr": "Tournez à gauche au feu.",
+   "en": "Turn left at the light.",
+   "stage": 4
+  },
+  {
+   "fr": "La station est à dix minutes à pied.",
+   "en": "The station is ten minutes away on foot.",
+   "stage": 4
+  },
+  {
+   "fr": "Pour aller à la banque, s'il vous plaît?",
+   "en": "How do I get to the bank, please?",
+   "stage": 4
+  },
+  {
+   "fr": "Je cherche un manteau gris foncé.",
+   "en": "I'm looking for a dark grey coat.",
+   "stage": 4
+  },
+  {
+   "fr": "Elle habite en France.",
+   "en": "She lives in France.",
+   "stage": 4
   }
  ]
 }

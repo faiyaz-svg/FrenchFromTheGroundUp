@@ -566,6 +566,213 @@
    ],
    "en": "I travel because I like it.",
    "stage": 3
+  },
+  {
+   "q": "Ma sœur est ___.",
+   "hint": "grand (féminin)",
+   "a": [
+    "grande"
+   ],
+   "en": "My sister is tall.",
+   "stage": 4
+  },
+  {
+   "q": "Ce sont des collègues ___.",
+   "hint": "sympa",
+   "a": [
+    "sympas"
+   ],
+   "en": "They are nice colleagues.",
+   "stage": 4
+  },
+  {
+   "q": "Elles sont ___.",
+   "hint": "heureux",
+   "a": [
+    "heureuses"
+   ],
+   "en": "They are happy.",
+   "stage": 4
+  },
+  {
+   "q": "Un ___ ami.",
+   "hint": "nouveau",
+   "a": [
+    "nouvel"
+   ],
+   "en": "A new friend.",
+   "stage": 4
+  },
+  {
+   "q": "Une ___ idée.",
+   "hint": "bon",
+   "a": [
+    "bonne"
+   ],
+   "en": "A good idea.",
+   "stage": 4
+  },
+  {
+   "q": "___ amie s'appelle Léa.",
+   "hint": "mon, ma",
+   "a": [
+    "Mon"
+   ],
+   "en": "My friend is called Léa.",
+   "stage": 4
+  },
+  {
+   "q": "Voici Marc et ___ sœur.",
+   "hint": "son, sa",
+   "a": [
+    "sa"
+   ],
+   "en": "Here are Marc and his sister.",
+   "stage": 4
+  },
+  {
+   "q": "Nous aimons ___ maison.",
+   "hint": "notre, nos",
+   "a": [
+    "notre"
+   ],
+   "en": "We like our house.",
+   "stage": 4
+  },
+  {
+   "q": "Ils aiment ___ enfants.",
+   "hint": "leur, leurs",
+   "a": [
+    "leurs"
+   ],
+   "en": "They love their children.",
+   "stage": 4
+  },
+  {
+   "q": "___ hôtel est grand.",
+   "hint": "ce, cet, cette",
+   "a": [
+    "Cet"
+   ],
+   "en": "This hotel is big.",
+   "stage": 4
+  },
+  {
+   "q": "___ chaise est jolie.",
+   "hint": "ce, cet, cette",
+   "a": [
+    "Cette"
+   ],
+   "en": "This chair is pretty.",
+   "stage": 4
+  },
+  {
+   "q": "Tu viens avec ___?",
+   "hint": "moi, me",
+   "a": [
+    "moi"
+   ],
+   "en": "Are you coming with me?",
+   "stage": 4
+  },
+  {
+   "q": "Ce sac est à ___.",
+   "hint": "elle",
+   "a": [
+    "elle"
+   ],
+   "en": "This bag is hers.",
+   "stage": 4
+  },
+  {
+   "q": "La banque est en face ___ parc.",
+   "hint": "de + le",
+   "a": [
+    "du"
+   ],
+   "en": "The bank is across from the park.",
+   "stage": 4
+  },
+  {
+   "q": "Elle habite ___ France.",
+   "hint": "à, en, au",
+   "a": [
+    "en"
+   ],
+   "en": "She lives in France.",
+   "stage": 4
+  },
+  {
+   "q": "Nous allons ___ États-Unis.",
+   "hint": "à, en, aux",
+   "a": [
+    "aux"
+   ],
+   "en": "We are going to the United States.",
+   "stage": 4
+  },
+  {
+   "q": "Je ___ manger tout de suite.",
+   "hint": "aller",
+   "a": [
+    "vais"
+   ],
+   "en": "I'm going to eat right away.",
+   "stage": 4
+  },
+  {
+   "q": "Nous ___ travailler demain.",
+   "hint": "aller",
+   "a": [
+    "allons"
+   ],
+   "en": "We are going to work tomorrow.",
+   "stage": 4
+  },
+  {
+   "q": "Il ___ médecin.",
+   "hint": "être",
+   "a": [
+    "est"
+   ],
+   "en": "He is a doctor.",
+   "stage": 4
+  },
+  {
+   "q": "___ un bon médecin.",
+   "hint": "il est, c'est",
+   "a": [
+    "C'est"
+   ],
+   "en": "He is a good doctor.",
+   "stage": 4
+  },
+  {
+   "q": "Continuez tout droit ___ feu.",
+   "hint": "jusqu'à + le",
+   "a": [
+    "jusqu'au"
+   ],
+   "en": "Keep going straight to the light.",
+   "stage": 4
+  },
+  {
+   "q": "Tournez à ___ au feu.",
+   "hint": "left",
+   "a": [
+    "gauche"
+   ],
+   "en": "Turn left at the light.",
+   "stage": 4
+  },
+  {
+   "q": "Je n'ai pas ___ sœur.",
+   "hint": "de, une",
+   "a": [
+    "de"
+   ],
+   "en": "I don't have a sister.",
+   "stage": 4
   }
  ]
 }

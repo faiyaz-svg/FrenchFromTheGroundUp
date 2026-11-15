@@ -56,7 +56,7 @@ You answer distance with minutes: *C'est à dix minutes à pied* ("It's ten minu
 
 ### Speaking in Quebec
 
-You will also hear *les lumières* for traffic lights in Montréal. The Quebec accent and street words<!-- link: 10-quebec-accent-and-street-words.md --> explains that word.
+You will also hear *les lumières* for traffic lights in Montréal. [The Quebec accent and street words](10-quebec-accent-and-street-words.md) explains that word.
 
 ## Hear it
 

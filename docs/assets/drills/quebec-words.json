@@ -139,6 +139,27 @@
    "en": "is it good?",
    "note": "casual",
    "stage": 3
+  },
+  {
+   "qc": "char",
+   "std": "voiture",
+   "en": "car",
+   "note": "Usito says it is criticized as non-standard",
+   "stage": 4
+  },
+  {
+   "qc": "lumière",
+   "std": "feu",
+   "en": "traffic light",
+   "note": "Usito says it is criticized as non-standard",
+   "stage": 4
+  },
+  {
+   "qc": "chum",
+   "std": "copain",
+   "en": "friend, boyfriend",
+   "note": "casual; Usito says it is familiar and criticized as non-standard",
+   "stage": 4
   }
  ]
 }

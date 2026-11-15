@@ -72,11 +72,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="04-people-places-and-directions/06-futur-proche/" data-lesson="04-people-places-and-directions/06-futur-proche/" title="The futur proche"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="04-people-places-and-directions/07-c-est-vs-il-est/" data-lesson="04-people-places-and-directions/07-c-est-vs-il-est/" title="C&#x27;est or il est"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="04-people-places-and-directions/08-asking-directions/" data-lesson="04-people-places-and-directions/08-asking-directions/" title="Asking for directions"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Metro maps and signs"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="The Quebec accent and street words"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Following directions"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="A short self-introduction"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="A day in Montreal"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="04-people-places-and-directions/09-metro-maps-and-signs/" data-lesson="04-people-places-and-directions/09-metro-maps-and-signs/" title="Metro maps and signs"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/10-quebec-accent-and-street-words/" data-lesson="04-people-places-and-directions/10-quebec-accent-and-street-words/" title="The Quebec accent and street words"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/11-following-directions/" data-lesson="04-people-places-and-directions/11-following-directions/" title="Following directions"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/12-short-self-introduction/" data-lesson="04-people-places-and-directions/12-short-self-introduction/" title="A short self-introduction"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/13-a-day-in-montreal/" data-lesson="04-people-places-and-directions/13-a-day-in-montreal/" title="A day in Montreal"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 </section>

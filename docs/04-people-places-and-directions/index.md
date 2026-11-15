@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 3.
 6. [The futur proche](06-futur-proche.md) (grammar)
 7. [C'est or il est](07-c-est-vs-il-est.md) (grammar)
 8. [Asking for directions](08-asking-directions.md) (speak)
-9. Metro maps and signs (not written yet) (read)
-10. The Quebec accent and street words (not written yet) (quebec)
-11. Following directions (not written yet) (listen)
-12. A short self-introduction (not written yet) (write)
-13. A day in Montreal (not written yet) (listen, review)
+9. [Metro maps and signs](09-metro-maps-and-signs.md) (read)
+10. [The Quebec accent and street words](10-quebec-accent-and-street-words.md) (quebec)
+11. [Following directions](11-following-directions.md) (listen)
+12. [A short self-introduction](12-short-self-introduction.md) (write)
+13. [A day in Montreal](13-a-day-in-montreal.md) (listen, review)
 
 <!-- lessons:end -->
 
