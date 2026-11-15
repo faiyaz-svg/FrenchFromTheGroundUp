@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 131 of 205. New lessons appear here as they are added.
+Lessons written so far: 135 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -173,3 +173,7 @@ Lessons written so far: 131 of 205. New lessons appear here as they are added.
 - [ ] [Reported speech](11-reporting-and-opinions/02-reported-speech.md) (grammar)
 - [ ] [Reported speech in the past](11-reporting-and-opinions/03-reported-speech-past.md) (grammar)
 - [ ] [The gérondif and the present participle](11-reporting-and-opinions/04-gerondif-and-participe-present.md) (grammar)
+- [ ] [Connectors for opinions](11-reporting-and-opinions/05-opinion-connectors.md) (words)
+- [ ] [News vocabulary](11-reporting-and-opinions/06-news-vocabulary.md) (words)
+- [ ] [Giving your opinion](11-reporting-and-opinions/07-giving-opinions.md) (speak)
+- [ ] [Making a complaint](11-reporting-and-opinions/08-complaints.md) (speak)

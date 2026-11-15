@@ -200,10 +200,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="11-reporting-and-opinions/02-reported-speech/" data-lesson="11-reporting-and-opinions/02-reported-speech/" title="Reported speech"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="11-reporting-and-opinions/03-reported-speech-past/" data-lesson="11-reporting-and-opinions/03-reported-speech-past/" title="Reported speech in the past"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="11-reporting-and-opinions/04-gerondif-and-participe-present/" data-lesson="11-reporting-and-opinions/04-gerondif-and-participe-present/" title="The gérondif and the present participle"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="Connectors for opinions"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="News vocabulary"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="Giving your opinion"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Making a complaint"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/05-opinion-connectors/" data-lesson="11-reporting-and-opinions/05-opinion-connectors/" title="Connectors for opinions"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/06-news-vocabulary/" data-lesson="11-reporting-and-opinions/06-news-vocabulary/" title="News vocabulary"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/07-giving-opinions/" data-lesson="11-reporting-and-opinions/07-giving-opinions/" title="Giving your opinion"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/08-complaints/" data-lesson="11-reporting-and-opinions/08-complaints/" title="Making a complaint"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="News and institutions in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="Radio news"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="Writing a complaint"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
