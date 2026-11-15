@@ -267,7 +267,20 @@
 
   // ---------- base path ----------
 
+  // The site root, worked out once from this script's own URL (javascripts/x.js).
+  // The __config base is relative to the first page loaded, so it goes stale
+  // after instant navigation; the script URL does not.
+  var FM_SITE_ROOT = (function () {
+    try {
+      var s = typeof document !== "undefined" && document.currentScript && document.currentScript.src
+      if (s) return new URL("../", s).href
+    } catch (e) { /* fall through */ }
+    return null
+  })()
+
   function baseUrl() {
+    if (FM_SITE_ROOT) return FM_SITE_ROOT
+
     try {
       var el = document.getElementById("__config")
       if (el) {
