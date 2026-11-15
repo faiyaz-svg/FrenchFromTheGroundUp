@@ -222,11 +222,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="12-real-montreal/06-quebec-vowels-and-diphthongs/" data-lesson="12-real-montreal/06-quebec-vowels-and-diphthongs/" title="Quebec vowels and diphthongs"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="12-real-montreal/07-real-speed-conversation/" data-lesson="12-real-montreal/07-real-speed-conversation/" title="A real-speed conversation"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="12-real-montreal/08-role-play-making-plans/" data-lesson="12-real-montreal/08-role-play-making-plans/" title="Role play: making plans"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="A short history of Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="A cover letter"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="A magazine article"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Fix the errors, B1"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="The B1 checkpoint"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="12-real-montreal/09-short-history-of-quebec/" data-lesson="12-real-montreal/09-short-history-of-quebec/" title="A short history of Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/10-cover-letter/" data-lesson="12-real-montreal/10-cover-letter/" title="A cover letter"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/11-magazine-article/" data-lesson="12-real-montreal/11-magazine-article/" title="A magazine article"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/12-fix-the-errors-b1/" data-lesson="12-real-montreal/12-fix-the-errors-b1/" title="Fix the errors, B1"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/13-b1-checkpoint/" data-lesson="12-real-montreal/13-b1-checkpoint/" title="The B1 checkpoint"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 </section>

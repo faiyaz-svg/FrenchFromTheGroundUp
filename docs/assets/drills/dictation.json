@@ -829,6 +829,81 @@
    "fr": "Un sondage montre que les électeurs sont inquiets.",
    "en": "A poll shows that voters are worried.",
    "stage": 11
+  },
+  {
+   "fr": "Ce qui compte, c'est le résultat.",
+   "en": "What matters is the result.",
+   "stage": 12
+  },
+  {
+   "fr": "Ce dont j'ai besoin, c'est d'une date.",
+   "en": "What I need is a date.",
+   "stage": 12
+  },
+  {
+   "fr": "Chacun son tour.",
+   "en": "Each in turn.",
+   "stage": 12
+  },
+  {
+   "fr": "Tout le monde est là.",
+   "en": "Everyone is here.",
+   "stage": 12
+  },
+  {
+   "fr": "Ma chambre est petite, mais la leur est grande.",
+   "en": "My room is small, but theirs is big.",
+   "stage": 12
+  },
+  {
+   "fr": "Je n'ai aucune idée.",
+   "en": "I have no idea.",
+   "stage": 12
+  },
+  {
+   "fr": "De toute façon, nous sommes contents.",
+   "en": "Anyway, we are happy.",
+   "stage": 12
+  },
+  {
+   "fr": "Tout compte fait, c'était une bonne soirée.",
+   "en": "All things considered, it was a good evening.",
+   "stage": 12
+  },
+  {
+   "fr": "Ça te tente d'aller dans un bar samedi?",
+   "en": "Do you feel like going to a bar on Saturday?",
+   "stage": 12
+  },
+  {
+   "fr": "Je suis désolé, je dois remettre ce rendez-vous.",
+   "en": "I'm sorry, I have to postpone this appointment.",
+   "stage": 12
+  },
+  {
+   "fr": "En 1608, Champlain fonde la ville de Québec.",
+   "en": "In 1608, Champlain founds Quebec City.",
+   "stage": 12
+  },
+  {
+   "fr": "Le traité de Paris cède la Nouvelle-France à la Grande-Bretagne.",
+   "en": "The Treaty of Paris cedes New France to Great Britain.",
+   "stage": 12
+  },
+  {
+   "fr": "Je vous écris pour poser ma candidature.",
+   "en": "I am writing to apply.",
+   "stage": 12
+  },
+  {
+   "fr": "Vous trouverez ci-joint mon curriculum vitæ.",
+   "en": "Please find my curriculum vitæ attached.",
+   "stage": 12
+  },
+  {
+   "fr": "La moitié des personnes pédalent pour gagner du temps.",
+   "en": "Half of the people ride to save time.",
+   "stage": 12
   }
  ]
 }

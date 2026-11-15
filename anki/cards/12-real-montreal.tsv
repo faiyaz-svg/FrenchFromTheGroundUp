@@ -1,0 +1,163 @@
+id	french	english	notes	tags
+l01-ce-qui	ce qui	what (subject)		b1 lesson01 grammar
+l01-ce-que	ce que	what (object)		b1 lesson01 grammar
+l01-ce-dont	ce dont	what (with de)		b1 lesson01 grammar
+l01-ce-a-quoi	ce à quoi	what (with à)		b1 lesson01 grammar
+l01-compter	compter	to matter, to count		b1 lesson01 grammar
+l01-signifier	signifier	to mean		b1 lesson01 grammar
+l01-concerner	concerner	to concern		b1 lesson01 grammar
+l01-impliquer	impliquer	to involve, to imply		b1 lesson01 grammar
+l01-entrainer	entraîner	to lead to, to cause		b1 lesson01 grammar
+l01-provoquer	provoquer	to provoke, to cause		b1 lesson01 grammar
+l01-causer	causer	to cause		b1 lesson01 grammar
+l01-resulter	résulter	to result	résulter de	b1 lesson01 grammar
+l01-viser	viser	to aim at		b1 lesson01 grammar
+l01-a-quoi-bon	à quoi bon	what is the use of		b1 lesson01 grammar
+l02-tout-toute-tous-toutes	tout, toute, tous, toutes	all, every, everything, completely	adjective, pronoun, adverb	b1 lesson02 grammar
+l02-chaque	chaque	each, every	always singular	b1 lesson02 grammar
+l02-chacun-chacune	chacun, chacune	each one		b1 lesson02 grammar
+l02-certain-certaine	certain, certaine	certain, some	certains, plural: some people	b1 lesson02 grammar
+l02-aucun-aucune	aucun, aucune	no, none	with ne	b1 lesson02 grammar
+l02-n-importe-qui	n'importe qui	anyone		b1 lesson02 grammar
+l02-n-importe-quoi	n'importe quoi	anything		b1 lesson02 grammar
+l02-n-importe-ou	n'importe où	anywhere		b1 lesson02 grammar
+l02-celui-celle-ceux-celles	celui, celle, ceux, celles	the one, the ones	needs -ci, -là, de, qui or que	b1 lesson02 grammar
+l02-ceci	ceci	this		b1 lesson02 grammar
+l02-cela	cela	that	spoken: ça	b1 lesson02 grammar
+l02-le-mien-la-mienne	le mien, la mienne	mine		b1 lesson02 grammar
+l02-le-tien-la-tienne	le tien, la tienne	yours (tu)		b1 lesson02 grammar
+l02-le-sien-la-sienne	le sien, la sienne	his, hers		b1 lesson02 grammar
+l02-le-notre-la-notre	le nôtre, la nôtre	ours		b1 lesson02 grammar
+l02-le-votre-la-votre	le vôtre, la vôtre	yours (vous)		b1 lesson02 grammar
+l02-le-leur-la-leur	le leur, la leur	theirs		b1 lesson02 grammar
+l02-quiconque	quiconque	whoever, anyone who	formal	b1 lesson02 grammar
+l02-tel-telle	tel, telle	such		b1 lesson02 grammar
+l02-autrui	autrui	other people	formal	b1 lesson02 grammar
+l03-t-as-t-es	t'as, t'es	you have, you are	casual, spoken, for tu as, tu es	b1 lesson03 quebec
+l03-i-y	i, y	he, they (before a verb)	casual Quebec, for il, ils	b1 lesson03 quebec
+l03-a	a	she (before a verb)	casual Quebec, for elle	b1 lesson03 quebec
+l03-faque-ca-fait-que	faque, ça fait que	so	casual Quebec, for alors, donc	b1 lesson03 quebec
+l03-mettons	mettons	let's say	casual Quebec, for disons	b1 lesson03 quebec
+l03-la	là	(particle at the end or in the middle of a phrase)	casual, spoken	b1 lesson03 quebec
+l03-asteure	asteure	now	casual Quebec, for maintenant	b1 lesson03 quebec
+l03-checker	checker	to check	casual Quebec, anglicism; standard: vérifier	b1 lesson03 quebec
+l04-tanne	tanné	fed up	Quebec, casual	b1 lesson04 words
+l04-pantoute	pantoute	not at all	Quebec, casual	b1 lesson04 words
+l04-tiguidou	tiguidou	perfect, great	Quebec, casual	b1 lesson04 words
+l04-avoir-de-la-misere	avoir de la misère	to have trouble	Quebec, casual	b1 lesson04 words
+l04-c-est-plate	c'est plate	it's dull, it's lame	Quebec, casual	b1 lesson04 words
+l04-niaiseux-niaiseuse	niaiseux, niaiseuse	foolish, silly	Quebec, casual; can insult	b1 lesson04 words
+l04-poche	poche	lousy, bad	Quebec, very casual	b1 lesson04 words
+l04-ecoeurant	écoeurant	great or disgusting	Quebec, casual; depends on context	b1 lesson04 words
+l04-capoter	capoter	to freak out, to be thrilled	Quebec, casual	b1 lesson04 words
+l04-magane	magané	worn out	Quebec, casual	b1 lesson04 words
+l04-pogner	pogner	to catch, to grab; to argue	Quebec, casual; many senses	b1 lesson04 words
+l04-achaler	achaler	to annoy	Quebec, casual	b1 lesson04 words
+l04-chialer	chialer	to complain nonstop	Quebec, casual	b1 lesson04 words
+l04-job	job	a job	Quebec, casual; feminine in Quebec, masculine in France; written: un emploi	b1 lesson04 words
+l04-boulot	boulot	work, job	no register label in Usito	b1 lesson04 words
+l04-bosser	bosser	to work	France, casual	b1 lesson04 words
+l04-taf	taf	work, job	casual	b1 lesson04 words
+l04-fric	fric	money	casual	b1 lesson04 words
+l04-flic	flic	cop	casual	b1 lesson04 words
+l04-bagnole	bagnole	car	casual	b1 lesson04 words
+l04-mec	mec	guy	France, casual	b1 lesson04 words
+l04-meuf	meuf	woman	France, casual (verlan)	b1 lesson04 words
+l04-relou	relou	annoying	France, casual (verlan)	b1 lesson04 words
+l05-un-sacre	un sacre	a sacre, a religious swear word	Quebec; recognise, don't use	b1 lesson05 quebec
+l05-sacrer	sacrer	to swear	Quebec	b1 lesson05 quebec
+l05-un-juron	un juron	a swear word		b1 lesson05 quebec
+l05-un-blaspheme	un blasphème	a blasphemy		b1 lesson05 quebec
+l05-tabarnak	tabarnak	(sacre, from tabernacle)	Quebec; vulgar; recognise only	b1 lesson05 quebec
+l05-calisse	câlisse	(sacre, from calice)	Quebec; vulgar; recognise only	b1 lesson05 quebec
+l05-crisse	crisse	(sacre, from Christ)	Quebec; vulgar; recognise only	b1 lesson05 quebec
+l05-ostie	ostie	(sacre, from hostie)	Quebec; vulgar; recognise only	b1 lesson05 quebec
+l05-sacrement	sacrement	(sacre, a sacrament)	Quebec; vulgar; recognise only	b1 lesson05 quebec
+l05-calvaire	calvaire	(sacre, a calvary)	Quebec; vulgar; recognise only	b1 lesson05 quebec
+l05-viarge	viarge	(sacre, from Vierge)	Quebec; vulgar; recognise only	b1 lesson05 quebec
+l05-caline	câline	(derived form of a sacre)	Quebec; recognise only	b1 lesson05 quebec
+l05-la-bienseance	la bienséance	propriety, good manners		b1 lesson05 quebec
+l06-une-diphtongue	une diphtongue	a diphthong		b1 lesson06 sounds
+l06-tendu-tendue	tendu, tendue	tense	for a vowel	b1 lesson06 sounds
+l06-relache-relachee	relâché, relâchée	lax, relaxed	for a vowel	b1 lesson06 sounds
+l06-une-syllabe	une syllabe	a syllable		b1 lesson06 sounds
+l06-une-syllabe-ouverte	une syllabe ouverte	an open syllable	ends in a vowel	b1 lesson06 sounds
+l06-une-syllabe-fermee	une syllabe fermée	a closed syllable	ends in a consonant	b1 lesson06 sounds
+l07-de-toute-facon	de toute façon	anyway, in any case		b1 lesson07 listen
+l07-en-tout-cas	en tout cas	anyway, in any case	to conclude	b1 lesson07 listen
+l07-tout-compte-fait	tout compte fait	all things considered		b1 lesson07 listen
+l07-en-fin-de-compte	en fin de compte	in the end		b1 lesson07 listen
+l07-je-te-jure	je te jure	I swear	casual	b1 lesson07 listen
+l07-je-veux-dire	je veux dire	I mean		b1 lesson07 listen
+l08-se-donner-rendez-vous	se donner rendez-vous	to arrange to meet		b1 lesson08 speak
+l08-passer-prendre	passer prendre	to pick up		b1 lesson08 speak
+l08-le-covoiturage	le covoiturage	carpooling		b1 lesson08 speak
+l08-un-bar	un bar	a bar		b1 lesson08 speak
+l08-ca-te-tente	ça te tente	do you feel like it		b1 lesson08 speak
+l08-ca-tombe-bien	ça tombe bien	that works out well		b1 lesson08 speak
+l08-ca-depend	ça dépend	it depends		b1 lesson08 speak
+l08-remettre	remettre	to postpone		b1 lesson08 speak
+l08-ca-fait-mon-affaire	ça fait mon affaire	that suits me		b1 lesson08 speak
+l09-un-peuple	un peuple	a people		b1 lesson09 quebec
+l09-une-colonie	une colonie	a colony		b1 lesson09 quebec
+l09-un-colon	un colon	a settler		b1 lesson09 quebec
+l09-un-explorateur-une-exploratrice	un explorateur, une exploratrice	an explorer		b1 lesson09 quebec
+l09-un-traite	un traité	a treaty		b1 lesson09 quebec
+l09-une-conquete	une conquête	a conquest		b1 lesson09 quebec
+l09-une-confederation	une confédération	a confederation		b1 lesson09 quebec
+l09-un-referendum	un référendum	a referendum		b1 lesson09 quebec
+l09-une-revolution	une révolution	a revolution		b1 lesson09 quebec
+l09-autochtone	autochtone	Indigenous		b1 lesson09 quebec
+l09-les-premieres-nations	les Premières Nations	the First Nations		b1 lesson09 quebec
+l09-un-territoire	un territoire	a territory		b1 lesson09 quebec
+l09-conquerir	conquérir	to conquer		b1 lesson09 quebec
+l09-coloniser	coloniser	to colonise		b1 lesson09 quebec
+l09-la-nouvelle-france	la Nouvelle-France	New France		b1 lesson09 quebec
+l10-un-candidat-une-candidate	un candidat, une candidate	a candidate		b1 lesson10 write
+l10-une-candidature	une candidature	an application		b1 lesson10 write
+l10-postuler	postuler	to apply		b1 lesson10 write
+l10-une-offre-d-emploi	une offre d'emploi	a job offer, a job ad		b1 lesson10 write
+l10-un-profil	un profil	a profile		b1 lesson10 write
+l10-une-experience	une expérience	an experience		b1 lesson10 write
+l10-une-formation	une formation	training, education		b1 lesson10 write
+l10-un-diplome	un diplôme	a diploma		b1 lesson10 write
+l10-un-stage	un stage	an internship		b1 lesson10 write
+l10-bilingue	bilingue	bilingual		b1 lesson10 write
+l10-motive-motivee	motivé, motivée	motivated		b1 lesson10 write
+l10-rigoureux-rigoureuse	rigoureux, rigoureuse	rigorous		b1 lesson10 write
+l10-autonome	autonome	independent		b1 lesson10 write
+l10-polyvalent-polyvalente	polyvalent, polyvalente	versatile		b1 lesson10 write
+l10-mettre-a-profit	mettre à profit	to make use of		b1 lesson10 write
+l10-faire-preuve-de	faire preuve de	to show		b1 lesson10 write
+l10-une-entrevue	une entrevue	an interview	also un entretien	b1 lesson10 write
+l11-un-phenomene	un phénomène	a phenomenon		b1 lesson11 read
+l11-de-plus-en-plus	de plus en plus	more and more		b1 lesson11 read
+l11-de-nos-jours	de nos jours	nowadays		b1 lesson11 read
+l11-s-averer	s'avérer	to turn out to be		b1 lesson11 read
+l11-constater	constater	to notice, to find		b1 lesson11 read
+l11-reveler	révéler	to reveal		b1 lesson11 read
+l11-demontrer	démontrer	to prove, to show		b1 lesson11 read
+l11-une-etude	une étude	a study		b1 lesson11 read
+l11-un-chercheur-une-chercheuse	un chercheur, une chercheuse	a researcher		b1 lesson11 read
+l11-un-pourcentage	un pourcentage	a percentage		b1 lesson11 read
+l11-la-moitie	la moitié	half		b1 lesson11 read
+l11-le-tiers	le tiers	a third		b1 lesson11 read
+l11-la-majorite	la majorité	the majority		b1 lesson11 read
+l11-environ	environ	about		b1 lesson11 read
+l11-pres-de	près de	nearly		b1 lesson11 read
+l11-le-deneigement	le déneigement	snow clearing		b1 lesson11 read
+l12-une-faute	une faute	a mistake		b1 lesson12 write
+l12-corriger	corriger	to correct		b1 lesson12 write
+l12-relire	relire	to reread, to proofread		b1 lesson12 write
+l12-une-relecture	une relecture	a proofreading pass		b1 lesson12 write
+l12-l-orthographe	l'orthographe	spelling	feminine	b1 lesson12 write
+l12-la-grammaire	la grammaire	grammar		b1 lesson12 write
+l12-la-conjugaison	la conjugaison	conjugation		b1 lesson12 write
+l12-la-ponctuation	la ponctuation	punctuation		b1 lesson12 write
+l12-un-anglicisme	un anglicisme	an anglicism	OQLF prefers emprunt à l'anglais	b1 lesson12 write
+l12-un-calque	un calque	a calque		b1 lesson12 write
+l13-un-point-fort	un point fort	a strength		b1 lesson13 speak
+l13-un-point-faible	un point faible	a weak point		b1 lesson13 speak
+l13-une-lacune	une lacune	a gap		b1 lesson13 speak
+l13-progresser	progresser	to make progress		b1 lesson13 speak
+l13-s-ameliorer	s'améliorer	to improve		b1 lesson13 speak

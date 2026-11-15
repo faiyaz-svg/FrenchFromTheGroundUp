@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 148 of 205. New lessons appear here as they are added.
+Lessons written so far: 153 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -193,3 +193,8 @@ Lessons written so far: 148 of 205. New lessons appear here as they are added.
 - [ ] [Quebec vowels and diphthongs](12-real-montreal/06-quebec-vowels-and-diphthongs.md) (sounds)
 - [ ] [A real-speed conversation](12-real-montreal/07-real-speed-conversation.md) (listen)
 - [ ] [Role play: making plans](12-real-montreal/08-role-play-making-plans.md) (speak)
+- [ ] [A short history of Quebec](12-real-montreal/09-short-history-of-quebec.md) (quebec)
+- [ ] [A cover letter](12-real-montreal/10-cover-letter.md) (write)
+- [ ] [A magazine article](12-real-montreal/11-magazine-article.md) (read)
+- [ ] [Fix the errors, B1](12-real-montreal/12-fix-the-errors-b1.md) (write)
+- [ ] [The B1 checkpoint](12-real-montreal/13-b1-checkpoint.md) (speak, review)

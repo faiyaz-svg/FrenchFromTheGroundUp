@@ -2153,6 +2153,210 @@
    "elided": true,
    "en": "borough",
    "stage": 11
+  },
+  {
+   "noun": "candidature",
+   "answer": "la",
+   "en": "application",
+   "stage": 12
+  },
+  {
+   "noun": "diplôme",
+   "answer": "le",
+   "en": "diploma",
+   "stage": 12
+  },
+  {
+   "noun": "stage",
+   "answer": "le",
+   "en": "internship",
+   "stage": 12
+  },
+  {
+   "noun": "formation",
+   "answer": "la",
+   "en": "training",
+   "stage": 12
+  },
+  {
+   "noun": "profil",
+   "answer": "le",
+   "en": "profile",
+   "stage": 12
+  },
+  {
+   "noun": "offre",
+   "answer": "la",
+   "elided": true,
+   "en": "offer",
+   "stage": 12
+  },
+  {
+   "noun": "expérience",
+   "answer": "la",
+   "elided": true,
+   "en": "experience",
+   "stage": 12
+  },
+  {
+   "noun": "peuple",
+   "answer": "le",
+   "en": "people",
+   "stage": 12
+  },
+  {
+   "noun": "colonie",
+   "answer": "la",
+   "en": "colony",
+   "stage": 12
+  },
+  {
+   "noun": "traité",
+   "answer": "le",
+   "en": "treaty",
+   "stage": 12
+  },
+  {
+   "noun": "conquête",
+   "answer": "la",
+   "en": "conquest",
+   "stage": 12
+  },
+  {
+   "noun": "territoire",
+   "answer": "le",
+   "en": "territory",
+   "stage": 12
+  },
+  {
+   "noun": "référendum",
+   "answer": "le",
+   "en": "referendum",
+   "stage": 12
+  },
+  {
+   "noun": "révolution",
+   "answer": "la",
+   "en": "revolution",
+   "stage": 12
+  },
+  {
+   "noun": "confédération",
+   "answer": "la",
+   "en": "confederation",
+   "stage": 12
+  },
+  {
+   "noun": "étude",
+   "answer": "la",
+   "elided": true,
+   "en": "study",
+   "stage": 12
+  },
+  {
+   "noun": "chercheur",
+   "answer": "le",
+   "en": "researcher",
+   "stage": 12
+  },
+  {
+   "noun": "pourcentage",
+   "answer": "le",
+   "en": "percentage",
+   "stage": 12
+  },
+  {
+   "noun": "majorité",
+   "answer": "la",
+   "en": "majority",
+   "stage": 12
+  },
+  {
+   "noun": "tiers",
+   "answer": "le",
+   "en": "third",
+   "stage": 12
+  },
+  {
+   "noun": "phénomène",
+   "answer": "le",
+   "en": "phenomenon",
+   "stage": 12
+  },
+  {
+   "noun": "déneigement",
+   "answer": "le",
+   "en": "snow clearing",
+   "stage": 12
+  },
+  {
+   "noun": "faute",
+   "answer": "la",
+   "en": "mistake",
+   "stage": 12
+  },
+  {
+   "noun": "relecture",
+   "answer": "la",
+   "en": "proofreading pass",
+   "stage": 12
+  },
+  {
+   "noun": "orthographe",
+   "answer": "la",
+   "elided": true,
+   "en": "spelling",
+   "stage": 12
+  },
+  {
+   "noun": "grammaire",
+   "answer": "la",
+   "en": "grammar",
+   "stage": 12
+  },
+  {
+   "noun": "conjugaison",
+   "answer": "la",
+   "en": "conjugation",
+   "stage": 12
+  },
+  {
+   "noun": "ponctuation",
+   "answer": "la",
+   "en": "punctuation",
+   "stage": 12
+  },
+  {
+   "noun": "calque",
+   "answer": "le",
+   "en": "calque",
+   "stage": 12
+  },
+  {
+   "noun": "anglicisme",
+   "answer": "le",
+   "elided": true,
+   "en": "anglicism",
+   "stage": 12
+  },
+  {
+   "noun": "lacune",
+   "answer": "la",
+   "en": "gap",
+   "stage": 12
+  },
+  {
+   "noun": "entrevue",
+   "answer": "la",
+   "elided": true,
+   "en": "interview",
+   "stage": 12
+  },
+  {
+   "noun": "moitié",
+   "answer": "la",
+   "en": "half",
+   "stage": 12
   }
  ]
 }

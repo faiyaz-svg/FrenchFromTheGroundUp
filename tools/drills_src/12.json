@@ -1,0 +1,832 @@
+{
+ "conjugation": [
+  {
+   "verb": "être",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "sois",
+   "en": "to be",
+   "stage": 12
+  },
+  {
+   "verb": "avoir",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "aies",
+   "en": "to have",
+   "stage": 12
+  },
+  {
+   "verb": "aller",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "aille",
+   "en": "to go",
+   "stage": 12
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "fassions",
+   "en": "to do, to make",
+   "stage": 12
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "subjonctif présent",
+   "person": "elle",
+   "answer": "puisse",
+   "en": "can, to be able to",
+   "stage": 12
+  },
+  {
+   "verb": "savoir",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "sache",
+   "en": "to know",
+   "stage": 12
+  },
+  {
+   "verb": "vouloir",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "veuilles",
+   "en": "to want",
+   "stage": 12
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "finissions",
+   "en": "to finish",
+   "stage": 12
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "preniez",
+   "en": "to take",
+   "stage": 12
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "viennent",
+   "en": "to come",
+   "stage": 12
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "serions",
+   "en": "to be",
+   "stage": 12
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "aurais",
+   "en": "to have",
+   "stage": 12
+  },
+  {
+   "verb": "aller",
+   "tense": "conditionnel présent",
+   "person": "elle",
+   "answer": "irait",
+   "en": "to go",
+   "stage": 12
+  },
+  {
+   "verb": "faire",
+   "tense": "conditionnel présent",
+   "person": "vous",
+   "answer": "feriez",
+   "en": "to do, to make",
+   "stage": 12
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "pourraient",
+   "en": "can, to be able to",
+   "stage": 12
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "voudrais",
+   "en": "to want",
+   "stage": 12
+  },
+  {
+   "verb": "postuler",
+   "tense": "conditionnel présent",
+   "person": "tu",
+   "answer": "postulerais",
+   "en": "to apply",
+   "stage": 12
+  },
+  {
+   "verb": "vérifier",
+   "tense": "conditionnel présent",
+   "person": "il",
+   "answer": "vérifierait",
+   "en": "to check",
+   "stage": 12
+  },
+  {
+   "verb": "postuler",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "postulerai",
+   "en": "to apply",
+   "stage": 12
+  },
+  {
+   "verb": "corriger",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "corrigerons",
+   "en": "to correct",
+   "stage": 12
+  },
+  {
+   "verb": "relire",
+   "tense": "futur simple",
+   "person": "vous",
+   "answer": "relirez",
+   "en": "to reread",
+   "stage": 12
+  },
+  {
+   "verb": "venir",
+   "tense": "futur simple",
+   "person": "elle",
+   "answer": "viendra",
+   "en": "to come",
+   "stage": 12
+  },
+  {
+   "verb": "relire",
+   "tense": "présent",
+   "person": "je",
+   "answer": "relis",
+   "en": "to reread",
+   "stage": 12
+  },
+  {
+   "verb": "relire",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "relisons",
+   "en": "to reread",
+   "stage": 12
+  },
+  {
+   "verb": "corriger",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "corrigez",
+   "en": "to correct",
+   "stage": 12
+  },
+  {
+   "verb": "compter",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "comptent",
+   "en": "to matter, to count",
+   "stage": 12
+  },
+  {
+   "verb": "vérifier",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "vérifies",
+   "en": "to check",
+   "stage": 12
+  },
+  {
+   "verb": "postuler",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a postulé",
+   "en": "to apply",
+   "stage": 12
+  },
+  {
+   "verb": "relire",
+   "tense": "passé composé",
+   "person": "elle",
+   "answer": "a relu",
+   "en": "to reread",
+   "stage": 12
+  },
+  {
+   "verb": "corriger",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "avons corrigé",
+   "en": "to correct",
+   "stage": 12
+  },
+  {
+   "verb": "finir",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais fini",
+   "en": "to finish",
+   "stage": 12
+  },
+  {
+   "verb": "aller",
+   "tense": "plus-que-parfait",
+   "person": "elle",
+   "answer": "était allée",
+   "en": "to go",
+   "stage": 12
+  }
+ ],
+ "gender": [
+  {
+   "noun": "candidature",
+   "answer": "la",
+   "en": "application",
+   "stage": 12
+  },
+  {
+   "noun": "diplôme",
+   "answer": "le",
+   "en": "diploma",
+   "stage": 12
+  },
+  {
+   "noun": "stage",
+   "answer": "le",
+   "en": "internship",
+   "stage": 12
+  },
+  {
+   "noun": "formation",
+   "answer": "la",
+   "en": "training",
+   "stage": 12
+  },
+  {
+   "noun": "profil",
+   "answer": "le",
+   "en": "profile",
+   "stage": 12
+  },
+  {
+   "noun": "offre",
+   "answer": "la",
+   "elided": true,
+   "en": "offer",
+   "stage": 12
+  },
+  {
+   "noun": "expérience",
+   "answer": "la",
+   "elided": true,
+   "en": "experience",
+   "stage": 12
+  },
+  {
+   "noun": "peuple",
+   "answer": "le",
+   "en": "people",
+   "stage": 12
+  },
+  {
+   "noun": "colonie",
+   "answer": "la",
+   "en": "colony",
+   "stage": 12
+  },
+  {
+   "noun": "traité",
+   "answer": "le",
+   "en": "treaty",
+   "stage": 12
+  },
+  {
+   "noun": "conquête",
+   "answer": "la",
+   "en": "conquest",
+   "stage": 12
+  },
+  {
+   "noun": "territoire",
+   "answer": "le",
+   "en": "territory",
+   "stage": 12
+  },
+  {
+   "noun": "référendum",
+   "answer": "le",
+   "en": "referendum",
+   "stage": 12
+  },
+  {
+   "noun": "révolution",
+   "answer": "la",
+   "en": "revolution",
+   "stage": 12
+  },
+  {
+   "noun": "confédération",
+   "answer": "la",
+   "en": "confederation",
+   "stage": 12
+  },
+  {
+   "noun": "étude",
+   "answer": "la",
+   "elided": true,
+   "en": "study",
+   "stage": 12
+  },
+  {
+   "noun": "chercheur",
+   "answer": "le",
+   "en": "researcher",
+   "stage": 12
+  },
+  {
+   "noun": "pourcentage",
+   "answer": "le",
+   "en": "percentage",
+   "stage": 12
+  },
+  {
+   "noun": "majorité",
+   "answer": "la",
+   "en": "majority",
+   "stage": 12
+  },
+  {
+   "noun": "tiers",
+   "answer": "le",
+   "en": "third",
+   "stage": 12
+  },
+  {
+   "noun": "phénomène",
+   "answer": "le",
+   "en": "phenomenon",
+   "stage": 12
+  },
+  {
+   "noun": "déneigement",
+   "answer": "le",
+   "en": "snow clearing",
+   "stage": 12
+  },
+  {
+   "noun": "faute",
+   "answer": "la",
+   "en": "mistake",
+   "stage": 12
+  },
+  {
+   "noun": "relecture",
+   "answer": "la",
+   "en": "proofreading pass",
+   "stage": 12
+  },
+  {
+   "noun": "orthographe",
+   "answer": "la",
+   "elided": true,
+   "en": "spelling",
+   "stage": 12
+  },
+  {
+   "noun": "grammaire",
+   "answer": "la",
+   "en": "grammar",
+   "stage": 12
+  },
+  {
+   "noun": "conjugaison",
+   "answer": "la",
+   "en": "conjugation",
+   "stage": 12
+  },
+  {
+   "noun": "ponctuation",
+   "answer": "la",
+   "en": "punctuation",
+   "stage": 12
+  },
+  {
+   "noun": "calque",
+   "answer": "le",
+   "en": "calque",
+   "stage": 12
+  },
+  {
+   "noun": "anglicisme",
+   "answer": "le",
+   "elided": true,
+   "en": "anglicism",
+   "stage": 12
+  },
+  {
+   "noun": "lacune",
+   "answer": "la",
+   "en": "gap",
+   "stage": 12
+  },
+  {
+   "noun": "entrevue",
+   "answer": "la",
+   "elided": true,
+   "en": "interview",
+   "stage": 12
+  },
+  {
+   "noun": "moitié",
+   "answer": "la",
+   "en": "half",
+   "stage": 12
+  }
+ ],
+ "fill": [
+  {
+   "q": "___ compte, c'est la sécurité.",
+   "hint": "ce qui, sujet",
+   "a": [
+    "Ce qui"
+   ],
+   "en": "What matters is safety.",
+   "stage": 12
+  },
+  {
+   "q": "___ je veux, c'est un plan clair.",
+   "hint": "ce que, objet",
+   "a": [
+    "Ce que"
+   ],
+   "en": "What I want is a clear plan.",
+   "stage": 12
+  },
+  {
+   "q": "___ j'ai besoin, c'est d'un bureau.",
+   "hint": "avoir besoin de",
+   "a": [
+    "Ce dont"
+   ],
+   "en": "What I need is a desk.",
+   "stage": 12
+  },
+  {
+   "q": "___ je pense, c'est mon voyage.",
+   "hint": "penser à",
+   "a": [
+    "Ce à quoi"
+   ],
+   "en": "What I am thinking about is my trip.",
+   "stage": 12
+  },
+  {
+   "q": "Elle travaille ___ la journée.",
+   "hint": "tout",
+   "a": [
+    "toute"
+   ],
+   "en": "She works all day.",
+   "stage": 12
+  },
+  {
+   "q": "Ils sont ___ arrivés.",
+   "hint": "tout, pronom",
+   "a": [
+    "tous"
+   ],
+   "en": "They have all arrived.",
+   "stage": 12
+  },
+  {
+   "q": "Ton sac est ici, mais ___ est là-bas.",
+   "hint": "mon sac",
+   "a": [
+    "le mien"
+   ],
+   "en": "Your bag is here, but mine is over there.",
+   "stage": 12
+  },
+  {
+   "q": "Ma chambre est petite, mais ___ est grande.",
+   "hint": "leur chambre",
+   "a": [
+    "la leur"
+   ],
+   "en": "My room is small, but theirs is big.",
+   "stage": 12
+  },
+  {
+   "q": "Ces chaises sont jolies, mais ___ de la cuisine sont plus confortables.",
+   "hint": "celui, celle, ceux, celles",
+   "a": [
+    "celles"
+   ],
+   "en": "These chairs are pretty, but the ones in the kitchen are more comfortable.",
+   "stage": 12
+  },
+  {
+   "q": "Je n'ai ___ idée.",
+   "hint": "aucun, aucune",
+   "a": [
+    "aucune"
+   ],
+   "en": "I have no idea.",
+   "stage": 12
+  },
+  {
+   "q": "___ jour, il marche une heure.",
+   "hint": "chaque, tout",
+   "a": [
+    "Chaque"
+   ],
+   "en": "Every day, he walks an hour.",
+   "stage": 12
+  },
+  {
+   "q": "Nous allons ___ les chiffres avant la réunion.",
+   "hint": "checker, standard",
+   "a": [
+    "vérifier"
+   ],
+   "en": "We will check the figures before the meeting.",
+   "stage": 12
+  },
+  {
+   "q": "En 1608, Champlain ___ la ville de Québec.",
+   "hint": "fonder, présent historique",
+   "a": [
+    "fonde"
+   ],
+   "en": "In 1608, Champlain founds Quebec City.",
+   "stage": 12
+  },
+  {
+   "q": "Il faut que tout le monde ___ présent.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "Everyone has to be present.",
+   "stage": 12
+  },
+  {
+   "q": "Je vous écris pour poser ma ___ au poste d'agent.",
+   "hint": "un candidat",
+   "a": [
+    "candidature"
+   ],
+   "en": "I am writing to apply for the position of agent.",
+   "stage": 12
+  },
+  {
+   "q": "Voici la collègue ___ je vous ai parlé.",
+   "hint": "parler de",
+   "a": [
+    "dont"
+   ],
+   "en": "Here is the colleague I told you about.",
+   "stage": 12
+  },
+  {
+   "q": "Je travaille ici ___ trois ans.",
+   "hint": "durée",
+   "a": [
+    "depuis"
+   ],
+   "en": "I have worked here for three years.",
+   "stage": 12
+  },
+  {
+   "q": "Si j'___ plus de temps, je viendrais.",
+   "hint": "avoir, imparfait",
+   "a": [
+    "avais"
+   ],
+   "en": "If I had more time, I would come.",
+   "stage": 12
+  },
+  {
+   "q": "Je vais ___ le client demain.",
+   "hint": "pas de préposition",
+   "a": [
+    "rencontrer"
+   ],
+   "en": "I am going to meet the client tomorrow.",
+   "stage": 12
+  },
+  {
+   "q": "Il faut que j'___ le temps de relire.",
+   "hint": "avoir, subjonctif",
+   "a": [
+    "aie"
+   ],
+   "en": "I need to have time to proofread.",
+   "stage": 12
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "Ce qui compte, c'est le résultat.",
+   "en": "What matters is the result.",
+   "stage": 12
+  },
+  {
+   "fr": "Ce dont j'ai besoin, c'est d'une date.",
+   "en": "What I need is a date.",
+   "stage": 12
+  },
+  {
+   "fr": "Chacun son tour.",
+   "en": "Each in turn.",
+   "stage": 12
+  },
+  {
+   "fr": "Tout le monde est là.",
+   "en": "Everyone is here.",
+   "stage": 12
+  },
+  {
+   "fr": "Ma chambre est petite, mais la leur est grande.",
+   "en": "My room is small, but theirs is big.",
+   "stage": 12
+  },
+  {
+   "fr": "Je n'ai aucune idée.",
+   "en": "I have no idea.",
+   "stage": 12
+  },
+  {
+   "fr": "De toute façon, nous sommes contents.",
+   "en": "Anyway, we are happy.",
+   "stage": 12
+  },
+  {
+   "fr": "Tout compte fait, c'était une bonne soirée.",
+   "en": "All things considered, it was a good evening.",
+   "stage": 12
+  },
+  {
+   "fr": "Ça te tente d'aller dans un bar samedi?",
+   "en": "Do you feel like going to a bar on Saturday?",
+   "stage": 12
+  },
+  {
+   "fr": "Je suis désolé, je dois remettre ce rendez-vous.",
+   "en": "I'm sorry, I have to postpone this appointment.",
+   "stage": 12
+  },
+  {
+   "fr": "En 1608, Champlain fonde la ville de Québec.",
+   "en": "In 1608, Champlain founds Quebec City.",
+   "stage": 12
+  },
+  {
+   "fr": "Le traité de Paris cède la Nouvelle-France à la Grande-Bretagne.",
+   "en": "The Treaty of Paris cedes New France to Great Britain.",
+   "stage": 12
+  },
+  {
+   "fr": "Je vous écris pour poser ma candidature.",
+   "en": "I am writing to apply.",
+   "stage": 12
+  },
+  {
+   "fr": "Vous trouverez ci-joint mon curriculum vitæ.",
+   "en": "Please find my curriculum vitæ attached.",
+   "stage": 12
+  },
+  {
+   "fr": "La moitié des personnes pédalent pour gagner du temps.",
+   "en": "Half of the people ride to save time.",
+   "stage": 12
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "asteure",
+   "std": "maintenant",
+   "en": "now",
+   "note": "casual; Université de Montréal lexicon",
+   "stage": 12
+  },
+  {
+   "qc": "icitte",
+   "std": "ici",
+   "en": "here",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "faque",
+   "std": "alors",
+   "en": "so",
+   "note": "casual; from ça fait que",
+   "stage": 12
+  },
+  {
+   "qc": "pantoute",
+   "std": "pas du tout",
+   "en": "not at all",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "tanné",
+   "std": "à bout de patience",
+   "en": "fed up",
+   "note": "familiar (Usito: fam.)",
+   "stage": 12
+  },
+  {
+   "qc": "tiguidou",
+   "std": "parfait",
+   "en": "perfect",
+   "note": "familiar (Usito: fam.)",
+   "stage": 12
+  },
+  {
+   "qc": "avoir de la misère",
+   "std": "avoir du mal",
+   "en": "to have trouble",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "achaler",
+   "std": "embêter",
+   "en": "to annoy",
+   "note": "familiar (Usito: fam.)",
+   "stage": 12
+  },
+  {
+   "qc": "chialer",
+   "std": "se plaindre sans arrêt",
+   "en": "to complain nonstop",
+   "note": "familiar (Usito: fam.)",
+   "stage": 12
+  },
+  {
+   "qc": "checker",
+   "std": "vérifier",
+   "en": "to check",
+   "note": "casual anglicism; write vérifier",
+   "stage": 12
+  },
+  {
+   "qc": "pis",
+   "std": "et",
+   "en": "and",
+   "note": "casual, spoken only",
+   "stage": 12
+  },
+  {
+   "qc": "mettons",
+   "std": "disons",
+   "en": "let's say",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "c'est plate",
+   "std": "c'est nul",
+   "en": "it's dull, it's lame",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "niaiseux",
+   "std": "peu intelligent",
+   "en": "silly, foolish",
+   "note": "familiar (Usito: fam.); can insult",
+   "stage": 12
+  },
+  {
+   "qc": "une job",
+   "std": "un emploi",
+   "en": "a job",
+   "note": "familiar; criticised anglicism; write emploi",
+   "stage": 12
+  }
+ ]
+}

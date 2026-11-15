@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 11.
 6. [Quebec vowels and diphthongs](06-quebec-vowels-and-diphthongs.md) (sounds)
 7. [A real-speed conversation](07-real-speed-conversation.md) (listen)
 8. [Role play: making plans](08-role-play-making-plans.md) (speak)
-9. A short history of Quebec (not written yet) (quebec)
-10. A cover letter (not written yet) (write)
-11. A magazine article (not written yet) (read)
-12. Fix the errors, B1 (not written yet) (write)
-13. The B1 checkpoint (not written yet) (speak, review)
+9. [A short history of Quebec](09-short-history-of-quebec.md) (quebec)
+10. [A cover letter](10-cover-letter.md) (write)
+11. [A magazine article](11-magazine-article.md) (read)
+12. [Fix the errors, B1](12-fix-the-errors-b1.md) (write)
+13. [The B1 checkpoint](13-b1-checkpoint.md) (speak, review)
 
 <!-- lessons:end -->
 

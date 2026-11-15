@@ -475,6 +475,111 @@
    "en": "on the other hand",
    "note": "frequent in Quebec speech; the OQLF accepts it for a plain contrast, en revanche suggests a compensation",
    "stage": 11
+  },
+  {
+   "qc": "asteure",
+   "std": "maintenant",
+   "en": "now",
+   "note": "casual; Université de Montréal lexicon",
+   "stage": 12
+  },
+  {
+   "qc": "icitte",
+   "std": "ici",
+   "en": "here",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "faque",
+   "std": "alors",
+   "en": "so",
+   "note": "casual; from ça fait que",
+   "stage": 12
+  },
+  {
+   "qc": "pantoute",
+   "std": "pas du tout",
+   "en": "not at all",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "tanné",
+   "std": "à bout de patience",
+   "en": "fed up",
+   "note": "familiar (Usito: fam.)",
+   "stage": 12
+  },
+  {
+   "qc": "tiguidou",
+   "std": "parfait",
+   "en": "perfect",
+   "note": "familiar (Usito: fam.)",
+   "stage": 12
+  },
+  {
+   "qc": "avoir de la misère",
+   "std": "avoir du mal",
+   "en": "to have trouble",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "achaler",
+   "std": "embêter",
+   "en": "to annoy",
+   "note": "familiar (Usito: fam.)",
+   "stage": 12
+  },
+  {
+   "qc": "chialer",
+   "std": "se plaindre sans arrêt",
+   "en": "to complain nonstop",
+   "note": "familiar (Usito: fam.)",
+   "stage": 12
+  },
+  {
+   "qc": "checker",
+   "std": "vérifier",
+   "en": "to check",
+   "note": "casual anglicism; write vérifier",
+   "stage": 12
+  },
+  {
+   "qc": "pis",
+   "std": "et",
+   "en": "and",
+   "note": "casual, spoken only",
+   "stage": 12
+  },
+  {
+   "qc": "mettons",
+   "std": "disons",
+   "en": "let's say",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "c'est plate",
+   "std": "c'est nul",
+   "en": "it's dull, it's lame",
+   "note": "casual",
+   "stage": 12
+  },
+  {
+   "qc": "niaiseux",
+   "std": "peu intelligent",
+   "en": "silly, foolish",
+   "note": "familiar (Usito: fam.); can insult",
+   "stage": 12
+  },
+  {
+   "qc": "une job",
+   "std": "un emploi",
+   "en": "a job",
+   "note": "familiar; criticised anglicism; write emploi",
+   "stage": 12
   }
  ]
 }

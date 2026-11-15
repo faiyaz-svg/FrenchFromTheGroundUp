@@ -2615,6 +2615,262 @@
    "answer": "a été",
    "en": "to be",
    "stage": 11
+  },
+  {
+   "verb": "être",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "sois",
+   "en": "to be",
+   "stage": 12
+  },
+  {
+   "verb": "avoir",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "aies",
+   "en": "to have",
+   "stage": 12
+  },
+  {
+   "verb": "aller",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "aille",
+   "en": "to go",
+   "stage": 12
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "fassions",
+   "en": "to do, to make",
+   "stage": 12
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "subjonctif présent",
+   "person": "elle",
+   "answer": "puisse",
+   "en": "can, to be able to",
+   "stage": 12
+  },
+  {
+   "verb": "savoir",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "sache",
+   "en": "to know",
+   "stage": 12
+  },
+  {
+   "verb": "vouloir",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "veuilles",
+   "en": "to want",
+   "stage": 12
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "finissions",
+   "en": "to finish",
+   "stage": 12
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "preniez",
+   "en": "to take",
+   "stage": 12
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "viennent",
+   "en": "to come",
+   "stage": 12
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "serions",
+   "en": "to be",
+   "stage": 12
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "aurais",
+   "en": "to have",
+   "stage": 12
+  },
+  {
+   "verb": "aller",
+   "tense": "conditionnel présent",
+   "person": "elle",
+   "answer": "irait",
+   "en": "to go",
+   "stage": 12
+  },
+  {
+   "verb": "faire",
+   "tense": "conditionnel présent",
+   "person": "vous",
+   "answer": "feriez",
+   "en": "to do, to make",
+   "stage": 12
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "pourraient",
+   "en": "can, to be able to",
+   "stage": 12
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "voudrais",
+   "en": "to want",
+   "stage": 12
+  },
+  {
+   "verb": "postuler",
+   "tense": "conditionnel présent",
+   "person": "tu",
+   "answer": "postulerais",
+   "en": "to apply",
+   "stage": 12
+  },
+  {
+   "verb": "vérifier",
+   "tense": "conditionnel présent",
+   "person": "il",
+   "answer": "vérifierait",
+   "en": "to check",
+   "stage": 12
+  },
+  {
+   "verb": "postuler",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "postulerai",
+   "en": "to apply",
+   "stage": 12
+  },
+  {
+   "verb": "corriger",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "corrigerons",
+   "en": "to correct",
+   "stage": 12
+  },
+  {
+   "verb": "relire",
+   "tense": "futur simple",
+   "person": "vous",
+   "answer": "relirez",
+   "en": "to reread",
+   "stage": 12
+  },
+  {
+   "verb": "venir",
+   "tense": "futur simple",
+   "person": "elle",
+   "answer": "viendra",
+   "en": "to come",
+   "stage": 12
+  },
+  {
+   "verb": "relire",
+   "tense": "présent",
+   "person": "je",
+   "answer": "relis",
+   "en": "to reread",
+   "stage": 12
+  },
+  {
+   "verb": "relire",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "relisons",
+   "en": "to reread",
+   "stage": 12
+  },
+  {
+   "verb": "corriger",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "corrigez",
+   "en": "to correct",
+   "stage": 12
+  },
+  {
+   "verb": "compter",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "comptent",
+   "en": "to matter, to count",
+   "stage": 12
+  },
+  {
+   "verb": "vérifier",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "vérifies",
+   "en": "to check",
+   "stage": 12
+  },
+  {
+   "verb": "postuler",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a postulé",
+   "en": "to apply",
+   "stage": 12
+  },
+  {
+   "verb": "relire",
+   "tense": "passé composé",
+   "person": "elle",
+   "answer": "a relu",
+   "en": "to reread",
+   "stage": 12
+  },
+  {
+   "verb": "corriger",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "avons corrigé",
+   "en": "to correct",
+   "stage": 12
+  },
+  {
+   "verb": "finir",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais fini",
+   "en": "to finish",
+   "stage": 12
+  },
+  {
+   "verb": "aller",
+   "tense": "plus-que-parfait",
+   "person": "elle",
+   "answer": "était allée",
+   "en": "to go",
+   "stage": 12
   }
  ]
 }
