@@ -2,7 +2,7 @@
 
 This page holds how to say and write numbers, money, days, dates, times and phone numbers in French. Use it when you are unsure of a form or need to check the spelling.
 
-Lessons for these: numbers from 0 to 100<!-- link: ../02-sounds-spelling-and-everyday-things/06-numbers-0-100.md -->, hearing numbers and prices<!-- link: ../02-sounds-spelling-and-everyday-things/10-hearing-numbers-and-prices.md -->, days, dates and big numbers<!-- link: ../03-verbs-and-questions/06-days-dates-and-big-numbers.md --> and telling the time<!-- link: ../03-verbs-and-questions/07-telling-time.md -->.
+Lessons for these: [numbers from 0 to 100](../02-sounds-spelling-and-everyday-things/06-numbers-0-100.md), hearing numbers and prices<!-- link: ../02-sounds-spelling-and-everyday-things/10-hearing-numbers-and-prices.md -->, days, dates and big numbers<!-- link: ../03-verbs-and-questions/06-days-dates-and-big-numbers.md --> and telling the time<!-- link: ../03-verbs-and-questions/07-telling-time.md -->.
 
 ## Numbers from 0 to 20
 

@@ -34,10 +34,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels/" data-lesson="02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels/" title="The French r and the semi-vowels"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison/" data-lesson="02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison/" title="Spelling rules and liaison"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/04-gender-and-articles/" data-lesson="02-sounds-spelling-and-everyday-things/04-gender-and-articles/" title="Gender and articles"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="Plurals, des and les"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="Numbers from 0 to 100"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="Avoir and il y a"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Ordering at a café"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/05-plurals-and-des-les/" data-lesson="02-sounds-spelling-and-everyday-things/05-plurals-and-des-les/" title="Plurals, des and les"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/06-numbers-0-100/" data-lesson="02-sounds-spelling-and-everyday-things/06-numbers-0-100/" title="Numbers from 0 to 100"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/07-avoir-and-il-y-a/" data-lesson="02-sounds-spelling-and-everyday-things/07-avoir-and-il-y-a/" title="Avoir and il y a"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/08-ordering-at-a-cafe/" data-lesson="02-sounds-spelling-and-everyday-things/08-ordering-at-a-cafe/" title="Ordering at a café"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="Quebec words: dépanneur and café"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="Hearing numbers and prices"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="Filling in forms"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>

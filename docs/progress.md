@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 16 of 205. New lessons appear here as they are added.
+Lessons written so far: 20 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -27,3 +27,7 @@ Lessons written so far: 16 of 205. New lessons appear here as they are added.
 - [ ] [The French r and the semi-vowels](02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels.md) (sounds)
 - [ ] [Spelling rules and liaison](02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison.md) (sounds)
 - [ ] [Gender and articles](02-sounds-spelling-and-everyday-things/04-gender-and-articles.md) (grammar)
+- [ ] [Plurals, des and les](02-sounds-spelling-and-everyday-things/05-plurals-and-des-les.md) (grammar)
+- [ ] [Numbers from 0 to 100](02-sounds-spelling-and-everyday-things/06-numbers-0-100.md) (words)
+- [ ] [Avoir and il y a](02-sounds-spelling-and-everyday-things/07-avoir-and-il-y-a.md) (grammar)
+- [ ] [Ordering at a café](02-sounds-spelling-and-everyday-things/08-ordering-at-a-cafe.md) (speak)
