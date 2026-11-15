@@ -1,0 +1,349 @@
+# The lesson map for the whole book, in reading order.
+# tools/build_nav.py reads this file and updates the nav in mkdocs.yml,
+# docs/progress.md, the home line map, docs/assets/lines.json and the lesson
+# list in each stage's index.md.
+# The start-here, practice and reference pages are listed in build_nav.py, not here.
+#
+# Every stage is a flat folder: docs/<folder>/<NN>-<slug>.md
+# A lesson entry is [slug, title, flags]. flags holds exactly one area:
+#   sounds, grammar, words, listen, speak, read, write, quebec
+# and can also hold "review" (the last lesson of a stage).
+# Each folder has a level: a1 (green line), a2 (orange), b1 (yellow), b2 (blue).
+
+folders:
+  # A1, green line
+  - folder: 01-first-sounds-and-greetings
+    level: a1
+    title: "First sounds and greetings"
+    tab: "1 Sounds"
+    summary: "The sounds and spelling of French, typing accents, the first greetings, être, and your first conversation in Montreal."
+    before: "Start here. Nothing else."
+    lessons:
+      - [french-sound-map, "How French spelling, sounds and rhythm work", [sounds]]
+      - [typing-accents, "Typing accents on your keyboard", [write]]
+      - [vowels-a-i-ou-u, "The vowels a, i, ou and u", [sounds]]
+      - [vowels-e-family, "The e vowels", [sounds]]
+      - [vowels-o-and-eu, "The vowels o and eu", [sounds]]
+      - [nasal-vowels, "Nasal vowels", [sounds]]
+      - [alphabet-and-spelling-names, "The alphabet and spelling your name", [words]]
+      - [greetings-and-politeness, "Greetings and politeness", [speak]]
+      - [bonjour-hi-montreal-greetings, "Bonjour-hi and other Montreal greetings", [quebec]]
+      - [etre-and-introductions, "Être and introducing yourself", [grammar]]
+      - [first-slow-dialogues, "Your first slow dialogues", [listen]]
+      - [meet-someone-in-montreal, "Meet someone in Montreal", [speak, review]]
+
+  - folder: 02-sounds-spelling-and-everyday-things
+    level: a1
+    title: "Sounds, spelling and everyday things"
+    tab: "2 Things"
+    summary: "Consonants, the French r, liaison, gender, plurals, numbers to 100, avoir, and ordering at a café."
+    before: "Stage 1."
+    lessons:
+      - [consonants, "French consonants", [sounds]]
+      - [r-and-semi-vowels, "The French r and the semi-vowels", [sounds]]
+      - [spelling-sound-rules-and-liaison, "Spelling rules and liaison", [sounds]]
+      - [gender-and-articles, "Gender and articles", [grammar]]
+      - [plurals-and-des-les, "Plurals, des and les", [grammar]]
+      - [numbers-0-100, "Numbers from 0 to 100", [words]]
+      - [avoir-and-il-y-a, "Avoir and il y a", [grammar]]
+      - [ordering-at-a-cafe, "Ordering at a café", [speak]]
+      - [quebec-dep-and-cafe-words, "Quebec words: dépanneur and café", [quebec]]
+      - [hearing-numbers-and-prices, "Hearing numbers and prices", [listen]]
+      - [filling-in-forms, "Filling in forms", [write]]
+      - [a-morning-at-the-cafe, "A morning at the café", [read, review]]
+
+  - folder: 03-verbs-and-questions
+    level: a1
+    title: "Verbs and questions"
+    tab: "3 Verbs"
+    summary: "Rhythm and intonation, regular -er verbs, negation, questions, aller and faire, dates, time, and making plans."
+    before: "Stages 1 and 2."
+    lessons:
+      - [rhythm-and-intonation, "Rhythm and intonation", [sounds]]
+      - [regular-er-verbs, "Regular -er verbs", [grammar]]
+      - [negation, "Saying no: negation", [grammar]]
+      - [asking-questions, "Asking questions", [grammar]]
+      - [aller-and-faire, "Aller and faire", [grammar]]
+      - [days-dates-and-big-numbers, "Days, dates and big numbers", [words]]
+      - [telling-time, "Telling the time", [words]]
+      - [making-plans, "Making plans", [speak]]
+      - [texting-to-make-plans, "Texting to make plans", [write]]
+      - [quebec-casual-questions, "Casual questions in Quebec", [quebec]]
+      - [hearing-times-and-plans, "Hearing times and plans", [listen]]
+      - [a-weekend-plan, "A weekend plan", [speak, review]]
+
+  - folder: 04-people-places-and-directions
+    level: a1
+    title: "People, places and directions"
+    tab: "4 Places"
+    summary: "Adjectives, colours, family, possessives, places, the near future, directions, and a day in Montreal."
+    before: "Stages 1 to 3."
+    lessons:
+      - [adjectives-agreement, "Adjectives and agreement", [grammar]]
+      - [colours-sizes-and-position, "Colours, sizes and where adjectives go", [words]]
+      - [possessives-and-family, "Possessives and family", [grammar]]
+      - [this-that-and-moi-toi, "This, that, and moi, toi", [grammar]]
+      - [prepositions-of-place, "Prepositions of place", [grammar]]
+      - [futur-proche, "The futur proche", [grammar]]
+      - [c-est-vs-il-est, "C'est or il est", [grammar]]
+      - [asking-directions, "Asking for directions", [speak]]
+      - [metro-maps-and-signs, "Metro maps and signs", [read]]
+      - [quebec-accent-and-street-words, "The Quebec accent and street words", [quebec]]
+      - [following-directions, "Following directions", [listen]]
+      - [short-self-introduction, "A short self-introduction", [write]]
+      - [a-day-in-montreal, "A day in Montreal", [listen, review]]
+
+  # A2, orange line
+  - folder: 05-the-past-what-happened
+    level: a2
+    title: "The past: what happened"
+    tab: "5 Past"
+    summary: "Regular -ir and -re verbs, the passé composé with avoir and être, past time words, and telling a story."
+    before: "Stages 1 to 4."
+    lessons:
+      - [regular-ir-and-re-verbs, "Regular -ir and -re verbs", [grammar]]
+      - [prendre-venir-boire-voir, "Prendre, venir, boire and voir", [grammar]]
+      - [passe-compose-avoir, "The passé composé with avoir", [grammar]]
+      - [irregular-participles, "Irregular past participles", [grammar]]
+      - [passe-compose-etre, "The passé composé with être", [grammar]]
+      - [pc-negation-questions-agreement, "The passé composé: no, questions and agreement", [grammar]]
+      - [past-time-words, "Past time words", [words]]
+      - [telling-about-your-weekend, "Telling about your weekend", [speak]]
+      - [quebec-everyday-nouns, "Everyday nouns in Quebec", [quebec]]
+      - [listening-to-a-story, "Listening to a story", [listen]]
+      - [message-about-yesterday, "A message about yesterday", [write]]
+      - [a-weekend-in-quebec-city, "A weekend in Quebec City", [speak, review]]
+
+  - folder: 06-habits-memories-and-food
+    level: a2
+    title: "Habits, memories and food"
+    tab: "6 Food"
+    summary: "Partitive articles, modal verbs, food words, reflexive verbs, the imparfait, and eating out."
+    before: "Stages 1 to 5."
+    lessons:
+      - [partitive-articles, "Partitive articles: du, de la, des", [grammar]]
+      - [vouloir-pouvoir-devoir, "Vouloir, pouvoir and devoir", [grammar]]
+      - [food-shopping-and-quantities, "Food, shopping and quantities", [words]]
+      - [reflexive-verbs, "Reflexive verbs", [grammar]]
+      - [imparfait, "The imparfait", [grammar]]
+      - [imparfait-vs-passe-compose, "Imparfait or passé composé", [grammar]]
+      - [adverbs-in-ment, "Adverbs ending in -ment", [grammar]]
+      - [at-the-restaurant, "At the restaurant", [speak]]
+      - [quebec-table-culture, "Table culture in Quebec", [quebec]]
+      - [casual-speech-at-the-resto, "Casual speech at the resto", [listen]]
+      - [describing-your-childhood, "Describing your childhood", [write]]
+      - [menus-and-recipes, "Menus and recipes", [read]]
+      - [dinner-with-friends, "Dinner with friends", [speak, review]]
+
+  - folder: 07-pronouns-and-getting-things-done
+    level: a2
+    title: "Pronouns and getting things done"
+    tab: "7 Pronouns"
+    summary: "Object pronouns, y and en, the imperative, health words, and handling the doctor, the hotel and travel problems."
+    before: "Stages 1 to 6."
+    lessons:
+      - [direct-object-pronouns, "Direct object pronouns", [grammar]]
+      - [indirect-object-pronouns, "Indirect object pronouns", [grammar]]
+      - [y-and-en, "The pronouns y and en", [grammar]]
+      - [imperative, "The imperative", [grammar]]
+      - [savoir-connaitre-dire-lire-ecrire, "Savoir, connaître, dire, lire and écrire", [grammar]]
+      - [body-health-and-pharmacy, "The body, health and the pharmacy", [words]]
+      - [doctor-and-pharmacy, "At the doctor and the pharmacy", [speak]]
+      - [hotel-or-airbnb, "At a hotel or an Airbnb", [speak]]
+      - [health-care-in-quebec-as-a-visitor, "Health care in Quebec for a visitor", [quebec]]
+      - [phone-messages-and-announcements, "Phone messages and announcements", [listen]]
+      - [short-booking-email, "A short booking email", [write]]
+      - [notices-and-instructions, "Notices and instructions", [read]]
+      - [solving-problems-while-travelling, "Solving problems while travelling", [speak, review]]
+
+  - folder: 08-comparing-duration-and-settling-in
+    level: a2
+    title: "Comparing, duration and settling in"
+    tab: "8 Settling in"
+    summary: "Comparatives, depuis and pendant, relative pronouns, weather, housing, real-speed listening, and a long weekend in Montreal."
+    before: "Stages 1 to 7."
+    lessons:
+      - [comparatives, "Comparatives", [grammar]]
+      - [superlatives, "Superlatives", [grammar]]
+      - [depuis-il-y-a-pendant, "Depuis, il y a and pendant", [grammar]]
+      - [relative-qui-que, "The relative pronouns qui and que", [grammar]]
+      - [verbs-with-a-and-de, "Verbs followed by à and de", [grammar]]
+      - [weather-and-seasons, "Weather and seasons", [words]]
+      - [small-talk-weather-and-hockey, "Small talk: weather and hockey", [speak]]
+      - [quebec-hockey-and-holidays, "Hockey and holidays in Quebec", [quebec]]
+      - [housing-words, "Housing words", [words]]
+      - [phoning-about-an-apartment, "Phoning about an apartment", [speak]]
+      - [real-speed-intro, "Listening at real speed", [listen]]
+      - [informal-email, "An informal email", [write]]
+      - [short-news-items, "Short news items", [read]]
+      - [a-long-weekend-in-montreal, "A long weekend in Montreal", [quebec, review]]
+
+  # B1, yellow line
+  - folder: 09-work-and-the-future
+    level: b1
+    title: "Work and the future"
+    tab: "9 Work"
+    summary: "The futur simple, the conditionnel, si clauses, and the French of phone calls, offices and work emails."
+    before: "Stages 1 to 8."
+    lessons:
+      - [futur-simple-regular, "The futur simple: regular verbs", [grammar]]
+      - [futur-simple-irregular, "The futur simple: irregular verbs", [grammar]]
+      - [conditionnel-politeness, "The conditionnel for politeness", [grammar]]
+      - [si-clauses-hypotheses, "Si clauses and hypotheses", [grammar]]
+      - [phone-calls-at-work, "Phone calls at work", [speak]]
+      - [serving-the-public, "Serving the public", [speak]]
+      - [office-and-meeting-words, "Office and meeting words", [words]]
+      - [quebec-work-culture, "Work culture in Quebec", [quebec]]
+      - [listening-to-phone-calls, "Listening to phone calls", [listen]]
+      - [work-email-basics, "Work email basics", [write]]
+      - [workplace-documents, "Workplace documents", [read]]
+      - [invitations-and-follow-ups, "Invitations and follow-ups", [write]]
+      - [a-day-at-the-office, "A day at the office", [speak, review]]
+
+  - folder: 10-complex-sentences-and-requests
+    level: b1
+    title: "Complex sentences and requests"
+    tab: "10 Requests"
+    summary: "The plus-que-parfait, dont, où, lequel, the first subjunctive, pronoun order, and formal requests."
+    before: "Stages 1 to 9."
+    lessons:
+      - [plus-que-parfait, "The plus-que-parfait", [grammar]]
+      - [relative-dont-and-ou, "The relative pronouns dont and où", [grammar]]
+      - [relative-lequel, "The relative pronoun lequel", [grammar]]
+      - [subjunctive-il-faut-que, "The subjunctive after il faut que", [grammar]]
+      - [subjunctive-vouloir-que-emotion, "The subjunctive: wishes and feelings", [grammar]]
+      - [pronoun-order, "Pronoun order", [grammar]]
+      - [agreeing-in-meetings, "Agreeing and disagreeing in meetings", [speak]]
+      - [at-the-bank, "At the bank", [speak]]
+      - [quebec-music-and-tv, "Music and TV in Quebec", [quebec]]
+      - [radio-interview, "A radio interview", [listen]]
+      - [formal-request, "A formal request", [write]]
+      - [banking-and-admin-words, "Banking and admin words", [words]]
+      - [handling-a-request, "Handling a request", [write, review]]
+
+  - folder: 11-reporting-and-opinions
+    level: b1
+    title: "Reporting and opinions"
+    tab: "11 Opinions"
+    summary: "The passive, reported speech, the gérondif, opinion words, the news, and writing a complaint."
+    before: "Stages 1 to 10."
+    lessons:
+      - [passive-voice, "The passive voice", [grammar]]
+      - [reported-speech, "Reported speech", [grammar]]
+      - [reported-speech-past, "Reported speech in the past", [grammar]]
+      - [gerondif-and-participe-present, "The gérondif and the present participle", [grammar]]
+      - [opinion-connectors, "Connectors for opinions", [words]]
+      - [news-vocabulary, "News vocabulary", [words]]
+      - [giving-opinions, "Giving your opinion", [speak]]
+      - [complaints, "Making a complaint", [speak]]
+      - [quebec-news-and-institutions, "News and institutions in Quebec", [quebec]]
+      - [radio-news, "Radio news", [listen]]
+      - [writing-a-complaint, "Writing a complaint", [write]]
+      - [opinion-columns, "Opinion columns", [read]]
+      - [news-and-opinions-roundup, "News and opinions roundup", [listen, review]]
+
+  - folder: 12-real-montreal
+    level: b1
+    title: "Real Montreal"
+    tab: "12 Montreal"
+    summary: "Ce qui and ce que, indefinites, casual Quebec speech, slang, sacres, history, a cover letter, and a B1 checkpoint."
+    before: "Stages 1 to 11."
+    lessons:
+      - [ce-qui-ce-que-ce-dont, "Ce qui, ce que and ce dont", [grammar]]
+      - [indefinites-demonstratives-possessives, "Indefinites, demonstratives and possessives", [grammar]]
+      - [quebec-casual-speech, "Casual speech in Quebec", [quebec]]
+      - [slang-recognise-all-use-some, "Slang: recognise all, use some", [words]]
+      - [sacres-recognise-dont-use, "Sacres: recognise, don't use", [quebec]]
+      - [quebec-vowels-and-diphthongs, "Quebec vowels and diphthongs", [sounds]]
+      - [real-speed-conversation, "A real-speed conversation", [listen]]
+      - [role-play-making-plans, "Role play: making plans", [speak]]
+      - [short-history-of-quebec, "A short history of Quebec", [quebec]]
+      - [cover-letter, "A cover letter", [write]]
+      - [magazine-article, "A magazine article", [read]]
+      - [fix-the-errors-b1, "Fix the errors, B1", [write]]
+      - [b1-checkpoint, "The B1 checkpoint", [speak, review]]
+
+  # B2, blue line
+  - folder: 13-subjunctive-and-argument
+    level: b2
+    title: "Subjunctive and argument"
+    tab: "13 Argument"
+    summary: "The subjunctive in depth, concession, the past subjunctive, advanced connectors, and building an argument."
+    before: "Stages 1 to 12."
+    lessons:
+      - [subjunctive-doubt-opinion, "The subjunctive: doubt and opinion", [grammar]]
+      - [subjunctive-conjunctions, "The subjunctive after conjunctions", [grammar]]
+      - [concession, "Concession", [grammar]]
+      - [subjonctif-passe, "The past subjunctive", [grammar]]
+      - [subjunctive-or-indicative, "Subjunctive or indicative", [grammar]]
+      - [advanced-connectors, "Advanced connectors", [words]]
+      - [debating-a-point, "Debating a point", [speak]]
+      - [quebec-language-and-identity, "Language and identity in Quebec", [quebec]]
+      - [podcast-listening, "Podcast listening", [listen]]
+      - [argumentative-paragraph, "An argumentative paragraph", [write]]
+      - [longer-articles, "Longer articles", [read]]
+      - [fix-the-errors-b2, "Fix the errors, B2", [write]]
+      - [argue-it-both-ways, "Argue it both ways", [speak, review]]
+
+  - folder: 14-conditionals-work-and-interviews
+    level: b2
+    title: "Conditionals, work and interviews"
+    tab: "14 Interviews"
+    summary: "The conditionnel passé, all si clauses, the futur antérieur, hedging, HR words, a Canadian CV, and interviews."
+    before: "Stages 1 to 13."
+    lessons:
+      - [conditionnel-passe, "The conditionnel passé", [grammar]]
+      - [si-clauses-all-types, "All types of si clauses", [grammar]]
+      - [futur-anterieur, "The futur antérieur", [grammar]]
+      - [regret-and-reproach, "Regret and reproach", [grammar]]
+      - [hedging-and-softening, "Hedging and softening", [words]]
+      - [hr-vocabulary, "HR vocabulary", [words]]
+      - [canadian-cv, "A Canadian CV", [write]]
+      - [interview-role-play, "Interview role play", [speak]]
+      - [quebec-tv-cinema-humour, "TV, cinema and humour in Quebec", [quebec]]
+      - [interviews-and-meetings, "Interviews and meetings", [listen]]
+      - [contributing-to-meetings, "Contributing to meetings", [speak]]
+      - [job-postings-and-policies, "Job postings and policies", [read]]
+      - [interview-day, "Interview day", [speak, review]]
+
+  - folder: 15-formal-register-and-government-french
+    level: b2
+    title: "Formal register and government French"
+    tab: "15 Government"
+    summary: "Nominalisation, register shifts, formal emails, government vocabulary, briefing notes, and official documents."
+    before: "Stages 1 to 14."
+    lessons:
+      - [nominalisation, "Nominalisation", [grammar]]
+      - [register-shifts, "Shifting register", [words]]
+      - [formal-emails, "Formal emails", [write]]
+      - [passe-simple-recognition, "Recognising the passé simple", [grammar]]
+      - [government-vocabulary, "Government vocabulary", [words]]
+      - [serving-the-public-formally, "Serving the public formally", [speak]]
+      - [briefing-notes, "Briefing notes", [write]]
+      - [summaries-and-minutes, "Summaries and minutes", [write]]
+      - [francophone-institutions-quebec-and-ontario, "Francophone institutions in Quebec and Ontario", [quebec]]
+      - [press-conferences, "Press conferences", [listen]]
+      - [official-documents, "Official documents", [read]]
+      - [test-style-work-texts, "Test-style work texts", [write]]
+      - [a-week-in-a-government-office, "A week in a government office", [write, review]]
+
+  - folder: 16-debate-news-and-test-readiness
+    level: b2
+    title: "Debate, news and test readiness"
+    tab: "16 Debate"
+    summary: "Structuring an argument, emphasis and inversion, current events, formal debate, editorials, and a final capstone."
+    before: "Stages 1 to 15."
+    lessons:
+      - [structuring-an-argument, "Structuring an argument", [write]]
+      - [emphasis-and-inversion, "Emphasis and inversion", [grammar]]
+      - [news-vocabulary-advanced, "Advanced news vocabulary", [words]]
+      - [current-events-discussion, "Discussing current events", [speak]]
+      - [formal-debate, "Formal debate", [speak]]
+      - [radio-debates, "Radio debates", [listen]]
+      - [tv-news-and-documentaries, "TV news and documentaries", [listen]]
+      - [quebec-today-debates, "Debates in Quebec today", [quebec]]
+      - [editorials, "Editorials", [read]]
+      - [opinion-piece, "An opinion piece", [write]]
+      - [oral-test-practice, "Oral test practice", [speak]]
+      - [final-error-clinic, "The final error clinic", [write]]
+      - [capstone, "Capstone", [speak, review]]
