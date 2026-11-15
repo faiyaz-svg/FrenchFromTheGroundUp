@@ -742,8 +742,20 @@ def extract_drill(path: str, raw: str) -> Doc:
     except json.JSONDecodeError:
         return doc
     rl = raw.splitlines()
-    name = Path(path).name
-    for it in data.get("items", []):
+    # Two shapes: docs/assets/drills/<name>.json = {"items": [...]}, and the
+    # per-stage source tools/drills_src/NN.json = {"conjugation": [...], ...}.
+    if "items" in data:
+        groups = [(Path(path).name, data.get("items", []))]
+    else:
+        groups = [(kind + ".json" if kind != "gender" else "gender.json", items)
+                  for kind, items in data.items() if isinstance(items, list)]
+    for name, items in groups:
+        _drill_items(doc, path, rl, name, items)
+    return doc
+
+
+def _drill_items(doc, path, rl, name, items):
+    for it in items:
         if name == "conjugation.json":
             ln = line_of(rl, json.dumps(it.get("answer", ""), ensure_ascii=False))
             ln = next((k for k, l in enumerate(rl, 1)
@@ -761,7 +773,6 @@ def extract_drill(path: str, raw: str) -> Doc:
         elif name == "dictation.json":
             ln = line_of(rl, json.dumps(it.get("fr", ""), ensure_ascii=False)[1:-1])
             doc.items.append(Item("drill", path, ln, it["fr"], "full", (), "", False))
-    return doc
 
 
 # ---------------------------------------------------------------- LanguageTool
@@ -825,7 +836,7 @@ def collect_files(args: list[str]) -> list[Path]:
         p = p if p.is_absolute() else (Path.cwd() / p)
         if p.is_dir():
             for f in sorted(p.rglob("*")):
-                if f.suffix == ".md" or (f.suffix == ".json" and f.parent.name == "drills"):
+                if f.suffix == ".md" or (f.suffix == ".json" and f.parent.name in ("drills", "drills_src")):
                     if "site" not in f.parts[len(ROOT.parts):][:1]:
                         out.append(f)
         elif p.exists():
