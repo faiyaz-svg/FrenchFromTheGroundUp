@@ -187,8 +187,15 @@ select {
   color: #fff;
   border-top: 1px solid #2f2f2f;
 }
-.md-tabs__list { overflow-x: auto; scrollbar-width: none; contain: none; }
-.md-tabs__list::-webkit-scrollbar { display: none; }
+/* A thin visible scrollbar, so mouse users can reach tabs past the edge */
+.md-tabs__list {
+  overflow-x: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #777 transparent;
+  contain: none;
+}
+.md-tabs__list::-webkit-scrollbar { display: block; height: 6px; }
+.md-tabs__list::-webkit-scrollbar-thumb { background: #777; }
 .md-tabs__item { height: 2.3rem; padding: 0; }
 .md-tabs__link {
   display: block;
