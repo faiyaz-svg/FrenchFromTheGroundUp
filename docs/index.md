@@ -146,12 +146,12 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="08-comparing-duration-and-settling-in/06-weather-and-seasons/" data-lesson="08-comparing-duration-and-settling-in/06-weather-and-seasons/" title="Weather and seasons"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="08-comparing-duration-and-settling-in/07-small-talk-weather-and-hockey/" data-lesson="08-comparing-duration-and-settling-in/07-small-talk-weather-and-hockey/" title="Small talk: weather and hockey"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="08-comparing-duration-and-settling-in/08-quebec-hockey-and-holidays/" data-lesson="08-comparing-duration-and-settling-in/08-quebec-hockey-and-holidays/" title="Hockey and holidays in Quebec"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Housing words"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Phoning about an apartment"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Listening at real speed"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="An informal email"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="Short news items"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
-<li><span class="fm-st fm-planned" title="A long weekend in Montreal"><span class="fm-dot"></span><span class="fm-st-num">14</span></span></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/09-housing-words/" data-lesson="08-comparing-duration-and-settling-in/09-housing-words/" title="Housing words"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/10-phoning-about-an-apartment/" data-lesson="08-comparing-duration-and-settling-in/10-phoning-about-an-apartment/" title="Phoning about an apartment"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/11-real-speed-intro/" data-lesson="08-comparing-duration-and-settling-in/11-real-speed-intro/" title="Listening at real speed"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/12-informal-email/" data-lesson="08-comparing-duration-and-settling-in/12-informal-email/" title="An informal email"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/13-short-news-items/" data-lesson="08-comparing-duration-and-settling-in/13-short-news-items/" title="Short news items"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
+<li><a class="fm-st" href="08-comparing-duration-and-settling-in/14-a-long-weekend-in-montreal/" data-lesson="08-comparing-duration-and-settling-in/14-a-long-weekend-in-montreal/" title="A long weekend in Montreal"><span class="fm-dot"></span><span class="fm-st-num">14</span></a></li>
 </ol>
 </div>
 </section>

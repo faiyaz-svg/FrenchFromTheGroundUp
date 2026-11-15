@@ -1495,6 +1495,278 @@
    "answer": "mangeons",
    "en": "to eat",
    "stage": 7
+  },
+  {
+   "verb": "essayer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "essaie",
+   "en": "to try",
+   "stage": 8
+  },
+  {
+   "verb": "essayer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "essayons",
+   "en": "to try",
+   "stage": 8
+  },
+  {
+   "verb": "essayer",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "essayez",
+   "en": "to try",
+   "stage": 8
+  },
+  {
+   "verb": "essayer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "essaient",
+   "en": "to try",
+   "stage": 8
+  },
+  {
+   "verb": "commencer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "commençons",
+   "en": "to start",
+   "stage": 8
+  },
+  {
+   "verb": "commencer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "commence",
+   "en": "to start",
+   "stage": 8
+  },
+  {
+   "verb": "commencer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "commencent",
+   "en": "to start",
+   "stage": 8
+  },
+  {
+   "verb": "continuer",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "continues",
+   "en": "to continue",
+   "stage": 8
+  },
+  {
+   "verb": "continuer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "continuons",
+   "en": "to continue",
+   "stage": 8
+  },
+  {
+   "verb": "décider",
+   "tense": "présent",
+   "person": "je",
+   "answer": "décide",
+   "en": "to decide",
+   "stage": 8
+  },
+  {
+   "verb": "décider",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "décidez",
+   "en": "to decide",
+   "stage": 8
+  },
+  {
+   "verb": "arrêter",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "arrêtes",
+   "en": "to stop",
+   "stage": 8
+  },
+  {
+   "verb": "arrêter",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "arrêtent",
+   "en": "to stop",
+   "stage": 8
+  },
+  {
+   "verb": "hésiter",
+   "tense": "présent",
+   "person": "il",
+   "answer": "hésite",
+   "en": "to hesitate",
+   "stage": 8
+  },
+  {
+   "verb": "réussir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "réussis",
+   "en": "to succeed",
+   "stage": 8
+  },
+  {
+   "verb": "réussir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "réussissons",
+   "en": "to succeed",
+   "stage": 8
+  },
+  {
+   "verb": "oublier",
+   "tense": "présent",
+   "person": "je",
+   "answer": "oublie",
+   "en": "to forget",
+   "stage": 8
+  },
+  {
+   "verb": "oublier",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "oubliez",
+   "en": "to forget",
+   "stage": 8
+  },
+  {
+   "verb": "accepter",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "acceptons",
+   "en": "to accept",
+   "stage": 8
+  },
+  {
+   "verb": "refuser",
+   "tense": "présent",
+   "person": "il",
+   "answer": "refuse",
+   "en": "to refuse",
+   "stage": 8
+  },
+  {
+   "verb": "rêver",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "rêves",
+   "en": "to dream",
+   "stage": 8
+  },
+  {
+   "verb": "promettre",
+   "tense": "présent",
+   "person": "je",
+   "answer": "promets",
+   "en": "to promise",
+   "stage": 8
+  },
+  {
+   "verb": "promettre",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "promettons",
+   "en": "to promise",
+   "stage": 8
+  },
+  {
+   "verb": "promettre",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "promettent",
+   "en": "to promise",
+   "stage": 8
+  },
+  {
+   "verb": "manquer",
+   "tense": "présent",
+   "person": "il",
+   "answer": "manque",
+   "en": "to miss",
+   "stage": 8
+  },
+  {
+   "verb": "durer",
+   "tense": "présent",
+   "person": "il",
+   "answer": "dure",
+   "en": "to last",
+   "stage": 8
+  },
+  {
+   "verb": "décider",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai décidé",
+   "en": "to decide",
+   "stage": 8
+  },
+  {
+   "verb": "oublier",
+   "tense": "passé composé",
+   "person": "tu",
+   "answer": "as oublié",
+   "en": "to forget",
+   "stage": 8
+  },
+  {
+   "verb": "arrêter",
+   "tense": "passé composé",
+   "person": "ils",
+   "answer": "ont arrêté",
+   "en": "to stop",
+   "stage": 8
+  },
+  {
+   "verb": "commencer",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "avons commencé",
+   "en": "to start",
+   "stage": 8
+  },
+  {
+   "verb": "promettre",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a promis",
+   "en": "to promise",
+   "stage": 8
+  },
+  {
+   "verb": "annoncer",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a annoncé",
+   "en": "to announce",
+   "stage": 8
+  },
+  {
+   "verb": "annoncer",
+   "tense": "passé composé",
+   "person": "ils",
+   "answer": "ont annoncé",
+   "en": "to announce",
+   "stage": 8
+  },
+  {
+   "verb": "neiger",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a neigé",
+   "en": "to snow",
+   "stage": 8
   }
  ]
 }

@@ -1404,6 +1404,222 @@
    ],
    "en": "She calls me.",
    "stage": 7
+  },
+  {
+   "q": "Ce café est ___ que ce thé.",
+   "hint": "bon, better (adjective)",
+   "a": [
+    "meilleur"
+   ],
+   "en": "This coffee is better than this tea.",
+   "stage": 8
+  },
+  {
+   "q": "Tu parles ___ que moi.",
+   "hint": "bien, better (adverb)",
+   "a": [
+    "mieux"
+   ],
+   "en": "You speak better than me.",
+   "stage": 8
+  },
+  {
+   "q": "Montréal est ___ chère que Toronto.",
+   "hint": "less",
+   "a": [
+    "moins"
+   ],
+   "en": "Montréal is less expensive than Toronto.",
+   "stage": 8
+  },
+  {
+   "q": "Il y a ___ de gens ici que là-bas.",
+   "hint": "more",
+   "a": [
+    "plus"
+   ],
+   "en": "There are more people here than there.",
+   "stage": 8
+  },
+  {
+   "q": "Elle a ___ d'amis que Léa.",
+   "hint": "as many",
+   "a": [
+    "autant"
+   ],
+   "en": "She has as many friends as Léa.",
+   "stage": 8
+  },
+  {
+   "q": "C'est la ___ belle ville du Canada.",
+   "hint": "the most",
+   "a": [
+    "plus"
+   ],
+   "en": "It's the most beautiful city in Canada.",
+   "stage": 8
+  },
+  {
+   "q": "C'est le plus grand parc ___ la ville.",
+   "hint": "de or dans",
+   "a": [
+    "de"
+   ],
+   "en": "It's the biggest park in the city.",
+   "stage": 8
+  },
+  {
+   "q": "J'habite ici ___ deux ans.",
+   "hint": "depuis, pendant, il y a",
+   "a": [
+    "depuis"
+   ],
+   "en": "I've lived here for two years.",
+   "stage": 8
+  },
+  {
+   "q": "Je suis arrivé ___ trois jours.",
+   "hint": "depuis, pendant, il y a",
+   "a": [
+    "il y a"
+   ],
+   "en": "I arrived three days ago.",
+   "stage": 8
+  },
+  {
+   "q": "Il a travaillé ___ cinq ans à Ottawa.",
+   "hint": "depuis, pendant, il y a",
+   "a": [
+    "pendant"
+   ],
+   "en": "He worked in Ottawa for five years.",
+   "stage": 8
+  },
+  {
+   "q": "Le train part ___ dix minutes.",
+   "hint": "depuis, pendant, dans",
+   "a": [
+    "dans"
+   ],
+   "en": "The train leaves in ten minutes.",
+   "stage": 8
+  },
+  {
+   "q": "La femme ___ parle est ma tante.",
+   "hint": "qui or que",
+   "a": [
+    "qui"
+   ],
+   "en": "The woman who is talking is my aunt.",
+   "stage": 8
+  },
+  {
+   "q": "Le film ___ j'aime est drôle.",
+   "hint": "qui or que",
+   "a": [
+    "que"
+   ],
+   "en": "The film that I like is funny.",
+   "stage": 8
+  },
+  {
+   "q": "Le café ___ je bois est chaud.",
+   "hint": "qui or que",
+   "a": [
+    "que"
+   ],
+   "en": "The coffee that I am drinking is hot.",
+   "stage": 8
+  },
+  {
+   "q": "J'ai commencé ___ courir en janvier.",
+   "hint": "à or de",
+   "a": [
+    "à"
+   ],
+   "en": "I started running in January.",
+   "stage": 8
+  },
+  {
+   "q": "Nous avons décidé ___ partir.",
+   "hint": "à or de",
+   "a": [
+    "de"
+   ],
+   "en": "We decided to leave.",
+   "stage": 8
+  },
+  {
+   "q": "Tu as oublié ___ fermer la porte.",
+   "hint": "à or de",
+   "a": [
+    "de"
+   ],
+   "en": "You forgot to close the door.",
+   "stage": 8
+  },
+  {
+   "q": "Il ___ beaucoup en hiver.",
+   "hint": "neiger",
+   "a": [
+    "neige"
+   ],
+   "en": "It snows a lot in winter.",
+   "stage": 8
+  },
+  {
+   "q": "Il fait ___ vingt degrés.",
+   "hint": "minus",
+   "a": [
+    "moins"
+   ],
+   "en": "It's minus twenty.",
+   "stage": 8
+  },
+  {
+   "q": "J'___ froid.",
+   "hint": "avoir",
+   "a": [
+    "ai"
+   ],
+   "en": "I'm cold.",
+   "stage": 8
+  },
+  {
+   "q": "Il y a ___ soleil aujourd'hui.",
+   "hint": "du or le",
+   "a": [
+    "du"
+   ],
+   "en": "There is sun today.",
+   "stage": 8
+  },
+  {
+   "q": "Il est libre ___ partir du 1er juillet.",
+   "hint": "à or de",
+   "a": [
+    "à"
+   ],
+   "en": "It is free starting July 1st.",
+   "stage": 8
+  },
+  {
+   "q": "Tu me ___ beaucoup!",
+   "hint": "manquer",
+   "a": [
+    "manques"
+   ],
+   "en": "I miss you a lot!",
+   "stage": 8
+  },
+  {
+   "q": "Le joueur a ___ un but.",
+   "hint": "marquer (participle)",
+   "a": [
+    "marqué"
+   ],
+   "en": "The player scored a goal.",
+   "stage": 8
   }
  ]
 }

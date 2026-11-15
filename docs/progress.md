@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 95 of 205. New lessons appear here as they are added.
+Lessons written so far: 101 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -126,3 +126,9 @@ Lessons written so far: 95 of 205. New lessons appear here as they are added.
 - [ ] [Weather and seasons](08-comparing-duration-and-settling-in/06-weather-and-seasons.md) (words)
 - [ ] [Small talk: weather and hockey](08-comparing-duration-and-settling-in/07-small-talk-weather-and-hockey.md) (speak)
 - [ ] [Hockey and holidays in Quebec](08-comparing-duration-and-settling-in/08-quebec-hockey-and-holidays.md) (quebec)
+- [ ] [Housing words](08-comparing-duration-and-settling-in/09-housing-words.md) (words)
+- [ ] [Phoning about an apartment](08-comparing-duration-and-settling-in/10-phoning-about-an-apartment.md) (speak)
+- [ ] [Listening at real speed](08-comparing-duration-and-settling-in/11-real-speed-intro.md) (listen)
+- [ ] [An informal email](08-comparing-duration-and-settling-in/12-informal-email.md) (write)
+- [ ] [Short news items](08-comparing-duration-and-settling-in/13-short-news-items.md) (read)
+- [ ] [A long weekend in Montreal](08-comparing-duration-and-settling-in/14-a-long-weekend-in-montreal.md) (quebec, review)

@@ -544,6 +544,81 @@
    "fr": "Veuillez attendre.",
    "en": "Please wait.",
    "stage": 7
+  },
+  {
+   "fr": "Montréal est moins chère que Toronto.",
+   "en": "Montréal is less expensive than Toronto.",
+   "stage": 8
+  },
+  {
+   "fr": "Ce café est meilleur que ce thé.",
+   "en": "This coffee is better than this tea.",
+   "stage": 8
+  },
+  {
+   "fr": "C'est la plus belle ville du Canada.",
+   "en": "It's the most beautiful city in Canada.",
+   "stage": 8
+  },
+  {
+   "fr": "J'habite ici depuis deux ans.",
+   "en": "I've lived here for two years.",
+   "stage": 8
+  },
+  {
+   "fr": "Je suis arrivé il y a trois mois.",
+   "en": "I arrived three months ago.",
+   "stage": 8
+  },
+  {
+   "fr": "J'ai habité à Calgary pendant cinq ans.",
+   "en": "I lived in Calgary for five years.",
+   "stage": 8
+  },
+  {
+   "fr": "C'est un film que j'aime beaucoup.",
+   "en": "It's a film that I like a lot.",
+   "stage": 8
+  },
+  {
+   "fr": "J'ai décidé de prendre le train.",
+   "en": "I decided to take the train.",
+   "stage": 8
+  },
+  {
+   "fr": "Il fait moins quinze et il neige.",
+   "en": "It's minus fifteen and it's snowing.",
+   "stage": 8
+  },
+  {
+   "fr": "Est-ce que c'est chauffé et éclairé?",
+   "en": "Is it heated, with lights included?",
+   "stage": 8
+  },
+  {
+   "fr": "Le propriétaire m'a donné le bail.",
+   "en": "The landlord gave me the lease.",
+   "stage": 8
+  },
+  {
+   "fr": "Le pointage est de trois à deux.",
+   "en": "The score is three to two.",
+   "stage": 8
+  },
+  {
+   "fr": "J'ai hâte de te voir.",
+   "en": "I can't wait to see you.",
+   "stage": 8
+  },
+  {
+   "fr": "Il paraît qu'il va neiger demain.",
+   "en": "I hear it's going to snow tomorrow.",
+   "stage": 8
+  },
+  {
+   "fr": "Le vingt-quatre juin, c'est la Fête nationale.",
+   "en": "June 24 is the Fête nationale.",
+   "stage": 8
   }
  ]
 }

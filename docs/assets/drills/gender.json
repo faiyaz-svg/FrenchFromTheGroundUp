@@ -1326,6 +1326,220 @@
    "en": "exchange",
    "stage": 7,
    "elided": true
+  },
+  {
+   "noun": "pluie",
+   "answer": "la",
+   "en": "rain",
+   "stage": 8
+  },
+  {
+   "noun": "nuage",
+   "answer": "le",
+   "en": "cloud",
+   "stage": 8
+  },
+  {
+   "noun": "orage",
+   "answer": "le",
+   "en": "thunderstorm",
+   "elided": true,
+   "stage": 8
+  },
+  {
+   "noun": "brouillard",
+   "answer": "le",
+   "en": "fog",
+   "stage": 8
+  },
+  {
+   "noun": "vent",
+   "answer": "le",
+   "en": "wind",
+   "stage": 8
+  },
+  {
+   "noun": "glace",
+   "answer": "la",
+   "en": "ice",
+   "stage": 8
+  },
+  {
+   "noun": "verglas",
+   "answer": "le",
+   "en": "clear ice",
+   "stage": 8
+  },
+  {
+   "noun": "tempête",
+   "answer": "la",
+   "en": "storm",
+   "stage": 8
+  },
+  {
+   "noun": "poudrerie",
+   "answer": "la",
+   "en": "blowing snow",
+   "stage": 8
+  },
+  {
+   "noun": "saison",
+   "answer": "la",
+   "en": "season",
+   "stage": 8
+  },
+  {
+   "noun": "printemps",
+   "answer": "le",
+   "en": "spring",
+   "stage": 8
+  },
+  {
+   "noun": "automne",
+   "answer": "le",
+   "en": "autumn",
+   "elided": true,
+   "stage": 8
+  },
+  {
+   "noun": "météo",
+   "answer": "la",
+   "en": "weather forecast",
+   "stage": 8
+  },
+  {
+   "noun": "gant",
+   "answer": "le",
+   "en": "glove",
+   "stage": 8
+  },
+  {
+   "noun": "imperméable",
+   "answer": "le",
+   "en": "raincoat",
+   "elided": true,
+   "stage": 8
+  },
+  {
+   "noun": "loyer",
+   "answer": "le",
+   "en": "rent",
+   "stage": 8
+  },
+  {
+   "noun": "bail",
+   "answer": "le",
+   "en": "lease",
+   "stage": 8
+  },
+  {
+   "noun": "colocation",
+   "answer": "la",
+   "en": "shared apartment",
+   "stage": 8
+  },
+  {
+   "noun": "salon",
+   "answer": "le",
+   "en": "living room",
+   "stage": 8
+  },
+  {
+   "noun": "balcon",
+   "answer": "le",
+   "en": "balcony",
+   "stage": 8
+  },
+  {
+   "noun": "déménagement",
+   "answer": "le",
+   "en": "move",
+   "stage": 8
+  },
+  {
+   "noun": "laveuse",
+   "answer": "la",
+   "en": "washing machine",
+   "stage": 8
+  },
+  {
+   "noun": "patinoire",
+   "answer": "la",
+   "en": "rink",
+   "stage": 8
+  },
+  {
+   "noun": "équipe",
+   "answer": "la",
+   "en": "team",
+   "elided": true,
+   "stage": 8
+  },
+  {
+   "noun": "victoire",
+   "answer": "la",
+   "en": "win",
+   "stage": 8
+  },
+  {
+   "noun": "défaite",
+   "answer": "la",
+   "en": "loss",
+   "stage": 8
+  },
+  {
+   "noun": "chandail",
+   "answer": "le",
+   "en": "jersey",
+   "stage": 8
+  },
+  {
+   "noun": "rondelle",
+   "answer": "la",
+   "en": "puck",
+   "stage": 8
+  },
+  {
+   "noun": "drapeau",
+   "answer": "le",
+   "en": "flag",
+   "stage": 8
+  },
+  {
+   "noun": "grève",
+   "answer": "la",
+   "en": "strike",
+   "stage": 8
+  },
+  {
+   "noun": "maire",
+   "answer": "le",
+   "en": "mayor",
+   "stage": 8
+  },
+  {
+   "noun": "festival",
+   "answer": "le",
+   "en": "festival",
+   "stage": 8
+  },
+  {
+   "noun": "siècle",
+   "answer": "le",
+   "en": "century",
+   "stage": 8
+  },
+  {
+   "noun": "file",
+   "answer": "la",
+   "en": "line of people",
+   "stage": 8
+  },
+  {
+   "noun": "circuit",
+   "answer": "le",
+   "en": "tour",
+   "stage": 8
   }
  ]
 }

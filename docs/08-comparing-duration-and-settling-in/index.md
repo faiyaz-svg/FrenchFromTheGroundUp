@@ -15,12 +15,12 @@ Before this stage: Stages 1 to 7.
 6. [Weather and seasons](06-weather-and-seasons.md) (words)
 7. [Small talk: weather and hockey](07-small-talk-weather-and-hockey.md) (speak)
 8. [Hockey and holidays in Quebec](08-quebec-hockey-and-holidays.md) (quebec)
-9. Housing words (not written yet) (words)
-10. Phoning about an apartment (not written yet) (speak)
-11. Listening at real speed (not written yet) (listen)
-12. An informal email (not written yet) (write)
-13. Short news items (not written yet) (read)
-14. A long weekend in Montreal (not written yet) (quebec, review)
+9. [Housing words](09-housing-words.md) (words)
+10. [Phoning about an apartment](10-phoning-about-an-apartment.md) (speak)
+11. [Listening at real speed](11-real-speed-intro.md) (listen)
+12. [An informal email](12-informal-email.md) (write)
+13. [Short news items](13-short-news-items.md) (read)
+14. [A long weekend in Montreal](14-a-long-weekend-in-montreal.md) (quebec, review)
 
 <!-- lessons:end -->
 

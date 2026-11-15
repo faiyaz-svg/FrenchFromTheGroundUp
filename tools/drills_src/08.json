@@ -1,0 +1,859 @@
+{
+ "conjugation": [
+  {
+   "verb": "essayer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "essaie",
+   "en": "to try",
+   "stage": 8
+  },
+  {
+   "verb": "essayer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "essayons",
+   "en": "to try",
+   "stage": 8
+  },
+  {
+   "verb": "essayer",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "essayez",
+   "en": "to try",
+   "stage": 8
+  },
+  {
+   "verb": "essayer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "essaient",
+   "en": "to try",
+   "stage": 8
+  },
+  {
+   "verb": "commencer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "commençons",
+   "en": "to start",
+   "stage": 8
+  },
+  {
+   "verb": "commencer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "commence",
+   "en": "to start",
+   "stage": 8
+  },
+  {
+   "verb": "commencer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "commencent",
+   "en": "to start",
+   "stage": 8
+  },
+  {
+   "verb": "continuer",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "continues",
+   "en": "to continue",
+   "stage": 8
+  },
+  {
+   "verb": "continuer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "continuons",
+   "en": "to continue",
+   "stage": 8
+  },
+  {
+   "verb": "décider",
+   "tense": "présent",
+   "person": "je",
+   "answer": "décide",
+   "en": "to decide",
+   "stage": 8
+  },
+  {
+   "verb": "décider",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "décidez",
+   "en": "to decide",
+   "stage": 8
+  },
+  {
+   "verb": "arrêter",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "arrêtes",
+   "en": "to stop",
+   "stage": 8
+  },
+  {
+   "verb": "arrêter",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "arrêtent",
+   "en": "to stop",
+   "stage": 8
+  },
+  {
+   "verb": "hésiter",
+   "tense": "présent",
+   "person": "il",
+   "answer": "hésite",
+   "en": "to hesitate",
+   "stage": 8
+  },
+  {
+   "verb": "réussir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "réussis",
+   "en": "to succeed",
+   "stage": 8
+  },
+  {
+   "verb": "réussir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "réussissons",
+   "en": "to succeed",
+   "stage": 8
+  },
+  {
+   "verb": "oublier",
+   "tense": "présent",
+   "person": "je",
+   "answer": "oublie",
+   "en": "to forget",
+   "stage": 8
+  },
+  {
+   "verb": "oublier",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "oubliez",
+   "en": "to forget",
+   "stage": 8
+  },
+  {
+   "verb": "accepter",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "acceptons",
+   "en": "to accept",
+   "stage": 8
+  },
+  {
+   "verb": "refuser",
+   "tense": "présent",
+   "person": "il",
+   "answer": "refuse",
+   "en": "to refuse",
+   "stage": 8
+  },
+  {
+   "verb": "rêver",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "rêves",
+   "en": "to dream",
+   "stage": 8
+  },
+  {
+   "verb": "promettre",
+   "tense": "présent",
+   "person": "je",
+   "answer": "promets",
+   "en": "to promise",
+   "stage": 8
+  },
+  {
+   "verb": "promettre",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "promettons",
+   "en": "to promise",
+   "stage": 8
+  },
+  {
+   "verb": "promettre",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "promettent",
+   "en": "to promise",
+   "stage": 8
+  },
+  {
+   "verb": "manquer",
+   "tense": "présent",
+   "person": "il",
+   "answer": "manque",
+   "en": "to miss",
+   "stage": 8
+  },
+  {
+   "verb": "durer",
+   "tense": "présent",
+   "person": "il",
+   "answer": "dure",
+   "en": "to last",
+   "stage": 8
+  },
+  {
+   "verb": "décider",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai décidé",
+   "en": "to decide",
+   "stage": 8
+  },
+  {
+   "verb": "oublier",
+   "tense": "passé composé",
+   "person": "tu",
+   "answer": "as oublié",
+   "en": "to forget",
+   "stage": 8
+  },
+  {
+   "verb": "arrêter",
+   "tense": "passé composé",
+   "person": "ils",
+   "answer": "ont arrêté",
+   "en": "to stop",
+   "stage": 8
+  },
+  {
+   "verb": "commencer",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "avons commencé",
+   "en": "to start",
+   "stage": 8
+  },
+  {
+   "verb": "promettre",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a promis",
+   "en": "to promise",
+   "stage": 8
+  },
+  {
+   "verb": "annoncer",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a annoncé",
+   "en": "to announce",
+   "stage": 8
+  },
+  {
+   "verb": "annoncer",
+   "tense": "passé composé",
+   "person": "ils",
+   "answer": "ont annoncé",
+   "en": "to announce",
+   "stage": 8
+  },
+  {
+   "verb": "neiger",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a neigé",
+   "en": "to snow",
+   "stage": 8
+  }
+ ],
+ "gender": [
+  {
+   "noun": "pluie",
+   "answer": "la",
+   "en": "rain",
+   "stage": 8
+  },
+  {
+   "noun": "nuage",
+   "answer": "le",
+   "en": "cloud",
+   "stage": 8
+  },
+  {
+   "noun": "orage",
+   "answer": "le",
+   "en": "thunderstorm",
+   "elided": true,
+   "stage": 8
+  },
+  {
+   "noun": "brouillard",
+   "answer": "le",
+   "en": "fog",
+   "stage": 8
+  },
+  {
+   "noun": "vent",
+   "answer": "le",
+   "en": "wind",
+   "stage": 8
+  },
+  {
+   "noun": "glace",
+   "answer": "la",
+   "en": "ice",
+   "stage": 8
+  },
+  {
+   "noun": "verglas",
+   "answer": "le",
+   "en": "clear ice",
+   "stage": 8
+  },
+  {
+   "noun": "tempête",
+   "answer": "la",
+   "en": "storm",
+   "stage": 8
+  },
+  {
+   "noun": "poudrerie",
+   "answer": "la",
+   "en": "blowing snow",
+   "stage": 8
+  },
+  {
+   "noun": "saison",
+   "answer": "la",
+   "en": "season",
+   "stage": 8
+  },
+  {
+   "noun": "printemps",
+   "answer": "le",
+   "en": "spring",
+   "stage": 8
+  },
+  {
+   "noun": "automne",
+   "answer": "le",
+   "en": "autumn",
+   "elided": true,
+   "stage": 8
+  },
+  {
+   "noun": "météo",
+   "answer": "la",
+   "en": "weather forecast",
+   "stage": 8
+  },
+  {
+   "noun": "gant",
+   "answer": "le",
+   "en": "glove",
+   "stage": 8
+  },
+  {
+   "noun": "imperméable",
+   "answer": "le",
+   "en": "raincoat",
+   "elided": true,
+   "stage": 8
+  },
+  {
+   "noun": "loyer",
+   "answer": "le",
+   "en": "rent",
+   "stage": 8
+  },
+  {
+   "noun": "bail",
+   "answer": "le",
+   "en": "lease",
+   "stage": 8
+  },
+  {
+   "noun": "colocation",
+   "answer": "la",
+   "en": "shared apartment",
+   "stage": 8
+  },
+  {
+   "noun": "salon",
+   "answer": "le",
+   "en": "living room",
+   "stage": 8
+  },
+  {
+   "noun": "balcon",
+   "answer": "le",
+   "en": "balcony",
+   "stage": 8
+  },
+  {
+   "noun": "déménagement",
+   "answer": "le",
+   "en": "move",
+   "stage": 8
+  },
+  {
+   "noun": "laveuse",
+   "answer": "la",
+   "en": "washing machine",
+   "stage": 8
+  },
+  {
+   "noun": "patinoire",
+   "answer": "la",
+   "en": "rink",
+   "stage": 8
+  },
+  {
+   "noun": "équipe",
+   "answer": "la",
+   "en": "team",
+   "elided": true,
+   "stage": 8
+  },
+  {
+   "noun": "victoire",
+   "answer": "la",
+   "en": "win",
+   "stage": 8
+  },
+  {
+   "noun": "défaite",
+   "answer": "la",
+   "en": "loss",
+   "stage": 8
+  },
+  {
+   "noun": "chandail",
+   "answer": "le",
+   "en": "jersey",
+   "stage": 8
+  },
+  {
+   "noun": "rondelle",
+   "answer": "la",
+   "en": "puck",
+   "stage": 8
+  },
+  {
+   "noun": "drapeau",
+   "answer": "le",
+   "en": "flag",
+   "stage": 8
+  },
+  {
+   "noun": "grève",
+   "answer": "la",
+   "en": "strike",
+   "stage": 8
+  },
+  {
+   "noun": "maire",
+   "answer": "le",
+   "en": "mayor",
+   "stage": 8
+  },
+  {
+   "noun": "festival",
+   "answer": "le",
+   "en": "festival",
+   "stage": 8
+  },
+  {
+   "noun": "siècle",
+   "answer": "le",
+   "en": "century",
+   "stage": 8
+  },
+  {
+   "noun": "file",
+   "answer": "la",
+   "en": "line of people",
+   "stage": 8
+  },
+  {
+   "noun": "circuit",
+   "answer": "le",
+   "en": "tour",
+   "stage": 8
+  }
+ ],
+ "fill": [
+  {
+   "q": "Ce café est ___ que ce thé.",
+   "hint": "bon, better (adjective)",
+   "a": [
+    "meilleur"
+   ],
+   "en": "This coffee is better than this tea.",
+   "stage": 8
+  },
+  {
+   "q": "Tu parles ___ que moi.",
+   "hint": "bien, better (adverb)",
+   "a": [
+    "mieux"
+   ],
+   "en": "You speak better than me.",
+   "stage": 8
+  },
+  {
+   "q": "Montréal est ___ chère que Toronto.",
+   "hint": "less",
+   "a": [
+    "moins"
+   ],
+   "en": "Montréal is less expensive than Toronto.",
+   "stage": 8
+  },
+  {
+   "q": "Il y a ___ de gens ici que là-bas.",
+   "hint": "more",
+   "a": [
+    "plus"
+   ],
+   "en": "There are more people here than there.",
+   "stage": 8
+  },
+  {
+   "q": "Elle a ___ d'amis que Léa.",
+   "hint": "as many",
+   "a": [
+    "autant"
+   ],
+   "en": "She has as many friends as Léa.",
+   "stage": 8
+  },
+  {
+   "q": "C'est la ___ belle ville du Canada.",
+   "hint": "the most",
+   "a": [
+    "plus"
+   ],
+   "en": "It's the most beautiful city in Canada.",
+   "stage": 8
+  },
+  {
+   "q": "C'est le plus grand parc ___ la ville.",
+   "hint": "de or dans",
+   "a": [
+    "de"
+   ],
+   "en": "It's the biggest park in the city.",
+   "stage": 8
+  },
+  {
+   "q": "J'habite ici ___ deux ans.",
+   "hint": "depuis, pendant, il y a",
+   "a": [
+    "depuis"
+   ],
+   "en": "I've lived here for two years.",
+   "stage": 8
+  },
+  {
+   "q": "Je suis arrivé ___ trois jours.",
+   "hint": "depuis, pendant, il y a",
+   "a": [
+    "il y a"
+   ],
+   "en": "I arrived three days ago.",
+   "stage": 8
+  },
+  {
+   "q": "Il a travaillé ___ cinq ans à Ottawa.",
+   "hint": "depuis, pendant, il y a",
+   "a": [
+    "pendant"
+   ],
+   "en": "He worked in Ottawa for five years.",
+   "stage": 8
+  },
+  {
+   "q": "Le train part ___ dix minutes.",
+   "hint": "depuis, pendant, dans",
+   "a": [
+    "dans"
+   ],
+   "en": "The train leaves in ten minutes.",
+   "stage": 8
+  },
+  {
+   "q": "La femme ___ parle est ma tante.",
+   "hint": "qui or que",
+   "a": [
+    "qui"
+   ],
+   "en": "The woman who is talking is my aunt.",
+   "stage": 8
+  },
+  {
+   "q": "Le film ___ j'aime est drôle.",
+   "hint": "qui or que",
+   "a": [
+    "que"
+   ],
+   "en": "The film that I like is funny.",
+   "stage": 8
+  },
+  {
+   "q": "Le café ___ je bois est chaud.",
+   "hint": "qui or que",
+   "a": [
+    "que"
+   ],
+   "en": "The coffee that I am drinking is hot.",
+   "stage": 8
+  },
+  {
+   "q": "J'ai commencé ___ courir en janvier.",
+   "hint": "à or de",
+   "a": [
+    "à"
+   ],
+   "en": "I started running in January.",
+   "stage": 8
+  },
+  {
+   "q": "Nous avons décidé ___ partir.",
+   "hint": "à or de",
+   "a": [
+    "de"
+   ],
+   "en": "We decided to leave.",
+   "stage": 8
+  },
+  {
+   "q": "Tu as oublié ___ fermer la porte.",
+   "hint": "à or de",
+   "a": [
+    "de"
+   ],
+   "en": "You forgot to close the door.",
+   "stage": 8
+  },
+  {
+   "q": "Il ___ beaucoup en hiver.",
+   "hint": "neiger",
+   "a": [
+    "neige"
+   ],
+   "en": "It snows a lot in winter.",
+   "stage": 8
+  },
+  {
+   "q": "Il fait ___ vingt degrés.",
+   "hint": "minus",
+   "a": [
+    "moins"
+   ],
+   "en": "It's minus twenty.",
+   "stage": 8
+  },
+  {
+   "q": "J'___ froid.",
+   "hint": "avoir",
+   "a": [
+    "ai"
+   ],
+   "en": "I'm cold.",
+   "stage": 8
+  },
+  {
+   "q": "Il y a ___ soleil aujourd'hui.",
+   "hint": "du or le",
+   "a": [
+    "du"
+   ],
+   "en": "There is sun today.",
+   "stage": 8
+  },
+  {
+   "q": "Il est libre ___ partir du 1er juillet.",
+   "hint": "à or de",
+   "a": [
+    "à"
+   ],
+   "en": "It is free starting July 1st.",
+   "stage": 8
+  },
+  {
+   "q": "Tu me ___ beaucoup!",
+   "hint": "manquer",
+   "a": [
+    "manques"
+   ],
+   "en": "I miss you a lot!",
+   "stage": 8
+  },
+  {
+   "q": "Le joueur a ___ un but.",
+   "hint": "marquer (participle)",
+   "a": [
+    "marqué"
+   ],
+   "en": "The player scored a goal.",
+   "stage": 8
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "Montréal est moins chère que Toronto.",
+   "en": "Montréal is less expensive than Toronto.",
+   "stage": 8
+  },
+  {
+   "fr": "Ce café est meilleur que ce thé.",
+   "en": "This coffee is better than this tea.",
+   "stage": 8
+  },
+  {
+   "fr": "C'est la plus belle ville du Canada.",
+   "en": "It's the most beautiful city in Canada.",
+   "stage": 8
+  },
+  {
+   "fr": "J'habite ici depuis deux ans.",
+   "en": "I've lived here for two years.",
+   "stage": 8
+  },
+  {
+   "fr": "Je suis arrivé il y a trois mois.",
+   "en": "I arrived three months ago.",
+   "stage": 8
+  },
+  {
+   "fr": "J'ai habité à Calgary pendant cinq ans.",
+   "en": "I lived in Calgary for five years.",
+   "stage": 8
+  },
+  {
+   "fr": "C'est un film que j'aime beaucoup.",
+   "en": "It's a film that I like a lot.",
+   "stage": 8
+  },
+  {
+   "fr": "J'ai décidé de prendre le train.",
+   "en": "I decided to take the train.",
+   "stage": 8
+  },
+  {
+   "fr": "Il fait moins quinze et il neige.",
+   "en": "It's minus fifteen and it's snowing.",
+   "stage": 8
+  },
+  {
+   "fr": "Est-ce que c'est chauffé et éclairé?",
+   "en": "Is it heated, with lights included?",
+   "stage": 8
+  },
+  {
+   "fr": "Le propriétaire m'a donné le bail.",
+   "en": "The landlord gave me the lease.",
+   "stage": 8
+  },
+  {
+   "fr": "Le pointage est de trois à deux.",
+   "en": "The score is three to two.",
+   "stage": 8
+  },
+  {
+   "fr": "J'ai hâte de te voir.",
+   "en": "I can't wait to see you.",
+   "stage": 8
+  },
+  {
+   "fr": "Il paraît qu'il va neiger demain.",
+   "en": "I hear it's going to snow tomorrow.",
+   "stage": 8
+  },
+  {
+   "fr": "Le vingt-quatre juin, c'est la Fête nationale.",
+   "en": "June 24 is the Fête nationale.",
+   "stage": 8
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "la poudrerie",
+   "std": "la neige soulevée par le vent",
+   "en": "blowing snow",
+   "note": "Quebec and Canada word (OQLF)",
+   "stage": 8
+  },
+  {
+   "qc": "une bordée de neige",
+   "std": "une grosse chute de neige",
+   "en": "heavy snowfall",
+   "note": "Quebec and Canada (Usito Q/C)",
+   "stage": 8
+  },
+  {
+   "qc": "le chandail (d'équipe)",
+   "std": "le maillot",
+   "en": "team jersey",
+   "note": "Quebec and Canada sense (Usito Q/C)",
+   "stage": 8
+  },
+  {
+   "qc": "le pointage",
+   "std": "le score",
+   "en": "score of a game",
+   "note": "Quebec and Canada (Usito Q/C)",
+   "stage": 8
+  },
+  {
+   "qc": "une laveuse",
+   "std": "un lave-linge",
+   "en": "washing machine",
+   "note": "Quebec and Canada (Usito Q/C)",
+   "stage": 8
+  },
+  {
+   "qc": "faire la file",
+   "std": "faire la queue",
+   "en": "to wait in line",
+   "note": "Quebec and Canada (Usito Q/C); both understood",
+   "stage": 8
+  },
+  {
+   "qc": "un 4 1/2",
+   "std": "un appartement de quatre pièces et une salle de bain",
+   "en": "apartment with four rooms and a bathroom",
+   "note": "Quebec",
+   "stage": 8
+  },
+  {
+   "qc": "y'a",
+   "std": "il y a",
+   "en": "there is",
+   "note": "casual speech",
+   "stage": 8
+  },
+  {
+   "qc": "t'es",
+   "std": "tu es",
+   "en": "you are",
+   "note": "casual speech",
+   "stage": 8
+  },
+  {
+   "qc": "chais pas",
+   "std": "je ne sais pas",
+   "en": "I don't know",
+   "note": "casual speech",
+   "stage": 8
+  }
+ ]
+}

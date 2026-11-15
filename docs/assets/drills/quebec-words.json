@@ -342,6 +342,76 @@
    "en": "email",
    "note": "OQLF term, used across Canada; France uses a loanword",
    "stage": 7
+  },
+  {
+   "qc": "la poudrerie",
+   "std": "la neige soulevée par le vent",
+   "en": "blowing snow",
+   "note": "Quebec and Canada word (OQLF)",
+   "stage": 8
+  },
+  {
+   "qc": "une bordée de neige",
+   "std": "une grosse chute de neige",
+   "en": "heavy snowfall",
+   "note": "Quebec and Canada (Usito Q/C)",
+   "stage": 8
+  },
+  {
+   "qc": "le chandail (d'équipe)",
+   "std": "le maillot",
+   "en": "team jersey",
+   "note": "Quebec and Canada sense (Usito Q/C)",
+   "stage": 8
+  },
+  {
+   "qc": "le pointage",
+   "std": "le score",
+   "en": "score of a game",
+   "note": "Quebec and Canada (Usito Q/C)",
+   "stage": 8
+  },
+  {
+   "qc": "une laveuse",
+   "std": "un lave-linge",
+   "en": "washing machine",
+   "note": "Quebec and Canada (Usito Q/C)",
+   "stage": 8
+  },
+  {
+   "qc": "faire la file",
+   "std": "faire la queue",
+   "en": "to wait in line",
+   "note": "Quebec and Canada (Usito Q/C); both understood",
+   "stage": 8
+  },
+  {
+   "qc": "un 4 1/2",
+   "std": "un appartement de quatre pièces et une salle de bain",
+   "en": "apartment with four rooms and a bathroom",
+   "note": "Quebec",
+   "stage": 8
+  },
+  {
+   "qc": "y'a",
+   "std": "il y a",
+   "en": "there is",
+   "note": "casual speech",
+   "stage": 8
+  },
+  {
+   "qc": "t'es",
+   "std": "tu es",
+   "en": "you are",
+   "note": "casual speech",
+   "stage": 8
+  },
+  {
+   "qc": "chais pas",
+   "std": "je ne sais pas",
+   "en": "I don't know",
+   "note": "casual speech",
+   "stage": 8
   }
  ]
 }
