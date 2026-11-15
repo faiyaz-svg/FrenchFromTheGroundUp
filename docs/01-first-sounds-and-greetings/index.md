@@ -24,7 +24,54 @@ Before this stage: Start here. Nothing else.
 
 ## Cheat sheet
 
-<!-- to be written -->
+Sounds. IPA goes between slashes. Quebec forms are in square brackets.
+
+| Sound | Spellings | Example |
+|---|---|---|
+| /a/ | a, à | *chat* /ʃa/ |
+| /i/ | i, î | *si* /si/ |
+| /u/ | ou | *vous* /vu/ |
+| /y/ | u, û | *tu* /ty/, in Quebec often [t͡sy] |
+| /e/ | é, -er, -ez, et | *thé* /te/ |
+| /ɛ/ | è, ê, ai, e before a pronounced consonant | *père* /pɛʁ/ |
+| /ə/ | e in short words | *le* /lə/ |
+| /o/ | o at the end of a word, ô, au, eau | *eau* /o/ |
+| /ɔ/ | o before a pronounced consonant | *bol* /bɔl/ |
+| /ø/ | eu at the end of a word or before /z/ | *deux* /dø/ |
+| /œ/ | eu, œu before other pronounced consonants | *sœur* /sœʁ/ |
+| /ɑ̃/ | an, am, en, em | *blanc* /blɑ̃/ |
+| /ɛ̃/ | in, im, ain, ein, ien | *vin* /vɛ̃/ |
+| /ɔ̃/ | on, om | *bon* /bɔ̃/ |
+| /œ̃/ | un, um | *brun* /bʁœ̃/ |
+
+Accents. *Accent aigu* é, *accent grave* è à ù, *accent circonflexe* ê â î ô û, *tréma* ë ï, *cédille* ç. Silent final letters are common: *petit*, *grand*, *trop*.
+
+Être, present.
+
+| Pronoun | Form |
+|---|---|
+| *je* | *suis* |
+| *tu* | *es* |
+| *il / elle* | *est* |
+| *nous* | *sommes* |
+| *vous* | *êtes* |
+| *ils / elles* | *sont* |
+
+Key phrases.
+
+```fr
+Bonjour. Bonsoir. Salut. Au revoir. | Hello. Good evening. Hi. Goodbye.
+Merci. Merci beaucoup. De rien. | Thank you. Thank you very much. You're welcome.
+S'il vous plaît. S'il te plaît. | Please (vous). Please (tu).
+Excusez-moi. Pardon. | Excuse me. Sorry.
+Ça va? Comment allez-vous? Très bien, merci. | How's it going? How are you? Very well, thank you.
+Je m'appelle Marc. Je suis de Toronto. | My name is Marc. I'm from Toronto.
+Je suis canadien. Je suis canadienne. | I'm Canadian (man). I'm Canadian (woman).
+Enchanté. Enchantée. Et vous? Et toi? | Nice to meet you. And you?
+Ça s'écrit comment? | How is that spelled?
+```
+
+Tu is for friends and family. Vous is for strangers, older people, work, and for more than one person. When in doubt, use *vous*.
 
 ## Listen and watch at this level
 

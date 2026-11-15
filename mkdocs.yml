@@ -92,6 +92,15 @@ extra_css:
 nav:
   - Start here:
       - index.md
+      - "How to use this book": 00-start-here/index.md
+      - "The 30-minute routine": 00-start-here/the-30-minute-routine.md
+      - "Set up voices and audio": 00-start-here/set-up-voices-and-audio.md
+      - "Set up keyboard and Anki": 00-start-here/set-up-keyboard-and-anki.md
+      - "Set up Mauril and free media": 00-start-here/set-up-mauril-and-free-media.md
+      - "Standard and Quebec French": 00-start-here/standard-vs-quebec-french.md
+      - "Practising with people in Toronto": 00-start-here/practising-with-people-in-toronto.md
+      - "Levels and goals": 00-start-here/levels-and-goals.md
+      - "Credits and sources": 00-start-here/credits-and-sources.md
       - "Progress": progress.md
   - "1 Sounds":
       - 01-first-sounds-and-greetings/index.md
@@ -134,4 +143,17 @@ nav:
       - "Numbers": practice/numbers.md
       - "Quebec words": practice/quebec-words.md
       - "Say it": practice/say-it.md
+  - Reference:
+      - reference/index.md
+      - "Glossary": reference/glossary.md
+      - "Verb tables": reference/verb-tables.md
+      - "IPA chart": reference/ipa-chart.md
+      - "Quebec and France words": reference/quebec-and-france-words.md
+      - "False friends": reference/false-friends.md
+      - "Email formulas": reference/email-formulas.md
+      - "Numbers, dates and times": reference/numbers-dates-and-times.md
+      - "Linking words": reference/linking-words.md
+      - "Common mistakes": reference/common-mistakes.md
+      - "Montreal phrasebook": reference/montreal-phrasebook.md
+      - "Media": reference/media.md
 # nav:end

@@ -777,6 +777,13 @@ def _drill_items(doc, path, rl, name, items):
 
 # ---------------------------------------------------------------- LanguageTool
 
+def rule_allowed(rule: str, rules_allow: set) -> bool:
+    """A rule is allowed by its exact id, or by an entry ending in * (a prefix)."""
+    if rule in rules_allow:
+        return True
+    return any(r.endswith("*") and rule.startswith(r[:-1]) for r in rules_allow)
+
+
 def load_allow(path: Path = ALLOW_FILE):
     """Return (rules, pairs): rules = set of rule ids; pairs = set of (rule, exact text)."""
     rules, pairs = set(), set()
@@ -866,7 +873,7 @@ def analyse(docs: list[Doc], use_lt: bool, allow=None):
             if it.kind in ("fence", "frpara", "drill", "italic") or it.kind == "newword":
                 text = it.text
                 for rule, msg in typo_issues(text, it.strict_quotes):
-                    if rule in rules_allow or (rule, text) in pairs_allow:
+                    if rule_allowed(rule, rules_allow) or (rule, text) in pairs_allow:
                         continue
                     findings.append(Finding("error", "typo", it.path, it.line, text, rule, msg))
         # conjugations
@@ -920,7 +927,7 @@ def analyse(docs: list[Doc], use_lt: bool, allow=None):
                 spell = is_spelling(rule, itype)
                 if it.mode == "spell" and not spell:
                     continue
-                if rule in rules_allow or (rule, it.text) in pairs_allow or (rule, matched) in pairs_allow:
+                if rule_allowed(rule, rules_allow) or (rule, it.text) in pairs_allow or (rule, matched) in pairs_allow:
                     continue
                 if it.mode == "spell" or (spell and it.kind == "italic"):
                     findings.append(Finding("warning", "spelling", it.path, it.line, it.text, rule,

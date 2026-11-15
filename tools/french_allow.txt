@@ -3,3 +3,9 @@
 FRENCH_WHITESPACE  # conflicts with the OQLF spacing choice
 # Register warning, not an error: the book teaches intonation questions (Tu vas où?) as normal spoken French.
 POSER_UNE_QUESTION
+# Style rule about a word repeated in nearby sentences: not an error, and phrase lists and dialogues repeat words on purpose.
+FR_REPEATEDWORDS_*
+# "Tuque" is flagged only as a Quebec regionalism; the book teaches Quebec words on purpose (Usito lists it).
+TUQUE
+# The OQLF's own example in its email pages; "d'ici le" is standard (BDL accepts d'ici le and d'ici au).
+CONSTRUCTION_DANS_LES_EXPRESSIONS | Pourriez-vous me faire parvenir le rapport d'ici le 15 mars?

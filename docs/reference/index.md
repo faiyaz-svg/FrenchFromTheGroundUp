@@ -10,11 +10,11 @@ Available now:
 
 Planned:
 
-- Verb tables<!-- link: verb-tables.md -->: the conjugations used in the book.
-- IPA chart<!-- link: ipa-chart.md -->: the sounds of French, with Quebec variants.
-- Quebec and France words<!-- link: quebec-and-france-words.md -->: everyday words that differ.
-- False friends<!-- link: false-friends.md -->: French words that look like English ones and mean something else.
+- [Verb tables](verb-tables.md): the conjugations used in the book.
+- [IPA chart](ipa-chart.md): the sounds of French, with Quebec variants.
+- [Quebec and France words](quebec-and-france-words.md): everyday words that differ.
+- [False friends](false-friends.md): French words that look like English ones and mean something else.
 - Email formulas<!-- link: email-formulas.md -->: greetings, closings and set phrases for emails and letters.
-- Numbers, dates and times<!-- link: numbers-dates-and-times.md -->: how to say and write them.
-- Linking words<!-- link: linking-words.md -->: connectors for longer sentences and arguments.
-- Montreal phrasebook<!-- link: montreal-phrasebook.md -->: useful lines for daily life.
+- [Numbers, dates and times](numbers-dates-and-times.md): how to say and write them.
+- [Linking words](linking-words.md): connectors for longer sentences and arguments.
+- [Montreal phrasebook](montreal-phrasebook.md): useful lines for daily life.
