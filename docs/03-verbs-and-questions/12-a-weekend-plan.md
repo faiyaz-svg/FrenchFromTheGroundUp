@@ -141,4 +141,4 @@ Sophie lives in Montreal. In the call, *ben oui* and *ouais* are casual forms th
 
 - **Review**: a lesson with no new grammar that brings back what the stage taught.
 
-Next: Adjectives and agreement<!-- link: ../04-people-places-and-directions/01-adjectives-agreement.md -->
+Next: [Adjectives and agreement](../04-people-places-and-directions/01-adjectives-agreement.md)

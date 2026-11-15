@@ -7,10 +7,10 @@ Before this stage: Stages 1 to 3.
 <!-- lessons:start -->
 ## Lessons
 
-1. Adjectives and agreement (not written yet) (grammar)
-2. Colours, sizes and where adjectives go (not written yet) (words)
-3. Possessives and family (not written yet) (grammar)
-4. This, that, and moi, toi (not written yet) (grammar)
+1. [Adjectives and agreement](01-adjectives-agreement.md) (grammar)
+2. [Colours, sizes and where adjectives go](02-colours-sizes-and-position.md) (words)
+3. [Possessives and family](03-possessives-and-family.md) (grammar)
+4. [This, that, and moi, toi](04-this-that-and-moi-toi.md) (grammar)
 5. Prepositions of place (not written yet) (grammar)
 6. The futur proche (not written yet) (grammar)
 7. C'est or il est (not written yet) (grammar)

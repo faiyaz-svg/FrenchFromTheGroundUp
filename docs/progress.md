@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 36 of 205. New lessons appear here as they are added.
+Lessons written so far: 40 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -50,3 +50,10 @@ Lessons written so far: 36 of 205. New lessons appear here as they are added.
 - [ ] [Casual questions in Quebec](03-verbs-and-questions/10-quebec-casual-questions.md) (quebec)
 - [ ] [Hearing times and plans](03-verbs-and-questions/11-hearing-times-and-plans.md) (listen)
 - [ ] [A weekend plan](03-verbs-and-questions/12-a-weekend-plan.md) (speak, review)
+
+### Stage 4: People, places and directions
+
+- [ ] [Adjectives and agreement](04-people-places-and-directions/01-adjectives-agreement.md) (grammar)
+- [ ] [Colours, sizes and where adjectives go](04-people-places-and-directions/02-colours-sizes-and-position.md) (words)
+- [ ] [Possessives and family](04-people-places-and-directions/03-possessives-and-family.md) (grammar)
+- [ ] [This, that, and moi, toi](04-people-places-and-directions/04-this-that-and-moi-toi.md) (grammar)

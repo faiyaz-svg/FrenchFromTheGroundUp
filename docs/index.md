@@ -64,10 +64,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="4">
 <a class="fm-seg-name" href="04-people-places-and-directions/">4 · People, places and directions</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="Adjectives and agreement"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Colours, sizes and where adjectives go"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Possessives and family"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="This, that, and moi, toi"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="04-people-places-and-directions/01-adjectives-agreement/" data-lesson="04-people-places-and-directions/01-adjectives-agreement/" title="Adjectives and agreement"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/02-colours-sizes-and-position/" data-lesson="04-people-places-and-directions/02-colours-sizes-and-position/" title="Colours, sizes and where adjectives go"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/03-possessives-and-family/" data-lesson="04-people-places-and-directions/03-possessives-and-family/" title="Possessives and family"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="04-people-places-and-directions/04-this-that-and-moi-toi/" data-lesson="04-people-places-and-directions/04-this-that-and-moi-toi/" title="This, that, and moi, toi"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Prepositions of place"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="The futur proche"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="C&#x27;est or il est"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
