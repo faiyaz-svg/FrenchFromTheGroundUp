@@ -102,10 +102,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="6">
 <a class="fm-seg-name" href="06-habits-memories-and-food/">6 · Habits, memories and food</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="Partitive articles: du, de la, des"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Vouloir, pouvoir and devoir"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Food, shopping and quantities"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="Reflexive verbs"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="06-habits-memories-and-food/01-partitive-articles/" data-lesson="06-habits-memories-and-food/01-partitive-articles/" title="Partitive articles: du, de la, des"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="06-habits-memories-and-food/02-vouloir-pouvoir-devoir/" data-lesson="06-habits-memories-and-food/02-vouloir-pouvoir-devoir/" title="Vouloir, pouvoir and devoir"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="06-habits-memories-and-food/03-food-shopping-and-quantities/" data-lesson="06-habits-memories-and-food/03-food-shopping-and-quantities/" title="Food, shopping and quantities"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="06-habits-memories-and-food/04-reflexive-verbs/" data-lesson="06-habits-memories-and-food/04-reflexive-verbs/" title="Reflexive verbs"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="The imparfait"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Imparfait or passé composé"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="Adverbs ending in -ment"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

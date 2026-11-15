@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 61 of 205. New lessons appear here as they are added.
+Lessons written so far: 65 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -83,3 +83,10 @@ Lessons written so far: 61 of 205. New lessons appear here as they are added.
 - [ ] [Listening to a story](05-the-past-what-happened/10-listening-to-a-story.md) (listen)
 - [ ] [A message about yesterday](05-the-past-what-happened/11-message-about-yesterday.md) (write)
 - [ ] [A weekend in Quebec City](05-the-past-what-happened/12-a-weekend-in-quebec-city.md) (speak, review)
+
+### Stage 6: Habits, memories and food
+
+- [ ] [Partitive articles: du, de la, des](06-habits-memories-and-food/01-partitive-articles.md) (grammar)
+- [ ] [Vouloir, pouvoir and devoir](06-habits-memories-and-food/02-vouloir-pouvoir-devoir.md) (grammar)
+- [ ] [Food, shopping and quantities](06-habits-memories-and-food/03-food-shopping-and-quantities.md) (words)
+- [ ] [Reflexive verbs](06-habits-memories-and-food/04-reflexive-verbs.md) (grammar)

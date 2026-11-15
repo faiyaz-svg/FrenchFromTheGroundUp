@@ -125,7 +125,7 @@ Adding *-s* to *-al* nouns: *des journals*. Write *des journaux*.
 
 ## In Quebec
 
-Plurals work the same way in Quebec as in France. In careful French, *des* becomes *de* before an adjective that comes in front of a plural noun (*de beaux jours*, "fine days"). You meet this rule in Partitive articles: du, de la, des<!-- link: ../06-habits-memories-and-food/01-partitive-articles.md -->, so for now keep *des*.
+Plurals work the same way in Quebec as in France. In careful French, *des* becomes *de* before an adjective that comes in front of a plural noun (*de beaux jours*, "fine days"). You meet this rule in [Partitive articles: du, de la, des](../06-habits-memories-and-food/01-partitive-articles.md), so for now keep *des*.
 
 ## New words
 

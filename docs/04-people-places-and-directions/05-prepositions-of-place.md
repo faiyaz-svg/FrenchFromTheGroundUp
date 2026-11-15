@@ -40,7 +40,7 @@ The words that end in *de* (*à côté de*, *près de*, *loin de*, *en face de*,
 | de + la banque | *de la banque* |
 | de + l'hôtel | *de l'hôtel* |
 
-So: *à côté du parc*, *près des magasins*, *en face de la banque*, *loin de l'hôtel*. You already saw *à* plus *le* become *au* and *à* plus *les* become *aux* in Aller and faire. This is the same idea for *de*. Watch out: *du* has another job that a later lesson explains, in Partitive articles: du, de la, des<!-- link: ../06-habits-memories-and-food/01-partitive-articles.md -->. For now, *du* only means *de* plus *le*.
+So: *à côté du parc*, *près des magasins*, *en face de la banque*, *loin de l'hôtel*. You already saw *à* plus *le* become *au* and *à* plus *les* become *aux* in Aller and faire. This is the same idea for *de*. Watch out: *du* has another job that a later lesson explains, in [Partitive articles: du, de la, des](../06-habits-memories-and-food/01-partitive-articles.md). For now, *du* only means *de* plus *le*.
 
 ### Cities, provinces and countries
 

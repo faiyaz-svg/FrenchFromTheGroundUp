@@ -7,10 +7,10 @@ Before this stage: Stages 1 to 5.
 <!-- lessons:start -->
 ## Lessons
 
-1. Partitive articles: du, de la, des (not written yet) (grammar)
-2. Vouloir, pouvoir and devoir (not written yet) (grammar)
-3. Food, shopping and quantities (not written yet) (words)
-4. Reflexive verbs (not written yet) (grammar)
+1. [Partitive articles: du, de la, des](01-partitive-articles.md) (grammar)
+2. [Vouloir, pouvoir and devoir](02-vouloir-pouvoir-devoir.md) (grammar)
+3. [Food, shopping and quantities](03-food-shopping-and-quantities.md) (words)
+4. [Reflexive verbs](04-reflexive-verbs.md) (grammar)
 5. The imparfait (not written yet) (grammar)
 6. Imparfait or passé composé (not written yet) (grammar)
 7. Adverbs ending in -ment (not written yet) (grammar)

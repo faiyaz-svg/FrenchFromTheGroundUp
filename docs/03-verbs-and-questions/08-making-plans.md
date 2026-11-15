@@ -8,7 +8,7 @@ Before this: [Aller and faire](05-aller-and-faire.md), [Days, dates and big numb
 
 ## The idea
 
-A plan has five moves: you propose, the other person answers, you may refuse and offer something else, you fix the time, and you fix the place. Each move has a few set phrases. Some of them use verbs that this book teaches later: *vouloir* "to want", *pouvoir* "can", *venir* "to come" and *se retrouver* "to meet". Learn those phrases whole, as **chunks**, which are phrases that you say as one block without taking them apart. Later lessons explain them: [Prendre, venir, boire and voir](../05-the-past-what-happened/02-prendre-venir-boire-voir.md), Vouloir, pouvoir and devoir<!-- link: ../06-habits-memories-and-food/02-vouloir-pouvoir-devoir.md --> and Reflexive verbs<!-- link: ../06-habits-memories-and-food/04-reflexive-verbs.md -->.
+A plan has five moves: you propose, the other person answers, you may refuse and offer something else, you fix the time, and you fix the place. Each move has a few set phrases. Some of them use verbs that this book teaches later: *vouloir* "to want", *pouvoir* "can", *venir* "to come" and *se retrouver* "to meet". Learn those phrases whole, as **chunks**, which are phrases that you say as one block without taking them apart. Later lessons explain them: [Prendre, venir, boire and voir](../05-the-past-what-happened/02-prendre-venir-boire-voir.md), [Vouloir, pouvoir and devoir](../06-habits-memories-and-food/02-vouloir-pouvoir-devoir.md) and [Reflexive verbs](../06-habits-memories-and-food/04-reflexive-verbs.md).
 
 ### Proposing
 

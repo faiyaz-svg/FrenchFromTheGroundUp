@@ -29,7 +29,7 @@ These words all take today as the starting point.
 
 ### Il y a with a time
 
-You know *il y a* as "there is": *il y a un parc*. With a length of time and a past event, the same two words mean "ago": *Il y a trois jours, j'ai vu Julie.* *J'ai habité à Toronto il y a deux ans.* The phrase can come first or last in the sentence. This is only a first look. [Depuis, il y a and pendant](../08-comparing-duration-and-settling-in/03-depuis-il-y-a-pendant.md) explains the whole family, with *depuis* and *pendant*.
+You know *il y a* as "there is": *il y a un parc*. With a length of time and a past event, the same two words mean "ago": *Il y a trois jours, j'ai vu Julie.* *J'ai habité à Toronto il y a deux ans.* The phrase can come first or last in the sentence. This is only a first look. Depuis, il y a and pendant<!-- link: ../08-comparing-duration-and-settling-in/03-depuis-il-y-a-pendant.md --> explains the whole family, with *depuis* and *pendant*.
 
 ### Counting from another moment in the story
 

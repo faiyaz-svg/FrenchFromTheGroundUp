@@ -150,4 +150,4 @@ Forgetting to agree the participle when *nous* or *elles* is feminine: *nous som
 
 - **Monologue**: a piece of speech by one person, with no one answering.
 
-Next: Partitive articles: du, de la, des<!-- link: ../06-habits-memories-and-food/01-partitive-articles.md -->
+Next: [Partitive articles: du, de la, des](../06-habits-memories-and-food/01-partitive-articles.md)

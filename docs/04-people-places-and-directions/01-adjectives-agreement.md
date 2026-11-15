@@ -60,7 +60,7 @@ Three of these adjectives have an extra masculine form used before a vowel sound
 
 *Un bel hôtel*, *un nouvel employé*, *un vieil ami*. The extra form sounds like the feminine, so your mouth does not have to stop between the words. Before a vowel, a final consonant also links to the next word: *un petit ami* /œ̃ pətit ami/, *un grand ami* /œ̃ gʁɑ̃t ami/.
 
-One more detail for later: in careful French *des* becomes *de* when an adjective comes before a plural noun. Partitive articles: du, de la, des<!-- link: ../06-habits-memories-and-food/01-partitive-articles.md --> explains it, and this lesson avoids that case.
+One more detail for later: in careful French *des* becomes *de* when an adjective comes before a plural noun. [Partitive articles: du, de la, des](../06-habits-memories-and-food/01-partitive-articles.md) explains it, and this lesson avoids that case.
 
 ### Adjectives after être
 
