@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 105 of 205. New lessons appear here as they are added.
+Lessons written so far: 109 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -141,3 +141,7 @@ Lessons written so far: 105 of 205. New lessons appear here as they are added.
 - [ ] [The futur simple: irregular verbs](09-work-and-the-future/02-futur-simple-irregular.md) (grammar)
 - [ ] [The conditionnel for politeness](09-work-and-the-future/03-conditionnel-politeness.md) (grammar)
 - [ ] [Si clauses and hypotheses](09-work-and-the-future/04-si-clauses-hypotheses.md) (grammar)
+- [ ] [Phone calls at work](09-work-and-the-future/05-phone-calls-at-work.md) (speak)
+- [ ] [Serving the public](09-work-and-the-future/06-serving-the-public.md) (speak)
+- [ ] [Office and meeting words](09-work-and-the-future/07-office-and-meeting-words.md) (words)
+- [ ] [Work culture in Quebec](09-work-and-the-future/08-quebec-work-culture.md) (quebec)

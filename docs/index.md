@@ -164,10 +164,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="09-work-and-the-future/02-futur-simple-irregular/" data-lesson="09-work-and-the-future/02-futur-simple-irregular/" title="The futur simple: irregular verbs"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="09-work-and-the-future/03-conditionnel-politeness/" data-lesson="09-work-and-the-future/03-conditionnel-politeness/" title="The conditionnel for politeness"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="09-work-and-the-future/04-si-clauses-hypotheses/" data-lesson="09-work-and-the-future/04-si-clauses-hypotheses/" title="Si clauses and hypotheses"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="Phone calls at work"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="Serving the public"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="Office and meeting words"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Work culture in Quebec"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="09-work-and-the-future/05-phone-calls-at-work/" data-lesson="09-work-and-the-future/05-phone-calls-at-work/" title="Phone calls at work"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/06-serving-the-public/" data-lesson="09-work-and-the-future/06-serving-the-public/" title="Serving the public"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/07-office-and-meeting-words/" data-lesson="09-work-and-the-future/07-office-and-meeting-words/" title="Office and meeting words"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/08-quebec-work-culture/" data-lesson="09-work-and-the-future/08-quebec-work-culture/" title="Work culture in Quebec"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="Listening to phone calls"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="Work email basics"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="Workplace documents"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
