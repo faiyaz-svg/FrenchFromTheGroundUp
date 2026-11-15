@@ -19,7 +19,23 @@
   {
    "verb": "être",
    "tense": "présent",
-   "person": "il/elle",
+   "person": "il",
+   "answer": "est",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "est",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "on",
    "answer": "est",
    "en": "to be",
    "stage": 1
@@ -43,106 +59,18 @@
   {
    "verb": "être",
    "tense": "présent",
-   "person": "ils/elles",
+   "person": "ils",
    "answer": "sont",
    "en": "to be",
    "stage": 1
   },
   {
-   "verb": "avoir",
+   "verb": "être",
    "tense": "présent",
-   "person": "je",
-   "answer": "ai",
-   "en": "to have",
+   "person": "elles",
+   "answer": "sont",
+   "en": "to be",
    "stage": 1
-  },
-  {
-   "verb": "avoir",
-   "tense": "présent",
-   "person": "tu",
-   "answer": "as",
-   "en": "to have",
-   "stage": 1
-  },
-  {
-   "verb": "avoir",
-   "tense": "présent",
-   "person": "il/elle",
-   "answer": "a",
-   "en": "to have",
-   "stage": 1
-  },
-  {
-   "verb": "avoir",
-   "tense": "présent",
-   "person": "nous",
-   "answer": "avons",
-   "en": "to have",
-   "stage": 1
-  },
-  {
-   "verb": "avoir",
-   "tense": "présent",
-   "person": "vous",
-   "answer": "avez",
-   "en": "to have",
-   "stage": 1
-  },
-  {
-   "verb": "avoir",
-   "tense": "présent",
-   "person": "ils/elles",
-   "answer": "ont",
-   "en": "to have",
-   "stage": 1
-  },
-  {
-   "verb": "aller",
-   "tense": "présent",
-   "person": "je",
-   "answer": "vais",
-   "en": "to go",
-   "stage": 2
-  },
-  {
-   "verb": "aller",
-   "tense": "présent",
-   "person": "tu",
-   "answer": "vas",
-   "en": "to go",
-   "stage": 2
-  },
-  {
-   "verb": "aller",
-   "tense": "présent",
-   "person": "il/elle",
-   "answer": "va",
-   "en": "to go",
-   "stage": 2
-  },
-  {
-   "verb": "aller",
-   "tense": "présent",
-   "person": "nous",
-   "answer": "allons",
-   "en": "to go",
-   "stage": 2
-  },
-  {
-   "verb": "aller",
-   "tense": "présent",
-   "person": "vous",
-   "answer": "allez",
-   "en": "to go",
-   "stage": 2
-  },
-  {
-   "verb": "aller",
-   "tense": "présent",
-   "person": "ils/elles",
-   "answer": "vont",
-   "en": "to go",
-   "stage": 2
   }
  ]
 }

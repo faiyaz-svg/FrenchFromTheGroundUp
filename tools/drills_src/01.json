@@ -1,0 +1,530 @@
+{
+ "conjugation": [
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "je",
+   "answer": "suis",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "es",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "il",
+   "answer": "est",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "est",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "on",
+   "answer": "est",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "sommes",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "êtes",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "sont",
+   "en": "to be",
+   "stage": 1
+  },
+  {
+   "verb": "être",
+   "tense": "présent",
+   "person": "elles",
+   "answer": "sont",
+   "en": "to be",
+   "stage": 1
+  }
+ ],
+ "gender": [
+  {
+   "noun": "café",
+   "answer": "le",
+   "en": "coffee",
+   "stage": 1
+  },
+  {
+   "noun": "thé",
+   "answer": "le",
+   "en": "tea",
+   "stage": 1
+  },
+  {
+   "noun": "fête",
+   "answer": "la",
+   "en": "party",
+   "stage": 1
+  },
+  {
+   "noun": "garçon",
+   "answer": "le",
+   "en": "boy",
+   "stage": 1
+  },
+  {
+   "noun": "hôtel",
+   "answer": "le",
+   "en": "hotel",
+   "stage": 1,
+   "elided": true
+  },
+  {
+   "noun": "français",
+   "answer": "le",
+   "en": "French (language)",
+   "stage": 1
+  },
+  {
+   "noun": "père",
+   "answer": "le",
+   "en": "father",
+   "stage": 1
+  },
+  {
+   "noun": "mère",
+   "answer": "la",
+   "en": "mother",
+   "stage": 1
+  },
+  {
+   "noun": "lait",
+   "answer": "le",
+   "en": "milk",
+   "stage": 1
+  },
+  {
+   "noun": "rue",
+   "answer": "la",
+   "en": "street",
+   "stage": 1
+  },
+  {
+   "noun": "roue",
+   "answer": "la",
+   "en": "wheel",
+   "stage": 1
+  },
+  {
+   "noun": "chat",
+   "answer": "le",
+   "en": "cat",
+   "stage": 1
+  },
+  {
+   "noun": "porte",
+   "answer": "la",
+   "en": "door",
+   "stage": 1
+  },
+  {
+   "noun": "pomme",
+   "answer": "la",
+   "en": "apple",
+   "stage": 1
+  },
+  {
+   "noun": "bol",
+   "answer": "le",
+   "en": "bowl",
+   "stage": 1
+  },
+  {
+   "noun": "eau",
+   "answer": "la",
+   "en": "water",
+   "stage": 1,
+   "elided": true
+  },
+  {
+   "noun": "sœur",
+   "answer": "la",
+   "en": "sister",
+   "stage": 1
+  },
+  {
+   "noun": "peur",
+   "answer": "la",
+   "en": "fear",
+   "stage": 1
+  },
+  {
+   "noun": "fleur",
+   "answer": "la",
+   "en": "flower",
+   "stage": 1
+  },
+  {
+   "noun": "heure",
+   "answer": "la",
+   "en": "hour",
+   "stage": 1,
+   "elided": true
+  },
+  {
+   "noun": "pain",
+   "answer": "le",
+   "en": "bread",
+   "stage": 1
+  },
+  {
+   "noun": "vin",
+   "answer": "le",
+   "en": "wine",
+   "stage": 1
+  },
+  {
+   "noun": "maison",
+   "answer": "la",
+   "en": "house",
+   "stage": 1
+  },
+  {
+   "noun": "matin",
+   "answer": "le",
+   "en": "morning",
+   "stage": 1
+  },
+  {
+   "noun": "lettre",
+   "answer": "la",
+   "en": "letter",
+   "stage": 1
+  },
+  {
+   "noun": "nom",
+   "answer": "le",
+   "en": "name",
+   "stage": 1
+  },
+  {
+   "noun": "école",
+   "answer": "la",
+   "en": "school",
+   "stage": 1,
+   "elided": true
+  },
+  {
+   "noun": "été",
+   "answer": "le",
+   "en": "summer",
+   "stage": 1,
+   "elided": true
+  },
+  {
+   "noun": "œuf",
+   "answer": "le",
+   "en": "egg",
+   "stage": 1,
+   "elided": true
+  },
+  {
+   "noun": "cœur",
+   "answer": "le",
+   "en": "heart",
+   "stage": 1
+  }
+ ],
+ "fill": [
+  {
+   "q": "Je ___ de Toronto.",
+   "hint": "être",
+   "a": [
+    "suis"
+   ],
+   "en": "I'm from Toronto.",
+   "stage": 1
+  },
+  {
+   "q": "Tu ___ de Montréal?",
+   "hint": "être",
+   "a": [
+    "es"
+   ],
+   "en": "Are you from Montreal?",
+   "stage": 1
+  },
+  {
+   "q": "Il ___ canadien.",
+   "hint": "être",
+   "a": [
+    "est"
+   ],
+   "en": "He is Canadian.",
+   "stage": 1
+  },
+  {
+   "q": "Elle ___ de Gatineau.",
+   "hint": "être",
+   "a": [
+    "est"
+   ],
+   "en": "She is from Gatineau.",
+   "stage": 1
+  },
+  {
+   "q": "Nous ___ canadiens.",
+   "hint": "être",
+   "a": [
+    "sommes"
+   ],
+   "en": "We are Canadian.",
+   "stage": 1
+  },
+  {
+   "q": "Vous ___ de Québec?",
+   "hint": "être",
+   "a": [
+    "êtes"
+   ],
+   "en": "Are you from Quebec City?",
+   "stage": 1
+  },
+  {
+   "q": "Ils ___ de Montréal.",
+   "hint": "être",
+   "a": [
+    "sont"
+   ],
+   "en": "They are from Montreal.",
+   "stage": 1
+  },
+  {
+   "q": "Elles ___ canadiennes.",
+   "hint": "être",
+   "a": [
+    "sont"
+   ],
+   "en": "They are Canadian.",
+   "stage": 1
+  },
+  {
+   "q": "Je ___ Marc.",
+   "hint": "s'appeler",
+   "a": [
+    "m'appelle"
+   ],
+   "en": "My name is Marc.",
+   "stage": 1
+  },
+  {
+   "q": "Léa est ___.",
+   "hint": "canadien",
+   "a": [
+    "canadienne"
+   ],
+   "en": "Léa is Canadian.",
+   "stage": 1
+  },
+  {
+   "q": "Merci beaucoup. De ___.",
+   "a": [
+    "rien"
+   ],
+   "en": "Thank you very much. You're welcome.",
+   "stage": 1
+  },
+  {
+   "q": "Au ___, bonne journée!",
+   "a": [
+    "revoir"
+   ],
+   "en": "Goodbye, have a good day!",
+   "stage": 1
+  },
+  {
+   "q": "Ça ___?",
+   "a": [
+    "va"
+   ],
+   "en": "How's it going?",
+   "stage": 1
+  },
+  {
+   "q": "S'il ___ plaît.",
+   "a": [
+    "vous"
+   ],
+   "en": "Please (to a stranger).",
+   "stage": 1
+  },
+  {
+   "q": "S'il ___ plaît.",
+   "a": [
+    "te"
+   ],
+   "en": "Please (to a friend).",
+   "stage": 1
+  },
+  {
+   "q": "Excusez-___.",
+   "a": [
+    "moi"
+   ],
+   "en": "Excuse me.",
+   "stage": 1
+  },
+  {
+   "q": "Bonne fin de ___!",
+   "a": [
+    "semaine"
+   ],
+   "en": "Have a good weekend!",
+   "stage": 1
+  },
+  {
+   "q": "Très ___, merci.",
+   "a": [
+    "bien"
+   ],
+   "en": "Very well, thank you.",
+   "stage": 1
+  },
+  {
+   "q": "Et ___? (à un ami)",
+   "a": [
+    "toi"
+   ],
+   "en": "And you? (to a friend)",
+   "stage": 1
+  },
+  {
+   "q": "Comment ___-vous?",
+   "hint": "aller",
+   "a": [
+    "allez"
+   ],
+   "en": "How are you?",
+   "stage": 1
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "Bonjour, je m'appelle Marc.",
+   "en": "Hello, my name is Marc.",
+   "stage": 1
+  },
+  {
+   "fr": "Je suis de Toronto.",
+   "en": "I'm from Toronto.",
+   "stage": 1
+  },
+  {
+   "fr": "Tu es de Montréal?",
+   "en": "Are you from Montreal?",
+   "stage": 1
+  },
+  {
+   "fr": "Enchanté, madame.",
+   "en": "Nice to meet you, ma'am.",
+   "stage": 1
+  },
+  {
+   "fr": "Merci beaucoup, au revoir.",
+   "en": "Thank you very much, goodbye.",
+   "stage": 1
+  },
+  {
+   "fr": "Ça va bien, merci.",
+   "en": "Fine, thank you.",
+   "stage": 1
+  },
+  {
+   "fr": "Comment allez-vous?",
+   "en": "How are you?",
+   "stage": 1
+  },
+  {
+   "fr": "Très bien, merci. Et vous?",
+   "en": "Very well, thank you. And you?",
+   "stage": 1
+  },
+  {
+   "fr": "Un thé, s'il vous plaît.",
+   "en": "A tea, please.",
+   "stage": 1
+  },
+  {
+   "fr": "Bonne fin de semaine!",
+   "en": "Have a good weekend!",
+   "stage": 1
+  },
+  {
+   "fr": "Nous sommes canadiens.",
+   "en": "We are Canadian.",
+   "stage": 1
+  },
+  {
+   "fr": "Elle est de Gatineau.",
+   "en": "She is from Gatineau.",
+   "stage": 1
+  },
+  {
+   "fr": "Salut! Ça va?",
+   "en": "Hi! How's it going?",
+   "stage": 1
+  },
+  {
+   "fr": "De rien, bonne journée!",
+   "en": "You're welcome, have a good day!",
+   "stage": 1
+  },
+  {
+   "fr": "Vous êtes de Québec?",
+   "en": "Are you from Quebec City?",
+   "stage": 1
+  },
+  {
+   "fr": "Je suis canadienne.",
+   "en": "I'm Canadian.",
+   "stage": 1
+  },
+  {
+   "fr": "Bonsoir, monsieur.",
+   "en": "Good evening, sir.",
+   "stage": 1
+  },
+  {
+   "fr": "Où est l'hôtel?",
+   "en": "Where is the hotel?",
+   "stage": 1
+  }
+ ],
+ "quebec-words": []
+}

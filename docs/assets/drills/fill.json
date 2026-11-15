@@ -1,112 +1,175 @@
 {
  "items": [
   {
-   "q": "Je ___ au cinéma ce soir.",
-   "hint": "aller",
+   "q": "Je ___ de Toronto.",
+   "hint": "être",
    "a": [
-    "vais"
+    "suis"
    ],
-   "en": "I'm going to the movies tonight.",
-   "stage": 2
+   "en": "I'm from Toronto.",
+   "stage": 1
   },
   {
-   "q": "Tu ___ étudiant.",
+   "q": "Tu ___ de Montréal?",
    "hint": "être",
    "a": [
     "es"
    ],
-   "en": "You are a student.",
+   "en": "Are you from Montreal?",
    "stage": 1
   },
   {
-   "q": "Nous ___ une voiture.",
-   "hint": "avoir",
-   "a": [
-    "avons"
-   ],
-   "en": "We have a car.",
-   "stage": 1
-  },
-  {
-   "q": "Elle ___ à Montréal.",
+   "q": "Il ___ canadien.",
    "hint": "être",
    "a": [
     "est"
    ],
-   "en": "She is in Montreal.",
+   "en": "He is Canadian.",
    "stage": 1
   },
   {
-   "q": "Ils ___ au marché.",
-   "hint": "aller",
-   "a": [
-    "vont"
-   ],
-   "en": "They are going to the market.",
-   "stage": 2
-  },
-  {
-   "q": "Vous ___ faim?",
-   "hint": "avoir",
-   "a": [
-    "avez"
-   ],
-   "en": "Are you hungry?",
-   "stage": 1
-  },
-  {
-   "q": "J'___ vingt ans.",
-   "hint": "avoir",
-   "a": [
-    "ai"
-   ],
-   "en": "I am twenty years old.",
-   "stage": 1
-  },
-  {
-   "q": "Nous ___ au restaurant ce soir.",
-   "hint": "aller",
-   "a": [
-    "allons"
-   ],
-   "en": "We are going to the restaurant tonight.",
-   "stage": 2
-  },
-  {
-   "q": "Elles ___ contentes.",
+   "q": "Elle ___ de Gatineau.",
    "hint": "être",
    "a": [
-    "sont"
+    "est"
    ],
-   "en": "They are happy.",
+   "en": "She is from Gatineau.",
    "stage": 1
   },
   {
-   "q": "Tu ___ où?",
-   "hint": "aller",
+   "q": "Nous ___ canadiens.",
+   "hint": "être",
    "a": [
-    "vas"
+    "sommes"
    ],
-   "en": "Where are you going?",
-   "stage": 2
+   "en": "We are Canadian.",
+   "stage": 1
   },
   {
-   "q": "Vous ___ très gentil.",
+   "q": "Vous ___ de Québec?",
    "hint": "être",
    "a": [
     "êtes"
    ],
-   "en": "You are very kind.",
+   "en": "Are you from Quebec City?",
    "stage": 1
   },
   {
-   "q": "Il ___ chaud aujourd'hui.",
-   "hint": "faire",
+   "q": "Ils ___ de Montréal.",
+   "hint": "être",
    "a": [
-    "fait"
+    "sont"
    ],
-   "en": "It is hot today.",
-   "stage": 3
+   "en": "They are from Montreal.",
+   "stage": 1
+  },
+  {
+   "q": "Elles ___ canadiennes.",
+   "hint": "être",
+   "a": [
+    "sont"
+   ],
+   "en": "They are Canadian.",
+   "stage": 1
+  },
+  {
+   "q": "Je ___ Marc.",
+   "hint": "s'appeler",
+   "a": [
+    "m'appelle"
+   ],
+   "en": "My name is Marc.",
+   "stage": 1
+  },
+  {
+   "q": "Léa est ___.",
+   "hint": "canadien",
+   "a": [
+    "canadienne"
+   ],
+   "en": "Léa is Canadian.",
+   "stage": 1
+  },
+  {
+   "q": "Merci beaucoup. De ___.",
+   "a": [
+    "rien"
+   ],
+   "en": "Thank you very much. You're welcome.",
+   "stage": 1
+  },
+  {
+   "q": "Au ___, bonne journée!",
+   "a": [
+    "revoir"
+   ],
+   "en": "Goodbye, have a good day!",
+   "stage": 1
+  },
+  {
+   "q": "Ça ___?",
+   "a": [
+    "va"
+   ],
+   "en": "How's it going?",
+   "stage": 1
+  },
+  {
+   "q": "S'il ___ plaît.",
+   "a": [
+    "vous"
+   ],
+   "en": "Please (to a stranger).",
+   "stage": 1
+  },
+  {
+   "q": "S'il ___ plaît.",
+   "a": [
+    "te"
+   ],
+   "en": "Please (to a friend).",
+   "stage": 1
+  },
+  {
+   "q": "Excusez-___.",
+   "a": [
+    "moi"
+   ],
+   "en": "Excuse me.",
+   "stage": 1
+  },
+  {
+   "q": "Bonne fin de ___!",
+   "a": [
+    "semaine"
+   ],
+   "en": "Have a good weekend!",
+   "stage": 1
+  },
+  {
+   "q": "Très ___, merci.",
+   "a": [
+    "bien"
+   ],
+   "en": "Very well, thank you.",
+   "stage": 1
+  },
+  {
+   "q": "Et ___? (à un ami)",
+   "a": [
+    "toi"
+   ],
+   "en": "And you? (to a friend)",
+   "stage": 1
+  },
+  {
+   "q": "Comment ___-vous?",
+   "hint": "aller",
+   "a": [
+    "allez"
+   ],
+   "en": "How are you?",
+   "stage": 1
   }
  ]
 }

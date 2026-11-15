@@ -1,64 +1,94 @@
 {
  "items": [
   {
-   "fr": "Je voudrais un café, s'il vous plaît.",
-   "en": "I'd like a coffee, please.",
-   "stage": 2
-  },
-  {
-   "fr": "Bonjour, comment allez-vous?",
-   "en": "Hello, how are you?",
+   "fr": "Bonjour, je m'appelle Marc.",
+   "en": "Hello, my name is Marc.",
    "stage": 1
   },
   {
-   "fr": "Je m'appelle Marie.",
-   "en": "My name is Marie.",
+   "fr": "Je suis de Toronto.",
+   "en": "I'm from Toronto.",
    "stage": 1
   },
   {
-   "fr": "Où est la gare?",
-   "en": "Where is the train station?",
-   "stage": 2
-  },
-  {
-   "fr": "J'habite à Montréal.",
-   "en": "I live in Montreal.",
-   "stage": 2
-  },
-  {
-   "fr": "Il fait beau aujourd'hui.",
-   "en": "The weather is nice today.",
-   "stage": 3
-  },
-  {
-   "fr": "Nous avons deux enfants.",
-   "en": "We have two children.",
-   "stage": 3
-  },
-  {
-   "fr": "Quelle heure est-il?",
-   "en": "What time is it?",
-   "stage": 3
-  },
-  {
-   "fr": "Je ne comprends pas.",
-   "en": "I don't understand.",
-   "stage": 2
-  },
-  {
-   "fr": "Merci beaucoup.",
-   "en": "Thank you very much.",
+   "fr": "Tu es de Montréal?",
+   "en": "Are you from Montreal?",
    "stage": 1
   },
   {
-   "fr": "Elle est étudiante.",
-   "en": "She is a student.",
+   "fr": "Enchanté, madame.",
+   "en": "Nice to meet you, ma'am.",
    "stage": 1
   },
   {
-   "fr": "Pouvez-vous répéter, s'il vous plaît?",
-   "en": "Can you repeat, please?",
-   "stage": 4
+   "fr": "Merci beaucoup, au revoir.",
+   "en": "Thank you very much, goodbye.",
+   "stage": 1
+  },
+  {
+   "fr": "Ça va bien, merci.",
+   "en": "Fine, thank you.",
+   "stage": 1
+  },
+  {
+   "fr": "Comment allez-vous?",
+   "en": "How are you?",
+   "stage": 1
+  },
+  {
+   "fr": "Très bien, merci. Et vous?",
+   "en": "Very well, thank you. And you?",
+   "stage": 1
+  },
+  {
+   "fr": "Un thé, s'il vous plaît.",
+   "en": "A tea, please.",
+   "stage": 1
+  },
+  {
+   "fr": "Bonne fin de semaine!",
+   "en": "Have a good weekend!",
+   "stage": 1
+  },
+  {
+   "fr": "Nous sommes canadiens.",
+   "en": "We are Canadian.",
+   "stage": 1
+  },
+  {
+   "fr": "Elle est de Gatineau.",
+   "en": "She is from Gatineau.",
+   "stage": 1
+  },
+  {
+   "fr": "Salut! Ça va?",
+   "en": "Hi! How's it going?",
+   "stage": 1
+  },
+  {
+   "fr": "De rien, bonne journée!",
+   "en": "You're welcome, have a good day!",
+   "stage": 1
+  },
+  {
+   "fr": "Vous êtes de Québec?",
+   "en": "Are you from Quebec City?",
+   "stage": 1
+  },
+  {
+   "fr": "Je suis canadienne.",
+   "en": "I'm Canadian.",
+   "stage": 1
+  },
+  {
+   "fr": "Bonsoir, monsieur.",
+   "en": "Good evening, sir.",
+   "stage": 1
+  },
+  {
+   "fr": "Où est l'hôtel?",
+   "en": "Where is the hotel?",
+   "stage": 1
   }
  ]
 }

@@ -21,10 +21,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="01-first-sounds-and-greetings/06-nasal-vowels/" data-lesson="01-first-sounds-and-greetings/06-nasal-vowels/" title="Nasal vowels"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="01-first-sounds-and-greetings/07-alphabet-and-spelling-names/" data-lesson="01-first-sounds-and-greetings/07-alphabet-and-spelling-names/" title="The alphabet and spelling your name"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="01-first-sounds-and-greetings/08-greetings-and-politeness/" data-lesson="01-first-sounds-and-greetings/08-greetings-and-politeness/" title="Greetings and politeness"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Bonjour-hi and other Montreal greetings"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Être and introducing yourself"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Your first slow dialogues"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Meet someone in Montreal"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/09-bonjour-hi-montreal-greetings/" data-lesson="01-first-sounds-and-greetings/09-bonjour-hi-montreal-greetings/" title="Bonjour-hi and other Montreal greetings"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/10-etre-and-introductions/" data-lesson="01-first-sounds-and-greetings/10-etre-and-introductions/" title="Être and introducing yourself"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/11-first-slow-dialogues/" data-lesson="01-first-sounds-and-greetings/11-first-slow-dialogues/" title="Your first slow dialogues"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/12-meet-someone-in-montreal/" data-lesson="01-first-sounds-and-greetings/12-meet-someone-in-montreal/" title="Meet someone in Montreal"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="2">

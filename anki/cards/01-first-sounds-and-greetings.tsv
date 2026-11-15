@@ -1,0 +1,119 @@
+id	french	english	notes	tags
+l01-bonjour	bonjour	hello, good day		a1 lesson01 sounds
+l01-merci	merci	thank you		a1 lesson01 sounds
+l01-le-cafe	le café	coffee		a1 lesson01 sounds
+l01-le-the	le thé	tea		a1 lesson01 sounds
+l01-la-fete	la fête	party, holiday		a1 lesson01 sounds
+l01-le-garcon	le garçon	boy		a1 lesson01 sounds
+l01-l-hotel	l'hôtel	hotel	masculine	a1 lesson01 sounds
+l01-le-francais	le français	French (the language)		a1 lesson01 sounds
+l01-petit	petit	small		a1 lesson01 sounds
+l01-grand	grand	big, tall		a1 lesson01 sounds
+l01-trop	trop	too much, too		a1 lesson01 sounds
+l01-ou	où	where		a1 lesson01 sounds
+l01-le-pere	le père	father		a1 lesson01 sounds
+l01-noel	Noël	Christmas		a1 lesson01 sounds
+l01-l-accent	l'accent	accent	masculine	a1 lesson01 sounds
+l01-aigu	aigu	acute (accent aigu)		a1 lesson01 sounds
+l01-grave	grave	grave (accent grave)		a1 lesson01 sounds
+l01-circonflexe	circonflexe	circumflex (accent circonflexe)		a1 lesson01 sounds
+l01-le-trema	le tréma	diaeresis (¨)		a1 lesson01 sounds
+l01-la-cedille	la cédille	cedilla (¸)		a1 lesson01 sounds
+l02-l-ete	l'été	summer	masculine	a1 lesson02 write
+l02-l-ecole	l'école	school	feminine	a1 lesson02 write
+l02-sur	sûr	sure		a1 lesson02 write
+l02-l-uf	l'œuf	egg	masculine	a1 lesson02 write
+l02-le-cur	le cœur	heart		a1 lesson02 write
+l03-tu	tu	you (informal)		a1 lesson03 sounds
+l03-vous	vous	you (polite, or more than one person)		a1 lesson03 sounds
+l03-tout	tout	all, everything		a1 lesson03 sounds
+l03-la-rue	la rue	street		a1 lesson03 sounds
+l03-la-roue	la roue	wheel		a1 lesson03 sounds
+l03-ici	ici	here		a1 lesson03 sounds
+l03-si	si	if		a1 lesson03 sounds
+l03-le-chat	le chat	cat		a1 lesson03 sounds
+l03-dessus	dessus	above, on top		a1 lesson03 sounds
+l03-dessous	dessous	below, underneath		a1 lesson03 sounds
+l04-le-lait	le lait	milk		a1 lesson04 sounds
+l04-la-mere	la mère	mother		a1 lesson04 sounds
+l04-et	et	and		a1 lesson04 sounds
+l04-je	je	I		a1 lesson04 sounds
+l04-de	de	of, from		a1 lesson04 sounds
+l05-l-eau	l'eau	water	feminine	a1 lesson05 sounds
+l05-beau	beau	nice, good-looking	feminine belle	a1 lesson05 sounds
+l05-le-bol	le bol	bowl		a1 lesson05 sounds
+l05-la-porte	la porte	door		a1 lesson05 sounds
+l05-la-pomme	la pomme	apple		a1 lesson05 sounds
+l05-deux	deux	two		a1 lesson05 sounds
+l05-bleu	bleu	blue		a1 lesson05 sounds
+l05-peu	peu	little, not much		a1 lesson05 sounds
+l05-monsieur	Monsieur	Mr, sir		a1 lesson05 sounds
+l05-la-sur	la sœur	sister		a1 lesson05 sounds
+l05-la-peur	la peur	fear		a1 lesson05 sounds
+l05-la-fleur	la fleur	flower		a1 lesson05 sounds
+l05-l-heure	l'heure	hour	feminine	a1 lesson05 sounds
+l06-le-pain	le pain	bread		a1 lesson06 sounds
+l06-le-vin	le vin	wine		a1 lesson06 sounds
+l06-blanc-blanche	blanc, blanche	white		a1 lesson06 sounds
+l06-bon-bonne	bon, bonne	good		a1 lesson06 sounds
+l06-brun	brun	brown		a1 lesson06 sounds
+l06-dans	dans	in		a1 lesson06 sounds
+l06-bien	bien	well, fine		a1 lesson06 sounds
+l06-le-matin	le matin	morning		a1 lesson06 sounds
+l06-la-maison	la maison	house		a1 lesson06 sounds
+l06-non	non	no		a1 lesson06 sounds
+l06-le-banc	le banc	bench		a1 lesson06 sounds
+l06-le-bain	le bain	bath		a1 lesson06 sounds
+l07-l-alphabet	l'alphabet	alphabet	masculine	a1 lesson07 words
+l07-la-lettre	la lettre	letter		a1 lesson07 words
+l07-le-nom	le nom	name, surname		a1 lesson07 words
+l07-exemple	exemple	example	used in sample addresses	a1 lesson07 words
+l07-l-arobase	l'arobase	the @ sign	feminine; The OQLF also lists a commercial and arobas	a1 lesson07 words
+l07-le-point	le point	dot, full stop		a1 lesson07 words
+l07-le-trait-d-union	le trait d'union	hyphen		a1 lesson07 words
+l07-le-trait-de-soulignement	le trait de soulignement	low line (_)	also le soulignement	a1 lesson07 words
+l07-ca-s-ecrit-comment	Ça s'écrit comment?	How is that spelled?		a1 lesson07 words
+l08-bonsoir	bonsoir	good evening		a1 lesson08 speak
+l08-salut	salut	hi, bye	casual	a1 lesson08 speak
+l08-allo	allô	hello (on the phone)	personal calls	a1 lesson08 speak
+l08-au-revoir	au revoir	goodbye		a1 lesson08 speak
+l08-bonne-journee	bonne journée	have a good day		a1 lesson08 speak
+l08-merci-beaucoup	merci beaucoup	thank you very much		a1 lesson08 speak
+l08-de-rien	de rien	you're welcome		a1 lesson08 speak
+l08-s-il-vous-plait	s'il vous plaît	please	with vous	a1 lesson08 speak
+l08-s-il-te-plait	s'il te plaît	please	with tu	a1 lesson08 speak
+l08-excusez-moi	excusez-moi	excuse me		a1 lesson08 speak
+l08-pardon	pardon	sorry, pardon		a1 lesson08 speak
+l08-ca-va	Ça va?	how's it going?		a1 lesson08 speak
+l08-comment-allez-vous	Comment allez-vous?	how are you?	polite	a1 lesson08 speak
+l08-tres-bien-merci	très bien, merci	very well, thank you		a1 lesson08 speak
+l08-oui	oui	yes		a1 lesson08 speak
+l08-voila	voilà	here you are, there it is		a1 lesson08 speak
+l08-madame	madame	ma'am, Mrs		a1 lesson08 speak
+l09-bienvenue	bienvenue	welcome	a greeting; Quebec also uses it as a reply to merci	a1 lesson09 quebec
+l09-je-vous-en-prie	je vous en prie	you're welcome	formal	a1 lesson09 quebec
+l09-il-n-y-a-pas-de-quoi	il n'y a pas de quoi	it's nothing, you're welcome		a1 lesson09 quebec
+l09-la-fin-de-semaine	la fin de semaine	the weekend	Quebec; France: le week-end	a1 lesson09 quebec
+l09-bonne-fin-de-semaine	bonne fin de semaine	have a good weekend	Quebec; France: bon week-end	a1 lesson09 quebec
+l09-vous-aussi	vous aussi	you too		a1 lesson09 quebec
+l09-le-week-end	le week-end	the weekend	France; the OQLF recommends fin de semaine in Quebec	a1 lesson09 quebec
+l10-etre	être	to be		a1 lesson10 grammar
+l10-il	il	he, it		a1 lesson10 grammar
+l10-elle	elle	she, it		a1 lesson10 grammar
+l10-nous	nous	we		a1 lesson10 grammar
+l10-ils	ils	they (masculine or mixed)		a1 lesson10 grammar
+l10-elles	elles	they (feminine)		a1 lesson10 grammar
+l10-je-m-appelle	je m'appelle	my name is	learn as a chunk	a1 lesson10 grammar
+l10-enchante-enchantee	enchanté, enchantée	nice to meet you	man says enchanté, woman enchantée	a1 lesson10 grammar
+l10-et-vous	Et vous?	and you?	polite	a1 lesson10 grammar
+l10-et-toi	Et toi?	and you?	informal	a1 lesson10 grammar
+l10-canadien-canadienne	canadien, canadienne	Canadian		a1 lesson10 grammar
+l10-quebecois-quebecoise	québécois, québécoise	from Quebec		a1 lesson10 grammar
+l10-francais-francaise	français, française	French (from France)		a1 lesson10 grammar
+l10-je-suis-de	je suis de	I am from		a1 lesson10 grammar
+l11-moi	moi	me, I (stressed)	Moi, je suis de Gatineau.	a1 lesson11 listen
+l11-toi	toi	you (stressed, informal)		a1 lesson11 listen
+l11-aussi	aussi	also, too		a1 lesson11 listen
+l11-c-est	c'est	it is, this is		a1 lesson11 listen
+l12-a-bientot	à bientôt	see you soon		a1 lesson12 speak
+l12-ton-courriel	ton courriel	your email	informal; votre courriel with vous	a1 lesson12 speak

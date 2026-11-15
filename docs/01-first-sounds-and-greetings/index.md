@@ -15,10 +15,10 @@ Before this stage: Start here. Nothing else.
 6. [Nasal vowels](06-nasal-vowels.md) (sounds)
 7. [The alphabet and spelling your name](07-alphabet-and-spelling-names.md) (words)
 8. [Greetings and politeness](08-greetings-and-politeness.md) (speak)
-9. Bonjour-hi and other Montreal greetings (not written yet) (quebec)
-10. Être and introducing yourself (not written yet) (grammar)
-11. Your first slow dialogues (not written yet) (listen)
-12. Meet someone in Montreal (not written yet) (speak, review)
+9. [Bonjour-hi and other Montreal greetings](09-bonjour-hi-montreal-greetings.md) (quebec)
+10. [Être and introducing yourself](10-etre-and-introductions.md) (grammar)
+11. [Your first slow dialogues](11-first-slow-dialogues.md) (listen)
+12. [Meet someone in Montreal](12-meet-someone-in-montreal.md) (speak, review)
 
 <!-- lessons:end -->
 

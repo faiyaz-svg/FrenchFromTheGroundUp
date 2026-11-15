@@ -1,15 +1,138 @@
 {
  "items": [
   {
-   "noun": "table",
-   "answer": "la",
-   "en": "table",
+   "noun": "café",
+   "answer": "le",
+   "en": "coffee",
    "stage": 1
   },
   {
-   "noun": "livre",
+   "noun": "thé",
    "answer": "le",
-   "en": "book",
+   "en": "tea",
+   "stage": 1
+  },
+  {
+   "noun": "fête",
+   "answer": "la",
+   "en": "party",
+   "stage": 1
+  },
+  {
+   "noun": "garçon",
+   "answer": "le",
+   "en": "boy",
+   "stage": 1
+  },
+  {
+   "noun": "hôtel",
+   "answer": "le",
+   "en": "hotel",
+   "stage": 1,
+   "elided": true
+  },
+  {
+   "noun": "français",
+   "answer": "le",
+   "en": "French (language)",
+   "stage": 1
+  },
+  {
+   "noun": "père",
+   "answer": "le",
+   "en": "father",
+   "stage": 1
+  },
+  {
+   "noun": "mère",
+   "answer": "la",
+   "en": "mother",
+   "stage": 1
+  },
+  {
+   "noun": "lait",
+   "answer": "le",
+   "en": "milk",
+   "stage": 1
+  },
+  {
+   "noun": "rue",
+   "answer": "la",
+   "en": "street",
+   "stage": 1
+  },
+  {
+   "noun": "roue",
+   "answer": "la",
+   "en": "wheel",
+   "stage": 1
+  },
+  {
+   "noun": "chat",
+   "answer": "le",
+   "en": "cat",
+   "stage": 1
+  },
+  {
+   "noun": "porte",
+   "answer": "la",
+   "en": "door",
+   "stage": 1
+  },
+  {
+   "noun": "pomme",
+   "answer": "la",
+   "en": "apple",
+   "stage": 1
+  },
+  {
+   "noun": "bol",
+   "answer": "le",
+   "en": "bowl",
+   "stage": 1
+  },
+  {
+   "noun": "eau",
+   "answer": "la",
+   "en": "water",
+   "stage": 1,
+   "elided": true
+  },
+  {
+   "noun": "sœur",
+   "answer": "la",
+   "en": "sister",
+   "stage": 1
+  },
+  {
+   "noun": "peur",
+   "answer": "la",
+   "en": "fear",
+   "stage": 1
+  },
+  {
+   "noun": "fleur",
+   "answer": "la",
+   "en": "flower",
+   "stage": 1
+  },
+  {
+   "noun": "heure",
+   "answer": "la",
+   "en": "hour",
+   "stage": 1,
+   "elided": true
+  },
+  {
+   "noun": "pain",
+   "answer": "le",
+   "en": "bread",
+   "stage": 1
+  },
+  {
+   "noun": "vin",
+   "answer": "le",
+   "en": "wine",
    "stage": 1
   },
   {
@@ -19,99 +142,49 @@
    "stage": 1
   },
   {
-   "noun": "café",
+   "noun": "matin",
    "answer": "le",
-   "en": "coffee",
+   "en": "morning",
    "stage": 1
   },
   {
-   "noun": "eau",
+   "noun": "lettre",
    "answer": "la",
-   "elided": true,
-   "en": "water",
+   "en": "letter",
    "stage": 1
   },
   {
-   "noun": "arbre",
+   "noun": "nom",
    "answer": "le",
-   "elided": true,
-   "en": "tree",
-   "stage": 2
+   "en": "name",
+   "stage": 1
   },
   {
    "noun": "école",
    "answer": "la",
-   "elided": true,
    "en": "school",
-   "stage": 2
+   "stage": 1,
+   "elided": true
   },
   {
-   "noun": "ami",
+   "noun": "été",
    "answer": "le",
-   "elided": true,
-   "en": "friend (male)",
-   "stage": 2
+   "en": "summer",
+   "stage": 1,
+   "elided": true
   },
   {
-   "noun": "stylo",
+   "noun": "œuf",
    "answer": "le",
-   "en": "pen",
-   "stage": 2
+   "en": "egg",
+   "stage": 1,
+   "elided": true
   },
   {
-   "noun": "porte",
-   "answer": "la",
-   "en": "door",
-   "stage": 2
-  },
-  {
-   "noun": "chat",
+   "noun": "cœur",
    "answer": "le",
-   "en": "cat",
-   "stage": 2
-  },
-  {
-   "noun": "fenêtre",
-   "answer": "la",
-   "en": "window",
-   "stage": 3
-  },
-  {
-   "noun": "ordinateur",
-   "answer": "le",
-   "elided": true,
-   "en": "computer",
-   "stage": 3
-  },
-  {
-   "noun": "fromage",
-   "answer": "le",
-   "en": "cheese",
-   "stage": 3
-  },
-  {
-   "noun": "pomme",
-   "answer": "la",
-   "en": "apple",
-   "stage": 3
-  },
-  {
-   "noun": "ville",
-   "answer": "la",
-   "en": "city",
-   "stage": 3
-  },
-  {
-   "noun": "pain",
-   "answer": "le",
-   "en": "bread",
-   "stage": 4
-  },
-  {
-   "noun": "rue",
-   "answer": "la",
-   "en": "street",
-   "stage": 4
+   "en": "heart",
+   "stage": 1
   }
  ]
 }
