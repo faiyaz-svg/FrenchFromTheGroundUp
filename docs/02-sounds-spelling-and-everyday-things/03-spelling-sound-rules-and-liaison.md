@@ -158,7 +158,7 @@ Linking everything, in an effort to sound French. Required links are enough at t
 
 ## In Quebec
 
-Careful speech in Quebec keeps liaison as in France. The OQLF says liaisons are more frequent in careful speech and almost never made in familiar speech, which holds for French everywhere ([OQLF: optional liaisons](https://vitrinelinguistique.oqlf.gouv.qc.ca/23550/la-prononciation/liaisons/contextes-de-liaisons-facultatives)). Casual questions in Quebec<!-- link: ../03-verbs-and-questions/10-quebec-casual-questions.md --> shows how spoken forms get shorter. The h aspiré list is the same as in France.
+Careful speech in Quebec keeps liaison as in France. The OQLF says liaisons are more frequent in careful speech and almost never made in familiar speech, which holds for French everywhere ([OQLF: optional liaisons](https://vitrinelinguistique.oqlf.gouv.qc.ca/23550/la-prononciation/liaisons/contextes-de-liaisons-facultatives)). [Casual questions in Quebec](../03-verbs-and-questions/10-quebec-casual-questions.md) shows how spoken forms get shorter. The h aspiré list is the same as in France.
 
 ## New words
 

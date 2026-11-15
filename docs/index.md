@@ -55,10 +55,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="03-verbs-and-questions/06-days-dates-and-big-numbers/" data-lesson="03-verbs-and-questions/06-days-dates-and-big-numbers/" title="Days, dates and big numbers"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="03-verbs-and-questions/07-telling-time/" data-lesson="03-verbs-and-questions/07-telling-time/" title="Telling the time"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="03-verbs-and-questions/08-making-plans/" data-lesson="03-verbs-and-questions/08-making-plans/" title="Making plans"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Texting to make plans"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Casual questions in Quebec"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Hearing times and plans"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="A weekend plan"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
+<li><a class="fm-st" href="03-verbs-and-questions/09-texting-to-make-plans/" data-lesson="03-verbs-and-questions/09-texting-to-make-plans/" title="Texting to make plans"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="03-verbs-and-questions/10-quebec-casual-questions/" data-lesson="03-verbs-and-questions/10-quebec-casual-questions/" title="Casual questions in Quebec"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="03-verbs-and-questions/11-hearing-times-and-plans/" data-lesson="03-verbs-and-questions/11-hearing-times-and-plans/" title="Hearing times and plans"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="03-verbs-and-questions/12-a-weekend-plan/" data-lesson="03-verbs-and-questions/12-a-weekend-plan/" title="A weekend plan"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="4">

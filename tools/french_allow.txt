@@ -15,3 +15,7 @@ COTE_CÔTE | côte
 REP_*
 # Flagged only as a Quebec regionalism; lesson 05-09 teaches it (Usito).
 DEBARBOUILLETTE
+# The Quebec question particle -tu (C'est-tu vrai?), taught for recognition in 03-10 and 12-03.
+ES_TU | est-tu
+# Register-only rule on casual t' (t'as, t'sais): the book uses these only as marked casual examples.
+BARBARISME_TU

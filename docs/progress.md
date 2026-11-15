@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 32 of 205. New lessons appear here as they are added.
+Lessons written so far: 36 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -46,3 +46,7 @@ Lessons written so far: 32 of 205. New lessons appear here as they are added.
 - [ ] [Days, dates and big numbers](03-verbs-and-questions/06-days-dates-and-big-numbers.md) (words)
 - [ ] [Telling the time](03-verbs-and-questions/07-telling-time.md) (words)
 - [ ] [Making plans](03-verbs-and-questions/08-making-plans.md) (speak)
+- [ ] [Texting to make plans](03-verbs-and-questions/09-texting-to-make-plans.md) (write)
+- [ ] [Casual questions in Quebec](03-verbs-and-questions/10-quebec-casual-questions.md) (quebec)
+- [ ] [Hearing times and plans](03-verbs-and-questions/11-hearing-times-and-plans.md) (listen)
+- [ ] [A weekend plan](03-verbs-and-questions/12-a-weekend-plan.md) (speak, review)

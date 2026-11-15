@@ -128,7 +128,7 @@ Using the masculine adjective for a woman. A woman says *je suis canadienne*, wi
 
 ## In Quebec
 
-A person from Quebec is called *québécois* (man) or *québécoise* (woman). In casual speech the spoken forms of *être* get shorter, and Casual questions in Quebec<!-- link: ../03-verbs-and-questions/10-quebec-casual-questions.md --> shows how.
+A person from Quebec is called *québécois* (man) or *québécoise* (woman). In casual speech the spoken forms of *être* get shorter, and [Casual questions in Quebec](../03-verbs-and-questions/10-quebec-casual-questions.md) shows how.
 
 ## New words
 

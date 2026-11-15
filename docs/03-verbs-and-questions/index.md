@@ -15,10 +15,10 @@ Before this stage: Stages 1 and 2.
 6. [Days, dates and big numbers](06-days-dates-and-big-numbers.md) (words)
 7. [Telling the time](07-telling-time.md) (words)
 8. [Making plans](08-making-plans.md) (speak)
-9. Texting to make plans (not written yet) (write)
-10. Casual questions in Quebec (not written yet) (quebec)
-11. Hearing times and plans (not written yet) (listen)
-12. A weekend plan (not written yet) (speak, review)
+9. [Texting to make plans](09-texting-to-make-plans.md) (write)
+10. [Casual questions in Quebec](10-quebec-casual-questions.md) (quebec)
+11. [Hearing times and plans](11-hearing-times-and-plans.md) (listen)
+12. [A weekend plan](12-a-weekend-plan.md) (speak, review)
 
 <!-- lessons:end -->
 

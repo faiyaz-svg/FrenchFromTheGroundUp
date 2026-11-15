@@ -149,7 +149,7 @@ Writing *il a* as *il à* or the other way around. They sound the same, so check
 
 ## In Quebec
 
-In everyday speech, *il y a* is often shortened to *y a*, which you will hear in Montreal and in France. Casual questions in Quebec<!-- link: ../03-verbs-and-questions/10-quebec-casual-questions.md --> explains the casual forms. Say *il y a* when you speak and write.
+In everyday speech, *il y a* is often shortened to *y a*, which you will hear in Montreal and in France. [Casual questions in Quebec](../03-verbs-and-questions/10-quebec-casual-questions.md) explains the casual forms. Say *il y a* when you speak and write.
 
 ## New words
 

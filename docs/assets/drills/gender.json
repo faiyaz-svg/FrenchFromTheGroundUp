@@ -371,6 +371,192 @@
    "elided": true,
    "en": "animal",
    "stage": 2
+  },
+  {
+   "noun": "sport",
+   "answer": "le",
+   "en": "sport",
+   "stage": 3
+  },
+  {
+   "noun": "ski",
+   "answer": "le",
+   "en": "skiing",
+   "stage": 3
+  },
+  {
+   "noun": "fête",
+   "answer": "la",
+   "en": "party",
+   "stage": 3
+  },
+  {
+   "noun": "ménage",
+   "answer": "le",
+   "en": "housework",
+   "stage": 3
+  },
+  {
+   "noun": "cuisine",
+   "answer": "la",
+   "en": "kitchen, cooking",
+   "stage": 3
+  },
+  {
+   "noun": "semaine",
+   "answer": "la",
+   "en": "week",
+   "stage": 3
+  },
+  {
+   "noun": "mois",
+   "answer": "le",
+   "en": "month",
+   "stage": 3
+  },
+  {
+   "noun": "année",
+   "answer": "la",
+   "en": "year",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "anniversaire",
+   "answer": "le",
+   "en": "birthday",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "minute",
+   "answer": "la",
+   "en": "minute",
+   "stage": 3
+  },
+  {
+   "noun": "horaire",
+   "answer": "le",
+   "en": "timetable",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "rendez-vous",
+   "answer": "le",
+   "en": "appointment",
+   "stage": 3
+  },
+  {
+   "noun": "gare",
+   "answer": "la",
+   "en": "train station",
+   "stage": 3
+  },
+  {
+   "noun": "départ",
+   "answer": "le",
+   "en": "departure",
+   "stage": 3
+  },
+  {
+   "noun": "arrivée",
+   "answer": "la",
+   "en": "arrival",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "quai",
+   "answer": "le",
+   "en": "platform",
+   "stage": 3
+  },
+  {
+   "noun": "billet",
+   "answer": "le",
+   "en": "ticket",
+   "stage": 3
+  },
+  {
+   "noun": "retard",
+   "answer": "le",
+   "en": "delay",
+   "stage": 3
+  },
+  {
+   "noun": "arrêt",
+   "answer": "le",
+   "en": "stop",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "ligne",
+   "answer": "la",
+   "en": "line",
+   "stage": 3
+  },
+  {
+   "noun": "film",
+   "answer": "le",
+   "en": "movie",
+   "stage": 3
+  },
+  {
+   "noun": "concert",
+   "answer": "le",
+   "en": "concert",
+   "stage": 3
+  },
+  {
+   "noun": "soirée",
+   "answer": "la",
+   "en": "evening, party",
+   "stage": 3
+  },
+  {
+   "noun": "match",
+   "answer": "le",
+   "en": "game, match",
+   "stage": 3
+  },
+  {
+   "noun": "spectacle",
+   "answer": "le",
+   "en": "show",
+   "stage": 3
+  },
+  {
+   "noun": "marché",
+   "answer": "le",
+   "en": "market",
+   "stage": 3
+  },
+  {
+   "noun": "brunch",
+   "answer": "le",
+   "en": "brunch",
+   "stage": 3
+  },
+  {
+   "noun": "texto",
+   "answer": "le",
+   "en": "text message",
+   "stage": 3
+  },
+  {
+   "noun": "cellulaire",
+   "answer": "le",
+   "en": "cell phone",
+   "stage": 3
+  },
+  {
+   "noun": "heure",
+   "answer": "la",
+   "en": "hour, time",
+   "stage": 3,
+   "elided": true
   }
  ]
 }

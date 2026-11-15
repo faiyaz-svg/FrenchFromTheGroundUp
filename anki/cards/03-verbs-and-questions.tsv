@@ -1,0 +1,185 @@
+id	french	english	notes	tags
+l01-super	super	great, super	casual	a1 lesson01 sounds
+l01-formidable	formidable	wonderful, great		a1 lesson01 sounds
+l01-peut-etre	peut-être	maybe		a1 lesson01 sounds
+l01-vraiment	vraiment	really		a1 lesson01 sounds
+l01-enfin	enfin	at last, finally		a1 lesson01 sounds
+l01-bref	bref	in short		a1 lesson01 sounds
+l01-encore	encore	again, still, more		a1 lesson01 sounds
+l01-quand-meme	quand même	all the same, anyway		a1 lesson01 sounds
+l01-justement	justement	exactly, as it happens		a1 lesson01 sounds
+l01-evidemment	évidemment	of course		a1 lesson01 sounds
+l01-un-groupe-rythmique	un groupe rythmique	rhythm group	a term	a1 lesson01 sounds
+l01-l-accent-expressif	l'accent expressif	expressive accent	a term	a1 lesson01 sounds
+l02-parler	parler	to speak		a1 lesson02 grammar
+l02-habiter	habiter	to live (in a place)		a1 lesson02 grammar
+l02-travailler	travailler	to work		a1 lesson02 grammar
+l02-etudier	étudier	to study		a1 lesson02 grammar
+l02-aimer	aimer	to like, to love		a1 lesson02 grammar
+l02-adorer	adorer	to love	stronger than aimer	a1 lesson02 grammar
+l02-detester	détester	to hate		a1 lesson02 grammar
+l02-manger	manger	to eat	nous mangeons	a1 lesson02 grammar
+l02-regarder	regarder	to look at, to watch		a1 lesson02 grammar
+l02-ecouter	écouter	to listen to		a1 lesson02 grammar
+l02-chercher	chercher	to look for		a1 lesson02 grammar
+l02-trouver	trouver	to find		a1 lesson02 grammar
+l02-donner	donner	to give		a1 lesson02 grammar
+l02-jouer	jouer	to play		a1 lesson02 grammar
+l02-marcher	marcher	to walk		a1 lesson02 grammar
+l02-voyager	voyager	to travel	nous voyageons	a1 lesson02 grammar
+l02-cuisiner	cuisiner	to cook		a1 lesson02 grammar
+l02-magasiner	magasiner	to shop	Quebec and Canada	a1 lesson02 grammar
+l02-telephoner	téléphoner	to phone		a1 lesson02 grammar
+l02-rester	rester	to stay		a1 lesson02 grammar
+l03-ne-jamais	ne ... jamais	never		a1 lesson03 grammar
+l03-ne-rien	ne ... rien	nothing		a1 lesson03 grammar
+l03-ne-personne	ne ... personne	no one		a1 lesson03 grammar
+l03-ne-plus	ne ... plus	no longer, no more		a1 lesson03 grammar
+l03-pas-du-tout	pas du tout	not at all		a1 lesson03 grammar
+l03-pas-encore	pas encore	not yet		a1 lesson03 grammar
+l03-quelqu-un	quelqu'un	someone		a1 lesson03 grammar
+l03-quelque-chose	quelque chose	something		a1 lesson03 grammar
+l03-si	si	yes (to a negative question)		a1 lesson03 grammar
+l03-desole-desolee	désolé, désolée	sorry		a1 lesson03 grammar
+l03-grave	grave	serious	c'est pas grave, it's no big deal, casual	a1 lesson03 grammar
+l04-est-ce-que	est-ce que	question marker		a1 lesson04 grammar
+l04-qui	qui	who		a1 lesson04 grammar
+l04-quoi	quoi	what	at the end of a question, casual	a1 lesson04 grammar
+l04-que	que	what	qu'est-ce que	a1 lesson04 grammar
+l04-quand	quand	when		a1 lesson04 grammar
+l04-combien	combien	how much, how many	combien de + noun	a1 lesson04 grammar
+l04-pourquoi	pourquoi	why		a1 lesson04 grammar
+l04-parce-que	parce que	because	parce qu' before a vowel	a1 lesson04 grammar
+l04-quel-quelle	quel, quelle	which, what	agrees with the noun; plural quels / quelles	a1 lesson04 grammar
+l04-a-quelle-heure	à quelle heure	at what time		a1 lesson04 grammar
+l04-l-inversion	l'inversion	inversion	a term	a1 lesson04 grammar
+l04-le-train	le train	train		a1 lesson04 grammar
+l05-aller	aller	to go		a1 lesson05 grammar
+l05-faire	faire	to do, to make		a1 lesson05 grammar
+l05-le-sport	le sport	sport	faire du sport	a1 lesson05 grammar
+l05-le-ski	le ski	skiing, ski	faire du ski	a1 lesson05 grammar
+l05-les-courses	les courses	errands, shopping	feminine; faire les courses	a1 lesson05 grammar
+l05-la-fete	la fête	party	faire la fête	a1 lesson05 grammar
+l05-le-menage	le ménage	housework	faire le ménage	a1 lesson05 grammar
+l05-la-cuisine	la cuisine	cooking, kitchen	faire la cuisine, to cook	a1 lesson05 grammar
+l05-attention	attention	careful, attention	faire attention, to be careful	a1 lesson05 grammar
+l05-a-pied	à pied	on foot		a1 lesson05 grammar
+l05-a-velo	à vélo	by bike		a1 lesson05 grammar
+l05-en-voiture	en voiture	by car		a1 lesson05 grammar
+l05-en-metro	en métro	by metro		a1 lesson05 grammar
+l05-au-aux	au, aux	to the	à + le and à + les	a1 lesson05 grammar
+l05-le-parc	le parc	park		a1 lesson05 grammar
+l05-le-cinema	le cinéma	movie theatre, the movies		a1 lesson05 grammar
+l05-le-musee	le musée	museum		a1 lesson05 grammar
+l05-la-banque	la banque	bank		a1 lesson05 grammar
+l05-la-pharmacie	la pharmacie	pharmacy		a1 lesson05 grammar
+l05-l-hopital	l'hôpital	hospital	masculine	a1 lesson05 grammar
+l05-l-epicerie	l'épicerie	grocery store	feminine; faire l'épicerie, Quebec	a1 lesson05 grammar
+l05-l-autobus	l'autobus	bus	masculine; en autobus	a1 lesson05 grammar
+l05-alors	alors	then, so		a1 lesson05 grammar
+l06-lundi	lundi	Monday	no capital	a1 lesson06 words
+l06-mardi	mardi	Tuesday		a1 lesson06 words
+l06-mercredi	mercredi	Wednesday		a1 lesson06 words
+l06-jeudi	jeudi	Thursday		a1 lesson06 words
+l06-vendredi	vendredi	Friday		a1 lesson06 words
+l06-samedi	samedi	Saturday		a1 lesson06 words
+l06-dimanche	dimanche	Sunday		a1 lesson06 words
+l06-janvier	janvier	January		a1 lesson06 words
+l06-fevrier	février	February		a1 lesson06 words
+l06-mars	mars	March		a1 lesson06 words
+l06-avril	avril	April		a1 lesson06 words
+l06-mai	mai	May		a1 lesson06 words
+l06-juin	juin	June		a1 lesson06 words
+l06-juillet	juillet	July		a1 lesson06 words
+l06-aout	août	August		a1 lesson06 words
+l06-septembre	septembre	September		a1 lesson06 words
+l06-octobre	octobre	October		a1 lesson06 words
+l06-novembre	novembre	November		a1 lesson06 words
+l06-decembre	décembre	December		a1 lesson06 words
+l06-une-semaine	une semaine	week		a1 lesson06 words
+l06-un-mois	un mois	month		a1 lesson06 words
+l06-une-annee	une année	year	un an with a number	a1 lesson06 words
+l06-aujourd-hui	aujourd'hui	today		a1 lesson06 words
+l06-hier	hier	yesterday		a1 lesson06 words
+l06-demain	demain	tomorrow		a1 lesson06 words
+l06-un-anniversaire	un anniversaire	birthday		a1 lesson06 words
+l06-les-vacances	les vacances	holidays, vacation	feminine; always plural	a1 lesson06 words
+l06-mille	mille	one thousand	never takes an s	a1 lesson06 words
+l06-un-million	un million	one million	un million de + noun	a1 lesson06 words
+l06-premier-premiere	premier, première	first	written 1er	a1 lesson06 words
+l06-deuxieme	deuxième	second		a1 lesson06 words
+l06-la-fin-de-semaine	la fin de semaine	the weekend	Quebec	a1 lesson06 words
+l06-le-week-end	le week-end	the weekend	France; also heard in Quebec, but criticised	a1 lesson06 words
+l07-une-minute	une minute	minute		a1 lesson07 words
+l07-midi	midi	noon	masculine: midi et demi	a1 lesson07 words
+l07-minuit	minuit	midnight		a1 lesson07 words
+l07-et-quart	et quart	quarter past		a1 lesson07 words
+l07-et-demi-et-demie	et demi, et demie	half past	demi after midi and minuit, demie after heure	a1 lesson07 words
+l07-moins-le-quart	moins le quart	quarter to		a1 lesson07 words
+l07-du-matin	du matin	in the morning		a1 lesson07 words
+l07-de-l-apres-midi	de l'après-midi	in the afternoon		a1 lesson07 words
+l07-tot	tôt	early		a1 lesson07 words
+l07-tard	tard	late		a1 lesson07 words
+l07-en-retard	en retard	late, behind time		a1 lesson07 words
+l07-en-avance	en avance	early, ahead of time		a1 lesson07 words
+l07-a-l-heure	à l'heure	on time		a1 lesson07 words
+l07-un-horaire	un horaire	timetable, schedule		a1 lesson07 words
+l07-un-rendez-vous	un rendez-vous	appointment, meeting		a1 lesson07 words
+l07-un-quart-d-heure	un quart d'heure	quarter of an hour		a1 lesson07 words
+l07-une-demi-heure	une demi-heure	half an hour		a1 lesson07 words
+l07-du-soir	du soir	in the evening		a1 lesson07 words
+l08-tu-veux-vous-voulez	Tu veux, vous voulez	do you want	chunk, with an infinitive	a1 lesson08 speak
+l08-je-veux-bien	je veux bien	I'd like to, sure	chunk	a1 lesson08 speak
+l08-on-peut-vous-pouvez	On peut, vous pouvez	can we, can you	chunk, with an infinitive	a1 lesson08 speak
+l08-je-ne-peux-pas	je ne peux pas	I can't	chunk	a1 lesson08 speak
+l08-tu-viens-vous-venez	Tu viens? Vous venez?	are you coming?	chunk	a1 lesson08 speak
+l08-on-se-retrouve	on se retrouve	we meet, shall we meet	chunk	a1 lesson08 speak
+l08-ca-te-dit-ca-vous-dit	Ça te dit? Ça vous dit?	do you feel like it?	chunk	a1 lesson08 speak
+l08-libre	libre	free		a1 lesson08 speak
+l08-occupe-occupee	occupé, occupée	busy		a1 lesson08 speak
+l08-un-film	un film	movie		a1 lesson08 speak
+l08-un-concert	un concert	concert		a1 lesson08 speak
+l08-une-soiree	une soirée	evening, party		a1 lesson08 speak
+l08-un-match	un match	game, match		a1 lesson08 speak
+l08-un-spectacle	un spectacle	show		a1 lesson08 speak
+l08-ce-soir	ce soir	tonight		a1 lesson08 speak
+l08-pourquoi-pas	pourquoi pas	why not		a1 lesson08 speak
+l08-ca-marche	ça marche	that works, deal		a1 lesson08 speak
+l08-inviter	inviter	to invite		a1 lesson08 speak
+l08-proposer	proposer	to suggest		a1 lesson08 speak
+l08-avec-plaisir	avec plaisir	with pleasure, gladly		a1 lesson08 speak
+l08-un-verre	un verre	a drink		a1 lesson08 speak
+l09-un-texto	un texto	text message	OQLF preferred; also message texte	a1 lesson09 write
+l09-un-cellulaire	un cellulaire	cell phone	Quebec and Canada; France: portable	a1 lesson09 write
+l09-a-plus-tard	à plus tard	see you later		a1 lesson09 write
+l09-a-tout-a-l-heure	à tout à l'heure	see you in a bit	same day	a1 lesson09 write
+l09-a-samedi	à samedi	see you Saturday	works with any day	a1 lesson09 write
+l09-bises	bises	kisses, love	end of a message, casual	a1 lesson09 write
+l09-bisous	bisous	kisses	end of a message, casual	a1 lesson09 write
+l09-mdr	mdr	laughing out loud	for mort de rire, informal	a1 lesson09 write
+l09-svp	svp	please	for s'il vous plaît	a1 lesson09 write
+l09-dsl	dsl	sorry	for désolé, casual	a1 lesson09 write
+l10-tu	-tu	question particle	casual Quebec, speech only	a1 lesson10 quebec
+l10-c-est-tu	c'est-tu	is it (question)	casual Quebec	a1 lesson10 quebec
+l10-chu	chu	I am	casual Quebec, for je suis	a1 lesson10 quebec
+l10-tse-t-sais	tsé, t'sais	you know	casual Quebec, for tu sais	a1 lesson10 quebec
+l10-ben	ben	well, really	casual, for bien	a1 lesson10 quebec
+l10-pis	pis	and, and then, so	casual Quebec, for puis or et	a1 lesson10 quebec
+l10-ouais	ouais	yeah	casual, for oui	a1 lesson10 quebec
+l10-j-sais-pas	j'sais pas	I don't know	casual, for je ne sais pas	a1 lesson10 quebec
+l11-une-gare	une gare	train station		a1 lesson11 listen
+l11-un-depart	un départ	departure		a1 lesson11 listen
+l11-une-arrivee	une arrivée	arrival		a1 lesson11 listen
+l11-un-quai	un quai	platform		a1 lesson11 listen
+l11-un-billet	un billet	ticket		a1 lesson11 listen
+l11-un-retard	un retard	delay	en retard, late	a1 lesson11 listen
+l11-un-arret	un arrêt	stop	bus stop	a1 lesson11 listen
+l11-une-ligne	une ligne	line	bus or metro line	a1 lesson11 listen
+l11-prochain-prochaine	prochain, prochaine	next		a1 lesson11 listen
+l11-dernier-derniere	dernier, dernière	last		a1 lesson11 listen
+l11-la-boite-vocale	la boîte vocale	voicemail		a1 lesson11 listen
+l12-un-marche	un marché	market		a1 lesson12 speak
+l12-un-brunch	un brunch	brunch		a1 lesson12 speak
+l12-ensemble	ensemble	together		a1 lesson12 speak
+l12-plutot	plutôt	rather, instead		a1 lesson12 speak
+l12-tout-le-monde	tout le monde	everyone	takes a singular verb	a1 lesson12 speak

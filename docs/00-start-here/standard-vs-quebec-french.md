@@ -18,7 +18,7 @@ Quebec and France share one grammar and one spelling. The differences are mostly
 | Words | Some everyday words are different | *un dépanneur* (a corner store; France: *une supérette*) | [Quebec words: dépanneur and café](../02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md) |
 | Meal names | Quebec uses *déjeuner*, *dîner* and *souper* for breakfast, lunch and dinner. In France *déjeuner* is lunch and *dîner* is dinner | *On soupe à six heures.* | Table culture in Quebec<!-- link: ../06-habits-memories-and-food/09-quebec-table-culture.md --> |
 | Casual forms | Spoken shortcuts, such as *chu* for *je suis* | *Chu fatigué.* {qc} | Casual speech in Quebec<!-- link: ../12-real-montreal/03-quebec-casual-speech.md --> |
-| Questions | Questions with only a rising voice are normal | *Tu vas où?* | Casual questions in Quebec<!-- link: ../03-verbs-and-questions/10-quebec-casual-questions.md --> |
+| Questions | Questions with only a rising voice are normal | *Tu vas où?* | [Casual questions in Quebec](../03-verbs-and-questions/10-quebec-casual-questions.md) |
 
 ## Tu and vous
 

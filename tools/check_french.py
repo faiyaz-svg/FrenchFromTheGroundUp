@@ -947,6 +947,9 @@ def analyse(docs: list[Doc], use_lt: bool, allow=None):
                 # word that is not at the start of the sentence, or any name in names.txt, is skipped.
                 if spell and matched and (matched in PROPER_NAMES or (matched[:1].isupper() and off > 0)):
                     continue
+                # An italic French phrase inside English prose is a fragment, so it starts lowercase.
+                if it.kind == "italic" and rule == "UPPERCASE_SENTENCE_START":
+                    continue
                 if it.mode == "spell" or (spell and it.kind == "italic"):
                     findings.append(Finding("warning", "spelling", it.path, it.line, it.text, rule,
                                             f"{msg} ({matched})"))

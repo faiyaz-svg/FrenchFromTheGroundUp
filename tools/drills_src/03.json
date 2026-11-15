@@ -1,0 +1,804 @@
+{
+ "conjugation": [
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "je",
+   "answer": "parle",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "parles",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "parlons",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "parlez",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "parlent",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "manger",
+   "tense": "présent",
+   "person": "il",
+   "answer": "mange",
+   "en": "to eat",
+   "stage": 3
+  },
+  {
+   "verb": "manger",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "mangeons",
+   "en": "to eat",
+   "stage": 3
+  },
+  {
+   "verb": "manger",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "mangent",
+   "en": "to eat",
+   "stage": 3
+  },
+  {
+   "verb": "habiter",
+   "tense": "présent",
+   "person": "je",
+   "answer": "habite",
+   "en": "to live (in a place)",
+   "stage": 3
+  },
+  {
+   "verb": "habiter",
+   "tense": "présent",
+   "person": "on",
+   "answer": "habite",
+   "en": "to live (in a place)",
+   "stage": 3
+  },
+  {
+   "verb": "habiter",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "habitez",
+   "en": "to live (in a place)",
+   "stage": 3
+  },
+  {
+   "verb": "habiter",
+   "tense": "présent",
+   "person": "elles",
+   "answer": "habitent",
+   "en": "to live (in a place)",
+   "stage": 3
+  },
+  {
+   "verb": "travailler",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "travailles",
+   "en": "to work",
+   "stage": 3
+  },
+  {
+   "verb": "travailler",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "travaille",
+   "en": "to work",
+   "stage": 3
+  },
+  {
+   "verb": "travailler",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "travaillons",
+   "en": "to work",
+   "stage": 3
+  },
+  {
+   "verb": "aimer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "aime",
+   "en": "to like, to love",
+   "stage": 3
+  },
+  {
+   "verb": "aimer",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "aimez",
+   "en": "to like, to love",
+   "stage": 3
+  },
+  {
+   "verb": "aimer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "aiment",
+   "en": "to like, to love",
+   "stage": 3
+  },
+  {
+   "verb": "étudier",
+   "tense": "présent",
+   "person": "je",
+   "answer": "étudie",
+   "en": "to study",
+   "stage": 3
+  },
+  {
+   "verb": "étudier",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "étudions",
+   "en": "to study",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "je",
+   "answer": "vais",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "vas",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "il",
+   "answer": "va",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "allons",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "allez",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "vont",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "je",
+   "answer": "fais",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "fais",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "on",
+   "answer": "fait",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "faisons",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "faites",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "font",
+   "en": "to do, to make",
+   "stage": 3
+  }
+ ],
+ "gender": [
+  {
+   "noun": "sport",
+   "answer": "le",
+   "en": "sport",
+   "stage": 3
+  },
+  {
+   "noun": "ski",
+   "answer": "le",
+   "en": "skiing",
+   "stage": 3
+  },
+  {
+   "noun": "fête",
+   "answer": "la",
+   "en": "party",
+   "stage": 3
+  },
+  {
+   "noun": "ménage",
+   "answer": "le",
+   "en": "housework",
+   "stage": 3
+  },
+  {
+   "noun": "cuisine",
+   "answer": "la",
+   "en": "kitchen, cooking",
+   "stage": 3
+  },
+  {
+   "noun": "semaine",
+   "answer": "la",
+   "en": "week",
+   "stage": 3
+  },
+  {
+   "noun": "mois",
+   "answer": "le",
+   "en": "month",
+   "stage": 3
+  },
+  {
+   "noun": "année",
+   "answer": "la",
+   "en": "year",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "anniversaire",
+   "answer": "le",
+   "en": "birthday",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "minute",
+   "answer": "la",
+   "en": "minute",
+   "stage": 3
+  },
+  {
+   "noun": "horaire",
+   "answer": "le",
+   "en": "timetable",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "rendez-vous",
+   "answer": "le",
+   "en": "appointment",
+   "stage": 3
+  },
+  {
+   "noun": "gare",
+   "answer": "la",
+   "en": "train station",
+   "stage": 3
+  },
+  {
+   "noun": "départ",
+   "answer": "le",
+   "en": "departure",
+   "stage": 3
+  },
+  {
+   "noun": "arrivée",
+   "answer": "la",
+   "en": "arrival",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "quai",
+   "answer": "le",
+   "en": "platform",
+   "stage": 3
+  },
+  {
+   "noun": "billet",
+   "answer": "le",
+   "en": "ticket",
+   "stage": 3
+  },
+  {
+   "noun": "retard",
+   "answer": "le",
+   "en": "delay",
+   "stage": 3
+  },
+  {
+   "noun": "arrêt",
+   "answer": "le",
+   "en": "stop",
+   "stage": 3,
+   "elided": true
+  },
+  {
+   "noun": "ligne",
+   "answer": "la",
+   "en": "line",
+   "stage": 3
+  },
+  {
+   "noun": "film",
+   "answer": "le",
+   "en": "movie",
+   "stage": 3
+  },
+  {
+   "noun": "concert",
+   "answer": "le",
+   "en": "concert",
+   "stage": 3
+  },
+  {
+   "noun": "soirée",
+   "answer": "la",
+   "en": "evening, party",
+   "stage": 3
+  },
+  {
+   "noun": "match",
+   "answer": "le",
+   "en": "game, match",
+   "stage": 3
+  },
+  {
+   "noun": "spectacle",
+   "answer": "le",
+   "en": "show",
+   "stage": 3
+  },
+  {
+   "noun": "marché",
+   "answer": "le",
+   "en": "market",
+   "stage": 3
+  },
+  {
+   "noun": "brunch",
+   "answer": "le",
+   "en": "brunch",
+   "stage": 3
+  },
+  {
+   "noun": "texto",
+   "answer": "le",
+   "en": "text message",
+   "stage": 3
+  },
+  {
+   "noun": "cellulaire",
+   "answer": "le",
+   "en": "cell phone",
+   "stage": 3
+  },
+  {
+   "noun": "heure",
+   "answer": "la",
+   "en": "hour, time",
+   "stage": 3,
+   "elided": true
+  }
+ ],
+ "fill": [
+  {
+   "q": "J'___ à Montréal.",
+   "hint": "habiter",
+   "a": [
+    "habite"
+   ],
+   "en": "I live in Montreal.",
+   "stage": 3
+  },
+  {
+   "q": "Nous ___ français.",
+   "hint": "parler",
+   "a": [
+    "parlons"
+   ],
+   "en": "We speak French.",
+   "stage": 3
+  },
+  {
+   "q": "Tu ___ où?",
+   "hint": "travailler",
+   "a": [
+    "travailles"
+   ],
+   "en": "Where do you work?",
+   "stage": 3
+  },
+  {
+   "q": "Elle ___ le café.",
+   "hint": "aimer",
+   "a": [
+    "aime"
+   ],
+   "en": "She likes coffee.",
+   "stage": 3
+  },
+  {
+   "q": "Je ne ___ pas le matin.",
+   "hint": "manger",
+   "a": [
+    "mange"
+   ],
+   "en": "I don't eat in the morning.",
+   "stage": 3
+  },
+  {
+   "q": "Ils ___ au parc.",
+   "hint": "aller",
+   "a": [
+    "vont"
+   ],
+   "en": "They go to the park.",
+   "stage": 3
+  },
+  {
+   "q": "Je ___ du sport.",
+   "hint": "faire",
+   "a": [
+    "fais"
+   ],
+   "en": "I do sport.",
+   "stage": 3
+  },
+  {
+   "q": "Vous ___ la cuisine.",
+   "hint": "faire",
+   "a": [
+    "faites"
+   ],
+   "en": "You cook.",
+   "stage": 3
+  },
+  {
+   "q": "Nous ___ au cinéma.",
+   "hint": "aller",
+   "a": [
+    "allons"
+   ],
+   "en": "We go to the movies.",
+   "stage": 3
+  },
+  {
+   "q": "Je n'ai pas ___ carte.",
+   "hint": "une, after a negative",
+   "a": [
+    "de"
+   ],
+   "en": "I don't have a card.",
+   "stage": 3
+  },
+  {
+   "q": "Il n'y a ___ ici.",
+   "hint": "personne",
+   "a": [
+    "personne"
+   ],
+   "en": "There is no one here.",
+   "stage": 3
+  },
+  {
+   "q": "Je ne mange ___ le matin.",
+   "hint": "jamais",
+   "a": [
+    "jamais"
+   ],
+   "en": "I never eat in the morning.",
+   "stage": 3
+  },
+  {
+   "q": "Tu habites ___?",
+   "hint": "où",
+   "a": [
+    "où"
+   ],
+   "en": "Where do you live?",
+   "stage": 3
+  },
+  {
+   "q": "Tu vas ___ parc?",
+   "hint": "à + le",
+   "a": [
+    "au"
+   ],
+   "en": "Are you going to the park?",
+   "stage": 3
+  },
+  {
+   "q": "Elle va ___ banque.",
+   "hint": "à + la",
+   "a": [
+    "à la"
+   ],
+   "en": "She goes to the bank.",
+   "stage": 3
+  },
+  {
+   "q": "Il est huit heures ___ le quart.",
+   "hint": "",
+   "a": [
+    "moins"
+   ],
+   "en": "It's a quarter to eight.",
+   "stage": 3
+  },
+  {
+   "q": "Le train est à dix-huit ___ quarante.",
+   "hint": "",
+   "a": [
+    "heures"
+   ],
+   "en": "The train is at 6:40 p.m.",
+   "stage": 3
+  },
+  {
+   "q": "Mille deux ___ dollars.",
+   "hint": "cent",
+   "a": [
+    "cents"
+   ],
+   "en": "One thousand two hundred dollars.",
+   "stage": 3
+  },
+  {
+   "q": "Mon anniversaire est le ___ mars.",
+   "hint": "1er",
+   "a": [
+    "premier"
+   ],
+   "en": "My birthday is March 1st.",
+   "stage": 3
+  },
+  {
+   "q": "Oui, je ___ bien!",
+   "hint": "vouloir",
+   "a": [
+    "veux"
+   ],
+   "en": "Yes, I'd like to!",
+   "stage": 3
+  },
+  {
+   "q": "Tu as ___ âge?",
+   "hint": "",
+   "a": [
+    "quel"
+   ],
+   "en": "How old are you?",
+   "stage": 3
+  },
+  {
+   "q": "Je voyage ___ j'aime ça.",
+   "hint": "",
+   "a": [
+    "parce que"
+   ],
+   "en": "I travel because I like it.",
+   "stage": 3
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "Je parle français et j'habite à Montréal.",
+   "en": "I speak French and I live in Montreal.",
+   "stage": 3
+  },
+  {
+   "fr": "Nous n'habitons pas à Toronto.",
+   "en": "We don't live in Toronto.",
+   "stage": 3
+  },
+  {
+   "fr": "Est-ce que tu veux aller au cinéma ce soir?",
+   "en": "Do you want to go to the movies tonight?",
+   "stage": 3
+  },
+  {
+   "fr": "Le rendez-vous est à 14 h 30.",
+   "en": "The appointment is at 2:30 p.m.",
+   "stage": 3
+  },
+  {
+   "fr": "Mon anniversaire est le premier mars.",
+   "en": "My birthday is March 1st.",
+   "stage": 3
+  },
+  {
+   "fr": "Samedi, je ne peux pas. Je travaille.",
+   "en": "On Saturday I can't. I'm working.",
+   "stage": 3
+  },
+  {
+   "fr": "Où habitez-vous?",
+   "en": "Where do you live?",
+   "stage": 3
+  },
+  {
+   "fr": "Le train a quinze minutes de retard.",
+   "en": "The train is fifteen minutes late.",
+   "stage": 3
+  },
+  {
+   "fr": "On se retrouve devant la gare à dix-huit heures vingt.",
+   "en": "Shall we meet in front of the station at 6:20 p.m.?",
+   "stage": 3
+  },
+  {
+   "fr": "Je vais au travail à vélo.",
+   "en": "I go to work by bike.",
+   "stage": 3
+  },
+  {
+   "fr": "Il est midi et demi.",
+   "en": "It's half past noon.",
+   "stage": 3
+  },
+  {
+   "fr": "Ça marche, à samedi!",
+   "en": "That works, see you Saturday!",
+   "stage": 3
+  },
+  {
+   "fr": "Pourquoi tu étudies le français?",
+   "en": "Why are you studying French?",
+   "stage": 3
+  },
+  {
+   "fr": "Tu fais du sport le dimanche?",
+   "en": "Do you do sport on Sundays?",
+   "stage": 3
+  },
+  {
+   "fr": "Nous faisons les courses le vendredi.",
+   "en": "We do the errands on Fridays.",
+   "stage": 3
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "magasiner",
+   "std": "faire des courses",
+   "en": "to shop",
+   "note": "Quebec and Canada (Usito)",
+   "stage": 3
+  },
+  {
+   "qc": "la fin de semaine",
+   "std": "le week-end",
+   "en": "the weekend",
+   "note": "Quebec; OQLF preferred",
+   "stage": 3
+  },
+  {
+   "qc": "un cellulaire",
+   "std": "un portable",
+   "en": "cell phone",
+   "note": "Quebec and Canada (Usito)",
+   "stage": 3
+  },
+  {
+   "qc": "un texto",
+   "std": "un SMS",
+   "en": "text message",
+   "note": "OQLF preferred; also message texte",
+   "stage": 3
+  },
+  {
+   "qc": "faire l'épicerie",
+   "std": "faire les courses",
+   "en": "to buy groceries",
+   "note": "Quebec and Canada (Usito)",
+   "stage": 3
+  },
+  {
+   "qc": "chu",
+   "std": "je suis",
+   "en": "I am",
+   "note": "casual",
+   "stage": 3
+  },
+  {
+   "qc": "tsé",
+   "std": "tu sais",
+   "en": "you know",
+   "note": "casual",
+   "stage": 3
+  },
+  {
+   "qc": "pis",
+   "std": "et, puis",
+   "en": "and, and then",
+   "note": "casual",
+   "stage": 3
+  },
+  {
+   "qc": "ben",
+   "std": "bien",
+   "en": "well, really",
+   "note": "casual",
+   "stage": 3
+  },
+  {
+   "qc": "ouais",
+   "std": "oui",
+   "en": "yeah",
+   "note": "casual",
+   "stage": 3
+  },
+  {
+   "qc": "c'est-tu bon?",
+   "std": "est-ce que c'est bon?",
+   "en": "is it good?",
+   "note": "casual",
+   "stage": 3
+  }
+ ]
+}

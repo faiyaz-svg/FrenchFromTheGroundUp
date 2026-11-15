@@ -135,6 +135,262 @@
    "answer": "ont",
    "en": "to have",
    "stage": 2
+  },
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "je",
+   "answer": "parle",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "parles",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "parlons",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "parlez",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "parler",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "parlent",
+   "en": "to speak",
+   "stage": 3
+  },
+  {
+   "verb": "manger",
+   "tense": "présent",
+   "person": "il",
+   "answer": "mange",
+   "en": "to eat",
+   "stage": 3
+  },
+  {
+   "verb": "manger",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "mangeons",
+   "en": "to eat",
+   "stage": 3
+  },
+  {
+   "verb": "manger",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "mangent",
+   "en": "to eat",
+   "stage": 3
+  },
+  {
+   "verb": "habiter",
+   "tense": "présent",
+   "person": "je",
+   "answer": "habite",
+   "en": "to live (in a place)",
+   "stage": 3
+  },
+  {
+   "verb": "habiter",
+   "tense": "présent",
+   "person": "on",
+   "answer": "habite",
+   "en": "to live (in a place)",
+   "stage": 3
+  },
+  {
+   "verb": "habiter",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "habitez",
+   "en": "to live (in a place)",
+   "stage": 3
+  },
+  {
+   "verb": "habiter",
+   "tense": "présent",
+   "person": "elles",
+   "answer": "habitent",
+   "en": "to live (in a place)",
+   "stage": 3
+  },
+  {
+   "verb": "travailler",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "travailles",
+   "en": "to work",
+   "stage": 3
+  },
+  {
+   "verb": "travailler",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "travaille",
+   "en": "to work",
+   "stage": 3
+  },
+  {
+   "verb": "travailler",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "travaillons",
+   "en": "to work",
+   "stage": 3
+  },
+  {
+   "verb": "aimer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "aime",
+   "en": "to like, to love",
+   "stage": 3
+  },
+  {
+   "verb": "aimer",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "aimez",
+   "en": "to like, to love",
+   "stage": 3
+  },
+  {
+   "verb": "aimer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "aiment",
+   "en": "to like, to love",
+   "stage": 3
+  },
+  {
+   "verb": "étudier",
+   "tense": "présent",
+   "person": "je",
+   "answer": "étudie",
+   "en": "to study",
+   "stage": 3
+  },
+  {
+   "verb": "étudier",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "étudions",
+   "en": "to study",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "je",
+   "answer": "vais",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "vas",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "il",
+   "answer": "va",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "allons",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "allez",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "aller",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "vont",
+   "en": "to go",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "je",
+   "answer": "fais",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "fais",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "on",
+   "answer": "fait",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "faisons",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "faites",
+   "en": "to do, to make",
+   "stage": 3
+  },
+  {
+   "verb": "faire",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "font",
+   "en": "to do, to make",
+   "stage": 3
   }
  ]
 }

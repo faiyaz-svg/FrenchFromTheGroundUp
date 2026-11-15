@@ -169,6 +169,81 @@
    "fr": "C'est combien?",
    "en": "How much is it?",
    "stage": 2
+  },
+  {
+   "fr": "Je parle français et j'habite à Montréal.",
+   "en": "I speak French and I live in Montreal.",
+   "stage": 3
+  },
+  {
+   "fr": "Nous n'habitons pas à Toronto.",
+   "en": "We don't live in Toronto.",
+   "stage": 3
+  },
+  {
+   "fr": "Est-ce que tu veux aller au cinéma ce soir?",
+   "en": "Do you want to go to the movies tonight?",
+   "stage": 3
+  },
+  {
+   "fr": "Le rendez-vous est à 14 h 30.",
+   "en": "The appointment is at 2:30 p.m.",
+   "stage": 3
+  },
+  {
+   "fr": "Mon anniversaire est le premier mars.",
+   "en": "My birthday is March 1st.",
+   "stage": 3
+  },
+  {
+   "fr": "Samedi, je ne peux pas. Je travaille.",
+   "en": "On Saturday I can't. I'm working.",
+   "stage": 3
+  },
+  {
+   "fr": "Où habitez-vous?",
+   "en": "Where do you live?",
+   "stage": 3
+  },
+  {
+   "fr": "Le train a quinze minutes de retard.",
+   "en": "The train is fifteen minutes late.",
+   "stage": 3
+  },
+  {
+   "fr": "On se retrouve devant la gare à dix-huit heures vingt.",
+   "en": "Shall we meet in front of the station at 6:20 p.m.?",
+   "stage": 3
+  },
+  {
+   "fr": "Je vais au travail à vélo.",
+   "en": "I go to work by bike.",
+   "stage": 3
+  },
+  {
+   "fr": "Il est midi et demi.",
+   "en": "It's half past noon.",
+   "stage": 3
+  },
+  {
+   "fr": "Ça marche, à samedi!",
+   "en": "That works, see you Saturday!",
+   "stage": 3
+  },
+  {
+   "fr": "Pourquoi tu étudies le français?",
+   "en": "Why are you studying French?",
+   "stage": 3
+  },
+  {
+   "fr": "Tu fais du sport le dimanche?",
+   "en": "Do you do sport on Sundays?",
+   "stage": 3
+  },
+  {
+   "fr": "Nous faisons les courses le vendredi.",
+   "en": "We do the errands on Fridays.",
+   "stage": 3
   }
  ]
 }

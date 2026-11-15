@@ -368,6 +368,204 @@
    ],
    "en": "My family name is Tremblay.",
    "stage": 2
+  },
+  {
+   "q": "J'___ à Montréal.",
+   "hint": "habiter",
+   "a": [
+    "habite"
+   ],
+   "en": "I live in Montreal.",
+   "stage": 3
+  },
+  {
+   "q": "Nous ___ français.",
+   "hint": "parler",
+   "a": [
+    "parlons"
+   ],
+   "en": "We speak French.",
+   "stage": 3
+  },
+  {
+   "q": "Tu ___ où?",
+   "hint": "travailler",
+   "a": [
+    "travailles"
+   ],
+   "en": "Where do you work?",
+   "stage": 3
+  },
+  {
+   "q": "Elle ___ le café.",
+   "hint": "aimer",
+   "a": [
+    "aime"
+   ],
+   "en": "She likes coffee.",
+   "stage": 3
+  },
+  {
+   "q": "Je ne ___ pas le matin.",
+   "hint": "manger",
+   "a": [
+    "mange"
+   ],
+   "en": "I don't eat in the morning.",
+   "stage": 3
+  },
+  {
+   "q": "Ils ___ au parc.",
+   "hint": "aller",
+   "a": [
+    "vont"
+   ],
+   "en": "They go to the park.",
+   "stage": 3
+  },
+  {
+   "q": "Je ___ du sport.",
+   "hint": "faire",
+   "a": [
+    "fais"
+   ],
+   "en": "I do sport.",
+   "stage": 3
+  },
+  {
+   "q": "Vous ___ la cuisine.",
+   "hint": "faire",
+   "a": [
+    "faites"
+   ],
+   "en": "You cook.",
+   "stage": 3
+  },
+  {
+   "q": "Nous ___ au cinéma.",
+   "hint": "aller",
+   "a": [
+    "allons"
+   ],
+   "en": "We go to the movies.",
+   "stage": 3
+  },
+  {
+   "q": "Je n'ai pas ___ carte.",
+   "hint": "une, after a negative",
+   "a": [
+    "de"
+   ],
+   "en": "I don't have a card.",
+   "stage": 3
+  },
+  {
+   "q": "Il n'y a ___ ici.",
+   "hint": "personne",
+   "a": [
+    "personne"
+   ],
+   "en": "There is no one here.",
+   "stage": 3
+  },
+  {
+   "q": "Je ne mange ___ le matin.",
+   "hint": "jamais",
+   "a": [
+    "jamais"
+   ],
+   "en": "I never eat in the morning.",
+   "stage": 3
+  },
+  {
+   "q": "Tu habites ___?",
+   "hint": "où",
+   "a": [
+    "où"
+   ],
+   "en": "Where do you live?",
+   "stage": 3
+  },
+  {
+   "q": "Tu vas ___ parc?",
+   "hint": "à + le",
+   "a": [
+    "au"
+   ],
+   "en": "Are you going to the park?",
+   "stage": 3
+  },
+  {
+   "q": "Elle va ___ banque.",
+   "hint": "à + la",
+   "a": [
+    "à la"
+   ],
+   "en": "She goes to the bank.",
+   "stage": 3
+  },
+  {
+   "q": "Il est huit heures ___ le quart.",
+   "hint": "",
+   "a": [
+    "moins"
+   ],
+   "en": "It's a quarter to eight.",
+   "stage": 3
+  },
+  {
+   "q": "Le train est à dix-huit ___ quarante.",
+   "hint": "",
+   "a": [
+    "heures"
+   ],
+   "en": "The train is at 6:40 p.m.",
+   "stage": 3
+  },
+  {
+   "q": "Mille deux ___ dollars.",
+   "hint": "cent",
+   "a": [
+    "cents"
+   ],
+   "en": "One thousand two hundred dollars.",
+   "stage": 3
+  },
+  {
+   "q": "Mon anniversaire est le ___ mars.",
+   "hint": "1er",
+   "a": [
+    "premier"
+   ],
+   "en": "My birthday is March 1st.",
+   "stage": 3
+  },
+  {
+   "q": "Oui, je ___ bien!",
+   "hint": "vouloir",
+   "a": [
+    "veux"
+   ],
+   "en": "Yes, I'd like to!",
+   "stage": 3
+  },
+  {
+   "q": "Tu as ___ âge?",
+   "hint": "",
+   "a": [
+    "quel"
+   ],
+   "en": "How old are you?",
+   "stage": 3
+  },
+  {
+   "q": "Je voyage ___ j'aime ça.",
+   "hint": "",
+   "a": [
+    "parce que"
+   ],
+   "en": "I travel because I like it.",
+   "stage": 3
   }
  ]
 }
