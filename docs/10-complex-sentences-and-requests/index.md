@@ -7,10 +7,10 @@ Before this stage: Stages 1 to 9.
 <!-- lessons:start -->
 ## Lessons
 
-1. The plus-que-parfait (not written yet) (grammar)
-2. The relative pronouns dont and où (not written yet) (grammar)
-3. The relative pronoun lequel (not written yet) (grammar)
-4. The subjunctive after il faut que (not written yet) (grammar)
+1. [The plus-que-parfait](01-plus-que-parfait.md) (grammar)
+2. [The relative pronouns dont and où](02-relative-dont-and-ou.md) (grammar)
+3. [The relative pronoun lequel](03-relative-lequel.md) (grammar)
+4. [The subjunctive after il faut que](04-subjunctive-il-faut-que.md) (grammar)
 5. The subjunctive: wishes and feelings (not written yet) (grammar)
 6. Pronoun order (not written yet) (grammar)
 7. Agreeing and disagreeing in meetings (not written yet) (speak)

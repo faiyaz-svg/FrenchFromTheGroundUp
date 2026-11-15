@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 114 of 205. New lessons appear here as they are added.
+Lessons written so far: 118 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -150,3 +150,10 @@ Lessons written so far: 114 of 205. New lessons appear here as they are added.
 - [ ] [Workplace documents](09-work-and-the-future/11-workplace-documents.md) (read)
 - [ ] [Invitations and follow-ups](09-work-and-the-future/12-invitations-and-follow-ups.md) (write)
 - [ ] [A day at the office](09-work-and-the-future/13-a-day-at-the-office.md) (speak, review)
+
+### Stage 10: Complex sentences and requests
+
+- [ ] [The plus-que-parfait](10-complex-sentences-and-requests/01-plus-que-parfait.md) (grammar)
+- [ ] [The relative pronouns dont and où](10-complex-sentences-and-requests/02-relative-dont-and-ou.md) (grammar)
+- [ ] [The relative pronoun lequel](10-complex-sentences-and-requests/03-relative-lequel.md) (grammar)
+- [ ] [The subjunctive after il faut que](10-complex-sentences-and-requests/04-subjunctive-il-faut-que.md) (grammar)

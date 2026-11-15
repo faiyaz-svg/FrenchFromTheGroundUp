@@ -16,7 +16,7 @@ Lessons that teach these forms:
 - [The imparfait](../06-habits-memories-and-food/05-imparfait.md)
 - [The futur simple: regular verbs](../09-work-and-the-future/01-futur-simple-regular.md)
 - [The conditionnel for politeness](../09-work-and-the-future/03-conditionnel-politeness.md)
-- The subjunctive after il faut que<!-- link: ../10-complex-sentences-and-requests/04-subjunctive-il-faut-que.md -->
+- [The subjunctive after il faut que](../10-complex-sentences-and-requests/04-subjunctive-il-faut-que.md)
 
 ## Present tense
 

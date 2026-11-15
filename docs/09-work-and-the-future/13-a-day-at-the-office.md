@@ -163,4 +163,4 @@ In Quebec, *le dîner* is the midday meal, and *le souper* is the evening meal. 
 
 - **Futur simple and conditionnel**: the two tenses used most in this stage (lessons 1 to 3).
 
-Suite : The plus-que-parfait<!-- link: ../10-complex-sentences-and-requests/01-plus-que-parfait.md -->
+Suite : [The plus-que-parfait](../10-complex-sentences-and-requests/01-plus-que-parfait.md)
