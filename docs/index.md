@@ -160,10 +160,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="9">
 <a class="fm-seg-name" href="09-work-and-the-future/">9 · Work and the future</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="The futur simple: regular verbs"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="The futur simple: irregular verbs"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="The conditionnel for politeness"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="Si clauses and hypotheses"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="09-work-and-the-future/01-futur-simple-regular/" data-lesson="09-work-and-the-future/01-futur-simple-regular/" title="The futur simple: regular verbs"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/02-futur-simple-irregular/" data-lesson="09-work-and-the-future/02-futur-simple-irregular/" title="The futur simple: irregular verbs"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/03-conditionnel-politeness/" data-lesson="09-work-and-the-future/03-conditionnel-politeness/" title="The conditionnel for politeness"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/04-si-clauses-hypotheses/" data-lesson="09-work-and-the-future/04-si-clauses-hypotheses/" title="Si clauses and hypotheses"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Phone calls at work"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Serving the public"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="Office and meeting words"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

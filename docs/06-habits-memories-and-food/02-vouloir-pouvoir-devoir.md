@@ -29,7 +29,7 @@ Listen for the pattern. *Je veux*, *tu veux* and *il veut* sound the same, /vø/
 
 *Vouloir* is "to want": *Je veux un café.* *Tu veux venir?* *Pouvoir* is "to be able to", so it means both "can" and "may": *Je peux entrer?* ("May I come in?") *Devoir* is "to have to": *Je dois travailler.* Used with a noun it means "to owe": *Je dois dix dollars à Léa.* Used with a probable fact it means "must be": *Il doit être fatigué* ("He must be tired").
 
-*Je voudrais* ("I would like") is the polite form of *je veux*. You know it from the café. The rule behind it comes in The conditionnel for politeness<!-- link: ../09-work-and-the-future/03-conditionnel-politeness.md -->, so keep it as a chunk for now. *Je veux* alone can sound blunt when you order, so use *je voudrais* with people you do not know.
+*Je voudrais* ("I would like") is the polite form of *je veux*. You know it from the café. The rule behind it comes in [The conditionnel for politeness](../09-work-and-the-future/03-conditionnel-politeness.md), so keep it as a chunk for now. *Je veux* alone can sound blunt when you order, so use *je voudrais* with people you do not know.
 
 ### Il faut
 

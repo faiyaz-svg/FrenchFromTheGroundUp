@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 101 of 205. New lessons appear here as they are added.
+Lessons written so far: 105 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -132,3 +132,12 @@ Lessons written so far: 101 of 205. New lessons appear here as they are added.
 - [ ] [An informal email](08-comparing-duration-and-settling-in/12-informal-email.md) (write)
 - [ ] [Short news items](08-comparing-duration-and-settling-in/13-short-news-items.md) (read)
 - [ ] [A long weekend in Montreal](08-comparing-duration-and-settling-in/14-a-long-weekend-in-montreal.md) (quebec, review)
+
+## B1 yellow line
+
+### Stage 9: Work and the future
+
+- [ ] [The futur simple: regular verbs](09-work-and-the-future/01-futur-simple-regular.md) (grammar)
+- [ ] [The futur simple: irregular verbs](09-work-and-the-future/02-futur-simple-irregular.md) (grammar)
+- [ ] [The conditionnel for politeness](09-work-and-the-future/03-conditionnel-politeness.md) (grammar)
+- [ ] [Si clauses and hypotheses](09-work-and-the-future/04-si-clauses-hypotheses.md) (grammar)

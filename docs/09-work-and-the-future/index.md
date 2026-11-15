@@ -7,10 +7,10 @@ Before this stage: Stages 1 to 8.
 <!-- lessons:start -->
 ## Lessons
 
-1. The futur simple: regular verbs (not written yet) (grammar)
-2. The futur simple: irregular verbs (not written yet) (grammar)
-3. The conditionnel for politeness (not written yet) (grammar)
-4. Si clauses and hypotheses (not written yet) (grammar)
+1. [The futur simple: regular verbs](01-futur-simple-regular.md) (grammar)
+2. [The futur simple: irregular verbs](02-futur-simple-irregular.md) (grammar)
+3. [The conditionnel for politeness](03-conditionnel-politeness.md) (grammar)
+4. [Si clauses and hypotheses](04-si-clauses-hypotheses.md) (grammar)
 5. Phone calls at work (not written yet) (speak)
 6. Serving the public (not written yet) (speak)
 7. Office and meeting words (not written yet) (words)

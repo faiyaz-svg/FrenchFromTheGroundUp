@@ -21,7 +21,7 @@ At a café counter you only need a few set phrases, and most of the words are no
 | *C'est combien?* | how much is it? | to ask the price |
 | *Merci. Bonne journée.* | thank you, have a good day | to finish |
 
-*Je voudrais* /ʒə vudʁɛ/ means "I would like". It is the polite way to ask for something, and you use it with *s'il vous plaît* (please). *Je veux*, "I want", is too blunt for a counter. You can learn *je voudrais* as one chunk. It is a form of the verb *vouloir*, explained in The conditionnel for politeness<!-- link: ../09-work-and-the-future/03-conditionnel-politeness.md -->, so for now do not try to change it.
+*Je voudrais* /ʒə vudʁɛ/ means "I would like". It is the polite way to ask for something, and you use it with *s'il vous plaît* (please). *Je veux*, "I want", is too blunt for a counter. You can learn *je voudrais* as one chunk. It is a form of the verb *vouloir*, explained in [The conditionnel for politeness](../09-work-and-the-future/03-conditionnel-politeness.md), so for now do not try to change it.
 
 ### The phrases you hear
 

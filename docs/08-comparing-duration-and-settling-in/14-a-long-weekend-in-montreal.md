@@ -152,4 +152,4 @@ Forgetting the small word after *décider* or *oublier*: *j'ai décidé prendre*
 
 - **Review lesson**: a lesson with no new grammar that brings the stage together.
 
-Next: The futur simple: regular verbs<!-- link: ../09-work-and-the-future/01-futur-simple-regular.md -->
+Next: [The futur simple: regular verbs](../09-work-and-the-future/01-futur-simple-regular.md)
