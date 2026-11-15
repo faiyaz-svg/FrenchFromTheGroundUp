@@ -1,0 +1,112 @@
+{
+ "items": [
+  {
+   "q": "Je ___ au cinéma ce soir.",
+   "hint": "aller",
+   "a": [
+    "vais"
+   ],
+   "en": "I'm going to the movies tonight.",
+   "stage": 2
+  },
+  {
+   "q": "Tu ___ étudiant.",
+   "hint": "être",
+   "a": [
+    "es"
+   ],
+   "en": "You are a student.",
+   "stage": 1
+  },
+  {
+   "q": "Nous ___ une voiture.",
+   "hint": "avoir",
+   "a": [
+    "avons"
+   ],
+   "en": "We have a car.",
+   "stage": 1
+  },
+  {
+   "q": "Elle ___ à Montréal.",
+   "hint": "être",
+   "a": [
+    "est"
+   ],
+   "en": "She is in Montreal.",
+   "stage": 1
+  },
+  {
+   "q": "Ils ___ au marché.",
+   "hint": "aller",
+   "a": [
+    "vont"
+   ],
+   "en": "They are going to the market.",
+   "stage": 2
+  },
+  {
+   "q": "Vous ___ faim?",
+   "hint": "avoir",
+   "a": [
+    "avez"
+   ],
+   "en": "Are you hungry?",
+   "stage": 1
+  },
+  {
+   "q": "J'___ vingt ans.",
+   "hint": "avoir",
+   "a": [
+    "ai"
+   ],
+   "en": "I am twenty years old.",
+   "stage": 1
+  },
+  {
+   "q": "Nous ___ au restaurant ce soir.",
+   "hint": "aller",
+   "a": [
+    "allons"
+   ],
+   "en": "We are going to the restaurant tonight.",
+   "stage": 2
+  },
+  {
+   "q": "Elles ___ contentes.",
+   "hint": "être",
+   "a": [
+    "sont"
+   ],
+   "en": "They are happy.",
+   "stage": 1
+  },
+  {
+   "q": "Tu ___ où?",
+   "hint": "aller",
+   "a": [
+    "vas"
+   ],
+   "en": "Where are you going?",
+   "stage": 2
+  },
+  {
+   "q": "Vous ___ très gentil.",
+   "hint": "être",
+   "a": [
+    "êtes"
+   ],
+   "en": "You are very kind.",
+   "stage": 1
+  },
+  {
+   "q": "Il ___ chaud aujourd'hui.",
+   "hint": "faire",
+   "a": [
+    "fait"
+   ],
+   "en": "It is hot today.",
+   "stage": 3
+  }
+ ]
+}

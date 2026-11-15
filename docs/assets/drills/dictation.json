@@ -1,0 +1,64 @@
+{
+ "items": [
+  {
+   "fr": "Je voudrais un café, s'il vous plaît.",
+   "en": "I'd like a coffee, please.",
+   "stage": 2
+  },
+  {
+   "fr": "Bonjour, comment allez-vous?",
+   "en": "Hello, how are you?",
+   "stage": 1
+  },
+  {
+   "fr": "Je m'appelle Marie.",
+   "en": "My name is Marie.",
+   "stage": 1
+  },
+  {
+   "fr": "Où est la gare?",
+   "en": "Where is the train station?",
+   "stage": 2
+  },
+  {
+   "fr": "J'habite à Montréal.",
+   "en": "I live in Montreal.",
+   "stage": 2
+  },
+  {
+   "fr": "Il fait beau aujourd'hui.",
+   "en": "The weather is nice today.",
+   "stage": 3
+  },
+  {
+   "fr": "Nous avons deux enfants.",
+   "en": "We have two children.",
+   "stage": 3
+  },
+  {
+   "fr": "Quelle heure est-il?",
+   "en": "What time is it?",
+   "stage": 3
+  },
+  {
+   "fr": "Je ne comprends pas.",
+   "en": "I don't understand.",
+   "stage": 2
+  },
+  {
+   "fr": "Merci beaucoup.",
+   "en": "Thank you very much.",
+   "stage": 1
+  },
+  {
+   "fr": "Elle est étudiante.",
+   "en": "She is a student.",
+   "stage": 1
+  },
+  {
+   "fr": "Pouvez-vous répéter, s'il vous plaît?",
+   "en": "Can you repeat, please?",
+   "stage": 4
+  }
+ ]
+}

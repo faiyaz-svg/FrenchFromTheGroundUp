@@ -1,0 +1,81 @@
+{
+ "items": [
+  {
+   "qc": "char",
+   "std": "voiture",
+   "en": "car",
+   "note": "casual",
+   "stage": 5
+  },
+  {
+   "qc": "fin de semaine",
+   "std": "week-end",
+   "en": "weekend",
+   "note": "",
+   "stage": 5
+  },
+  {
+   "qc": "magasiner",
+   "std": "faire du shopping",
+   "en": "to shop",
+   "note": "",
+   "stage": 5
+  },
+  {
+   "qc": "dépanneur",
+   "std": "supérette",
+   "en": "convenience store",
+   "note": "",
+   "stage": 5
+  },
+  {
+   "qc": "courriel",
+   "std": "e-mail",
+   "en": "email",
+   "note": "",
+   "stage": 5
+  },
+  {
+   "qc": "blonde",
+   "std": "petite amie",
+   "en": "girlfriend",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "chum",
+   "std": "petit ami",
+   "en": "boyfriend",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "piasse",
+   "std": "dollar",
+   "en": "dollar",
+   "note": "casual",
+   "stage": 6
+  },
+  {
+   "qc": "déjeuner",
+   "std": "petit-déjeuner",
+   "en": "breakfast",
+   "note": "in Quebec, déjeuner is breakfast",
+   "stage": 5
+  },
+  {
+   "qc": "dîner",
+   "std": "déjeuner",
+   "en": "lunch",
+   "note": "in Quebec, dîner is lunch",
+   "stage": 5
+  },
+  {
+   "qc": "souper",
+   "std": "dîner",
+   "en": "dinner",
+   "note": "in Quebec, souper is dinner",
+   "stage": 5
+  }
+ ]
+}
