@@ -1,0 +1,5 @@
+-r requirements.txt
+genanki==0.13.1
+PyYAML==6.0.3
+language_tool_python==3.4.0
+verbecc==2.1.0

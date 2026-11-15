@@ -1,0 +1,15 @@
+site/
+.venv/
+.cache/
+.playwright-mcp/
+__pycache__/
+*.pyc
+node_modules/
+
+# Check-tool data (Lexique, ipa-dict, LanguageTool): downloaded by tools/fetch_data.py, never committed.
+tools/data/
+
+# Local previews.
+docs/style-sample.md
+docs/assets/figures/_samples/
+verbecc.log
