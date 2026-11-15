@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 65 of 205. New lessons appear here as they are added.
+Lessons written so far: 69 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -90,3 +90,7 @@ Lessons written so far: 65 of 205. New lessons appear here as they are added.
 - [ ] [Vouloir, pouvoir and devoir](06-habits-memories-and-food/02-vouloir-pouvoir-devoir.md) (grammar)
 - [ ] [Food, shopping and quantities](06-habits-memories-and-food/03-food-shopping-and-quantities.md) (words)
 - [ ] [Reflexive verbs](06-habits-memories-and-food/04-reflexive-verbs.md) (grammar)
+- [ ] [The imparfait](06-habits-memories-and-food/05-imparfait.md) (grammar)
+- [ ] [Imparfait or passé composé](06-habits-memories-and-food/06-imparfait-vs-passe-compose.md) (grammar)
+- [ ] [Adverbs ending in -ment](06-habits-memories-and-food/07-adverbs-in-ment.md) (grammar)
+- [ ] [At the restaurant](06-habits-memories-and-food/08-at-the-restaurant.md) (speak)

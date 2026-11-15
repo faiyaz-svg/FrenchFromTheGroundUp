@@ -9,7 +9,7 @@ The phrases come before the lessons that teach them, so use them as set sentence
 - [Quebec words: dépanneur and café](../02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md)
 - [Asking for directions](../04-people-places-and-directions/08-asking-directions.md)
 - [Metro maps and signs](../04-people-places-and-directions/09-metro-maps-and-signs.md)
-- At the restaurant<!-- link: ../06-habits-memories-and-food/08-at-the-restaurant.md -->
+- [At the restaurant](../06-habits-memories-and-food/08-at-the-restaurant.md)
 - At the doctor and the pharmacy<!-- link: ../07-pronouns-and-getting-things-done/07-doctor-and-pharmacy.md -->
 - At a hotel or an Airbnb<!-- link: ../07-pronouns-and-getting-things-done/08-hotel-or-airbnb.md -->
 - Health care in Quebec for a visitor<!-- link: ../07-pronouns-and-getting-things-done/09-health-care-in-quebec-as-a-visitor.md -->

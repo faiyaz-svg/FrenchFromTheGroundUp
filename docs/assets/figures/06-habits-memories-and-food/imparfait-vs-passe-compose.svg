@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" width="760" height="300" role="img" aria-labelledby="t d">
+<title id="t">Imparfait and passé composé on a timeline</title>
+<desc id="d">The imparfait is a long bar for what was going on, the background. The passé composé is a dot for one finished event that happened during it.</desc>
+<rect x="0" y="0" width="760" height="300" fill="#ffffff"/>
+<line x1="40" y1="170" x2="720" y2="170" stroke="#111111" stroke-width="2"/>
+<polygon points="720,170 708,164 708,176" fill="#111111"/>
+<line x1="640" y1="156" x2="640" y2="184" stroke="#111111" stroke-width="3"/>
+<text x="640.0" y="204.0" font-family="Figtree, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#111111" text-anchor="middle">now</text>
+<text x="40.0" y="204.0" font-family="Figtree, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#555555" text-anchor="start">past</text>
+<rect x="90" y="124" width="470" height="18" fill="#f26b1d"/>
+<text x="325.0" y="110.0" font-family="Figtree, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#a84105" text-anchor="middle">Il pleuvait. (it was raining: imparfait, the background)</text>
+<line x1="330" y1="142" x2="330" y2="170" stroke="#111111" stroke-width="1.5" stroke-dasharray="3 3"/>
+<circle cx="330" cy="170" r="9" fill="#111111"/>
+<text x="330.0" y="234.0" font-family="Figtree, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#111111" text-anchor="middle">Je suis sorti. (I went out: passé composé, one event)</text>
+<text x="380.0" y="280.0" font-family="Figtree, Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#555555" text-anchor="middle">Bar = what was going on.  Dot = what happened.</text>
+</svg>

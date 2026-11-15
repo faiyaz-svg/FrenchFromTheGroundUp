@@ -13,7 +13,7 @@ Lessons that teach these forms:
 - [Regular -er verbs](../03-verbs-and-questions/02-regular-er-verbs.md)
 - [The passé composé with avoir](../05-the-past-what-happened/03-passe-compose-avoir.md)
 - [The passé composé with être](../05-the-past-what-happened/05-passe-compose-etre.md)
-- The imparfait<!-- link: ../06-habits-memories-and-food/05-imparfait.md -->
+- [The imparfait](../06-habits-memories-and-food/05-imparfait.md)
 - The futur simple: regular verbs<!-- link: ../09-work-and-the-future/01-futur-simple-regular.md -->
 - The conditionnel for politeness<!-- link: ../09-work-and-the-future/03-conditionnel-politeness.md -->
 - The subjunctive after il faut que<!-- link: ../10-complex-sentences-and-requests/04-subjunctive-il-faut-que.md -->
