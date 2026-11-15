@@ -829,6 +829,16 @@ def run_languagetool(texts: list[str]):
     return results, version, start
 
 
+def _load_names() -> set:
+    f = Path(__file__).resolve().parent / "data_static" / "names.txt"
+    if not f.exists():
+        return set()
+    return {l.strip() for l in f.read_text(encoding="utf-8").splitlines() if l.strip() and not l.startswith("#")}
+
+
+PROPER_NAMES = _load_names()
+
+
 def is_spelling(rule_id: str, issue_type: str) -> bool:
     r = rule_id.upper()
     return issue_type == "misspelling" or "SPELL" in r or "MORFOLOGIK" in r or "HUNSPELL" in r
@@ -903,6 +913,10 @@ def analyse(docs: list[Doc], use_lt: bool, allow=None):
                 if not pe:
                     continue
                 noun, gender, conflict = pe
+                # Proper nouns (le Canada, l'Inde) are skipped: Lexique lists other senses of them.
+                body = re.sub(r"^(le|la|les|un|une|des|l')\s*", "", strip_md(cell).strip(), flags=re.I)
+                if body[:1].isupper():
+                    continue
                 if conflict:
                     findings.append(Finding("error", "gender", d.path, ln, strip_md(cell), "GENDER_CONFLICT",
                                             f"article and ({conflict}.) mark disagree"))
@@ -928,6 +942,10 @@ def analyse(docs: list[Doc], use_lt: bool, allow=None):
                 if it.mode == "spell" and not spell:
                     continue
                 if rule_allowed(rule, rules_allow) or (rule, it.text) in pairs_allow or (rule, matched) in pairs_allow:
+                    continue
+                # Proper names (people, streets, stations) are not in the dictionary: a capitalised
+                # word that is not at the start of the sentence, or any name in names.txt, is skipped.
+                if spell and matched and (matched in PROPER_NAMES or (matched[:1].isupper() and off > 0)):
                     continue
                 if it.mode == "spell" or (spell and it.kind == "italic"):
                     findings.append(Finding("warning", "spelling", it.path, it.line, it.text, rule,

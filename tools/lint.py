@@ -28,7 +28,7 @@ BANNED = re.compile(
     r"\b(delve|tapestry|testament|pivotal|underscores?|underscored|intricat\w*|meticulous\w*|showcas\w*|"
     r"garner\w*|bolster\w*|interplay|vibrant|multifaceted|realms?|groundbreaking|renowned|nestled|"
     r"seamless\w*|commendable|noteworthy|invaluable|transformative|unparalleled|unveil\w*|harness\w*|"
-    r"elucidat\w*|burgeoning|foster\w*|leverag\w*|quietly|deep dive|boasts?|journey|unlock\w*|elevat\w*|"
+    r"elucidat\w*|burgeoning|foster\w*|leverag\w*|quietly|deep dive|boasts?|journey|unlock\w*|elevat(?:e|es|ed|ing)\b|"
     r"key (?:role|factor|takeaway|insight|concept)s?|"
     r"serves? as|stands? as|functions? as|important to note|worth noting|worth mentioning|in summary|"
     r"in conclusion|to sum up|not only|let'?s dive|let'?s unpack|clearly|obviously|it is easy|"
@@ -191,6 +191,7 @@ def heading_issue(line: str) -> bool:
 def check(path: Path) -> list[str]:
     text = path.read_text(encoding="utf-8")
     issues: list[str] = []
+    LINT_OK = {w.lower() for w in re.findall(r"<!-- lint-ok: (\w+)", text)}
     section = ""
     in_fence = ""
     en_lines: list[tuple[int, str]] = []  # non-fence lines, for paragraph checks
@@ -249,6 +250,10 @@ def check(path: Path) -> list[str]:
                 issues.append(f"{no}: banned '{m.group(0)}'")
             for m in SPARING.finditer(prose):
                 if m.group(0).lower().startswith("master") and "master volume" in prose.lower():
+                    continue
+                # A page can allow a "use rarely" word it needs, with a reason, e.g.
+                # <!-- lint-ok: just (it translates venir de) -->
+                if m.group(0).lower() in LINT_OK:
                     continue
                 issues.append(f"{no}: use rarely '{m.group(0)}'")
         # The key terms list is the one place where "- **Term**: ..." is the format.

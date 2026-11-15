@@ -9,3 +9,9 @@ FR_REPEATEDWORDS_*
 TUQUE
 # The OQLF's own example in its email pages; "d'ici le" is standard (BDL accepts d'ici le and d'ici au).
 CONSTRUCTION_DANS_LES_EXPRESSIONS | Pourriez-vous me faire parvenir le rapport d'ici le 15 mars?
+# LanguageTool confuses côte (a hill, a sloping street, as in Quebec street names) with cote (a rating); the book never means cote.
+COTE_CÔTE | côte
+# Style hints about repeating a word or using it in formal style (D'abord, Heureusement): not errors.
+REP_*
+# Flagged only as a Quebec regionalism; lesson 05-09 teaches it (Usito).
+DEBARBOUILLETTE
