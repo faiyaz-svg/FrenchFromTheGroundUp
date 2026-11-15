@@ -196,10 +196,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="11">
 <a class="fm-seg-name" href="11-reporting-and-opinions/">11 · Reporting and opinions</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="The passive voice"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Reported speech"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Reported speech in the past"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="The gérondif and the present participle"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/01-passive-voice/" data-lesson="11-reporting-and-opinions/01-passive-voice/" title="The passive voice"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/02-reported-speech/" data-lesson="11-reporting-and-opinions/02-reported-speech/" title="Reported speech"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/03-reported-speech-past/" data-lesson="11-reporting-and-opinions/03-reported-speech-past/" title="Reported speech in the past"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="11-reporting-and-opinions/04-gerondif-and-participe-present/" data-lesson="11-reporting-and-opinions/04-gerondif-and-participe-present/" title="The gérondif and the present participle"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Connectors for opinions"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="News vocabulary"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="Giving your opinion"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

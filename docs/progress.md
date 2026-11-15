@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 127 of 205. New lessons appear here as they are added.
+Lessons written so far: 131 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -166,3 +166,10 @@ Lessons written so far: 127 of 205. New lessons appear here as they are added.
 - [ ] [A formal request](10-complex-sentences-and-requests/11-formal-request.md) (write)
 - [ ] [Banking and admin words](10-complex-sentences-and-requests/12-banking-and-admin-words.md) (words)
 - [ ] [Handling a request](10-complex-sentences-and-requests/13-handling-a-request.md) (write, review)
+
+### Stage 11: Reporting and opinions
+
+- [ ] [The passive voice](11-reporting-and-opinions/01-passive-voice.md) (grammar)
+- [ ] [Reported speech](11-reporting-and-opinions/02-reported-speech.md) (grammar)
+- [ ] [Reported speech in the past](11-reporting-and-opinions/03-reported-speech-past.md) (grammar)
+- [ ] [The gérondif and the present participle](11-reporting-and-opinions/04-gerondif-and-participe-present.md) (grammar)

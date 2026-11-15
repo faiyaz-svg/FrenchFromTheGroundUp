@@ -7,10 +7,10 @@ Before this stage: Stages 1 to 10.
 <!-- lessons:start -->
 ## Lessons
 
-1. The passive voice (not written yet) (grammar)
-2. Reported speech (not written yet) (grammar)
-3. Reported speech in the past (not written yet) (grammar)
-4. The gérondif and the present participle (not written yet) (grammar)
+1. [The passive voice](01-passive-voice.md) (grammar)
+2. [Reported speech](02-reported-speech.md) (grammar)
+3. [Reported speech in the past](03-reported-speech-past.md) (grammar)
+4. [The gérondif and the present participle](04-gerondif-and-participe-present.md) (grammar)
 5. Connectors for opinions (not written yet) (words)
 6. News vocabulary (not written yet) (words)
 7. Giving your opinion (not written yet) (speak)

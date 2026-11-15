@@ -161,4 +161,4 @@ Using *tu* with a client or a citizen. Replies use *vous*.
 - **Acknowledgement of receipt**: *un accusé de réception*, a message that confirms a request arrived.
 - **Review**: a lesson that brings earlier lessons back without new grammar.
 
-Suite : The passive voice<!-- link: ../11-reporting-and-opinions/01-passive-voice.md -->
+Suite : [The passive voice](../11-reporting-and-opinions/01-passive-voice.md)
