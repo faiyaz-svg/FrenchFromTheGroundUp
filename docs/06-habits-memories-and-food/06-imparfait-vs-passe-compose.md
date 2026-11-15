@@ -45,7 +45,7 @@ Two actions that go on at the same time both take the imparfait. Use *pendant qu
 
 Verbs of state say how things were, not what happened: *être*, *avoir*, *penser*, *vouloir*, *pouvoir*. They are very often in the imparfait: *J'étais content.* *Nous avions faim.* *Je pensais que c'était facile.* The passé composé of a verb of state often shows a reaction or a result, a change at one moment: *J'ai eu peur* ("I got scared"), *Je n'ai pas pu dormir* ("I did not manage to sleep"). Compare *Je ne pouvais pas dormir* ("I couldn't sleep", the situation). Compare also *Je voulais partir* ("I wanted to leave", the state) with *J'ai voulu partir* ("I tried to leave").
 
-A few verbs change meaning between the two tenses. You will meet *savoir* in Savoir, connaître, dire, lire and écrire<!-- link: ../07-pronouns-and-getting-things-done/05-savoir-connaitre-dire-lire-ecrire.md -->, and its imparfait and passé composé differ in the same way.
+A few verbs change meaning between the two tenses. You will meet *savoir* in [Savoir, connaître, dire, lire and écrire](../07-pronouns-and-getting-things-done/05-savoir-connaitre-dire-lire-ecrire.md), and its imparfait and passé composé differ in the same way.
 
 Watch out: these rules have exceptions, and native speakers sometimes choose either tense to show how they see an event. Learn the two questions, then read and listen for more examples.
 

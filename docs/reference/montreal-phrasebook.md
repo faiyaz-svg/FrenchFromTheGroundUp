@@ -10,8 +10,8 @@ The phrases come before the lessons that teach them, so use them as set sentence
 - [Asking for directions](../04-people-places-and-directions/08-asking-directions.md)
 - [Metro maps and signs](../04-people-places-and-directions/09-metro-maps-and-signs.md)
 - [At the restaurant](../06-habits-memories-and-food/08-at-the-restaurant.md)
-- At the doctor and the pharmacy<!-- link: ../07-pronouns-and-getting-things-done/07-doctor-and-pharmacy.md -->
-- At a hotel or an Airbnb<!-- link: ../07-pronouns-and-getting-things-done/08-hotel-or-airbnb.md -->
+- [At the doctor and the pharmacy](../07-pronouns-and-getting-things-done/07-doctor-and-pharmacy.md)
+- [At a hotel or an Airbnb](../07-pronouns-and-getting-things-done/08-hotel-or-airbnb.md)
 - Health care in Quebec for a visitor<!-- link: ../07-pronouns-and-getting-things-done/09-health-care-in-quebec-as-a-visitor.md -->
 - Solving problems while travelling<!-- link: ../07-pronouns-and-getting-things-done/13-solving-problems-while-travelling.md -->
 - Small talk: weather and hockey<!-- link: ../08-comparing-duration-and-settling-in/07-small-talk-weather-and-hockey.md -->

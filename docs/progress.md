@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 78 of 205. New lessons appear here as they are added.
+Lessons written so far: 82 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -106,3 +106,7 @@ Lessons written so far: 78 of 205. New lessons appear here as they are added.
 - [ ] [Indirect object pronouns](07-pronouns-and-getting-things-done/02-indirect-object-pronouns.md) (grammar)
 - [ ] [The pronouns y and en](07-pronouns-and-getting-things-done/03-y-and-en.md) (grammar)
 - [ ] [The imperative](07-pronouns-and-getting-things-done/04-imperative.md) (grammar)
+- [ ] [Savoir, connaître, dire, lire and écrire](07-pronouns-and-getting-things-done/05-savoir-connaitre-dire-lire-ecrire.md) (grammar)
+- [ ] [The body, health and the pharmacy](07-pronouns-and-getting-things-done/06-body-health-and-pharmacy.md) (words)
+- [ ] [At the doctor and the pharmacy](07-pronouns-and-getting-things-done/07-doctor-and-pharmacy.md) (speak)
+- [ ] [At a hotel or an Airbnb](07-pronouns-and-getting-things-done/08-hotel-or-airbnb.md) (speak)
