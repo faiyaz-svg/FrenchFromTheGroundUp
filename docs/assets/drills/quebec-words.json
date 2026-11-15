@@ -160,6 +160,90 @@
    "en": "friend, boyfriend",
    "note": "casual; Usito says it is familiar and criticized as non-standard",
    "stage": 4
+  },
+  {
+   "qc": "une tuque",
+   "std": "un bonnet",
+   "en": "winter hat",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "des mitaines",
+   "std": "des moufles",
+   "en": "mittens",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "un foulard",
+   "std": "une écharpe",
+   "en": "winter scarf",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "une camisole",
+   "std": "un débardeur",
+   "en": "tank top, undershirt",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "une débarbouillette",
+   "std": "un gant de toilette",
+   "en": "washcloth",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "une chaudière",
+   "std": "un seau",
+   "en": "bucket",
+   "note": "criticised by some; write seau",
+   "stage": 5
+  },
+  {
+   "qc": "une sacoche",
+   "std": "un sac à main",
+   "en": "handbag",
+   "note": "casual",
+   "stage": 5
+  },
+  {
+   "qc": "un frigidaire",
+   "std": "un réfrigérateur",
+   "en": "fridge",
+   "note": "casual; write réfrigérateur",
+   "stage": 5
+  },
+  {
+   "qc": "un bas",
+   "std": "une chaussette",
+   "en": "sock",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "un chalet",
+   "std": "une maison de campagne",
+   "en": "country cottage",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "tantôt",
+   "std": "tout à l'heure",
+   "en": "a while ago, in a while",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "présentement",
+   "std": "en ce moment",
+   "en": "right now",
+   "note": "neutral",
+   "stage": 5
   }
  ]
 }

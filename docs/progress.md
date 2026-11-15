@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 57 of 205. New lessons appear here as they are added.
+Lessons written so far: 61 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -79,3 +79,7 @@ Lessons written so far: 57 of 205. New lessons appear here as they are added.
 - [ ] [The passé composé: no, questions and agreement](05-the-past-what-happened/06-pc-negation-questions-agreement.md) (grammar)
 - [ ] [Past time words](05-the-past-what-happened/07-past-time-words.md) (words)
 - [ ] [Telling about your weekend](05-the-past-what-happened/08-telling-about-your-weekend.md) (speak)
+- [ ] [Everyday nouns in Quebec](05-the-past-what-happened/09-quebec-everyday-nouns.md) (quebec)
+- [ ] [Listening to a story](05-the-past-what-happened/10-listening-to-a-story.md) (listen)
+- [ ] [A message about yesterday](05-the-past-what-happened/11-message-about-yesterday.md) (write)
+- [ ] [A weekend in Quebec City](05-the-past-what-happened/12-a-weekend-in-quebec-city.md) (speak, review)

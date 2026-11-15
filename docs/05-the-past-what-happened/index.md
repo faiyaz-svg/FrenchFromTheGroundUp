@@ -17,10 +17,10 @@ Before this stage: Stages 1 to 4.
 6. [The passé composé: no, questions and agreement](06-pc-negation-questions-agreement.md) (grammar)
 7. [Past time words](07-past-time-words.md) (words)
 8. [Telling about your weekend](08-telling-about-your-weekend.md) (speak)
-9. Everyday nouns in Quebec (not written yet) (quebec)
-10. Listening to a story (not written yet) (listen)
-11. A message about yesterday (not written yet) (write)
-12. A weekend in Quebec City (not written yet) (speak, review)
+9. [Everyday nouns in Quebec](09-quebec-everyday-nouns.md) (quebec)
+10. [Listening to a story](10-listening-to-a-story.md) (listen)
+11. [A message about yesterday](11-message-about-yesterday.md) (write)
+12. [A weekend in Quebec City](12-a-weekend-in-quebec-city.md) (speak, review)
 
 <!-- lessons:end -->
 

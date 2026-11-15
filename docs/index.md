@@ -93,10 +93,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="05-the-past-what-happened/06-pc-negation-questions-agreement/" data-lesson="05-the-past-what-happened/06-pc-negation-questions-agreement/" title="The passé composé: no, questions and agreement"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="05-the-past-what-happened/07-past-time-words/" data-lesson="05-the-past-what-happened/07-past-time-words/" title="Past time words"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="05-the-past-what-happened/08-telling-about-your-weekend/" data-lesson="05-the-past-what-happened/08-telling-about-your-weekend/" title="Telling about your weekend"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Everyday nouns in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Listening to a story"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="A message about yesterday"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="A weekend in Quebec City"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
+<li><a class="fm-st" href="05-the-past-what-happened/09-quebec-everyday-nouns/" data-lesson="05-the-past-what-happened/09-quebec-everyday-nouns/" title="Everyday nouns in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="05-the-past-what-happened/10-listening-to-a-story/" data-lesson="05-the-past-what-happened/10-listening-to-a-story/" title="Listening to a story"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="05-the-past-what-happened/11-message-about-yesterday/" data-lesson="05-the-past-what-happened/11-message-about-yesterday/" title="A message about yesterday"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="05-the-past-what-happened/12-a-weekend-in-quebec-city/" data-lesson="05-the-past-what-happened/12-a-weekend-in-quebec-city/" title="A weekend in Quebec City"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="6">

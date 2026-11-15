@@ -773,6 +773,214 @@
    ],
    "en": "I don't have a sister.",
    "stage": 4
+  },
+  {
+   "q": "Nous ___ à midi.",
+   "hint": "finir",
+   "a": [
+    "finissons"
+   ],
+   "en": "We finish at noon.",
+   "stage": 5
+  },
+  {
+   "q": "Tu ___ bien?",
+   "hint": "dormir",
+   "a": [
+    "dors"
+   ],
+   "en": "Do you sleep well?",
+   "stage": 5
+  },
+  {
+   "q": "Ils ___ l'autobus.",
+   "hint": "attendre",
+   "a": [
+    "attendent"
+   ],
+   "en": "They are waiting for the bus.",
+   "stage": 5
+  },
+  {
+   "q": "Je ___ à la question.",
+   "hint": "répondre",
+   "a": [
+    "réponds"
+   ],
+   "en": "I answer the question.",
+   "stage": 5
+  },
+  {
+   "q": "Qu'est-ce que tu ___?",
+   "hint": "prendre",
+   "a": [
+    "prends"
+   ],
+   "en": "What are you having?",
+   "stage": 5
+  },
+  {
+   "q": "Vous ___ de Toronto?",
+   "hint": "venir",
+   "a": [
+    "venez"
+   ],
+   "en": "Are you from Toronto?",
+   "stage": 5
+  },
+  {
+   "q": "Ils ___ un jus.",
+   "hint": "boire",
+   "a": [
+    "boivent"
+   ],
+   "en": "They are drinking a juice.",
+   "stage": 5
+  },
+  {
+   "q": "Je viens de ___ mon travail.",
+   "hint": "finir",
+   "a": [
+    "finir"
+   ],
+   "en": "I have just finished my work.",
+   "stage": 5
+  },
+  {
+   "q": "Hier soir, j'___ un film.",
+   "hint": "regarder (passé composé)",
+   "a": [
+    "ai regardé"
+   ],
+   "en": "Last night I watched a movie.",
+   "stage": 5
+  },
+  {
+   "q": "Elle ___ à huit heures.",
+   "hint": "partir (passé composé)",
+   "a": [
+    "est partie"
+   ],
+   "en": "She left at eight o'clock.",
+   "stage": 5
+  },
+  {
+   "q": "Nous ___ le métro.",
+   "hint": "prendre (passé composé)",
+   "a": [
+    "avons pris"
+   ],
+   "en": "We took the metro.",
+   "stage": 5
+  },
+  {
+   "q": "Ils ___ au parc.",
+   "hint": "aller (passé composé)",
+   "a": [
+    "sont allés"
+   ],
+   "en": "They went to the park.",
+   "stage": 5
+  },
+  {
+   "q": "Je n'___ pas mangé.",
+   "hint": "avoir",
+   "a": [
+    "ai"
+   ],
+   "en": "I didn't eat.",
+   "stage": 5
+  },
+  {
+   "q": "Il n'a ___ vu.",
+   "hint": "nothing",
+   "a": [
+    "rien"
+   ],
+   "en": "He saw nothing.",
+   "stage": 5
+  },
+  {
+   "q": "Je n'ai vu ___.",
+   "hint": "nobody",
+   "a": [
+    "personne"
+   ],
+   "en": "I saw nobody.",
+   "stage": 5
+  },
+  {
+   "q": "J'___ eu peur.",
+   "hint": "avoir",
+   "a": [
+    "ai"
+   ],
+   "en": "I was scared.",
+   "stage": 5
+  },
+  {
+   "q": "La semaine ___, j'ai travaillé.",
+   "hint": "last",
+   "a": [
+    "dernière"
+   ],
+   "en": "Last week I worked.",
+   "stage": 5
+  },
+  {
+   "q": "Je suis arrivé lundi. Le ___, j'ai travaillé.",
+   "hint": "the next day",
+   "a": [
+    "lendemain"
+   ],
+   "en": "I arrived on Monday. The next day I worked.",
+   "stage": 5
+  },
+  {
+   "q": "Il y a trois jours, j'___ un ami.",
+   "hint": "voir (passé composé)",
+   "a": [
+    "ai vu"
+   ],
+   "en": "Three days ago I saw a friend.",
+   "stage": 5
+  },
+  {
+   "q": "Il a ouvert la porte et, ___, la neige est tombée.",
+   "hint": "suddenly",
+   "a": [
+    "soudain",
+    "tout à coup"
+   ],
+   "en": "He opened the door and, suddenly, the snow fell.",
+   "stage": 5
+  },
+  {
+   "q": "Elle est ___ à midi.",
+   "hint": "rentrer (participle)",
+   "a": [
+    "rentrée"
+   ],
+   "en": "She came home at noon.",
+   "stage": 5
+  },
+  {
+   "q": "Nous avons ___ le match.",
+   "hint": "gagner (participle)",
+   "a": [
+    "gagné"
+   ],
+   "en": "We won the match.",
+   "stage": 5
+  },
+  {
+   "q": "Il a ___ la porte.",
+   "hint": "ouvrir (participle)",
+   "a": [
+    "ouvert"
+   ],
+   "en": "He opened the door.",
+   "stage": 5
   }
  ]
 }

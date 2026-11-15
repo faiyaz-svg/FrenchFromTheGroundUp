@@ -1,0 +1,862 @@
+{
+ "conjugation": [
+  {
+   "verb": "finir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "finissons",
+   "en": "to finish",
+   "stage": 5
+  },
+  {
+   "verb": "finir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "finissent",
+   "en": "to finish",
+   "stage": 5
+  },
+  {
+   "verb": "choisir",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "choisissez",
+   "en": "to choose",
+   "stage": 5
+  },
+  {
+   "verb": "vendre",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "vends",
+   "en": "to sell",
+   "stage": 5
+  },
+  {
+   "verb": "attendre",
+   "tense": "présent",
+   "person": "je",
+   "answer": "attends",
+   "en": "to wait for",
+   "stage": 5
+  },
+  {
+   "verb": "répondre",
+   "tense": "présent",
+   "person": "il",
+   "answer": "répond",
+   "en": "to answer",
+   "stage": 5
+  },
+  {
+   "verb": "partir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "pars",
+   "en": "to leave",
+   "stage": 5
+  },
+  {
+   "verb": "partir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "partent",
+   "en": "to leave",
+   "stage": 5
+  },
+  {
+   "verb": "sortir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "sortons",
+   "en": "to go out",
+   "stage": 5
+  },
+  {
+   "verb": "dormir",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "dort",
+   "en": "to sleep",
+   "stage": 5
+  },
+  {
+   "verb": "prendre",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "prennent",
+   "en": "to take",
+   "stage": 5
+  },
+  {
+   "verb": "prendre",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "prenons",
+   "en": "to take",
+   "stage": 5
+  },
+  {
+   "verb": "comprendre",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "comprends",
+   "en": "to understand",
+   "stage": 5
+  },
+  {
+   "verb": "venir",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "venez",
+   "en": "to come",
+   "stage": 5
+  },
+  {
+   "verb": "venir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "viennent",
+   "en": "to come",
+   "stage": 5
+  },
+  {
+   "verb": "revenir",
+   "tense": "présent",
+   "person": "elle",
+   "answer": "revient",
+   "en": "to come back",
+   "stage": 5
+  },
+  {
+   "verb": "boire",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "buvons",
+   "en": "to drink",
+   "stage": 5
+  },
+  {
+   "verb": "boire",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "boivent",
+   "en": "to drink",
+   "stage": 5
+  },
+  {
+   "verb": "voir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "voyons",
+   "en": "to see",
+   "stage": 5
+  },
+  {
+   "verb": "mettre",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "mettez",
+   "en": "to put",
+   "stage": 5
+  },
+  {
+   "verb": "ouvrir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "ouvre",
+   "en": "to open",
+   "stage": 5
+  },
+  {
+   "verb": "ouvrir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "ouvrent",
+   "en": "to open",
+   "stage": 5
+  },
+  {
+   "verb": "parler",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai parlé",
+   "en": "to speak",
+   "stage": 5
+  },
+  {
+   "verb": "finir",
+   "tense": "passé composé",
+   "person": "tu",
+   "answer": "as fini",
+   "en": "to finish",
+   "stage": 5
+  },
+  {
+   "verb": "vendre",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a vendu",
+   "en": "to sell",
+   "stage": 5
+  },
+  {
+   "verb": "manger",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "avons mangé",
+   "en": "to eat",
+   "stage": 5
+  },
+  {
+   "verb": "faire",
+   "tense": "passé composé",
+   "person": "vous",
+   "answer": "avez fait",
+   "en": "to do, to make",
+   "stage": 5
+  },
+  {
+   "verb": "prendre",
+   "tense": "passé composé",
+   "person": "ils",
+   "answer": "ont pris",
+   "en": "to take",
+   "stage": 5
+  },
+  {
+   "verb": "voir",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai vu",
+   "en": "to see",
+   "stage": 5
+  },
+  {
+   "verb": "boire",
+   "tense": "passé composé",
+   "person": "tu",
+   "answer": "as bu",
+   "en": "to drink",
+   "stage": 5
+  },
+  {
+   "verb": "avoir",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a eu",
+   "en": "to have",
+   "stage": 5
+  },
+  {
+   "verb": "mettre",
+   "tense": "passé composé",
+   "person": "elle",
+   "answer": "a mis",
+   "en": "to put",
+   "stage": 5
+  },
+  {
+   "verb": "ouvrir",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai ouvert",
+   "en": "to open",
+   "stage": 5
+  },
+  {
+   "verb": "aller",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "sommes allés",
+   "en": "to go",
+   "stage": 5
+  },
+  {
+   "verb": "arriver",
+   "tense": "passé composé",
+   "person": "elle",
+   "answer": "est arrivée",
+   "en": "to arrive",
+   "stage": 5
+  },
+  {
+   "verb": "partir",
+   "tense": "passé composé",
+   "person": "ils",
+   "answer": "sont partis",
+   "en": "to leave",
+   "stage": 5
+  },
+  {
+   "verb": "sortir",
+   "tense": "passé composé",
+   "person": "vous",
+   "answer": "êtes sortis",
+   "en": "to go out",
+   "stage": 5
+  },
+  {
+   "verb": "rester",
+   "tense": "passé composé",
+   "person": "elles",
+   "answer": "sont restées",
+   "en": "to stay",
+   "stage": 5
+  }
+ ],
+ "gender": [
+  {
+   "noun": "journée",
+   "answer": "la",
+   "en": "day",
+   "stage": 5
+  },
+  {
+   "noun": "matinée",
+   "answer": "la",
+   "en": "morning",
+   "stage": 5
+  },
+  {
+   "noun": "après-midi",
+   "answer": "le",
+   "en": "afternoon",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "portefeuille",
+   "answer": "le",
+   "en": "wallet",
+   "stage": 5
+  },
+  {
+   "noun": "sac à dos",
+   "answer": "le",
+   "en": "backpack",
+   "stage": 5
+  },
+  {
+   "noun": "agent",
+   "answer": "le",
+   "en": "agent",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "surprise",
+   "answer": "la",
+   "en": "surprise",
+   "stage": 5
+  },
+  {
+   "noun": "randonnée",
+   "answer": "la",
+   "en": "hike",
+   "stage": 5
+  },
+  {
+   "noun": "lac",
+   "answer": "le",
+   "en": "lake",
+   "stage": 5
+  },
+  {
+   "noun": "chalet",
+   "answer": "le",
+   "en": "cottage",
+   "stage": 5
+  },
+  {
+   "noun": "plage",
+   "answer": "la",
+   "en": "beach",
+   "stage": 5
+  },
+  {
+   "noun": "promenade",
+   "answer": "la",
+   "en": "walk",
+   "stage": 5
+  },
+  {
+   "noun": "pique-nique",
+   "answer": "le",
+   "en": "picnic",
+   "stage": 5
+  },
+  {
+   "noun": "souvenir",
+   "answer": "le",
+   "en": "memory",
+   "stage": 5
+  },
+  {
+   "noun": "passeport",
+   "answer": "le",
+   "en": "passport",
+   "stage": 5
+  },
+  {
+   "noun": "réunion",
+   "answer": "la",
+   "en": "meeting",
+   "stage": 5
+  },
+  {
+   "noun": "pizza",
+   "answer": "la",
+   "en": "pizza",
+   "stage": 5
+  },
+  {
+   "noun": "parapluie",
+   "answer": "le",
+   "en": "umbrella",
+   "stage": 5
+  },
+  {
+   "noun": "question",
+   "answer": "la",
+   "en": "question",
+   "stage": 5
+  },
+  {
+   "noun": "réponse",
+   "answer": "la",
+   "en": "answer",
+   "stage": 5
+  },
+  {
+   "noun": "bateau",
+   "answer": "le",
+   "en": "boat",
+   "stage": 5
+  },
+  {
+   "noun": "excursion",
+   "answer": "la",
+   "en": "excursion",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "croisière",
+   "answer": "la",
+   "en": "cruise",
+   "stage": 5
+  },
+  {
+   "noun": "auberge",
+   "answer": "la",
+   "en": "inn",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "objet",
+   "answer": "le",
+   "en": "object",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "tuque",
+   "answer": "la",
+   "en": "winter hat",
+   "stage": 5
+  },
+  {
+   "noun": "foulard",
+   "answer": "le",
+   "en": "scarf",
+   "stage": 5
+  },
+  {
+   "noun": "facture",
+   "answer": "la",
+   "en": "bill",
+   "stage": 5
+  },
+  {
+   "noun": "traversier",
+   "answer": "le",
+   "en": "ferry",
+   "stage": 5
+  }
+ ],
+ "fill": [
+  {
+   "q": "Nous ___ à midi.",
+   "hint": "finir",
+   "a": [
+    "finissons"
+   ],
+   "en": "We finish at noon.",
+   "stage": 5
+  },
+  {
+   "q": "Tu ___ bien?",
+   "hint": "dormir",
+   "a": [
+    "dors"
+   ],
+   "en": "Do you sleep well?",
+   "stage": 5
+  },
+  {
+   "q": "Ils ___ l'autobus.",
+   "hint": "attendre",
+   "a": [
+    "attendent"
+   ],
+   "en": "They are waiting for the bus.",
+   "stage": 5
+  },
+  {
+   "q": "Je ___ à la question.",
+   "hint": "répondre",
+   "a": [
+    "réponds"
+   ],
+   "en": "I answer the question.",
+   "stage": 5
+  },
+  {
+   "q": "Qu'est-ce que tu ___?",
+   "hint": "prendre",
+   "a": [
+    "prends"
+   ],
+   "en": "What are you having?",
+   "stage": 5
+  },
+  {
+   "q": "Vous ___ de Toronto?",
+   "hint": "venir",
+   "a": [
+    "venez"
+   ],
+   "en": "Are you from Toronto?",
+   "stage": 5
+  },
+  {
+   "q": "Ils ___ un jus.",
+   "hint": "boire",
+   "a": [
+    "boivent"
+   ],
+   "en": "They are drinking a juice.",
+   "stage": 5
+  },
+  {
+   "q": "Je viens de ___ mon travail.",
+   "hint": "finir",
+   "a": [
+    "finir"
+   ],
+   "en": "I have just finished my work.",
+   "stage": 5
+  },
+  {
+   "q": "Hier soir, j'___ un film.",
+   "hint": "regarder (passé composé)",
+   "a": [
+    "ai regardé"
+   ],
+   "en": "Last night I watched a movie.",
+   "stage": 5
+  },
+  {
+   "q": "Elle ___ à huit heures.",
+   "hint": "partir (passé composé)",
+   "a": [
+    "est partie"
+   ],
+   "en": "She left at eight o'clock.",
+   "stage": 5
+  },
+  {
+   "q": "Nous ___ le métro.",
+   "hint": "prendre (passé composé)",
+   "a": [
+    "avons pris"
+   ],
+   "en": "We took the metro.",
+   "stage": 5
+  },
+  {
+   "q": "Ils ___ au parc.",
+   "hint": "aller (passé composé)",
+   "a": [
+    "sont allés"
+   ],
+   "en": "They went to the park.",
+   "stage": 5
+  },
+  {
+   "q": "Je n'___ pas mangé.",
+   "hint": "avoir",
+   "a": [
+    "ai"
+   ],
+   "en": "I didn't eat.",
+   "stage": 5
+  },
+  {
+   "q": "Il n'a ___ vu.",
+   "hint": "nothing",
+   "a": [
+    "rien"
+   ],
+   "en": "He saw nothing.",
+   "stage": 5
+  },
+  {
+   "q": "Je n'ai vu ___.",
+   "hint": "nobody",
+   "a": [
+    "personne"
+   ],
+   "en": "I saw nobody.",
+   "stage": 5
+  },
+  {
+   "q": "J'___ eu peur.",
+   "hint": "avoir",
+   "a": [
+    "ai"
+   ],
+   "en": "I was scared.",
+   "stage": 5
+  },
+  {
+   "q": "La semaine ___, j'ai travaillé.",
+   "hint": "last",
+   "a": [
+    "dernière"
+   ],
+   "en": "Last week I worked.",
+   "stage": 5
+  },
+  {
+   "q": "Je suis arrivé lundi. Le ___, j'ai travaillé.",
+   "hint": "the next day",
+   "a": [
+    "lendemain"
+   ],
+   "en": "I arrived on Monday. The next day I worked.",
+   "stage": 5
+  },
+  {
+   "q": "Il y a trois jours, j'___ un ami.",
+   "hint": "voir (passé composé)",
+   "a": [
+    "ai vu"
+   ],
+   "en": "Three days ago I saw a friend.",
+   "stage": 5
+  },
+  {
+   "q": "Il a ouvert la porte et, ___, la neige est tombée.",
+   "hint": "suddenly",
+   "a": [
+    "soudain",
+    "tout à coup"
+   ],
+   "en": "He opened the door and, suddenly, the snow fell.",
+   "stage": 5
+  },
+  {
+   "q": "Elle est ___ à midi.",
+   "hint": "rentrer (participle)",
+   "a": [
+    "rentrée"
+   ],
+   "en": "She came home at noon.",
+   "stage": 5
+  },
+  {
+   "q": "Nous avons ___ le match.",
+   "hint": "gagner (participle)",
+   "a": [
+    "gagné"
+   ],
+   "en": "We won the match.",
+   "stage": 5
+  },
+  {
+   "q": "Il a ___ la porte.",
+   "hint": "ouvrir (participle)",
+   "a": [
+    "ouvert"
+   ],
+   "en": "He opened the door.",
+   "stage": 5
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "J'ai travaillé hier soir.",
+   "en": "I worked last night.",
+   "stage": 5
+  },
+  {
+   "fr": "Nous avons mangé une pizza.",
+   "en": "We ate a pizza.",
+   "stage": 5
+  },
+  {
+   "fr": "Elle est arrivée à midi.",
+   "en": "She arrived at noon.",
+   "stage": 5
+  },
+  {
+   "fr": "Ils sont allés au lac samedi.",
+   "en": "They went to the lake on Saturday.",
+   "stage": 5
+  },
+  {
+   "fr": "Je n'ai rien fait.",
+   "en": "I did nothing.",
+   "stage": 5
+  },
+  {
+   "fr": "Tu as vu ce film?",
+   "en": "Did you see this movie?",
+   "stage": 5
+  },
+  {
+   "fr": "Nous avons fini le travail à midi.",
+   "en": "We finished the work at noon.",
+   "stage": 5
+  },
+  {
+   "fr": "Il vient de partir.",
+   "en": "He has just left.",
+   "stage": 5
+  },
+  {
+   "fr": "Qu'est-ce que tu as fait hier?",
+   "en": "What did you do yesterday?",
+   "stage": 5
+  },
+  {
+   "fr": "La semaine dernière, j'ai pris le métro tous les jours.",
+   "en": "Last week I took the metro every day.",
+   "stage": 5
+  },
+  {
+   "fr": "Soudain, il a ouvert la porte.",
+   "en": "Suddenly, he opened the door.",
+   "stage": 5
+  },
+  {
+   "fr": "Nous avons fait une promenade près du lac.",
+   "en": "We went for a walk near the lake.",
+   "stage": 5
+  },
+  {
+   "fr": "Je n'ai pas encore répondu.",
+   "en": "I haven't answered yet.",
+   "stage": 5
+  },
+  {
+   "fr": "Il y a trois jours, j'ai perdu ma tuque.",
+   "en": "Three days ago I lost my hat.",
+   "stage": 5
+  },
+  {
+   "fr": "Le lendemain, elle est rentrée à la maison.",
+   "en": "The next day, she went home.",
+   "stage": 5
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "une tuque",
+   "std": "un bonnet",
+   "en": "winter hat",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "des mitaines",
+   "std": "des moufles",
+   "en": "mittens",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "un foulard",
+   "std": "une écharpe",
+   "en": "winter scarf",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "une camisole",
+   "std": "un débardeur",
+   "en": "tank top, undershirt",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "une débarbouillette",
+   "std": "un gant de toilette",
+   "en": "washcloth",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "une chaudière",
+   "std": "un seau",
+   "en": "bucket",
+   "note": "criticised by some; write seau",
+   "stage": 5
+  },
+  {
+   "qc": "une sacoche",
+   "std": "un sac à main",
+   "en": "handbag",
+   "note": "casual",
+   "stage": 5
+  },
+  {
+   "qc": "un frigidaire",
+   "std": "un réfrigérateur",
+   "en": "fridge",
+   "note": "casual; write réfrigérateur",
+   "stage": 5
+  },
+  {
+   "qc": "un bas",
+   "std": "une chaussette",
+   "en": "sock",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "un chalet",
+   "std": "une maison de campagne",
+   "en": "country cottage",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "tantôt",
+   "std": "tout à l'heure",
+   "en": "a while ago, in a while",
+   "note": "neutral in Quebec",
+   "stage": 5
+  },
+  {
+   "qc": "présentement",
+   "std": "en ce moment",
+   "en": "right now",
+   "note": "neutral",
+   "stage": 5
+  }
+ ]
+}

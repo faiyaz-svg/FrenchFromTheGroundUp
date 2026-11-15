@@ -319,6 +319,81 @@
    "fr": "Elle habite en France.",
    "en": "She lives in France.",
    "stage": 4
+  },
+  {
+   "fr": "J'ai travaillé hier soir.",
+   "en": "I worked last night.",
+   "stage": 5
+  },
+  {
+   "fr": "Nous avons mangé une pizza.",
+   "en": "We ate a pizza.",
+   "stage": 5
+  },
+  {
+   "fr": "Elle est arrivée à midi.",
+   "en": "She arrived at noon.",
+   "stage": 5
+  },
+  {
+   "fr": "Ils sont allés au lac samedi.",
+   "en": "They went to the lake on Saturday.",
+   "stage": 5
+  },
+  {
+   "fr": "Je n'ai rien fait.",
+   "en": "I did nothing.",
+   "stage": 5
+  },
+  {
+   "fr": "Tu as vu ce film?",
+   "en": "Did you see this movie?",
+   "stage": 5
+  },
+  {
+   "fr": "Nous avons fini le travail à midi.",
+   "en": "We finished the work at noon.",
+   "stage": 5
+  },
+  {
+   "fr": "Il vient de partir.",
+   "en": "He has just left.",
+   "stage": 5
+  },
+  {
+   "fr": "Qu'est-ce que tu as fait hier?",
+   "en": "What did you do yesterday?",
+   "stage": 5
+  },
+  {
+   "fr": "La semaine dernière, j'ai pris le métro tous les jours.",
+   "en": "Last week I took the metro every day.",
+   "stage": 5
+  },
+  {
+   "fr": "Soudain, il a ouvert la porte.",
+   "en": "Suddenly, he opened the door.",
+   "stage": 5
+  },
+  {
+   "fr": "Nous avons fait une promenade près du lac.",
+   "en": "We went for a walk near the lake.",
+   "stage": 5
+  },
+  {
+   "fr": "Je n'ai pas encore répondu.",
+   "en": "I haven't answered yet.",
+   "stage": 5
+  },
+  {
+   "fr": "Il y a trois jours, j'ai perdu ma tuque.",
+   "en": "Three days ago I lost my hat.",
+   "stage": 5
+  },
+  {
+   "fr": "Le lendemain, elle est rentrée à la maison.",
+   "en": "The next day, she went home.",
+   "stage": 5
   }
  ]
 }

@@ -732,6 +732,185 @@
    "elided": true,
    "en": "highway",
    "stage": 4
+  },
+  {
+   "noun": "journée",
+   "answer": "la",
+   "en": "day",
+   "stage": 5
+  },
+  {
+   "noun": "matinée",
+   "answer": "la",
+   "en": "morning",
+   "stage": 5
+  },
+  {
+   "noun": "après-midi",
+   "answer": "le",
+   "en": "afternoon",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "portefeuille",
+   "answer": "le",
+   "en": "wallet",
+   "stage": 5
+  },
+  {
+   "noun": "sac à dos",
+   "answer": "le",
+   "en": "backpack",
+   "stage": 5
+  },
+  {
+   "noun": "agent",
+   "answer": "le",
+   "en": "agent",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "surprise",
+   "answer": "la",
+   "en": "surprise",
+   "stage": 5
+  },
+  {
+   "noun": "randonnée",
+   "answer": "la",
+   "en": "hike",
+   "stage": 5
+  },
+  {
+   "noun": "lac",
+   "answer": "le",
+   "en": "lake",
+   "stage": 5
+  },
+  {
+   "noun": "chalet",
+   "answer": "le",
+   "en": "cottage",
+   "stage": 5
+  },
+  {
+   "noun": "plage",
+   "answer": "la",
+   "en": "beach",
+   "stage": 5
+  },
+  {
+   "noun": "promenade",
+   "answer": "la",
+   "en": "walk",
+   "stage": 5
+  },
+  {
+   "noun": "pique-nique",
+   "answer": "le",
+   "en": "picnic",
+   "stage": 5
+  },
+  {
+   "noun": "souvenir",
+   "answer": "le",
+   "en": "memory",
+   "stage": 5
+  },
+  {
+   "noun": "passeport",
+   "answer": "le",
+   "en": "passport",
+   "stage": 5
+  },
+  {
+   "noun": "réunion",
+   "answer": "la",
+   "en": "meeting",
+   "stage": 5
+  },
+  {
+   "noun": "pizza",
+   "answer": "la",
+   "en": "pizza",
+   "stage": 5
+  },
+  {
+   "noun": "parapluie",
+   "answer": "le",
+   "en": "umbrella",
+   "stage": 5
+  },
+  {
+   "noun": "question",
+   "answer": "la",
+   "en": "question",
+   "stage": 5
+  },
+  {
+   "noun": "réponse",
+   "answer": "la",
+   "en": "answer",
+   "stage": 5
+  },
+  {
+   "noun": "bateau",
+   "answer": "le",
+   "en": "boat",
+   "stage": 5
+  },
+  {
+   "noun": "excursion",
+   "answer": "la",
+   "en": "excursion",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "croisière",
+   "answer": "la",
+   "en": "cruise",
+   "stage": 5
+  },
+  {
+   "noun": "auberge",
+   "answer": "la",
+   "en": "inn",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "objet",
+   "answer": "le",
+   "en": "object",
+   "stage": 5,
+   "elided": true
+  },
+  {
+   "noun": "tuque",
+   "answer": "la",
+   "en": "winter hat",
+   "stage": 5
+  },
+  {
+   "noun": "foulard",
+   "answer": "le",
+   "en": "scarf",
+   "stage": 5
+  },
+  {
+   "noun": "facture",
+   "answer": "la",
+   "en": "bill",
+   "stage": 5
+  },
+  {
+   "noun": "traversier",
+   "answer": "le",
+   "en": "ferry",
+   "stage": 5
   }
  ]
 }
