@@ -30,10 +30,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="2">
 <a class="fm-seg-name" href="02-sounds-spelling-and-everyday-things/">2 · Sounds, spelling and everyday things</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="French consonants"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="The French r and the semi-vowels"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Spelling rules and liaison"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="Gender and articles"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/01-consonants/" data-lesson="02-sounds-spelling-and-everyday-things/01-consonants/" title="French consonants"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels/" data-lesson="02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels/" title="The French r and the semi-vowels"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison/" data-lesson="02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison/" title="Spelling rules and liaison"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="02-sounds-spelling-and-everyday-things/04-gender-and-articles/" data-lesson="02-sounds-spelling-and-everyday-things/04-gender-and-articles/" title="Gender and articles"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Plurals, des and les"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Numbers from 0 to 100"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="Avoir and il y a"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

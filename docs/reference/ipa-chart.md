@@ -2,7 +2,7 @@
 
 This page lists every sound (phoneme) of standard French in the International Phonetic Alphabet (IPA), with how to make it, how it is usually spelled and two example words. Use it to look up a symbol you met in a dictionary or in a lesson. A short section at the end covers well-described features of Quebec pronunciation.
 
-Lessons for these: [the vowels a, i, ou and u](../01-first-sounds-and-greetings/03-vowels-a-i-ou-u.md), [the e vowels](../01-first-sounds-and-greetings/04-vowels-e-family.md), [the vowels o and eu](../01-first-sounds-and-greetings/05-vowels-o-and-eu.md), [nasal vowels](../01-first-sounds-and-greetings/06-nasal-vowels.md), French consonants<!-- link: ../02-sounds-spelling-and-everyday-things/01-consonants.md --> and the French r and the semi-vowels<!-- link: ../02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels.md -->.
+Lessons for these: [the vowels a, i, ou and u](../01-first-sounds-and-greetings/03-vowels-a-i-ou-u.md), [the e vowels](../01-first-sounds-and-greetings/04-vowels-e-family.md), [the vowels o and eu](../01-first-sounds-and-greetings/05-vowels-o-and-eu.md), [nasal vowels](../01-first-sounds-and-greetings/06-nasal-vowels.md), [French consonants](../02-sounds-spelling-and-everyday-things/01-consonants.md) and [the French r and the semi-vowels](../02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels.md).
 
 ## How to read the chart
 

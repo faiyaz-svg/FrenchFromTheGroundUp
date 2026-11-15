@@ -138,4 +138,4 @@ In a Montreal café you may hear "Bonjour, hi" from the worker. Answer with *bon
 
 - **Role-play**: practice where you say your side of a conversation in a made-up situation.
 
-Next: French consonants<!-- link: ../02-sounds-spelling-and-everyday-things/01-consonants.md -->
+Next: [French consonants](../02-sounds-spelling-and-everyday-things/01-consonants.md)

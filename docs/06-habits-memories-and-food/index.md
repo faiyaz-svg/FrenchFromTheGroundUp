@@ -25,7 +25,75 @@ Before this stage: Stages 1 to 5.
 
 ## Cheat sheet
 
-<!-- to be written -->
+Partitive articles. "Some" for things you do not count. After a negative or a quantity word, use *de* (*d'*).
+
+| Noun | Partitive | After negative or quantity |
+|---|---|---|
+| masculine | *du pain* | *pas de pain*, *beaucoup de pain* |
+| feminine | *de la soupe* | *pas de soupe*, *un peu de soupe* |
+| before a vowel | *de l'eau* | *pas d'eau*, *assez d'eau* |
+| plural | *des œufs* | *pas d'œufs*, *une douzaine d'œufs* |
+
+Likes use the definite article: *J'aime le café.* Having, eating, drinking and buying use the partitive: *Je bois du café.*
+
+Modal verbs, present.
+
+| Pronoun | *vouloir* | *pouvoir* | *devoir* |
+|---|---|---|---|
+| *je / tu* | *veux* | *peux* | *dois* |
+| *il / elle / on* | *veut* | *peut* | *doit* |
+| *nous* | *voulons* | *pouvons* | *devons* |
+| *vous* | *voulez* | *pouvez* | *devez* |
+| *ils / elles* | *veulent* | *peuvent* | *doivent* |
+
+Participles: *voulu*, *pu*, *dû*. *Il faut* + infinitive: it is necessary. *Il ne faut pas*: you must not.
+
+Reflexive verbs, *se coucher*.
+
+| Pronoun | Reflexive pronoun | Form |
+|---|---|---|
+| *je* | *me* | *couche* |
+| *tu* | *te* | *couches* |
+| *il / elle / on* | *se* | *couche* |
+| *nous* | *nous* | *couchons* |
+| *vous* | *vous* | *couchez* |
+| *ils / elles* | *se* | *couchent* |
+
+Passé composé, always with *être*: *je me suis couché(e)*, *tu t'es couché(e)*, *il s'est couché*, *nous nous sommes couché(e)s*, *vous vous êtes couché(e)(s)*, *ils se sont couchés*.
+
+Negative: *je ne me couche pas*. After *aller*: *je vais me coucher*.
+
+Imparfait. Take the *nous* form of the present, remove *-ons*, add the endings.
+
+| Pronoun | Ending | *parler* | *être* |
+|---|---|---|---|
+| *je* | *-ais* | *parlais* | *étais* |
+| *tu* | *-ais* | *parlais* | *étais* |
+| *il / elle / on* | *-ait* | *parlait* | *était* |
+| *nous* | *-ions* | *parlions* | *étions* |
+| *vous* | *-iez* | *parliez* | *étiez* |
+| *ils / elles* | *-aient* | *parlaient* | *étaient* |
+
+Spelling: *je mangeais*, *nous mangions*; *je commençais*, *nous commencions*; *nous étudiions*.
+
+Imparfait or passé composé. Imparfait: habits, scene, weather, states, background (*il faisait froid*, *j'étais fatigué*, *chaque dimanche*). Passé composé: one event that started and ended (*un jour, j'ai perdu mon ballon*). Together: *Je mangeais quand mon ami est arrivé.* *Pendant que tu travaillais, je regardais un film.*
+
+Adverbs in *-ment*. Feminine form + *-ment*: *lent*, *lentement*; *facile*, *facilement*. *-ant* gives *-amment*, *-ent* gives *-emment*. Irregular: *bon*, *bien*; *mauvais*, *mal*; *meilleur*, *mieux*; *rapide*, *vite*.
+
+Key phrases.
+
+```fr
+Du pain, de la soupe, de l'eau, des œufs. | Some bread, some soup, some water, some eggs.
+Je ne bois pas de café. | I don't drink coffee.
+Un kilo de pommes de terre, une douzaine d'œufs. | A kilo of potatoes, a dozen eggs.
+Je voudrais réserver une table pour quatre. | I'd like to book a table for four.
+Je vais prendre le poulet. L'addition, s'il vous plaît. | I'll have the chicken. The bill, please.
+Le déjeuner, le dîner, le souper. | Breakfast, lunch, supper (Quebec).
+Il faisait froid quand je suis sorti. | It was cold when I went out.
+Tu veux du vin? Santé! Merci pour le repas. | Do you want some wine? Cheers! Thanks for the meal.
+```
+
+Sounds. *-ais*, *-ait* and *-aient* all end in /ɛ/. *Veux* and *peux* are /vø/ and /pø/. *-emment* and *-amment* are both /amɑ̃/.
 
 ## Listen and watch at this level
 

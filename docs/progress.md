@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 12 of 205. New lessons appear here as they are added.
+Lessons written so far: 16 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -20,3 +20,10 @@ Lessons written so far: 12 of 205. New lessons appear here as they are added.
 - [ ] [Être and introducing yourself](01-first-sounds-and-greetings/10-etre-and-introductions.md) (grammar)
 - [ ] [Your first slow dialogues](01-first-sounds-and-greetings/11-first-slow-dialogues.md) (listen)
 - [ ] [Meet someone in Montreal](01-first-sounds-and-greetings/12-meet-someone-in-montreal.md) (speak, review)
+
+### Stage 2: Sounds, spelling and everyday things
+
+- [ ] [French consonants](02-sounds-spelling-and-everyday-things/01-consonants.md) (sounds)
+- [ ] [The French r and the semi-vowels](02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels.md) (sounds)
+- [ ] [Spelling rules and liaison](02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison.md) (sounds)
+- [ ] [Gender and articles](02-sounds-spelling-and-everyday-things/04-gender-and-articles.md) (grammar)

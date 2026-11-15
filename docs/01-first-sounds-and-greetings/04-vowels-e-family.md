@@ -33,7 +33,7 @@ The accent on é and è is the sign you saw in the first lesson, and here it doe
 2. Round your lips slightly, as if you started to say /y/ and stopped.
 3. Say *le* and *de* quickly. The vowel is short and weak.
 
-/ə/ is the unstable vowel of French. You say it in full in *le* and *je*, but in fast speech it often disappears: *petit* sounds close to /pti/. A final *e* in writing is usually silent, so *rue* /ʁy/ has no /ə/ at the end. Spelling rules and liaison<!-- link: ../02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison.md --> gives more detail.
+/ə/ is the unstable vowel of French. You say it in full in *le* and *je*, but in fast speech it often disappears: *petit* sounds close to /pti/. A final *e* in writing is usually silent, so *rue* /ʁy/ has no /ə/ at the end. [Spelling rules and liaison](../02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison.md) gives more detail.
 
 ## Hear it
 

@@ -14,7 +14,7 @@ French spelling looks hard because it keeps letters that people stopped saying l
 
 In *petit* /pəti/ (small) the final *t* is silent. In *grand* /gʁɑ̃/ (big, tall) the *d* is silent, and in *trop* /tʁo/ (too much) the *p* is silent. In *français* /fʁɑ̃sɛ/ (French) the final *s* is silent too. A first rule: the last consonant of a word is often silent. The common exceptions are *c*, *r*, *f* and *l* (the letters of the English word "careful"). You hear the *r* in *bonjour* /bɔ̃ʒuʁ/.
 
-The rule has more exceptions, and Spelling rules and liaison<!-- link: ../02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison.md --> covers them. For now, when you meet a new word, look at the end and ask whether the last letter could be silent.
+The rule has more exceptions, and [Spelling rules and liaison](../02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison.md) covers them. For now, when you meet a new word, look at the end and ask whether the last letter could be silent.
 
 ### Accents are part of the spelling
 
@@ -45,7 +45,7 @@ Play each line twice. Then say it with the same weight on every syllable and lif
 
 ### Sounds on paper: IPA
 
-Spelling shows sounds only roughly, so this book also uses the **International Phonetic Alphabet (IPA)**. It is a set of symbols where each symbol always means one sound. IPA goes between slashes: *bonjour* /bɔ̃ʒuʁ/. You learn a few symbols in each lesson and never need the whole chart. Three appear already. The symbol /ʃ/ is the *sh* of "shoe", /ʒ/ is the *s* of "measure", and /ʁ/ is the French *r*, made in the throat. French consonants<!-- link: ../02-sounds-spelling-and-everyday-things/01-consonants.md --> teaches it. The vowel symbols come in lessons 3 to 6.
+Spelling shows sounds only roughly, so this book also uses the **International Phonetic Alphabet (IPA)**. It is a set of symbols where each symbol always means one sound. IPA goes between slashes: *bonjour* /bɔ̃ʒuʁ/. You learn a few symbols in each lesson and never need the whole chart. Three appear already. The symbol /ʃ/ is the *sh* of "shoe", /ʒ/ is the *s* of "measure", and /ʁ/ is the French *r*, made in the throat. [French consonants](../02-sounds-spelling-and-everyday-things/01-consonants.md) teaches it. The vowel symbols come in lessons 3 to 6.
 
 ### The audio buttons
 

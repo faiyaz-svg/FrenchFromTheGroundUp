@@ -38,7 +38,7 @@ There is a ninth word, *on*, which in speech often means "we" and takes the same
 | *vous* | *êtes* | /vuz ɛt/ |
 | *ils / elles* | *sont* | /il sɔ̃/, /ɛl sɔ̃/ |
 
-Listen for what is silent. In *tu es* and *il est*, the final *s* and *t* are silent, so you hear only /ɛ/. In *vous êtes*, a /z/ links *vous* to *êtes*, and Spelling rules and liaison<!-- link: ../02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison.md --> explains that link. *Ils sont* ends in the nasal vowel /ɔ̃/ from lesson 6, with no /n/ and no /t/.
+Listen for what is silent. In *tu es* and *il est*, the final *s* and *t* are silent, so you hear only /ɛ/. In *vous êtes*, a /z/ links *vous* to *êtes*, and [Spelling rules and liaison](../02-sounds-spelling-and-everyday-things/03-spelling-sound-rules-and-liaison.md) explains that link. *Ils sont* ends in the nasal vowel /ɔ̃/ from lesson 6, with no /n/ and no /t/.
 
 ### Introducing yourself
 
