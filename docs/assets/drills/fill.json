@@ -1188,6 +1188,222 @@
    ],
    "en": "In Quebec, supper is the evening meal.",
    "stage": 6
+  },
+  {
+   "q": "Je ___ vois. (la femme)",
+   "hint": "pronom",
+   "a": [
+    "la"
+   ],
+   "en": "I see her.",
+   "stage": 7
+  },
+  {
+   "q": "Tu ___ aimes? (les films)",
+   "hint": "pronom",
+   "a": [
+    "les"
+   ],
+   "en": "Do you like them?",
+   "stage": 7
+  },
+  {
+   "q": "Je ___ téléphone demain. (à Marc)",
+   "hint": "pronom",
+   "a": [
+    "lui"
+   ],
+   "en": "I'll call him tomorrow.",
+   "stage": 7
+  },
+  {
+   "q": "Je ___ parle. (à mes parents)",
+   "hint": "pronom",
+   "a": [
+    "leur"
+   ],
+   "en": "I talk to them.",
+   "stage": 7
+  },
+  {
+   "q": "Les clés? Je les ai ___. (prendre)",
+   "hint": "participe",
+   "a": [
+    "prises"
+   ],
+   "en": "The keys? I took them.",
+   "stage": 7
+  },
+  {
+   "q": "La clé? Je l'ai ___. (trouver)",
+   "hint": "participe",
+   "a": [
+    "trouvée"
+   ],
+   "en": "The key? I found it.",
+   "stage": 7
+  },
+  {
+   "q": "Tu vas à Montréal? Oui, j'___ vais.",
+   "hint": "pronom",
+   "a": [
+    "y"
+   ],
+   "en": "Are you going to Montreal? Yes, I'm going.",
+   "stage": 7
+  },
+  {
+   "q": "Tu veux du café? Oui, j'___ veux.",
+   "hint": "pronom",
+   "a": [
+    "en"
+   ],
+   "en": "Do you want coffee? Yes, I do.",
+   "stage": 7
+  },
+  {
+   "q": "Tu as des frères? Oui, j'___ ai deux.",
+   "hint": "pronom",
+   "a": [
+    "en"
+   ],
+   "en": "Do you have brothers? Yes, I have two.",
+   "stage": 7
+  },
+  {
+   "q": "Il y ___ a trois.",
+   "hint": "pronom",
+   "a": [
+    "en"
+   ],
+   "en": "There are three.",
+   "stage": 7
+  },
+  {
+   "q": "___-toi!",
+   "hint": "se lever (tu)",
+   "a": [
+    "Lève"
+   ],
+   "en": "Get up!",
+   "stage": 7
+  },
+  {
+   "q": "___ à l'heure!",
+   "hint": "être (tu)",
+   "a": [
+    "Sois"
+   ],
+   "en": "Be on time!",
+   "stage": 7
+  },
+  {
+   "q": "N'___ pas peur!",
+   "hint": "avoir (tu)",
+   "a": [
+    "aie"
+   ],
+   "en": "Don't be afraid!",
+   "stage": 7
+  },
+  {
+   "q": "___ attention!",
+   "hint": "faire (vous)",
+   "a": [
+    "Faites"
+   ],
+   "en": "Pay attention!",
+   "stage": 7
+  },
+  {
+   "q": "Je ___ nager. (savoir)",
+   "hint": "savoir",
+   "a": [
+    "sais"
+   ],
+   "en": "I know how to swim.",
+   "stage": 7
+  },
+  {
+   "q": "Tu ___ Ottawa? (connaître)",
+   "hint": "connaître",
+   "a": [
+    "connais"
+   ],
+   "en": "Do you know Ottawa?",
+   "stage": 7
+  },
+  {
+   "q": "Vous ___ bonjour? (dire)",
+   "hint": "dire",
+   "a": [
+    "dites"
+   ],
+   "en": "Do you say hello?",
+   "stage": 7
+  },
+  {
+   "q": "Elle m'a ___ une carte postale. (écrire)",
+   "hint": "écrire",
+   "a": [
+    "écrit"
+   ],
+   "en": "She wrote me a postcard.",
+   "stage": 7
+  },
+  {
+   "q": "J'ai mal ___ dos.",
+   "hint": "à + le",
+   "a": [
+    "au"
+   ],
+   "en": "My back hurts.",
+   "stage": 7
+  },
+  {
+   "q": "J'ai mal ___ dents.",
+   "hint": "à + les",
+   "a": [
+    "aux"
+   ],
+   "en": "My teeth hurt.",
+   "stage": 7
+  },
+  {
+   "q": "J'ai mal ___ la gorge.",
+   "hint": "à",
+   "a": [
+    "à"
+   ],
+   "en": "I have a sore throat.",
+   "stage": 7
+  },
+  {
+   "q": "Je ___ sens fatigué. (se sentir)",
+   "hint": "pronom",
+   "a": [
+    "me"
+   ],
+   "en": "I feel tired.",
+   "stage": 7
+  },
+  {
+   "q": "Je tousse ___ trois jours.",
+   "hint": "depuis",
+   "a": [
+    "depuis"
+   ],
+   "en": "I've been coughing for three days.",
+   "stage": 7
+  },
+  {
+   "q": "Elle ___ téléphone.",
+   "hint": "à moi",
+   "a": [
+    "me"
+   ],
+   "en": "She calls me.",
+   "stage": 7
   }
  ]
 }

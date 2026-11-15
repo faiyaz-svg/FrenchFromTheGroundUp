@@ -180,7 +180,7 @@ Prénom Nom | First name Last name
 
 Lessons that teach this in steps:
 
-- A short booking email<!-- link: ../07-pronouns-and-getting-things-done/11-short-booking-email.md -->
+- [A short booking email](../07-pronouns-and-getting-things-done/11-short-booking-email.md)
 - Work email basics<!-- link: ../09-work-and-the-future/10-work-email-basics.md -->
 - Writing a complaint<!-- link: ../11-reporting-and-opinions/11-writing-a-complaint.md -->
 - Formal emails<!-- link: ../15-formal-register-and-government-french/03-formal-emails.md -->

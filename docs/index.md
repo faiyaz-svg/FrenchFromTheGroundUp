@@ -128,11 +128,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="07-pronouns-and-getting-things-done/06-body-health-and-pharmacy/" data-lesson="07-pronouns-and-getting-things-done/06-body-health-and-pharmacy/" title="The body, health and the pharmacy"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="07-pronouns-and-getting-things-done/07-doctor-and-pharmacy/" data-lesson="07-pronouns-and-getting-things-done/07-doctor-and-pharmacy/" title="At the doctor and the pharmacy"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="07-pronouns-and-getting-things-done/08-hotel-or-airbnb/" data-lesson="07-pronouns-and-getting-things-done/08-hotel-or-airbnb/" title="At a hotel or an Airbnb"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Health care in Quebec for a visitor"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Phone messages and announcements"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="A short booking email"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Notices and instructions"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="Solving problems while travelling"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="07-pronouns-and-getting-things-done/09-health-care-in-quebec-as-a-visitor/" data-lesson="07-pronouns-and-getting-things-done/09-health-care-in-quebec-as-a-visitor/" title="Health care in Quebec for a visitor"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="07-pronouns-and-getting-things-done/10-phone-messages-and-announcements/" data-lesson="07-pronouns-and-getting-things-done/10-phone-messages-and-announcements/" title="Phone messages and announcements"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="07-pronouns-and-getting-things-done/11-short-booking-email/" data-lesson="07-pronouns-and-getting-things-done/11-short-booking-email/" title="A short booking email"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="07-pronouns-and-getting-things-done/12-notices-and-instructions/" data-lesson="07-pronouns-and-getting-things-done/12-notices-and-instructions/" title="Notices and instructions"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="07-pronouns-and-getting-things-done/13-solving-problems-while-travelling/" data-lesson="07-pronouns-and-getting-things-done/13-solving-problems-while-travelling/" title="Solving problems while travelling"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="8">

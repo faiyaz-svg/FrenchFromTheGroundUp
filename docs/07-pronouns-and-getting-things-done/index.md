@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 6.
 6. [The body, health and the pharmacy](06-body-health-and-pharmacy.md) (words)
 7. [At the doctor and the pharmacy](07-doctor-and-pharmacy.md) (speak)
 8. [At a hotel or an Airbnb](08-hotel-or-airbnb.md) (speak)
-9. Health care in Quebec for a visitor (not written yet) (quebec)
-10. Phone messages and announcements (not written yet) (listen)
-11. A short booking email (not written yet) (write)
-12. Notices and instructions (not written yet) (read)
-13. Solving problems while travelling (not written yet) (speak, review)
+9. [Health care in Quebec for a visitor](09-health-care-in-quebec-as-a-visitor.md) (quebec)
+10. [Phone messages and announcements](10-phone-messages-and-announcements.md) (listen)
+11. [A short booking email](11-short-booking-email.md) (write)
+12. [Notices and instructions](12-notices-and-instructions.md) (read)
+13. [Solving problems while travelling](13-solving-problems-while-travelling.md) (speak, review)
 
 <!-- lessons:end -->
 

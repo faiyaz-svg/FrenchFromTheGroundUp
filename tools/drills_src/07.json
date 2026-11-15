@@ -1,0 +1,862 @@
+{
+ "conjugation": [
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "sais",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "sais",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "il",
+   "answer": "sait",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "savons",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "savez",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "savent",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "présent",
+   "person": "je",
+   "answer": "connais",
+   "en": "to know (a person or place)",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "présent",
+   "person": "il",
+   "answer": "connaît",
+   "en": "to know (a person or place)",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "connaissons",
+   "en": "to know (a person or place)",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "connaissent",
+   "en": "to know (a person or place)",
+   "stage": 7
+  },
+  {
+   "verb": "dire",
+   "tense": "présent",
+   "person": "je",
+   "answer": "dis",
+   "en": "to say",
+   "stage": 7
+  },
+  {
+   "verb": "dire",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "dites",
+   "en": "to say",
+   "stage": 7
+  },
+  {
+   "verb": "dire",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "disent",
+   "en": "to say",
+   "stage": 7
+  },
+  {
+   "verb": "lire",
+   "tense": "présent",
+   "person": "je",
+   "answer": "lis",
+   "en": "to read",
+   "stage": 7
+  },
+  {
+   "verb": "lire",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "lisons",
+   "en": "to read",
+   "stage": 7
+  },
+  {
+   "verb": "lire",
+   "tense": "présent",
+   "person": "il",
+   "answer": "lit",
+   "en": "to read",
+   "stage": 7
+  },
+  {
+   "verb": "écrire",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "écris",
+   "en": "to write",
+   "stage": 7
+  },
+  {
+   "verb": "écrire",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "écrivons",
+   "en": "to write",
+   "stage": 7
+  },
+  {
+   "verb": "écrire",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "écrivent",
+   "en": "to write",
+   "stage": 7
+  },
+  {
+   "verb": "envoyer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "envoie",
+   "en": "to send",
+   "stage": 7
+  },
+  {
+   "verb": "envoyer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "envoyons",
+   "en": "to send",
+   "stage": 7
+  },
+  {
+   "verb": "envoyer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "envoient",
+   "en": "to send",
+   "stage": 7
+  },
+  {
+   "verb": "appeler",
+   "tense": "présent",
+   "person": "je",
+   "answer": "appelle",
+   "en": "to call",
+   "stage": 7
+  },
+  {
+   "verb": "appeler",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "appelons",
+   "en": "to call",
+   "stage": 7
+  },
+  {
+   "verb": "se sentir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "me sens",
+   "en": "to feel",
+   "stage": 7
+  },
+  {
+   "verb": "se sentir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "nous sentons",
+   "en": "to feel",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai su",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai connu",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "dire",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai dit",
+   "en": "to say",
+   "stage": 7
+  },
+  {
+   "verb": "lire",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai lu",
+   "en": "to read",
+   "stage": 7
+  },
+  {
+   "verb": "écrire",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai écrit",
+   "en": "to write",
+   "stage": 7
+  },
+  {
+   "verb": "parler",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "parle",
+   "en": "to speak",
+   "stage": 7
+  },
+  {
+   "verb": "finir",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "finis",
+   "en": "to finish",
+   "stage": 7
+  },
+  {
+   "verb": "être",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "sois",
+   "en": "to be",
+   "stage": 7
+  },
+  {
+   "verb": "être",
+   "tense": "impératif",
+   "person": "vous",
+   "answer": "soyez",
+   "en": "to be",
+   "stage": 7
+  },
+  {
+   "verb": "avoir",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "aie",
+   "en": "to have",
+   "stage": 7
+  },
+  {
+   "verb": "aller",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "va",
+   "en": "to go",
+   "stage": 7
+  },
+  {
+   "verb": "faire",
+   "tense": "impératif",
+   "person": "vous",
+   "answer": "faites",
+   "en": "to do, to make",
+   "stage": 7
+  },
+  {
+   "verb": "prendre",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "prends",
+   "en": "to take",
+   "stage": 7
+  },
+  {
+   "verb": "manger",
+   "tense": "impératif",
+   "person": "nous",
+   "answer": "mangeons",
+   "en": "to eat",
+   "stage": 7
+  }
+ ],
+ "gender": [
+  {
+   "noun": "tête",
+   "answer": "la",
+   "en": "head",
+   "stage": 7
+  },
+  {
+   "noun": "visage",
+   "answer": "le",
+   "en": "face",
+   "stage": 7
+  },
+  {
+   "noun": "nez",
+   "answer": "le",
+   "en": "nose",
+   "stage": 7
+  },
+  {
+   "noun": "bouche",
+   "answer": "la",
+   "en": "mouth",
+   "stage": 7
+  },
+  {
+   "noun": "gorge",
+   "answer": "la",
+   "en": "throat",
+   "stage": 7
+  },
+  {
+   "noun": "cou",
+   "answer": "le",
+   "en": "neck",
+   "stage": 7
+  },
+  {
+   "noun": "bras",
+   "answer": "le",
+   "en": "arm",
+   "stage": 7
+  },
+  {
+   "noun": "main",
+   "answer": "la",
+   "en": "hand",
+   "stage": 7
+  },
+  {
+   "noun": "doigt",
+   "answer": "le",
+   "en": "finger",
+   "stage": 7
+  },
+  {
+   "noun": "dos",
+   "answer": "le",
+   "en": "back",
+   "stage": 7
+  },
+  {
+   "noun": "ventre",
+   "answer": "le",
+   "en": "belly",
+   "stage": 7
+  },
+  {
+   "noun": "jambe",
+   "answer": "la",
+   "en": "leg",
+   "stage": 7
+  },
+  {
+   "noun": "genou",
+   "answer": "le",
+   "en": "knee",
+   "stage": 7
+  },
+  {
+   "noun": "pied",
+   "answer": "le",
+   "en": "foot",
+   "stage": 7
+  },
+  {
+   "noun": "peau",
+   "answer": "la",
+   "en": "skin",
+   "stage": 7
+  },
+  {
+   "noun": "fièvre",
+   "answer": "la",
+   "en": "fever",
+   "stage": 7
+  },
+  {
+   "noun": "toux",
+   "answer": "la",
+   "en": "cough",
+   "stage": 7
+  },
+  {
+   "noun": "grippe",
+   "answer": "la",
+   "en": "flu",
+   "stage": 7
+  },
+  {
+   "noun": "rhume",
+   "answer": "le",
+   "en": "cold",
+   "stage": 7
+  },
+  {
+   "noun": "médicament",
+   "answer": "le",
+   "en": "medicine",
+   "stage": 7
+  },
+  {
+   "noun": "réception",
+   "answer": "la",
+   "en": "front desk",
+   "stage": 7
+  },
+  {
+   "noun": "couverture",
+   "answer": "la",
+   "en": "blanket",
+   "stage": 7
+  },
+  {
+   "noun": "climatisation",
+   "answer": "la",
+   "en": "air conditioning",
+   "stage": 7
+  },
+  {
+   "noun": "panne",
+   "answer": "la",
+   "en": "breakdown",
+   "stage": 7
+  },
+  {
+   "noun": "tarif",
+   "answer": "le",
+   "en": "rate",
+   "stage": 7
+  },
+  {
+   "noun": "vol",
+   "answer": "le",
+   "en": "flight",
+   "stage": 7
+  },
+  {
+   "noun": "chauffage",
+   "answer": "le",
+   "en": "heating",
+   "stage": 7
+  },
+  {
+   "noun": "oreille",
+   "answer": "la",
+   "en": "ear",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "épaule",
+   "answer": "la",
+   "en": "shoulder",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "estomac",
+   "answer": "le",
+   "en": "stomach",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "ordonnance",
+   "answer": "la",
+   "en": "prescription",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "étage",
+   "answer": "le",
+   "en": "floor",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "oreiller",
+   "answer": "le",
+   "en": "pillow",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "annonce",
+   "answer": "la",
+   "en": "announcement",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "incendie",
+   "answer": "le",
+   "en": "fire",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "échange",
+   "answer": "le",
+   "en": "exchange",
+   "stage": 7,
+   "elided": true
+  }
+ ],
+ "fill": [
+  {
+   "q": "Je ___ vois. (la femme)",
+   "hint": "pronom",
+   "a": [
+    "la"
+   ],
+   "en": "I see her.",
+   "stage": 7
+  },
+  {
+   "q": "Tu ___ aimes? (les films)",
+   "hint": "pronom",
+   "a": [
+    "les"
+   ],
+   "en": "Do you like them?",
+   "stage": 7
+  },
+  {
+   "q": "Je ___ téléphone demain. (à Marc)",
+   "hint": "pronom",
+   "a": [
+    "lui"
+   ],
+   "en": "I'll call him tomorrow.",
+   "stage": 7
+  },
+  {
+   "q": "Je ___ parle. (à mes parents)",
+   "hint": "pronom",
+   "a": [
+    "leur"
+   ],
+   "en": "I talk to them.",
+   "stage": 7
+  },
+  {
+   "q": "Les clés? Je les ai ___. (prendre)",
+   "hint": "participe",
+   "a": [
+    "prises"
+   ],
+   "en": "The keys? I took them.",
+   "stage": 7
+  },
+  {
+   "q": "La clé? Je l'ai ___. (trouver)",
+   "hint": "participe",
+   "a": [
+    "trouvée"
+   ],
+   "en": "The key? I found it.",
+   "stage": 7
+  },
+  {
+   "q": "Tu vas à Montréal? Oui, j'___ vais.",
+   "hint": "pronom",
+   "a": [
+    "y"
+   ],
+   "en": "Are you going to Montreal? Yes, I'm going.",
+   "stage": 7
+  },
+  {
+   "q": "Tu veux du café? Oui, j'___ veux.",
+   "hint": "pronom",
+   "a": [
+    "en"
+   ],
+   "en": "Do you want coffee? Yes, I do.",
+   "stage": 7
+  },
+  {
+   "q": "Tu as des frères? Oui, j'___ ai deux.",
+   "hint": "pronom",
+   "a": [
+    "en"
+   ],
+   "en": "Do you have brothers? Yes, I have two.",
+   "stage": 7
+  },
+  {
+   "q": "Il y ___ a trois.",
+   "hint": "pronom",
+   "a": [
+    "en"
+   ],
+   "en": "There are three.",
+   "stage": 7
+  },
+  {
+   "q": "___-toi!",
+   "hint": "se lever (tu)",
+   "a": [
+    "Lève"
+   ],
+   "en": "Get up!",
+   "stage": 7
+  },
+  {
+   "q": "___ à l'heure!",
+   "hint": "être (tu)",
+   "a": [
+    "Sois"
+   ],
+   "en": "Be on time!",
+   "stage": 7
+  },
+  {
+   "q": "N'___ pas peur!",
+   "hint": "avoir (tu)",
+   "a": [
+    "aie"
+   ],
+   "en": "Don't be afraid!",
+   "stage": 7
+  },
+  {
+   "q": "___ attention!",
+   "hint": "faire (vous)",
+   "a": [
+    "Faites"
+   ],
+   "en": "Pay attention!",
+   "stage": 7
+  },
+  {
+   "q": "Je ___ nager. (savoir)",
+   "hint": "savoir",
+   "a": [
+    "sais"
+   ],
+   "en": "I know how to swim.",
+   "stage": 7
+  },
+  {
+   "q": "Tu ___ Ottawa? (connaître)",
+   "hint": "connaître",
+   "a": [
+    "connais"
+   ],
+   "en": "Do you know Ottawa?",
+   "stage": 7
+  },
+  {
+   "q": "Vous ___ bonjour? (dire)",
+   "hint": "dire",
+   "a": [
+    "dites"
+   ],
+   "en": "Do you say hello?",
+   "stage": 7
+  },
+  {
+   "q": "Elle m'a ___ une carte postale. (écrire)",
+   "hint": "écrire",
+   "a": [
+    "écrit"
+   ],
+   "en": "She wrote me a postcard.",
+   "stage": 7
+  },
+  {
+   "q": "J'ai mal ___ dos.",
+   "hint": "à + le",
+   "a": [
+    "au"
+   ],
+   "en": "My back hurts.",
+   "stage": 7
+  },
+  {
+   "q": "J'ai mal ___ dents.",
+   "hint": "à + les",
+   "a": [
+    "aux"
+   ],
+   "en": "My teeth hurt.",
+   "stage": 7
+  },
+  {
+   "q": "J'ai mal ___ la gorge.",
+   "hint": "à",
+   "a": [
+    "à"
+   ],
+   "en": "I have a sore throat.",
+   "stage": 7
+  },
+  {
+   "q": "Je ___ sens fatigué. (se sentir)",
+   "hint": "pronom",
+   "a": [
+    "me"
+   ],
+   "en": "I feel tired.",
+   "stage": 7
+  },
+  {
+   "q": "Je tousse ___ trois jours.",
+   "hint": "depuis",
+   "a": [
+    "depuis"
+   ],
+   "en": "I've been coughing for three days.",
+   "stage": 7
+  },
+  {
+   "q": "Elle ___ téléphone.",
+   "hint": "à moi",
+   "a": [
+    "me"
+   ],
+   "en": "She calls me.",
+   "stage": 7
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "Je t'appelle ce soir.",
+   "en": "I'll call you tonight.",
+   "stage": 7
+  },
+  {
+   "fr": "Je ne l'ai pas vu.",
+   "en": "I didn't see him.",
+   "stage": 7
+  },
+  {
+   "fr": "Les clés? Je les ai trouvées.",
+   "en": "The keys? I found them.",
+   "stage": 7
+  },
+  {
+   "fr": "Je leur ai montré l'hôtel.",
+   "en": "I showed them the hotel.",
+   "stage": 7
+  },
+  {
+   "fr": "Il y en a trois.",
+   "en": "There are three.",
+   "stage": 7
+  },
+  {
+   "fr": "Allons-y!",
+   "en": "Let's go!",
+   "stage": 7
+  },
+  {
+   "fr": "Ne t'inquiète pas.",
+   "en": "Don't worry.",
+   "stage": 7
+  },
+  {
+   "fr": "Asseyez-vous, s'il vous plaît.",
+   "en": "Please sit down.",
+   "stage": 7
+  },
+  {
+   "fr": "Je sais nager, mais je ne connais pas cette plage.",
+   "en": "I can swim, but I don't know this beach.",
+   "stage": 7
+  },
+  {
+   "fr": "J'ai mal à la tête depuis hier.",
+   "en": "I've had a headache since yesterday.",
+   "stage": 7
+  },
+  {
+   "fr": "Je voudrais prendre un rendez-vous.",
+   "en": "I'd like to make an appointment.",
+   "stage": 7
+  },
+  {
+   "fr": "J'ai une réservation au nom de Moreau.",
+   "en": "I have a booking under the name Moreau.",
+   "stage": 7
+  },
+  {
+   "fr": "Le chauffage est en panne.",
+   "en": "The heating is out of order.",
+   "stage": 7
+  },
+  {
+   "fr": "Pouvez-vous le réparer?",
+   "en": "Can you repair it?",
+   "stage": 7
+  },
+  {
+   "fr": "Veuillez attendre.",
+   "en": "Please wait.",
+   "stage": 7
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "un blogue",
+   "std": "un blog",
+   "en": "blog",
+   "note": "OQLF spelling in Quebec",
+   "stage": 7
+  },
+  {
+   "qc": "un courriel",
+   "std": "un e-mail",
+   "en": "email",
+   "note": "OQLF term, used across Canada; France uses a loanword",
+   "stage": 7
+  }
+ ]
+}

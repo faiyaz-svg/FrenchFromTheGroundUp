@@ -469,6 +469,81 @@
    "fr": "Santé! Merci pour le repas.",
    "en": "Cheers! Thanks for the meal.",
    "stage": 6
+  },
+  {
+   "fr": "Je t'appelle ce soir.",
+   "en": "I'll call you tonight.",
+   "stage": 7
+  },
+  {
+   "fr": "Je ne l'ai pas vu.",
+   "en": "I didn't see him.",
+   "stage": 7
+  },
+  {
+   "fr": "Les clés? Je les ai trouvées.",
+   "en": "The keys? I found them.",
+   "stage": 7
+  },
+  {
+   "fr": "Je leur ai montré l'hôtel.",
+   "en": "I showed them the hotel.",
+   "stage": 7
+  },
+  {
+   "fr": "Il y en a trois.",
+   "en": "There are three.",
+   "stage": 7
+  },
+  {
+   "fr": "Allons-y!",
+   "en": "Let's go!",
+   "stage": 7
+  },
+  {
+   "fr": "Ne t'inquiète pas.",
+   "en": "Don't worry.",
+   "stage": 7
+  },
+  {
+   "fr": "Asseyez-vous, s'il vous plaît.",
+   "en": "Please sit down.",
+   "stage": 7
+  },
+  {
+   "fr": "Je sais nager, mais je ne connais pas cette plage.",
+   "en": "I can swim, but I don't know this beach.",
+   "stage": 7
+  },
+  {
+   "fr": "J'ai mal à la tête depuis hier.",
+   "en": "I've had a headache since yesterday.",
+   "stage": 7
+  },
+  {
+   "fr": "Je voudrais prendre un rendez-vous.",
+   "en": "I'd like to make an appointment.",
+   "stage": 7
+  },
+  {
+   "fr": "J'ai une réservation au nom de Moreau.",
+   "en": "I have a booking under the name Moreau.",
+   "stage": 7
+  },
+  {
+   "fr": "Le chauffage est en panne.",
+   "en": "The heating is out of order.",
+   "stage": 7
+  },
+  {
+   "fr": "Pouvez-vous le réparer?",
+   "en": "Can you repair it?",
+   "stage": 7
+  },
+  {
+   "fr": "Veuillez attendre.",
+   "en": "Please wait.",
+   "stage": 7
   }
  ]
 }

@@ -328,6 +328,20 @@
    "en": "fine, OK",
    "note": "casual",
    "stage": 6
+  },
+  {
+   "qc": "un blogue",
+   "std": "un blog",
+   "en": "blog",
+   "note": "OQLF spelling in Quebec",
+   "stage": 7
+  },
+  {
+   "qc": "un courriel",
+   "std": "un e-mail",
+   "en": "email",
+   "note": "OQLF term, used across Canada; France uses a loanword",
+   "stage": 7
   }
  ]
 }

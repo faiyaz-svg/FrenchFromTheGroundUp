@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 82 of 205. New lessons appear here as they are added.
+Lessons written so far: 87 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -110,3 +110,8 @@ Lessons written so far: 82 of 205. New lessons appear here as they are added.
 - [ ] [The body, health and the pharmacy](07-pronouns-and-getting-things-done/06-body-health-and-pharmacy.md) (words)
 - [ ] [At the doctor and the pharmacy](07-pronouns-and-getting-things-done/07-doctor-and-pharmacy.md) (speak)
 - [ ] [At a hotel or an Airbnb](07-pronouns-and-getting-things-done/08-hotel-or-airbnb.md) (speak)
+- [ ] [Health care in Quebec for a visitor](07-pronouns-and-getting-things-done/09-health-care-in-quebec-as-a-visitor.md) (quebec)
+- [ ] [Phone messages and announcements](07-pronouns-and-getting-things-done/10-phone-messages-and-announcements.md) (listen)
+- [ ] [A short booking email](07-pronouns-and-getting-things-done/11-short-booking-email.md) (write)
+- [ ] [Notices and instructions](07-pronouns-and-getting-things-done/12-notices-and-instructions.md) (read)
+- [ ] [Solving problems while travelling](07-pronouns-and-getting-things-done/13-solving-problems-while-travelling.md) (speak, review)

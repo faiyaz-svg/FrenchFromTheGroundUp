@@ -1101,6 +1101,231 @@
    "en": "money",
    "elided": true,
    "stage": 6
+  },
+  {
+   "noun": "tête",
+   "answer": "la",
+   "en": "head",
+   "stage": 7
+  },
+  {
+   "noun": "visage",
+   "answer": "le",
+   "en": "face",
+   "stage": 7
+  },
+  {
+   "noun": "nez",
+   "answer": "le",
+   "en": "nose",
+   "stage": 7
+  },
+  {
+   "noun": "bouche",
+   "answer": "la",
+   "en": "mouth",
+   "stage": 7
+  },
+  {
+   "noun": "gorge",
+   "answer": "la",
+   "en": "throat",
+   "stage": 7
+  },
+  {
+   "noun": "cou",
+   "answer": "le",
+   "en": "neck",
+   "stage": 7
+  },
+  {
+   "noun": "bras",
+   "answer": "le",
+   "en": "arm",
+   "stage": 7
+  },
+  {
+   "noun": "main",
+   "answer": "la",
+   "en": "hand",
+   "stage": 7
+  },
+  {
+   "noun": "doigt",
+   "answer": "le",
+   "en": "finger",
+   "stage": 7
+  },
+  {
+   "noun": "dos",
+   "answer": "le",
+   "en": "back",
+   "stage": 7
+  },
+  {
+   "noun": "ventre",
+   "answer": "le",
+   "en": "belly",
+   "stage": 7
+  },
+  {
+   "noun": "jambe",
+   "answer": "la",
+   "en": "leg",
+   "stage": 7
+  },
+  {
+   "noun": "genou",
+   "answer": "le",
+   "en": "knee",
+   "stage": 7
+  },
+  {
+   "noun": "pied",
+   "answer": "le",
+   "en": "foot",
+   "stage": 7
+  },
+  {
+   "noun": "peau",
+   "answer": "la",
+   "en": "skin",
+   "stage": 7
+  },
+  {
+   "noun": "fièvre",
+   "answer": "la",
+   "en": "fever",
+   "stage": 7
+  },
+  {
+   "noun": "toux",
+   "answer": "la",
+   "en": "cough",
+   "stage": 7
+  },
+  {
+   "noun": "grippe",
+   "answer": "la",
+   "en": "flu",
+   "stage": 7
+  },
+  {
+   "noun": "rhume",
+   "answer": "le",
+   "en": "cold",
+   "stage": 7
+  },
+  {
+   "noun": "médicament",
+   "answer": "le",
+   "en": "medicine",
+   "stage": 7
+  },
+  {
+   "noun": "réception",
+   "answer": "la",
+   "en": "front desk",
+   "stage": 7
+  },
+  {
+   "noun": "couverture",
+   "answer": "la",
+   "en": "blanket",
+   "stage": 7
+  },
+  {
+   "noun": "climatisation",
+   "answer": "la",
+   "en": "air conditioning",
+   "stage": 7
+  },
+  {
+   "noun": "panne",
+   "answer": "la",
+   "en": "breakdown",
+   "stage": 7
+  },
+  {
+   "noun": "tarif",
+   "answer": "le",
+   "en": "rate",
+   "stage": 7
+  },
+  {
+   "noun": "vol",
+   "answer": "le",
+   "en": "flight",
+   "stage": 7
+  },
+  {
+   "noun": "chauffage",
+   "answer": "le",
+   "en": "heating",
+   "stage": 7
+  },
+  {
+   "noun": "oreille",
+   "answer": "la",
+   "en": "ear",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "épaule",
+   "answer": "la",
+   "en": "shoulder",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "estomac",
+   "answer": "le",
+   "en": "stomach",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "ordonnance",
+   "answer": "la",
+   "en": "prescription",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "étage",
+   "answer": "le",
+   "en": "floor",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "oreiller",
+   "answer": "le",
+   "en": "pillow",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "annonce",
+   "answer": "la",
+   "en": "announcement",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "incendie",
+   "answer": "le",
+   "en": "fire",
+   "stage": 7,
+   "elided": true
+  },
+  {
+   "noun": "échange",
+   "answer": "le",
+   "en": "exchange",
+   "stage": 7,
+   "elided": true
   }
  ]
 }

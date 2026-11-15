@@ -1175,6 +1175,326 @@
    "answer": "avons dû",
    "en": "to have to",
    "stage": 6
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "sais",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "sais",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "il",
+   "answer": "sait",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "savons",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "savez",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "savent",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "présent",
+   "person": "je",
+   "answer": "connais",
+   "en": "to know (a person or place)",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "présent",
+   "person": "il",
+   "answer": "connaît",
+   "en": "to know (a person or place)",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "connaissons",
+   "en": "to know (a person or place)",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "connaissent",
+   "en": "to know (a person or place)",
+   "stage": 7
+  },
+  {
+   "verb": "dire",
+   "tense": "présent",
+   "person": "je",
+   "answer": "dis",
+   "en": "to say",
+   "stage": 7
+  },
+  {
+   "verb": "dire",
+   "tense": "présent",
+   "person": "vous",
+   "answer": "dites",
+   "en": "to say",
+   "stage": 7
+  },
+  {
+   "verb": "dire",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "disent",
+   "en": "to say",
+   "stage": 7
+  },
+  {
+   "verb": "lire",
+   "tense": "présent",
+   "person": "je",
+   "answer": "lis",
+   "en": "to read",
+   "stage": 7
+  },
+  {
+   "verb": "lire",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "lisons",
+   "en": "to read",
+   "stage": 7
+  },
+  {
+   "verb": "lire",
+   "tense": "présent",
+   "person": "il",
+   "answer": "lit",
+   "en": "to read",
+   "stage": 7
+  },
+  {
+   "verb": "écrire",
+   "tense": "présent",
+   "person": "tu",
+   "answer": "écris",
+   "en": "to write",
+   "stage": 7
+  },
+  {
+   "verb": "écrire",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "écrivons",
+   "en": "to write",
+   "stage": 7
+  },
+  {
+   "verb": "écrire",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "écrivent",
+   "en": "to write",
+   "stage": 7
+  },
+  {
+   "verb": "envoyer",
+   "tense": "présent",
+   "person": "je",
+   "answer": "envoie",
+   "en": "to send",
+   "stage": 7
+  },
+  {
+   "verb": "envoyer",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "envoyons",
+   "en": "to send",
+   "stage": 7
+  },
+  {
+   "verb": "envoyer",
+   "tense": "présent",
+   "person": "ils",
+   "answer": "envoient",
+   "en": "to send",
+   "stage": 7
+  },
+  {
+   "verb": "appeler",
+   "tense": "présent",
+   "person": "je",
+   "answer": "appelle",
+   "en": "to call",
+   "stage": 7
+  },
+  {
+   "verb": "appeler",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "appelons",
+   "en": "to call",
+   "stage": 7
+  },
+  {
+   "verb": "se sentir",
+   "tense": "présent",
+   "person": "je",
+   "answer": "me sens",
+   "en": "to feel",
+   "stage": 7
+  },
+  {
+   "verb": "se sentir",
+   "tense": "présent",
+   "person": "nous",
+   "answer": "nous sentons",
+   "en": "to feel",
+   "stage": 7
+  },
+  {
+   "verb": "savoir",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai su",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "connaître",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai connu",
+   "en": "to know",
+   "stage": 7
+  },
+  {
+   "verb": "dire",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai dit",
+   "en": "to say",
+   "stage": 7
+  },
+  {
+   "verb": "lire",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai lu",
+   "en": "to read",
+   "stage": 7
+  },
+  {
+   "verb": "écrire",
+   "tense": "passé composé",
+   "person": "je",
+   "answer": "ai écrit",
+   "en": "to write",
+   "stage": 7
+  },
+  {
+   "verb": "parler",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "parle",
+   "en": "to speak",
+   "stage": 7
+  },
+  {
+   "verb": "finir",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "finis",
+   "en": "to finish",
+   "stage": 7
+  },
+  {
+   "verb": "être",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "sois",
+   "en": "to be",
+   "stage": 7
+  },
+  {
+   "verb": "être",
+   "tense": "impératif",
+   "person": "vous",
+   "answer": "soyez",
+   "en": "to be",
+   "stage": 7
+  },
+  {
+   "verb": "avoir",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "aie",
+   "en": "to have",
+   "stage": 7
+  },
+  {
+   "verb": "aller",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "va",
+   "en": "to go",
+   "stage": 7
+  },
+  {
+   "verb": "faire",
+   "tense": "impératif",
+   "person": "vous",
+   "answer": "faites",
+   "en": "to do, to make",
+   "stage": 7
+  },
+  {
+   "verb": "prendre",
+   "tense": "impératif",
+   "person": "tu",
+   "answer": "prends",
+   "en": "to take",
+   "stage": 7
+  },
+  {
+   "verb": "manger",
+   "tense": "impératif",
+   "person": "nous",
+   "answer": "mangeons",
+   "en": "to eat",
+   "stage": 7
   }
  ]
 }
