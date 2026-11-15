@@ -14,7 +14,7 @@ The phrases come before the lessons that teach them, so use them as set sentence
 - [At a hotel or an Airbnb](../07-pronouns-and-getting-things-done/08-hotel-or-airbnb.md)
 - [Health care in Quebec for a visitor](../07-pronouns-and-getting-things-done/09-health-care-in-quebec-as-a-visitor.md)
 - [Solving problems while travelling](../07-pronouns-and-getting-things-done/13-solving-problems-while-travelling.md)
-- Small talk: weather and hockey<!-- link: ../08-comparing-duration-and-settling-in/07-small-talk-weather-and-hockey.md -->
+- [Small talk: weather and hockey](../08-comparing-duration-and-settling-in/07-small-talk-weather-and-hockey.md)
 
 With strangers, in shops and with staff, use *vous*. The phrases below use it.
 
@@ -240,7 +240,7 @@ On se voit la fin de semaine prochaine? | Shall we meet next weekend?
 Il est bon, ce chandail. | That jersey is good.
 ```
 
-A *tuque* is a winter hat, a *chandail* is a sweater or a sports jersey, and *à tantôt* means see you later. See the [Quebec and France words](quebec-and-france-words.md) page. Lessons on hockey and small talk: Hockey and holidays in Quebec<!-- link: ../08-comparing-duration-and-settling-in/08-quebec-hockey-and-holidays.md -->.
+A *tuque* is a winter hat, a *chandail* is a sweater or a sports jersey, and *à tantôt* means see you later. See the [Quebec and France words](quebec-and-france-words.md) page. Lessons on hockey and small talk: [Hockey and holidays in Quebec](../08-comparing-duration-and-settling-in/08-quebec-hockey-and-holidays.md).
 
 ## When you do not understand
 

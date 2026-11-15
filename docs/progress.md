@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 91 of 205. New lessons appear here as they are added.
+Lessons written so far: 95 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -122,3 +122,7 @@ Lessons written so far: 91 of 205. New lessons appear here as they are added.
 - [ ] [Superlatives](08-comparing-duration-and-settling-in/02-superlatives.md) (grammar)
 - [ ] [Depuis, il y a and pendant](08-comparing-duration-and-settling-in/03-depuis-il-y-a-pendant.md) (grammar)
 - [ ] [The relative pronouns qui and que](08-comparing-duration-and-settling-in/04-relative-qui-que.md) (grammar)
+- [ ] [Verbs followed by à and de](08-comparing-duration-and-settling-in/05-verbs-with-a-and-de.md) (grammar)
+- [ ] [Weather and seasons](08-comparing-duration-and-settling-in/06-weather-and-seasons.md) (words)
+- [ ] [Small talk: weather and hockey](08-comparing-duration-and-settling-in/07-small-talk-weather-and-hockey.md) (speak)
+- [ ] [Hockey and holidays in Quebec](08-comparing-duration-and-settling-in/08-quebec-hockey-and-holidays.md) (quebec)
