@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 28 of 205. New lessons appear here as they are added.
+Lessons written so far: 32 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -42,3 +42,7 @@ Lessons written so far: 28 of 205. New lessons appear here as they are added.
 - [ ] [Regular -er verbs](03-verbs-and-questions/02-regular-er-verbs.md) (grammar)
 - [ ] [Saying no: negation](03-verbs-and-questions/03-negation.md) (grammar)
 - [ ] [Asking questions](03-verbs-and-questions/04-asking-questions.md) (grammar)
+- [ ] [Aller and faire](03-verbs-and-questions/05-aller-and-faire.md) (grammar)
+- [ ] [Days, dates and big numbers](03-verbs-and-questions/06-days-dates-and-big-numbers.md) (words)
+- [ ] [Telling the time](03-verbs-and-questions/07-telling-time.md) (words)
+- [ ] [Making plans](03-verbs-and-questions/08-making-plans.md) (speak)

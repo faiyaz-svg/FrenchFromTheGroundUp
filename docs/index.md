@@ -51,10 +51,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="03-verbs-and-questions/02-regular-er-verbs/" data-lesson="03-verbs-and-questions/02-regular-er-verbs/" title="Regular -er verbs"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="03-verbs-and-questions/03-negation/" data-lesson="03-verbs-and-questions/03-negation/" title="Saying no: negation"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="03-verbs-and-questions/04-asking-questions/" data-lesson="03-verbs-and-questions/04-asking-questions/" title="Asking questions"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="Aller and faire"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="Days, dates and big numbers"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="Telling the time"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Making plans"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="03-verbs-and-questions/05-aller-and-faire/" data-lesson="03-verbs-and-questions/05-aller-and-faire/" title="Aller and faire"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="03-verbs-and-questions/06-days-dates-and-big-numbers/" data-lesson="03-verbs-and-questions/06-days-dates-and-big-numbers/" title="Days, dates and big numbers"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="03-verbs-and-questions/07-telling-time/" data-lesson="03-verbs-and-questions/07-telling-time/" title="Telling the time"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="03-verbs-and-questions/08-making-plans/" data-lesson="03-verbs-and-questions/08-making-plans/" title="Making plans"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="Texting to make plans"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="Casual questions in Quebec"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="Hearing times and plans"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
