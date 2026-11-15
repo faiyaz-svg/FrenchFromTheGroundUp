@@ -28,4 +28,8 @@ Before this stage: Start here. Nothing else.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Débutant 1 and 2: do one clip a day and repeat each phrase out loud. Listen for the vowels you practised.
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Quebec and Canadian French), the adult series "Mes États\*Nordiques", tagged Débutant: watch a short episode with French subtitles and listen for greetings.
+- [McGill Learn French resources](https://www.mcgill.ca/learnfrench/resources) (Quebec): pick a beginner item from the list and listen to it twice.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

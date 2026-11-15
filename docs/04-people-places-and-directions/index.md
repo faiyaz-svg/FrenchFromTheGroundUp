@@ -29,4 +29,8 @@ Before this stage: Stages 1 to 3.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Débutant 2: listen for places, directions and descriptions of people.
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Quebec and Canadian French): "Mes États\*Nordiques" or another Débutant series. Listen once for the story, once for the places.
+- [ONF](https://www.onf.ca/films/) (Quebec and Canadian French): short animated films with little speech. Say what you see in French.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

@@ -30,4 +30,8 @@ Before this stage: Stages 1 to 7.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Débutant 4 to Intermédiaire 1: listen for comparisons and for *depuis*, *il y a* and *pendant*.
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Canadian French): "Immigrants de souche", tagged Intermédiaire. Listen for how people talk about settling in.
+- [ICI OHdio](https://ici.radio-canada.ca/ohdio) (Quebec French): pick a short hockey or news clip. It is fast, so listen for two or three words you know.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

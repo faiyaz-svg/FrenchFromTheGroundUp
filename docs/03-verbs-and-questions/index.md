@@ -28,4 +28,8 @@ Before this stage: Stages 1 and 2.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Débutant 2: listen for questions and for the verb forms from this stage.
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Quebec and Canadian French): a Débutant episode. Pause after each question and say it back.
+- [McGill Learn French resources](https://www.mcgill.ca/learnfrench/resources) (Quebec): choose a beginner resource and shadow one short line at a time.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

@@ -29,4 +29,9 @@ Before this stage: Stages 1 to 8.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Intermédiaire 1: listen for the futur simple and work words.
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Canadian French): the Avancé series "Chroniques de bureau". Listen for office talk and for plans.
+- [TFO](https://www.tfo.org/) (Franco-Ontarian French): "Sur les routes de la francophonie en Ontario", listed in its adult section on 2026-11-14.
+- [La journée (est encore jeune)](https://ici.radio-canada.ca/premiere/balados/9887/la-journee-est-encore-jeune) (Quebec French): a talk and humour podcast. Listen to the first 5 minutes and write down three words you know.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

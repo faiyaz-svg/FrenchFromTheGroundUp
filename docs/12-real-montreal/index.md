@@ -29,4 +29,9 @@ Before this stage: Stages 1 to 11.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Intermédiaire 2: listen for casual forms like *chu* and *t'sais*.
+- [ICI TOU.TV](https://ici.tou.tv/) (Quebec French): a free series or documentary, if one is offered. Listen for casual speech, then check what you heard in the Quebec lessons.
+- [ONF](https://www.onf.ca/films/) (Quebec French): a film in French, original version. Listen for the Montreal accent.
+- [ICI OHdio](https://ici.radio-canada.ca/ohdio) (Quebec French): a podcast with two or more speakers. Listen for how they interrupt and agree.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

@@ -29,4 +29,9 @@ Before this stage: Stages 1 to 5.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Débutant 3 and 4: listen for habits (*je mange souvent*) and for food words.
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Canadian French): "La table du fermier", tagged Intermédiaire. Listen for food words and quantities.
+- [Télé-Québec](https://telequebec.tv/) (Quebec French): "Donner l'goût" or "À boire et à manger" (listed on 2026-11-14). Listen for the names of foods.
+- [ONF](https://www.onf.ca/films/) (Quebec and Canadian French): a short documentary in French. Choose one with a simple title.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

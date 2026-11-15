@@ -11,7 +11,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <section class="fm-line" data-level="a1">
 <h2 class="fm-line-name">A1 <span>Green line</span></h2>
 <div class="fm-seg" data-stage="1">
-<span class="fm-seg-name">1 · First sounds and greetings</span>
+<a class="fm-seg-name" href="01-first-sounds-and-greetings/">1 · First sounds and greetings</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="How French spelling, sounds and rhythm work"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Typing accents on your keyboard"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -28,7 +28,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="2">
-<span class="fm-seg-name">2 · Sounds, spelling and everyday things</span>
+<a class="fm-seg-name" href="02-sounds-spelling-and-everyday-things/">2 · Sounds, spelling and everyday things</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="French consonants"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="The French r and the semi-vowels"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -45,7 +45,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="3">
-<span class="fm-seg-name">3 · Verbs and questions</span>
+<a class="fm-seg-name" href="03-verbs-and-questions/">3 · Verbs and questions</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="Rhythm and intonation"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Regular -er verbs"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -62,7 +62,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="4">
-<span class="fm-seg-name">4 · People, places and directions</span>
+<a class="fm-seg-name" href="04-people-places-and-directions/">4 · People, places and directions</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="Adjectives and agreement"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Colours, sizes and where adjectives go"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -83,7 +83,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <section class="fm-line" data-level="a2">
 <h2 class="fm-line-name">A2 <span>Orange line</span></h2>
 <div class="fm-seg" data-stage="5">
-<span class="fm-seg-name">5 · The past: what happened</span>
+<a class="fm-seg-name" href="05-the-past-what-happened/">5 · The past: what happened</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="Regular -ir and -re verbs"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Prendre, venir, boire and voir"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -100,7 +100,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="6">
-<span class="fm-seg-name">6 · Habits, memories and food</span>
+<a class="fm-seg-name" href="06-habits-memories-and-food/">6 · Habits, memories and food</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="Partitive articles: du, de la, des"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Vouloir, pouvoir and devoir"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -118,7 +118,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="7">
-<span class="fm-seg-name">7 · Pronouns and getting things done</span>
+<a class="fm-seg-name" href="07-pronouns-and-getting-things-done/">7 · Pronouns and getting things done</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="Direct object pronouns"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Indirect object pronouns"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -136,7 +136,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="8">
-<span class="fm-seg-name">8 · Comparing, duration and settling in</span>
+<a class="fm-seg-name" href="08-comparing-duration-and-settling-in/">8 · Comparing, duration and settling in</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="Comparatives"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Superlatives"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -158,7 +158,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <section class="fm-line" data-level="b1">
 <h2 class="fm-line-name">B1 <span>Yellow line</span></h2>
 <div class="fm-seg" data-stage="9">
-<span class="fm-seg-name">9 · Work and the future</span>
+<a class="fm-seg-name" href="09-work-and-the-future/">9 · Work and the future</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="The futur simple: regular verbs"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="The futur simple: irregular verbs"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -176,7 +176,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="10">
-<span class="fm-seg-name">10 · Complex sentences and requests</span>
+<a class="fm-seg-name" href="10-complex-sentences-and-requests/">10 · Complex sentences and requests</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="The plus-que-parfait"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="The relative pronouns dont and où"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -194,7 +194,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="11">
-<span class="fm-seg-name">11 · Reporting and opinions</span>
+<a class="fm-seg-name" href="11-reporting-and-opinions/">11 · Reporting and opinions</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="The passive voice"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Reported speech"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -212,7 +212,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="12">
-<span class="fm-seg-name">12 · Real Montreal</span>
+<a class="fm-seg-name" href="12-real-montreal/">12 · Real Montreal</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="Ce qui, ce que and ce dont"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Indefinites, demonstratives and possessives"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -233,7 +233,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <section class="fm-line" data-level="b2">
 <h2 class="fm-line-name">B2 <span>Blue line</span></h2>
 <div class="fm-seg" data-stage="13">
-<span class="fm-seg-name">13 · Subjunctive and argument</span>
+<a class="fm-seg-name" href="13-subjunctive-and-argument/">13 · Subjunctive and argument</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="The subjunctive: doubt and opinion"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="The subjunctive after conjunctions"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -251,7 +251,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="14">
-<span class="fm-seg-name">14 · Conditionals, work and interviews</span>
+<a class="fm-seg-name" href="14-conditionals-work-and-interviews/">14 · Conditionals, work and interviews</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="The conditionnel passé"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="All types of si clauses"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -269,7 +269,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="15">
-<span class="fm-seg-name">15 · Formal register and government French</span>
+<a class="fm-seg-name" href="15-formal-register-and-government-french/">15 · Formal register and government French</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="Nominalisation"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Shifting register"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
@@ -287,7 +287,7 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 </ol>
 </div>
 <div class="fm-seg" data-stage="16">
-<span class="fm-seg-name">16 · Debate, news and test readiness</span>
+<a class="fm-seg-name" href="16-debate-news-and-test-readiness/">16 · Debate, news and test readiness</a>
 <ol class="fm-stations">
 <li><span class="fm-st fm-planned" title="Structuring an argument"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
 <li><span class="fm-st fm-planned" title="Emphasis and inversion"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>

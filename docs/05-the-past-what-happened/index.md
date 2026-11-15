@@ -28,4 +28,8 @@ Before this stage: Stages 1 to 4.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Débutant 3: listen for verbs in the past (*j'ai mangé*, *il est parti*).
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Canadian French): the series "De faire et d'aplomb", tagged Débutant or Intermédiaire. Listen for what already happened.
+- [Télé-Québec](https://telequebec.tv/) (Quebec French): a documentary from the home page, for example "Deux hommes en or" (listed on 2026-11-14). Watch 5 minutes, with French subtitles if offered.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

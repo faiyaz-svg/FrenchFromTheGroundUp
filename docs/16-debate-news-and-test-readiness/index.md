@@ -29,4 +29,9 @@ Before this stage: Stages 1 to 15.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Avancé 2: do a clip and answer the questions without the transcript.
+- [ICI OHdio](https://ici.radio-canada.ca/ohdio) (Quebec French): "Les décrypteurs" or a debate show. Listen for how speakers structure an argument.
+- [Télé-Québec](https://telequebec.tv/) (Quebec French): a documentary. Retell it out loud in 2 minutes.
+- [ICI TOU.TV](https://ici.tou.tv/) (Quebec French): free news or documentary titles, if offered. Check the access label first.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

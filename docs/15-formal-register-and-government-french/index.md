@@ -29,4 +29,10 @@ Before this stage: Stages 1 to 14.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Avancé 2: listen for formal words and for how they differ from casual speech.
+- [TFO](https://www.tfo.org/) (Franco-Ontarian French): adult titles about Ontario's francophone community. Check which are free for you.
+- [Idéllo](https://www.idello.org/) (Franco-Ontarian French): educational videos. Some titles need a subscription, so check first.
+- [ONF](https://www.onf.ca/films/) (Quebec and Canadian French): a documentary. Listen for formal vocabulary.
+- [ICI OHdio](https://ici.radio-canada.ca/ohdio) (Quebec French): a news or history podcast. Note the formal phrases.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

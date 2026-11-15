@@ -29,4 +29,9 @@ Before this stage: Stages 1 to 12.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Avancé 1: listen for *il faut que* and *bien que* followed by a verb.
+- [ICI OHdio](https://ici.radio-canada.ca/ohdio) (Quebec French): "Les pires moments de l'histoire" (listed on 2026-11-14). Listen for arguments and the subjunctive.
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Canadian French): "Au pays du bonheur", tagged Avancé. Watch with French subtitles.
+- [Télé-Québec](https://telequebec.tv/) (Quebec French): a documentary. Write down one argument and one example.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

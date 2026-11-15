@@ -28,4 +28,8 @@ Before this stage: Stage 1.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Débutant 1 and 2: pick clips about food, shopping or numbers. Listen for numbers and prices.
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Quebec and Canadian French): filter the collection by Débutant and watch one short episode with French subtitles.
+- [Quebec government list of Quebec media](https://www.quebec.ca/education/apprendre-le-francais/outils-ressources/medias-et-produits-culturels-quebecois-de-langue-francaise) (Quebec): browse it for a short video or song and listen for words you now know.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

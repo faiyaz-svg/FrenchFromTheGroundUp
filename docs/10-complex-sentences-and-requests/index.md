@@ -29,4 +29,9 @@ Before this stage: Stages 1 to 9.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Intermédiaire 1 and 2: listen for polite requests and for sentences joined with *parce que* and *quand*.
+- [Télé-Québec](https://telequebec.tv/) (Quebec French): "Y'a du monde à messe" (listed on 2026-11-14). Listen for long sentences.
+- [La journée (est encore jeune)](https://ici.radio-canada.ca/premiere/balados/9887/la-journee-est-encore-jeune) (Quebec French): listen to one episode in two passes, the second with a pen.
+- [ONF](https://www.onf.ca/films/) (Quebec and Canadian French): a documentary in French. Pick one that is 15 minutes or less.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

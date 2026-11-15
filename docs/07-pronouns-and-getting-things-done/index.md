@@ -29,4 +29,9 @@ Before this stage: Stages 1 to 6.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Débutant 4: listen for *le*, *la*, *les*, *y* and *en* before verbs.
+- [Francolab](https://www.tv5plus.ca/francolab/collections/tous-les-contenus) (Canadian French): an Intermédiaire series for adults. Listen for short pronouns before verbs.
+- [ICI TOU.TV](https://ici.tou.tv/) (Quebec French): look for a title with no "EXTRA" label (the free ones change often). Check the page before you plan around it.
+- [TFO](https://www.tfo.org/) (Franco-Ontarian French): check which adult titles are free for you. Listen for how the accent differs from Quebec.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

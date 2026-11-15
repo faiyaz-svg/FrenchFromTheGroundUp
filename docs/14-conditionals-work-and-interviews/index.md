@@ -29,4 +29,9 @@ Before this stage: Stages 1 to 13.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Avancé 1 and 2: listen for *si* sentences and polite conditionals.
+- [Télé-Québec](https://telequebec.tv/) (Quebec French): "Deschamps raconte Yvon" (listed on 2026-11-14). Listen for stories told with the conditional and the past.
+- [ICI TOU.TV](https://ici.tou.tv/) (Quebec French): a free series, if one is offered. Listen for workplace talk.
+- [ICI OHdio](https://ici.radio-canada.ca/ohdio) (Quebec French): a culture podcast. Summarise one episode in three sentences, out loud.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.

@@ -92,4 +92,46 @@ extra_css:
 nav:
   - Start here:
       - index.md
+      - "Progress": progress.md
+  - "1 Sounds":
+      - 01-first-sounds-and-greetings/index.md
+  - "2 Things":
+      - 02-sounds-spelling-and-everyday-things/index.md
+  - "3 Verbs":
+      - 03-verbs-and-questions/index.md
+  - "4 Places":
+      - 04-people-places-and-directions/index.md
+  - "5 Past":
+      - 05-the-past-what-happened/index.md
+  - "6 Food":
+      - 06-habits-memories-and-food/index.md
+  - "7 Pronouns":
+      - 07-pronouns-and-getting-things-done/index.md
+  - "8 Settling in":
+      - 08-comparing-duration-and-settling-in/index.md
+  - "9 Work":
+      - 09-work-and-the-future/index.md
+  - "10 Requests":
+      - 10-complex-sentences-and-requests/index.md
+  - "11 Opinions":
+      - 11-reporting-and-opinions/index.md
+  - "12 Montreal":
+      - 12-real-montreal/index.md
+  - "13 Argument":
+      - 13-subjunctive-and-argument/index.md
+  - "14 Interviews":
+      - 14-conditionals-work-and-interviews/index.md
+  - "15 Government":
+      - 15-formal-register-and-government-french/index.md
+  - "16 Debate":
+      - 16-debate-news-and-test-readiness/index.md
+  - Practice tools:
+      - practice/index.md
+      - "Conjugation": practice/conjugation.md
+      - "Le or la": practice/le-or-la.md
+      - "Fill in the blank": practice/fill-in-the-blank.md
+      - "Dictation": practice/dictation.md
+      - "Numbers": practice/numbers.md
+      - "Quebec words": practice/quebec-words.md
+      - "Say it": practice/say-it.md
 # nav:end

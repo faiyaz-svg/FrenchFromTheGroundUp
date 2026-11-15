@@ -29,4 +29,9 @@ Before this stage: Stages 1 to 10.
 
 ## Listen and watch at this level
 
-<!-- to be written -->
+- [Mauril](https://mauril.ca/fr/), Quebec and Canadian French, Intermédiaire 2: listen for how people report what others said.
+- [ICI OHdio](https://ici.radio-canada.ca/ohdio) (Quebec French): "Les décrypteurs", a fact-checking show (listed there on 2026-11-14). Listen for reported speech.
+- [Télé-Québec](https://telequebec.tv/) (Quebec French): a documentary. Note two opinions and who gives them.
+- [ICI TOU.TV](https://ici.tou.tv/) (Quebec French): a free news or documentary title, if one is offered. Titles change, so check the label first.
+
+Links and free titles change. The [media page](../reference/media.md) says how to check.
