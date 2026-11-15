@@ -25,7 +25,54 @@ Before this stage: Stages 1 to 8.
 
 ## Cheat sheet
 
-<!-- to be written -->
+Futur simple: infinitive (without the final *e* for *-re*) plus *`-ai, -as, -a, -ons, -ez, -ont`*.
+
+| | parler | finir | vendre | être | aller |
+|---|---|---|---|---|---|
+| je | parlerai | finirai | vendrai | serai | irai |
+| tu | parleras | finiras | vendras | seras | iras |
+| il / elle / on | parlera | finira | vendra | sera | ira |
+| nous | parlerons | finirons | vendrons | serons | irons |
+| vous | parlerez | finirez | vendrez | serez | irez |
+| ils / elles | parleront | finiront | vendront | seront | iront |
+
+Spelling changes: *j'achèterai*, *je me lèverai*, *j'appellerai*, *je paierai* (or *payerai*), *je préférerai*.
+
+Irregular stems (same endings, and the same stems for the conditionnel):
+
+| Verb | Stem | Verb | Stem |
+|---|---|---|---|
+| *être* | ser- | *voir* | verr- |
+| *avoir* | aur- | *savoir* | saur- |
+| *aller* | ir- | *falloir* | faudr- |
+| *faire* | fer- | *envoyer* | enverr- |
+| *pouvoir* | pourr- | *recevoir* | recevr- |
+| *vouloir* | voudr- | *courir* | courr- |
+| *devoir* | devr- | *venir* | viendr- |
+
+Conditionnel présent: futur stem plus *`-ais, -ais, -ait, -ions, -iez, -aient`*. The ending sound is /e/ in the futur (*je parlerai*) and /ɛ/ in the conditionnel (*je parlerais*).
+
+| Use | Pattern | Example |
+|---|---|---|
+| Real condition | *si* + présent, futur | *Si je finis tôt, je viendrai.* |
+| Imagined condition | *si* + imparfait, conditionnel | *Si j'avais le temps, je viendrais.* |
+| Never | futur or conditionnel right after *si* | *si j'avais*, not *si j'aurais* |
+
+```fr
+Je voudrais un renseignement, s'il vous plaît. | I would like some information, please.
+Pourriez-vous m'aider? | Could you help me?
+Bonjour, Lam et compagnie, Priya à l'appareil. | Hello, Lam and Company, Priya speaking.
+C'est de la part de qui? | Who is calling?
+Ne quittez pas, je vous transfère. | Hold the line, I am transferring you.
+Il vous manque un justificatif. | You are missing a supporting paper.
+La réunion aura lieu mardi à 9 h 30. | The meeting will take place on Tuesday at 9:30.
+Dès que j'aurai les documents, je téléphonerai. | As soon as I have the documents, I will phone.
+Dans l'attente de votre réponse, je vous remercie. | While waiting for your reply, I thank you.
+Cordialement, | Best regards,
+```
+
+Sounds: the *r* before every futur ending (*parlerai*); final /e/ in the futur and /ɛ/ in the conditionnel; *ts* in Quebec *tu* [t͡sy].
+
 
 ## Listen and watch at this level
 

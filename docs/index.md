@@ -120,10 +120,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="7">
 <a class="fm-seg-name" href="07-pronouns-and-getting-things-done/">7 · Pronouns and getting things done</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="Direct object pronouns"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Indirect object pronouns"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="The pronouns y and en"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="The imperative"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="07-pronouns-and-getting-things-done/01-direct-object-pronouns/" data-lesson="07-pronouns-and-getting-things-done/01-direct-object-pronouns/" title="Direct object pronouns"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="07-pronouns-and-getting-things-done/02-indirect-object-pronouns/" data-lesson="07-pronouns-and-getting-things-done/02-indirect-object-pronouns/" title="Indirect object pronouns"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="07-pronouns-and-getting-things-done/03-y-and-en/" data-lesson="07-pronouns-and-getting-things-done/03-y-and-en/" title="The pronouns y and en"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="07-pronouns-and-getting-things-done/04-imperative/" data-lesson="07-pronouns-and-getting-things-done/04-imperative/" title="The imperative"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Savoir, connaître, dire, lire and écrire"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="The body, health and the pharmacy"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="At the doctor and the pharmacy"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

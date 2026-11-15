@@ -24,7 +24,7 @@ When you are lost, you ask a stranger, so you use *vous*. A few set phrases do a
 
 ### The answers: five chunks with *vous*
 
-The person answering uses commands. A **command** (also called the **imperative**) tells someone what to do. French has special forms for this, and a later lesson covers them in The imperative<!-- link: ../07-pronouns-and-getting-things-done/04-imperative.md -->. For now, learn five words as chunks. They all end in *-ez* because the speaker is using *vous*:
+The person answering uses commands. A **command** (also called the **imperative**) tells someone what to do. French has special forms for this, and a later lesson covers them in [The imperative](../07-pronouns-and-getting-things-done/04-imperative.md). For now, learn five words as chunks. They all end in *-ez* because the speaker is using *vous*:
 
 | Chunk | Meaning |
 |---|---|

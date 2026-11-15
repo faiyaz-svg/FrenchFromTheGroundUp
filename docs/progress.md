@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 74 of 205. New lessons appear here as they are added.
+Lessons written so far: 78 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -99,3 +99,10 @@ Lessons written so far: 74 of 205. New lessons appear here as they are added.
 - [ ] [Describing your childhood](06-habits-memories-and-food/11-describing-your-childhood.md) (write)
 - [ ] [Menus and recipes](06-habits-memories-and-food/12-menus-and-recipes.md) (read)
 - [ ] [Dinner with friends](06-habits-memories-and-food/13-dinner-with-friends.md) (speak, review)
+
+### Stage 7: Pronouns and getting things done
+
+- [ ] [Direct object pronouns](07-pronouns-and-getting-things-done/01-direct-object-pronouns.md) (grammar)
+- [ ] [Indirect object pronouns](07-pronouns-and-getting-things-done/02-indirect-object-pronouns.md) (grammar)
+- [ ] [The pronouns y and en](07-pronouns-and-getting-things-done/03-y-and-en.md) (grammar)
+- [ ] [The imperative](07-pronouns-and-getting-things-done/04-imperative.md) (grammar)

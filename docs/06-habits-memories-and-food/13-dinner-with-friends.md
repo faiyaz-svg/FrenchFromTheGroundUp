@@ -142,4 +142,4 @@ Asking *Tu veux de vin?* The offer needs the partitive: *Tu veux du vin?*
 
 - **Toast**: a short phrase said when glasses are raised, such as *Santé!*
 
-Next: Direct object pronouns<!-- link: ../07-pronouns-and-getting-things-done/01-direct-object-pronouns.md -->
+Next: [Direct object pronouns](../07-pronouns-and-getting-things-done/01-direct-object-pronouns.md)

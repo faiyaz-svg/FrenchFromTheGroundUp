@@ -18,7 +18,7 @@ A menu groups the dishes under headings: *entrées* (starters), *plats* (main di
 
 A recipe has three parts: the title, the list of ingredients (*les ingrédients*), and the steps. The ingredients are written as a quantity, *de* and the food: *une pincée de sel*, *250 g de farine*, *un demi-litre de lait*. You know the quantity words from the food lesson. New ones are *une pincée* ("a pinch") and *une cuillère à soupe* ("a tablespoon"), also *une cuillère à café* ("a teaspoon").
 
-The steps often use the **infinitive**, the form that ends in *-er*, *-ir* or *-re*, with no subject: *Couper les carottes.* ("Cut the carrots.") *Mélanger.* ("Mix.") You are not asked to conjugate these verbs. Treat them as vocabulary: each step starts with a verb that tells you what to do. Recipes can also use the *vous* command form (*coupez*, *mélangez*), which you will learn in The imperative<!-- link: ../07-pronouns-and-getting-things-done/04-imperative.md -->. The meaning is the same.
+The steps often use the **infinitive**, the form that ends in *-er*, *-ir* or *-re*, with no subject: *Couper les carottes.* ("Cut the carrots.") *Mélanger.* ("Mix.") You are not asked to conjugate these verbs. Treat them as vocabulary: each step starts with a verb that tells you what to do. Recipes can also use the *vous* command form (*coupez*, *mélangez*), which you will learn in [The imperative](../07-pronouns-and-getting-things-done/04-imperative.md). The meaning is the same.
 
 | Verb | Meaning |
 |---|---|

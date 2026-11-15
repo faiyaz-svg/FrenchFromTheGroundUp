@@ -44,7 +44,7 @@ The rule is one line, and you know it already.
 1. With *avoir*, the participle does not agree with the subject: *elle a mangé*, *elles ont mangé*.
 2. With *être*, the participle agrees with the subject: *elle est partie*, *elles sont parties*.
 
-That is all you need for now. A third case, with *avoir* and a direct object placed before the verb, exists in French and comes with the object pronouns in Direct object pronouns<!-- link: ../07-pronouns-and-getting-things-done/01-direct-object-pronouns.md -->. You will not meet it before then.
+That is all you need for now. A third case, with *avoir* and a direct object placed before the verb, exists in French and comes with the object pronouns in [Direct object pronouns](../07-pronouns-and-getting-things-done/01-direct-object-pronouns.md). You will not meet it before then.
 
 ### How often
 
