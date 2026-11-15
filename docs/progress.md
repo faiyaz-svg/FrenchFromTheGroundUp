@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 118 of 205. New lessons appear here as they are added.
+Lessons written so far: 122 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -157,3 +157,7 @@ Lessons written so far: 118 of 205. New lessons appear here as they are added.
 - [ ] [The relative pronouns dont and où](10-complex-sentences-and-requests/02-relative-dont-and-ou.md) (grammar)
 - [ ] [The relative pronoun lequel](10-complex-sentences-and-requests/03-relative-lequel.md) (grammar)
 - [ ] [The subjunctive after il faut que](10-complex-sentences-and-requests/04-subjunctive-il-faut-que.md) (grammar)
+- [ ] [The subjunctive: wishes and feelings](10-complex-sentences-and-requests/05-subjunctive-vouloir-que-emotion.md) (grammar)
+- [ ] [Pronoun order](10-complex-sentences-and-requests/06-pronoun-order.md) (grammar)
+- [ ] [Agreeing and disagreeing in meetings](10-complex-sentences-and-requests/07-agreeing-in-meetings.md) (speak)
+- [ ] [At the bank](10-complex-sentences-and-requests/08-at-the-bank.md) (speak)

@@ -182,10 +182,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="10-complex-sentences-and-requests/02-relative-dont-and-ou/" data-lesson="10-complex-sentences-and-requests/02-relative-dont-and-ou/" title="The relative pronouns dont and où"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="10-complex-sentences-and-requests/03-relative-lequel/" data-lesson="10-complex-sentences-and-requests/03-relative-lequel/" title="The relative pronoun lequel"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="10-complex-sentences-and-requests/04-subjunctive-il-faut-que/" data-lesson="10-complex-sentences-and-requests/04-subjunctive-il-faut-que/" title="The subjunctive after il faut que"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="The subjunctive: wishes and feelings"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="Pronoun order"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="Agreeing and disagreeing in meetings"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="At the bank"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="10-complex-sentences-and-requests/05-subjunctive-vouloir-que-emotion/" data-lesson="10-complex-sentences-and-requests/05-subjunctive-vouloir-que-emotion/" title="The subjunctive: wishes and feelings"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="10-complex-sentences-and-requests/06-pronoun-order/" data-lesson="10-complex-sentences-and-requests/06-pronoun-order/" title="Pronoun order"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="10-complex-sentences-and-requests/07-agreeing-in-meetings/" data-lesson="10-complex-sentences-and-requests/07-agreeing-in-meetings/" title="Agreeing and disagreeing in meetings"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="10-complex-sentences-and-requests/08-at-the-bank/" data-lesson="10-complex-sentences-and-requests/08-at-the-bank/" title="At the bank"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="Music and TV in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="A radio interview"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="A formal request"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
