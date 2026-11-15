@@ -38,3 +38,11 @@ REMERCIER_POUR
 CONSTRUCTION_DANS_LES_EXPRESSIONS
 # Correct double pronoun order taught in 10-06.
 ACCORD_PRONOM_POSSESSIF_LEUR | Je les leur montre.
+# Capital for nationality nouns: fires on the names of languages (le français, l'anglais), which are lowercase.
+GENTILE
+# Checked correct in stage 12: "sans antécédent" (singular), the possessive pronoun "la leur",
+# "en a un" (verb avoir next to a masked example), "vous écouter parler" (pronoun + infinitive).
+ACCORD_EXPRESSION_SANS_COMPLEMENT | antécédent
+LA_LA | la leur
+A_A_ACCENT2 | a
+VOUS_NOUS_NON_VERBE | écouter

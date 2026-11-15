@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 140 of 205. New lessons appear here as they are added.
+Lessons written so far: 144 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -182,3 +182,10 @@ Lessons written so far: 140 of 205. New lessons appear here as they are added.
 - [ ] [Writing a complaint](11-reporting-and-opinions/11-writing-a-complaint.md) (write)
 - [ ] [Opinion columns](11-reporting-and-opinions/12-opinion-columns.md) (read)
 - [ ] [News and opinions roundup](11-reporting-and-opinions/13-news-and-opinions-roundup.md) (listen, review)
+
+### Stage 12: Real Montreal
+
+- [ ] [Ce qui, ce que and ce dont](12-real-montreal/01-ce-qui-ce-que-ce-dont.md) (grammar)
+- [ ] [Indefinites, demonstratives and possessives](12-real-montreal/02-indefinites-demonstratives-possessives.md) (grammar)
+- [ ] [Casual speech in Quebec](12-real-montreal/03-quebec-casual-speech.md) (quebec)
+- [ ] [Slang: recognise all, use some](12-real-montreal/04-slang-recognise-all-use-some.md) (words)

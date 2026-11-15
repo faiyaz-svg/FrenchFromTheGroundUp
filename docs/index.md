@@ -214,10 +214,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="12">
 <a class="fm-seg-name" href="12-real-montreal/">12 · Real Montreal</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="Ce qui, ce que and ce dont"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Indefinites, demonstratives and possessives"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Casual speech in Quebec"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="Slang: recognise all, use some"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="12-real-montreal/01-ce-qui-ce-que-ce-dont/" data-lesson="12-real-montreal/01-ce-qui-ce-que-ce-dont/" title="Ce qui, ce que and ce dont"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/02-indefinites-demonstratives-possessives/" data-lesson="12-real-montreal/02-indefinites-demonstratives-possessives/" title="Indefinites, demonstratives and possessives"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/03-quebec-casual-speech/" data-lesson="12-real-montreal/03-quebec-casual-speech/" title="Casual speech in Quebec"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="12-real-montreal/04-slang-recognise-all-use-some/" data-lesson="12-real-montreal/04-slang-recognise-all-use-some/" title="Slang: recognise all, use some"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Sacres: recognise, don&#x27;t use"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Quebec vowels and diphthongs"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="A real-speed conversation"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

@@ -167,4 +167,4 @@ Oublier le conditionnel pour une information non confirmée. *La hausse serait d
 
 - **Résumé**: a short version of a text or a talk that keeps only the main ideas.
 
-Suite : Ce qui, ce que and ce dont<!-- link: ../12-real-montreal/01-ce-qui-ce-que-ce-dont.md -->
+Suite : [Ce qui, ce que and ce dont](../12-real-montreal/01-ce-qui-ce-que-ce-dont.md)

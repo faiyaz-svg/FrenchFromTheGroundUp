@@ -312,7 +312,9 @@ def mask_mentions(text: str) -> str:
     t = re.sub(r"(?<![*\w])\*(?!\*)([^*\n]+?)\*(?![*\w])", MENTION_PLACEHOLDER, t)
     # Quoted text in guillemets (often English glosses) and IPA in slashes are mentions too.
     t = re.sub(r"«[^»]*»", MENTION_PLACEHOLDER, t)
-    return re.sub(r"/[^/\s][^/]*/", MENTION_PLACEHOLDER, t)
+    t = re.sub(r"/[^/\s][^/]*/", MENTION_PLACEHOLDER, t)
+    # Quebec pronunciations in square brackets ([t͡sy]) are mentions as well.
+    return re.sub(r"\[[^\]]*\]", MENTION_PLACEHOLDER, t)
 
 
 def add_italic(doc: Doc, path: str, line: int, span: str, spell_only: bool = False) -> None:
