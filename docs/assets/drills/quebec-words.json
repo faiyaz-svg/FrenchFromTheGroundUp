@@ -412,6 +412,41 @@
    "en": "I don't know",
    "note": "casual speech",
    "stage": 8
+  },
+  {
+   "qc": "un échéancier",
+   "std": "un calendrier",
+   "en": "a schedule of dates",
+   "note": "Quebec use; the OQLF prefers calendrier for a general schedule",
+   "stage": 9
+  },
+  {
+   "qc": "un courriel",
+   "std": "un mail",
+   "en": "an email",
+   "note": "OQLF recommended term",
+   "stage": 9
+  },
+  {
+   "qc": "un 5 à 7",
+   "std": "un apéro après le travail",
+   "en": "after-work drinks",
+   "note": "Quebec",
+   "stage": 9
+  },
+  {
+   "qc": "le dîner",
+   "std": "le déjeuner",
+   "en": "the midday meal",
+   "note": "neutral in Quebec",
+   "stage": 9
+  },
+  {
+   "qc": "le télétravail",
+   "std": "le travail à distance",
+   "en": "remote work",
+   "note": "both are OQLF terms",
+   "stage": 9
   }
  ]
 }

@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 109 of 205. New lessons appear here as they are added.
+Lessons written so far: 114 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -145,3 +145,8 @@ Lessons written so far: 109 of 205. New lessons appear here as they are added.
 - [ ] [Serving the public](09-work-and-the-future/06-serving-the-public.md) (speak)
 - [ ] [Office and meeting words](09-work-and-the-future/07-office-and-meeting-words.md) (words)
 - [ ] [Work culture in Quebec](09-work-and-the-future/08-quebec-work-culture.md) (quebec)
+- [ ] [Listening to phone calls](09-work-and-the-future/09-listening-to-phone-calls.md) (listen)
+- [ ] [Work email basics](09-work-and-the-future/10-work-email-basics.md) (write)
+- [ ] [Workplace documents](09-work-and-the-future/11-workplace-documents.md) (read)
+- [ ] [Invitations and follow-ups](09-work-and-the-future/12-invitations-and-follow-ups.md) (write)
+- [ ] [A day at the office](09-work-and-the-future/13-a-day-at-the-office.md) (speak, review)

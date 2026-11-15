@@ -168,11 +168,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="09-work-and-the-future/06-serving-the-public/" data-lesson="09-work-and-the-future/06-serving-the-public/" title="Serving the public"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="09-work-and-the-future/07-office-and-meeting-words/" data-lesson="09-work-and-the-future/07-office-and-meeting-words/" title="Office and meeting words"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="09-work-and-the-future/08-quebec-work-culture/" data-lesson="09-work-and-the-future/08-quebec-work-culture/" title="Work culture in Quebec"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Listening to phone calls"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Work email basics"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Workplace documents"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Invitations and follow-ups"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="A day at the office"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="09-work-and-the-future/09-listening-to-phone-calls/" data-lesson="09-work-and-the-future/09-listening-to-phone-calls/" title="Listening to phone calls"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/10-work-email-basics/" data-lesson="09-work-and-the-future/10-work-email-basics/" title="Work email basics"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/11-workplace-documents/" data-lesson="09-work-and-the-future/11-workplace-documents/" title="Workplace documents"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/12-invitations-and-follow-ups/" data-lesson="09-work-and-the-future/12-invitations-and-follow-ups/" title="Invitations and follow-ups"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="09-work-and-the-future/13-a-day-at-the-office/" data-lesson="09-work-and-the-future/13-a-day-at-the-office/" title="A day at the office"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="10">

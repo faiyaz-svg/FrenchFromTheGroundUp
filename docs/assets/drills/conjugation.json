@@ -1767,6 +1767,278 @@
    "answer": "a neigé",
    "en": "to snow",
    "stage": 8
+  },
+  {
+   "verb": "parler",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "parlerai",
+   "en": "to speak",
+   "stage": 9
+  },
+  {
+   "verb": "parler",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "parlerons",
+   "en": "to speak",
+   "stage": 9
+  },
+  {
+   "verb": "finir",
+   "tense": "futur simple",
+   "person": "tu",
+   "answer": "finiras",
+   "en": "to finish",
+   "stage": 9
+  },
+  {
+   "verb": "finir",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "finiront",
+   "en": "to finish",
+   "stage": 9
+  },
+  {
+   "verb": "vendre",
+   "tense": "futur simple",
+   "person": "il",
+   "answer": "vendra",
+   "en": "to sell",
+   "stage": 9
+  },
+  {
+   "verb": "vendre",
+   "tense": "futur simple",
+   "person": "vous",
+   "answer": "vendrez",
+   "en": "to sell",
+   "stage": 9
+  },
+  {
+   "verb": "acheter",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "achèterai",
+   "en": "to buy",
+   "stage": 9
+  },
+  {
+   "verb": "appeler",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "appellerons",
+   "en": "to call",
+   "stage": 9
+  },
+  {
+   "verb": "être",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "serai",
+   "en": "to be",
+   "stage": 9
+  },
+  {
+   "verb": "être",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "seront",
+   "en": "to be",
+   "stage": 9
+  },
+  {
+   "verb": "avoir",
+   "tense": "futur simple",
+   "person": "tu",
+   "answer": "auras",
+   "en": "to have",
+   "stage": 9
+  },
+  {
+   "verb": "avoir",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "aurons",
+   "en": "to have",
+   "stage": 9
+  },
+  {
+   "verb": "aller",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "irai",
+   "en": "to go",
+   "stage": 9
+  },
+  {
+   "verb": "aller",
+   "tense": "futur simple",
+   "person": "vous",
+   "answer": "irez",
+   "en": "to go",
+   "stage": 9
+  },
+  {
+   "verb": "faire",
+   "tense": "futur simple",
+   "person": "il",
+   "answer": "fera",
+   "en": "to do",
+   "stage": 9
+  },
+  {
+   "verb": "faire",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "feront",
+   "en": "to do",
+   "stage": 9
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "pourrai",
+   "en": "to be able",
+   "stage": 9
+  },
+  {
+   "verb": "vouloir",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "voudrons",
+   "en": "to want",
+   "stage": 9
+  },
+  {
+   "verb": "devoir",
+   "tense": "futur simple",
+   "person": "tu",
+   "answer": "devras",
+   "en": "to have to",
+   "stage": 9
+  },
+  {
+   "verb": "venir",
+   "tense": "futur simple",
+   "person": "il",
+   "answer": "viendra",
+   "en": "to come",
+   "stage": 9
+  },
+  {
+   "verb": "voir",
+   "tense": "futur simple",
+   "person": "vous",
+   "answer": "verrez",
+   "en": "to see",
+   "stage": 9
+  },
+  {
+   "verb": "savoir",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "saurai",
+   "en": "to know",
+   "stage": 9
+  },
+  {
+   "verb": "envoyer",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "enverrons",
+   "en": "to send",
+   "stage": 9
+  },
+  {
+   "verb": "recevoir",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "recevront",
+   "en": "to receive",
+   "stage": 9
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "voudrais",
+   "en": "to want",
+   "stage": 9
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel présent",
+   "person": "vous",
+   "answer": "pourriez",
+   "en": "to be able",
+   "stage": 9
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel présent",
+   "person": "vous",
+   "answer": "auriez",
+   "en": "to have",
+   "stage": 9
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel présent",
+   "person": "il",
+   "answer": "serait",
+   "en": "to be",
+   "stage": 9
+  },
+  {
+   "verb": "aller",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "irions",
+   "en": "to go",
+   "stage": 9
+  },
+  {
+   "verb": "devoir",
+   "tense": "conditionnel présent",
+   "person": "tu",
+   "answer": "devrais",
+   "en": "to have to",
+   "stage": 9
+  },
+  {
+   "verb": "parler",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "parleraient",
+   "en": "to speak",
+   "stage": 9
+  },
+  {
+   "verb": "faire",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "ferais",
+   "en": "to do",
+   "stage": 9
+  },
+  {
+   "verb": "venir",
+   "tense": "conditionnel présent",
+   "person": "tu",
+   "answer": "viendrais",
+   "en": "to come",
+   "stage": 9
+  },
+  {
+   "verb": "vendre",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "vendrions",
+   "en": "to sell",
+   "stage": 9
   }
  ]
 }

@@ -1,0 +1,181 @@
+id	french	english	notes	tags
+l01-le-futur-simple	le futur simple	the simple future		b1 lesson01 grammar
+l01-prevoir	prévoir	to plan, to foresee	futur: je prévoirai	b1 lesson01 grammar
+l01-un-objectif	un objectif	a goal		b1 lesson01 grammar
+l01-un-reve	un rêve	a dream		b1 lesson01 grammar
+l01-un-avenir	un avenir	a future		b1 lesson01 grammar
+l01-plus-tard	plus tard	later		b1 lesson01 grammar
+l01-des-que	dès que	as soon as	+ futur simple	b1 lesson01 grammar
+l01-lorsque	lorsque	when	a little more formal than quand	b1 lesson01 grammar
+l01-aussitot-que	aussitôt que	as soon as	+ futur simple	b1 lesson01 grammar
+l01-un-espoir	un espoir	a hope		b1 lesson01 grammar
+l01-d-ici-la	d'ici là	until then, by then		b1 lesson01 grammar
+l01-ecoutez	Écoutez	Listen	instruction, vous form	b1 lesson01 grammar
+l01-repondez	Répondez	Answer	instruction	b1 lesson01 grammar
+l01-completez	Complétez	Complete	instruction	b1 lesson01 grammar
+l01-choisissez	Choisissez	Choose	instruction	b1 lesson01 grammar
+l01-lisez	Lisez	Read	instruction	b1 lesson01 grammar
+l01-ecrivez	Écrivez	Write	instruction	b1 lesson01 grammar
+l01-dites	Dites	Say	instruction	b1 lesson01 grammar
+l01-a-voix-haute	à voix haute	out loud		b1 lesson01 grammar
+l02-recevoir	recevoir	to receive	je reçois; futur: je recevrai	b1 lesson02 grammar
+l02-courir	courir	to run	futur: je courrai	b1 lesson02 grammar
+l02-un-delai	un délai	a time limit, time allowed	not "a delay"; late = un retard	b1 lesson02 grammar
+l02-un-echeancier	un échéancier	a schedule of dates	Quebec; also un calendrier	b1 lesson02 grammar
+l02-une-echeance	une échéance	a due date		b1 lesson02 grammar
+l02-une-date-limite	une date limite	a deadline		b1 lesson02 grammar
+l02-prochainement	prochainement	soon	formal, written	b1 lesson02 grammar
+l02-ulterieurement	ultérieurement	later, at a later date	formal	b1 lesson02 grammar
+l02-a-l-avance	à l'avance	ahead of time		b1 lesson02 grammar
+l02-un-radical	un radical	a stem	grammar term	b1 lesson02 grammar
+l03-le-conditionnel	le conditionnel	the conditional		b1 lesson03 grammar
+l03-suggerer	suggérer	to suggest	je suggère	b1 lesson03 grammar
+l03-recommander	recommander	to recommend		b1 lesson03 grammar
+l03-deranger	déranger	to bother, to disturb	Ça vous dérangerait? = Would you mind?	b1 lesson03 grammar
+l03-volontiers	volontiers	gladly		b1 lesson03 grammar
+l03-une-suggestion	une suggestion	a suggestion		b1 lesson03 grammar
+l03-pas-du-tout	pas du tout	not at all		b1 lesson03 grammar
+l03-un-renseignement	un renseignement	a piece of information		b1 lesson03 grammar
+l04-imaginer	imaginer	to imagine		b1 lesson04 grammar
+l04-supposer	supposer	to suppose		b1 lesson04 grammar
+l04-une-hypothese	une hypothèse	a hypothesis		b1 lesson04 grammar
+l04-une-condition	une condition	a condition		b1 lesson04 grammar
+l04-sinon	sinon	otherwise		b1 lesson04 grammar
+l04-autrement	autrement	otherwise		b1 lesson04 grammar
+l04-dans-ce-cas	dans ce cas	in that case		b1 lesson04 grammar
+l04-tant-pis	tant pis	too bad		b1 lesson04 grammar
+l04-tant-mieux	tant mieux	all the better		b1 lesson04 grammar
+l04-au-cas-ou	au cas où	in case	+ conditionnel	b1 lesson04 grammar
+l04-eventuellement	éventuellement	possibly	not "eventually"	b1 lesson04 grammar
+l04-meme-si	même si	even if		b1 lesson04 grammar
+l04-une-proposition	une proposition	a clause	grammar term	b1 lesson04 grammar
+l05-un-standard	un standard	a switchboard		b1 lesson05 speak
+l05-un-poste	un poste	an extension; a job position		b1 lesson05 speak
+l05-transferer	transférer	to transfer	je transfère	b1 lesson05 speak
+l05-joindre	joindre	to reach	by phone; joint	b1 lesson05 speak
+l05-un-interlocuteur-une-interlocutrice	un interlocuteur, une interlocutrice	the person you speak with		b1 lesson05 speak
+l05-absent-absente	absent, absente	not there, absent		b1 lesson05 speak
+l05-un-directeur-une-directrice	un directeur, une directrice	a manager, a director		b1 lesson05 speak
+l05-un-adjoint-une-adjointe	un adjoint, une adjointe	an assistant manager		b1 lesson05 speak
+l05-un-bureau	un bureau	an office; a desk		b1 lesson05 speak
+l05-une-reunion	une réunion	a meeting		b1 lesson05 speak
+l05-a-l-appareil	à l'appareil	on the line		b1 lesson05 speak
+l05-c-est-de-la-part-de-qui	C'est de la part de qui?	Who is calling?		b1 lesson05 speak
+l05-ne-quittez-pas	Ne quittez pas.	Hold the line.		b1 lesson05 speak
+l05-epeler	épeler	to spell		b1 lesson05 speak
+l05-un-message	un message	a message		b1 lesson05 speak
+l05-un-cabinet	un cabinet	a firm, an office	law or medical firm	b1 lesson05 speak
+l05-une-receptionniste	une réceptionniste	a receptionist		b1 lesson05 speak
+l06-un-usager-une-usagere	un usager, une usagère	a user of a service		b1 lesson06 speak
+l06-un-dossier	un dossier	a file, a case		b1 lesson06 speak
+l06-un-document	un document	a document		b1 lesson06 speak
+l06-une-piece-d-identite	une pièce d'identité	an identity document		b1 lesson06 speak
+l06-un-justificatif	un justificatif	a proof, a supporting paper		b1 lesson06 speak
+l06-un-justificatif-de-domicile	un justificatif de domicile	proof of address		b1 lesson06 speak
+l06-un-permis	un permis	a permit, a licence		b1 lesson06 speak
+l06-traiter	traiter	to process		b1 lesson06 speak
+l06-signer	signer	to sign		b1 lesson06 speak
+l06-valider	valider	to validate, to approve		b1 lesson06 speak
+l06-un-accueil	un accueil	a reception area		b1 lesson06 speak
+l06-l-offre-active	l'offre active	the active offer		b1 lesson06 speak
+l06-il-manque	il manque	is missing	il vous manque un papier	b1 lesson06 speak
+l06-un-comptoir	un comptoir	a counter		b1 lesson06 speak
+l06-un-formulaire	un formulaire	a form		b1 lesson06 speak
+l06-un-tour	un tour	a turn	attendre son tour	b1 lesson06 speak
+l06-renouveler	renouveler	to renew	je renouvelle	b1 lesson06 speak
+l06-par-courrier	par courrier	by mail		b1 lesson06 speak
+l07-un-gestionnaire-une-gestionnaire	un gestionnaire, une gestionnaire	a manager		b1 lesson07 words
+l07-un-salaire	un salaire	a salary, pay		b1 lesson07 words
+l07-un-conge	un congé	time off, leave		b1 lesson07 words
+l07-un-ordre-du-jour	un ordre du jour	an agenda		b1 lesson07 words
+l07-un-proces-verbal	un procès-verbal	the minutes of a meeting		b1 lesson07 words
+l07-un-compte-rendu	un compte rendu	a summary, a report		b1 lesson07 words
+l07-une-presentation	une présentation	a presentation		b1 lesson07 words
+l07-une-tache	une tâche	a task		b1 lesson07 words
+l07-un-rapport	un rapport	a report		b1 lesson07 words
+l07-un-budget	un budget	a budget		b1 lesson07 words
+l07-une-imprimante	une imprimante	a printer		b1 lesson07 words
+l07-un-ecran	un écran	a screen		b1 lesson07 words
+l07-un-clavier	un clavier	a keyboard		b1 lesson07 words
+l07-un-logiciel	un logiciel	software		b1 lesson07 words
+l07-un-fichier	un fichier	a computer file		b1 lesson07 words
+l07-le-teletravail	le télétravail	remote work	also télétravailler, to work remotely	b1 lesson07 words
+l07-en-presentiel	en présentiel	in person		b1 lesson07 words
+l07-a-distance	à distance	remotely		b1 lesson07 words
+l07-une-visioconference	une visioconférence	a video meeting		b1 lesson07 words
+l07-un-partage-d-ecran	un partage d'écran	a screen share		b1 lesson07 words
+l07-une-pause	une pause	a break		b1 lesson07 words
+l07-un-ordinateur	un ordinateur	a computer		b1 lesson07 words
+l07-un-courriel	un courriel	an email	Quebec, OQLF	b1 lesson07 words
+l07-un-point	un point	an item, a point		b1 lesson07 words
+l08-un-employeur-une-employeuse	un employeur, une employeuse	an employer		b1 lesson08 quebec
+l08-un-contrat	un contrat	a contract		b1 lesson08 quebec
+l08-un-syndicat	un syndicat	a union		b1 lesson08 quebec
+l08-une-convention-collective	une convention collective	a collective agreement		b1 lesson08 quebec
+l08-un-conge-parental	un congé parental	parental leave		b1 lesson08 quebec
+l08-le-tutoiement	le tutoiement	using tu		b1 lesson08 quebec
+l08-le-vouvoiement	le vouvoiement	using vous		b1 lesson08 quebec
+l08-se-tutoyer	se tutoyer	to use tu with each other	on se tutoie	b1 lesson08 quebec
+l08-se-vouvoyer	se vouvoyer	to use vous with each other	on se vouvoie	b1 lesson08 quebec
+l08-la-francisation	la francisation	francisation	making French the common language of an organisation	b1 lesson08 quebec
+l08-un-organisme	un organisme	a public body, an organisation		b1 lesson08 quebec
+l08-une-assurance-collective	une assurance collective	group insurance		b1 lesson08 quebec
+l08-un-employe-une-employee	un employé, une employée	an employee		b1 lesson08 quebec
+l08-un-droit	un droit	a right		b1 lesson08 quebec
+l08-les-vacances	les vacances	vacation		b1 lesson08 quebec
+l08-les-ressources-humaines	les ressources humaines	human resources		b1 lesson08 quebec
+l09-reporter	reporter	to postpone		b1 lesson09 listen
+l09-deplacer	déplacer	to move (a date)	nous déplaçons	b1 lesson09 listen
+l09-un-suivi	un suivi	a follow-up		b1 lesson09 listen
+l09-un-imprevu	un imprévu	something unexpected		b1 lesson09 listen
+l09-un-contretemps	un contretemps	a hitch, a delay		b1 lesson09 listen
+l09-en-deplacement	en déplacement	travelling for work		b1 lesson09 listen
+l09-de-retour	de retour	back		b1 lesson09 listen
+l09-le-plus-tot-possible	le plus tôt possible	as soon as possible		b1 lesson09 listen
+l09-sous-peu	sous peu	shortly		b1 lesson09 listen
+l09-une-livraison	une livraison	a delivery		b1 lesson09 listen
+l09-livrer	livrer	to deliver		b1 lesson09 listen
+l09-une-commande	une commande	an order		b1 lesson09 listen
+l10-une-copie-conforme	une copie conforme	a copy (cc)		b1 lesson10 write
+l10-en-piece-jointe	en pièce jointe	attached		b1 lesson10 write
+l10-une-piece-jointe	une pièce jointe	an attachment		b1 lesson10 write
+l10-ci-joint	ci-joint	attached, enclosed	does not change as an adverb	b1 lesson10 write
+l10-a-la-suite-de	à la suite de	following	also suite à	b1 lesson10 write
+l10-dans-l-attente-de	dans l'attente de	while waiting for	formal	b1 lesson10 write
+l10-faire-parvenir	faire parvenir	to send, to forward	formal	b1 lesson10 write
+l10-un-destinataire	un destinataire	the person who receives		b1 lesson10 write
+l10-un-expediteur	un expéditeur	the person who sends		b1 lesson10 write
+l10-une-salutation	une salutation	a greeting (in writing)		b1 lesson10 write
+l10-une-signature	une signature	a signature		b1 lesson10 write
+l10-la-comprehension	la compréhension	understanding		b1 lesson10 write
+l11-une-note-de-service	une note de service	a memo		b1 lesson11 read
+l11-une-description-de-taches	une description de tâches	a job description		b1 lesson11 read
+l11-une-politique	une politique	a policy		b1 lesson11 read
+l11-une-directive	une directive	a directive		b1 lesson11 read
+l11-une-procedure	une procédure	a procedure		b1 lesson11 read
+l11-un-mandat	un mandat	a mandate		b1 lesson11 read
+l11-un-role	un rôle	a role		b1 lesson11 read
+l11-une-responsabilite	une responsabilité	a responsibility		b1 lesson11 read
+l11-une-exigence	une exigence	a requirement		b1 lesson11 read
+l11-une-competence	une compétence	a skill		b1 lesson11 read
+l11-un-atout	un atout	an asset		b1 lesson11 read
+l11-un-horaire	un horaire	a schedule, timetable		b1 lesson11 read
+l11-en-vigueur	en vigueur	in force		b1 lesson11 read
+l11-a-temps-plein	à temps plein	full time		b1 lesson11 read
+l11-joignable	joignable	reachable		b1 lesson11 read
+l11-une-direction	une direction	a department, a management team		b1 lesson11 read
+l12-une-invitation	une invitation	an invitation		b1 lesson12 write
+l12-convier	convier	to invite	formal	b1 lesson12 write
+l12-avoir-lieu	avoir lieu	to take place		b1 lesson12 write
+l12-un-participant-une-participante	un participant, une participante	a participant		b1 lesson12 write
+l12-une-decision	une décision	a decision		b1 lesson12 write
+l12-responsable	responsable	in charge		b1 lesson12 write
+l12-relancer	relancer	to follow up with, to chase		b1 lesson12 write
+l12-un-rappel	un rappel	a reminder		b1 lesson12 write
+l12-une-salle	une salle	a room		b1 lesson12 write
+l13-une-pause-cafe	une pause-café	a coffee break		b1 lesson13 speak
+l13-une-cafeteria	une cafétéria	a cafeteria, a staff canteen		b1 lesson13 speak
+l13-des-heures-supplementaires	des heures supplémentaires	overtime		b1 lesson13 speak
+l13-un-horaire-flexible	un horaire flexible	a flexible schedule		b1 lesson13 speak
+l13-terminer	terminer	to finish, to end		b1 lesson13 speak
+l13-un-point-d-equipe	un point d'équipe	a quick team meeting		b1 lesson13 speak

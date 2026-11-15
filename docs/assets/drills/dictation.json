@@ -619,6 +619,66 @@
    "fr": "Le vingt-quatre juin, c'est la Fête nationale.",
    "en": "June 24 is the Fête nationale.",
    "stage": 8
+  },
+  {
+   "fr": "Je finirai ce projet demain.",
+   "en": "I will finish this project tomorrow.",
+   "stage": 9
+  },
+  {
+   "fr": "Nous serons au bureau à neuf heures.",
+   "en": "We will be at the office at nine.",
+   "stage": 9
+  },
+  {
+   "fr": "Dès que j'aurai les chiffres, je téléphonerai.",
+   "en": "As soon as I have the figures, I will phone.",
+   "stage": 9
+  },
+  {
+   "fr": "Je voudrais parler à madame Roy.",
+   "en": "I would like to speak to Ms. Roy.",
+   "stage": 9
+  },
+  {
+   "fr": "Pourriez-vous m'aider?",
+   "en": "Could you help me?",
+   "stage": 9
+  },
+  {
+   "fr": "Si j'avais le temps, je viendrais.",
+   "en": "If I had time, I would come.",
+   "stage": 9
+  },
+  {
+   "fr": "Ne quittez pas, je vous transfère.",
+   "en": "Hold the line, I am transferring you.",
+   "stage": 9
+  },
+  {
+   "fr": "Il vous manque un justificatif de domicile.",
+   "en": "You are missing proof of address.",
+   "stage": 9
+  },
+  {
+   "fr": "La réunion aura lieu mardi.",
+   "en": "The meeting will take place on Tuesday.",
+   "stage": 9
+  },
+  {
+   "fr": "Je télétravaille le mardi.",
+   "en": "I work remotely on Tuesdays.",
+   "stage": 9
+  },
+  {
+   "fr": "Dans l'attente de votre réponse, je vous remercie.",
+   "en": "While waiting for your reply, I thank you.",
+   "stage": 9
+  },
+  {
+   "fr": "Nous vous enverrons les documents à l'avance.",
+   "en": "We will send you the documents ahead of time.",
+   "stage": 9
   }
  ]
 }

@@ -1,0 +1,750 @@
+{
+ "conjugation": [
+  {
+   "verb": "parler",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "parlerai",
+   "en": "to speak",
+   "stage": 9
+  },
+  {
+   "verb": "parler",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "parlerons",
+   "en": "to speak",
+   "stage": 9
+  },
+  {
+   "verb": "finir",
+   "tense": "futur simple",
+   "person": "tu",
+   "answer": "finiras",
+   "en": "to finish",
+   "stage": 9
+  },
+  {
+   "verb": "finir",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "finiront",
+   "en": "to finish",
+   "stage": 9
+  },
+  {
+   "verb": "vendre",
+   "tense": "futur simple",
+   "person": "il",
+   "answer": "vendra",
+   "en": "to sell",
+   "stage": 9
+  },
+  {
+   "verb": "vendre",
+   "tense": "futur simple",
+   "person": "vous",
+   "answer": "vendrez",
+   "en": "to sell",
+   "stage": 9
+  },
+  {
+   "verb": "acheter",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "achèterai",
+   "en": "to buy",
+   "stage": 9
+  },
+  {
+   "verb": "appeler",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "appellerons",
+   "en": "to call",
+   "stage": 9
+  },
+  {
+   "verb": "être",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "serai",
+   "en": "to be",
+   "stage": 9
+  },
+  {
+   "verb": "être",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "seront",
+   "en": "to be",
+   "stage": 9
+  },
+  {
+   "verb": "avoir",
+   "tense": "futur simple",
+   "person": "tu",
+   "answer": "auras",
+   "en": "to have",
+   "stage": 9
+  },
+  {
+   "verb": "avoir",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "aurons",
+   "en": "to have",
+   "stage": 9
+  },
+  {
+   "verb": "aller",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "irai",
+   "en": "to go",
+   "stage": 9
+  },
+  {
+   "verb": "aller",
+   "tense": "futur simple",
+   "person": "vous",
+   "answer": "irez",
+   "en": "to go",
+   "stage": 9
+  },
+  {
+   "verb": "faire",
+   "tense": "futur simple",
+   "person": "il",
+   "answer": "fera",
+   "en": "to do",
+   "stage": 9
+  },
+  {
+   "verb": "faire",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "feront",
+   "en": "to do",
+   "stage": 9
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "pourrai",
+   "en": "to be able",
+   "stage": 9
+  },
+  {
+   "verb": "vouloir",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "voudrons",
+   "en": "to want",
+   "stage": 9
+  },
+  {
+   "verb": "devoir",
+   "tense": "futur simple",
+   "person": "tu",
+   "answer": "devras",
+   "en": "to have to",
+   "stage": 9
+  },
+  {
+   "verb": "venir",
+   "tense": "futur simple",
+   "person": "il",
+   "answer": "viendra",
+   "en": "to come",
+   "stage": 9
+  },
+  {
+   "verb": "voir",
+   "tense": "futur simple",
+   "person": "vous",
+   "answer": "verrez",
+   "en": "to see",
+   "stage": 9
+  },
+  {
+   "verb": "savoir",
+   "tense": "futur simple",
+   "person": "je",
+   "answer": "saurai",
+   "en": "to know",
+   "stage": 9
+  },
+  {
+   "verb": "envoyer",
+   "tense": "futur simple",
+   "person": "nous",
+   "answer": "enverrons",
+   "en": "to send",
+   "stage": 9
+  },
+  {
+   "verb": "recevoir",
+   "tense": "futur simple",
+   "person": "ils",
+   "answer": "recevront",
+   "en": "to receive",
+   "stage": 9
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "voudrais",
+   "en": "to want",
+   "stage": 9
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel présent",
+   "person": "vous",
+   "answer": "pourriez",
+   "en": "to be able",
+   "stage": 9
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel présent",
+   "person": "vous",
+   "answer": "auriez",
+   "en": "to have",
+   "stage": 9
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel présent",
+   "person": "il",
+   "answer": "serait",
+   "en": "to be",
+   "stage": 9
+  },
+  {
+   "verb": "aller",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "irions",
+   "en": "to go",
+   "stage": 9
+  },
+  {
+   "verb": "devoir",
+   "tense": "conditionnel présent",
+   "person": "tu",
+   "answer": "devrais",
+   "en": "to have to",
+   "stage": 9
+  },
+  {
+   "verb": "parler",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "parleraient",
+   "en": "to speak",
+   "stage": 9
+  },
+  {
+   "verb": "faire",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "ferais",
+   "en": "to do",
+   "stage": 9
+  },
+  {
+   "verb": "venir",
+   "tense": "conditionnel présent",
+   "person": "tu",
+   "answer": "viendrais",
+   "en": "to come",
+   "stage": 9
+  },
+  {
+   "verb": "vendre",
+   "tense": "conditionnel présent",
+   "person": "nous",
+   "answer": "vendrions",
+   "en": "to sell",
+   "stage": 9
+  }
+ ],
+ "gender": [
+  {
+   "noun": "bureau",
+   "answer": "le",
+   "en": "office",
+   "stage": 9
+  },
+  {
+   "noun": "réunion",
+   "answer": "la",
+   "en": "meeting",
+   "stage": 9
+  },
+  {
+   "noun": "poste",
+   "answer": "le",
+   "en": "extension, job",
+   "stage": 9
+  },
+  {
+   "noun": "standard",
+   "answer": "le",
+   "en": "switchboard",
+   "stage": 9
+  },
+  {
+   "noun": "dossier",
+   "answer": "le",
+   "en": "file",
+   "stage": 9
+  },
+  {
+   "noun": "document",
+   "answer": "le",
+   "en": "document",
+   "stage": 9
+  },
+  {
+   "noun": "permis",
+   "answer": "le",
+   "en": "permit",
+   "stage": 9
+  },
+  {
+   "noun": "justificatif",
+   "answer": "le",
+   "en": "proof",
+   "stage": 9
+  },
+  {
+   "noun": "accueil",
+   "answer": "le",
+   "elided": true,
+   "en": "reception",
+   "stage": 9
+  },
+  {
+   "noun": "logiciel",
+   "answer": "le",
+   "en": "software",
+   "stage": 9
+  },
+  {
+   "noun": "fichier",
+   "answer": "le",
+   "en": "computer file",
+   "stage": 9
+  },
+  {
+   "noun": "clavier",
+   "answer": "le",
+   "en": "keyboard",
+   "stage": 9
+  },
+  {
+   "noun": "écran",
+   "answer": "le",
+   "elided": true,
+   "en": "screen",
+   "stage": 9
+  },
+  {
+   "noun": "imprimante",
+   "answer": "la",
+   "elided": true,
+   "en": "printer",
+   "stage": 9
+  },
+  {
+   "noun": "tâche",
+   "answer": "la",
+   "en": "task",
+   "stage": 9
+  },
+  {
+   "noun": "budget",
+   "answer": "le",
+   "en": "budget",
+   "stage": 9
+  },
+  {
+   "noun": "salaire",
+   "answer": "le",
+   "en": "salary",
+   "stage": 9
+  },
+  {
+   "noun": "congé",
+   "answer": "le",
+   "en": "time off",
+   "stage": 9
+  },
+  {
+   "noun": "pause",
+   "answer": "la",
+   "en": "break",
+   "stage": 9
+  },
+  {
+   "noun": "contrat",
+   "answer": "le",
+   "en": "contract",
+   "stage": 9
+  },
+  {
+   "noun": "politique",
+   "answer": "la",
+   "en": "policy",
+   "stage": 9
+  },
+  {
+   "noun": "procédure",
+   "answer": "la",
+   "en": "procedure",
+   "stage": 9
+  },
+  {
+   "noun": "compétence",
+   "answer": "la",
+   "en": "skill",
+   "stage": 9
+  },
+  {
+   "noun": "invitation",
+   "answer": "la",
+   "elided": true,
+   "en": "invitation",
+   "stage": 9
+  },
+  {
+   "noun": "décision",
+   "answer": "la",
+   "en": "decision",
+   "stage": 9
+  },
+  {
+   "noun": "rappel",
+   "answer": "le",
+   "en": "reminder",
+   "stage": 9
+  },
+  {
+   "noun": "suivi",
+   "answer": "le",
+   "en": "follow-up",
+   "stage": 9
+  },
+  {
+   "noun": "livraison",
+   "answer": "la",
+   "en": "delivery",
+   "stage": 9
+  },
+  {
+   "noun": "commande",
+   "answer": "la",
+   "en": "order",
+   "stage": 9
+  },
+  {
+   "noun": "imprévu",
+   "answer": "le",
+   "elided": true,
+   "en": "unexpected event",
+   "stage": 9
+  },
+  {
+   "noun": "contretemps",
+   "answer": "le",
+   "en": "hitch",
+   "stage": 9
+  }
+ ],
+ "fill": [
+  {
+   "q": "Demain, nous ___ au client. (parler)",
+   "hint": "parler",
+   "a": [
+    "parlerons"
+   ],
+   "en": "Tomorrow, we will talk to the client.",
+   "stage": 9
+  },
+  {
+   "q": "Je ___ ce soir. (finir)",
+   "hint": "finir",
+   "a": [
+    "finirai"
+   ],
+   "en": "I will finish tonight.",
+   "stage": 9
+  },
+  {
+   "q": "Dès que j'___ le message, je téléphonerai. (avoir)",
+   "hint": "avoir",
+   "a": [
+    "aurai"
+   ],
+   "en": "As soon as I have the message, I will phone.",
+   "stage": 9
+  },
+  {
+   "q": "Tu ___ à Ottawa lundi. (être)",
+   "hint": "être",
+   "a": [
+    "seras"
+   ],
+   "en": "You will be in Ottawa on Monday.",
+   "stage": 9
+  },
+  {
+   "q": "Nous ___ au bureau demain. (aller)",
+   "hint": "aller",
+   "a": [
+    "irons"
+   ],
+   "en": "We will go to the office tomorrow.",
+   "stage": 9
+  },
+  {
+   "q": "Il ___ beau demain. (faire)",
+   "hint": "faire",
+   "a": [
+    "fera"
+   ],
+   "en": "The weather will be nice tomorrow.",
+   "stage": 9
+  },
+  {
+   "q": "Vous ___ la réponse jeudi. (recevoir)",
+   "hint": "recevoir",
+   "a": [
+    "recevrez"
+   ],
+   "en": "You will receive the answer on Thursday.",
+   "stage": 9
+  },
+  {
+   "q": "Elles ___ venir à la réunion. (pouvoir)",
+   "hint": "pouvoir",
+   "a": [
+    "pourront"
+   ],
+   "en": "They will be able to come to the meeting.",
+   "stage": 9
+  },
+  {
+   "q": "Je ___ un renseignement, s'il vous plaît. (vouloir)",
+   "hint": "vouloir, polite",
+   "a": [
+    "voudrais"
+   ],
+   "en": "I would like some information, please.",
+   "stage": 9
+  },
+  {
+   "q": "Vous ___ répéter, s'il vous plaît? (pouvoir)",
+   "hint": "pouvoir, polite",
+   "a": [
+    "pourriez"
+   ],
+   "en": "Could you repeat, please?",
+   "stage": 9
+  },
+  {
+   "q": "Tu ___ parler au directeur. (devoir)",
+   "hint": "devoir, advice",
+   "a": [
+    "devrais"
+   ],
+   "en": "You should talk to the manager.",
+   "stage": 9
+  },
+  {
+   "q": "Si j'___ le temps, je viendrais. (avoir)",
+   "hint": "avoir, imparfait",
+   "a": [
+    "avais"
+   ],
+   "en": "If I had time, I would come.",
+   "stage": 9
+  },
+  {
+   "q": "Si tu viens, nous ___ le projet. (finir)",
+   "hint": "finir, futur simple",
+   "a": [
+    "finirons"
+   ],
+   "en": "If you come, we will finish the project.",
+   "stage": 9
+  },
+  {
+   "q": "Si nous déménagions, nous ___ une maison. (acheter)",
+   "hint": "acheter, conditionnel",
+   "a": [
+    "achèterions"
+   ],
+   "en": "If we moved, we would buy a house.",
+   "stage": 9
+  },
+  {
+   "q": "Ne ___ pas, je vous transfère. (quitter)",
+   "hint": "quitter, imperative",
+   "a": [
+    "quittez"
+   ],
+   "en": "Hold the line, I am transferring you.",
+   "stage": 9
+  },
+  {
+   "q": "C'est de la ___ de qui?",
+   "hint": "who is calling",
+   "a": [
+    "part"
+   ],
+   "en": "Who is calling?",
+   "stage": 9
+  },
+  {
+   "q": "Il vous ___ un justificatif. (manquer)",
+   "hint": "manquer",
+   "a": [
+    "manque"
+   ],
+   "en": "You are missing a supporting paper.",
+   "stage": 9
+  },
+  {
+   "q": "Le rapport est en pièce ___.",
+   "hint": "attached",
+   "a": [
+    "jointe"
+   ],
+   "en": "The report is attached.",
+   "stage": 9
+  },
+  {
+   "q": "La réunion ___ lieu mardi. (avoir)",
+   "hint": "avoir lieu",
+   "a": [
+    "aura"
+   ],
+   "en": "The meeting will take place on Tuesday.",
+   "stage": 9
+  },
+  {
+   "q": "Dans l'___ de votre réponse, je vous remercie.",
+   "hint": "while waiting",
+   "a": [
+    "attente"
+   ],
+   "en": "While waiting for your reply, I thank you.",
+   "stage": 9
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "Je finirai ce projet demain.",
+   "en": "I will finish this project tomorrow.",
+   "stage": 9
+  },
+  {
+   "fr": "Nous serons au bureau à neuf heures.",
+   "en": "We will be at the office at nine.",
+   "stage": 9
+  },
+  {
+   "fr": "Dès que j'aurai les chiffres, je téléphonerai.",
+   "en": "As soon as I have the figures, I will phone.",
+   "stage": 9
+  },
+  {
+   "fr": "Je voudrais parler à madame Roy.",
+   "en": "I would like to speak to Ms. Roy.",
+   "stage": 9
+  },
+  {
+   "fr": "Pourriez-vous m'aider?",
+   "en": "Could you help me?",
+   "stage": 9
+  },
+  {
+   "fr": "Si j'avais le temps, je viendrais.",
+   "en": "If I had time, I would come.",
+   "stage": 9
+  },
+  {
+   "fr": "Ne quittez pas, je vous transfère.",
+   "en": "Hold the line, I am transferring you.",
+   "stage": 9
+  },
+  {
+   "fr": "Il vous manque un justificatif de domicile.",
+   "en": "You are missing proof of address.",
+   "stage": 9
+  },
+  {
+   "fr": "La réunion aura lieu mardi.",
+   "en": "The meeting will take place on Tuesday.",
+   "stage": 9
+  },
+  {
+   "fr": "Je télétravaille le mardi.",
+   "en": "I work remotely on Tuesdays.",
+   "stage": 9
+  },
+  {
+   "fr": "Dans l'attente de votre réponse, je vous remercie.",
+   "en": "While waiting for your reply, I thank you.",
+   "stage": 9
+  },
+  {
+   "fr": "Nous vous enverrons les documents à l'avance.",
+   "en": "We will send you the documents ahead of time.",
+   "stage": 9
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "un échéancier",
+   "std": "un calendrier",
+   "en": "a schedule of dates",
+   "note": "Quebec use; the OQLF prefers calendrier for a general schedule",
+   "stage": 9
+  },
+  {
+   "qc": "un courriel",
+   "std": "un mail",
+   "en": "an email",
+   "note": "OQLF recommended term",
+   "stage": 9
+  },
+  {
+   "qc": "un 5 à 7",
+   "std": "un apéro après le travail",
+   "en": "after-work drinks",
+   "note": "Quebec",
+   "stage": 9
+  },
+  {
+   "qc": "le dîner",
+   "std": "le déjeuner",
+   "en": "the midday meal",
+   "note": "neutral in Quebec",
+   "stage": 9
+  },
+  {
+   "qc": "le télétravail",
+   "std": "le travail à distance",
+   "en": "remote work",
+   "note": "both are OQLF terms",
+   "stage": 9
+  }
+ ]
+}

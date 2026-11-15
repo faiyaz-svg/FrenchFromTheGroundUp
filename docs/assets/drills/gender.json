@@ -1540,6 +1540,197 @@
    "answer": "le",
    "en": "tour",
    "stage": 8
+  },
+  {
+   "noun": "bureau",
+   "answer": "le",
+   "en": "office",
+   "stage": 9
+  },
+  {
+   "noun": "réunion",
+   "answer": "la",
+   "en": "meeting",
+   "stage": 9
+  },
+  {
+   "noun": "poste",
+   "answer": "le",
+   "en": "extension, job",
+   "stage": 9
+  },
+  {
+   "noun": "standard",
+   "answer": "le",
+   "en": "switchboard",
+   "stage": 9
+  },
+  {
+   "noun": "dossier",
+   "answer": "le",
+   "en": "file",
+   "stage": 9
+  },
+  {
+   "noun": "document",
+   "answer": "le",
+   "en": "document",
+   "stage": 9
+  },
+  {
+   "noun": "permis",
+   "answer": "le",
+   "en": "permit",
+   "stage": 9
+  },
+  {
+   "noun": "justificatif",
+   "answer": "le",
+   "en": "proof",
+   "stage": 9
+  },
+  {
+   "noun": "accueil",
+   "answer": "le",
+   "elided": true,
+   "en": "reception",
+   "stage": 9
+  },
+  {
+   "noun": "logiciel",
+   "answer": "le",
+   "en": "software",
+   "stage": 9
+  },
+  {
+   "noun": "fichier",
+   "answer": "le",
+   "en": "computer file",
+   "stage": 9
+  },
+  {
+   "noun": "clavier",
+   "answer": "le",
+   "en": "keyboard",
+   "stage": 9
+  },
+  {
+   "noun": "écran",
+   "answer": "le",
+   "elided": true,
+   "en": "screen",
+   "stage": 9
+  },
+  {
+   "noun": "imprimante",
+   "answer": "la",
+   "elided": true,
+   "en": "printer",
+   "stage": 9
+  },
+  {
+   "noun": "tâche",
+   "answer": "la",
+   "en": "task",
+   "stage": 9
+  },
+  {
+   "noun": "budget",
+   "answer": "le",
+   "en": "budget",
+   "stage": 9
+  },
+  {
+   "noun": "salaire",
+   "answer": "le",
+   "en": "salary",
+   "stage": 9
+  },
+  {
+   "noun": "congé",
+   "answer": "le",
+   "en": "time off",
+   "stage": 9
+  },
+  {
+   "noun": "pause",
+   "answer": "la",
+   "en": "break",
+   "stage": 9
+  },
+  {
+   "noun": "contrat",
+   "answer": "le",
+   "en": "contract",
+   "stage": 9
+  },
+  {
+   "noun": "politique",
+   "answer": "la",
+   "en": "policy",
+   "stage": 9
+  },
+  {
+   "noun": "procédure",
+   "answer": "la",
+   "en": "procedure",
+   "stage": 9
+  },
+  {
+   "noun": "compétence",
+   "answer": "la",
+   "en": "skill",
+   "stage": 9
+  },
+  {
+   "noun": "invitation",
+   "answer": "la",
+   "elided": true,
+   "en": "invitation",
+   "stage": 9
+  },
+  {
+   "noun": "décision",
+   "answer": "la",
+   "en": "decision",
+   "stage": 9
+  },
+  {
+   "noun": "rappel",
+   "answer": "le",
+   "en": "reminder",
+   "stage": 9
+  },
+  {
+   "noun": "suivi",
+   "answer": "le",
+   "en": "follow-up",
+   "stage": 9
+  },
+  {
+   "noun": "livraison",
+   "answer": "la",
+   "en": "delivery",
+   "stage": 9
+  },
+  {
+   "noun": "commande",
+   "answer": "la",
+   "en": "order",
+   "stage": 9
+  },
+  {
+   "noun": "imprévu",
+   "answer": "le",
+   "elided": true,
+   "en": "unexpected event",
+   "stage": 9
+  },
+  {
+   "noun": "contretemps",
+   "answer": "le",
+   "en": "hitch",
+   "stage": 9
   }
  ]
 }

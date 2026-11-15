@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 8.
 6. [Serving the public](06-serving-the-public.md) (speak)
 7. [Office and meeting words](07-office-and-meeting-words.md) (words)
 8. [Work culture in Quebec](08-quebec-work-culture.md) (quebec)
-9. Listening to phone calls (not written yet) (listen)
-10. Work email basics (not written yet) (write)
-11. Workplace documents (not written yet) (read)
-12. Invitations and follow-ups (not written yet) (write)
-13. A day at the office (not written yet) (speak, review)
+9. [Listening to phone calls](09-listening-to-phone-calls.md) (listen)
+10. [Work email basics](10-work-email-basics.md) (write)
+11. [Workplace documents](11-workplace-documents.md) (read)
+12. [Invitations and follow-ups](12-invitations-and-follow-ups.md) (write)
+13. [A day at the office](13-a-day-at-the-office.md) (speak, review)
 
 <!-- lessons:end -->
 
