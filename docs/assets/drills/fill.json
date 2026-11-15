@@ -1800,6 +1800,222 @@
    ],
    "en": "While waiting for your reply, I thank you.",
    "stage": 9
+  },
+  {
+   "q": "Quand je suis arrivé, la réunion ___ déjà commencé.",
+   "hint": "avoir, plus-que-parfait",
+   "a": [
+    "avait"
+   ],
+   "en": "When I arrived, the meeting had already started.",
+   "stage": 10
+  },
+  {
+   "q": "Elle ___ arrivée avant nous.",
+   "hint": "être, plus-que-parfait",
+   "a": [
+    "était"
+   ],
+   "en": "She had arrived before us.",
+   "stage": 10
+  },
+  {
+   "q": "Nous n'___ jamais vu la mer.",
+   "hint": "avoir, plus-que-parfait",
+   "a": [
+    "avions"
+   ],
+   "en": "We had never seen the sea.",
+   "stage": 10
+  },
+  {
+   "q": "Le livre ___ je parle est intéressant.",
+   "hint": "relative pronoun",
+   "a": [
+    "dont"
+   ],
+   "en": "The book I am talking about is interesting.",
+   "stage": 10
+  },
+  {
+   "q": "Le quartier ___ j'habite est calme.",
+   "hint": "relative pronoun",
+   "a": [
+    "où"
+   ],
+   "en": "The neighbourhood where I live is quiet.",
+   "stage": 10
+  },
+  {
+   "q": "La femme avec ___ je travaille est gentille.",
+   "hint": "person",
+   "a": [
+    "qui"
+   ],
+   "en": "The woman I work with is nice.",
+   "stage": 10
+  },
+  {
+   "q": "Le bâtiment dans ___ je travaille est vieux.",
+   "hint": "lequel",
+   "a": [
+    "lequel"
+   ],
+   "en": "The building in which I work is old.",
+   "stage": 10
+  },
+  {
+   "q": "Le projet ___ je pense est grand.",
+   "hint": "à + lequel",
+   "a": [
+    "auquel"
+   ],
+   "en": "The project I am thinking about is big.",
+   "stage": 10
+  },
+  {
+   "q": "La rue au bout de ___ se trouve l'école est fermée.",
+   "hint": "de + lequel",
+   "a": [
+    "laquelle"
+   ],
+   "en": "The street at the end of which the school is located is closed.",
+   "stage": 10
+  },
+  {
+   "q": "Il faut que tu ___ à l'heure.",
+   "hint": "être, subjonctif",
+   "a": [
+    "sois"
+   ],
+   "en": "You must be on time.",
+   "stage": 10
+  },
+  {
+   "q": "Il faut que nous ___ une copie.",
+   "hint": "faire, subjonctif",
+   "a": [
+    "fassions"
+   ],
+   "en": "We must make a copy.",
+   "stage": 10
+  },
+  {
+   "q": "Je veux que tu ___ demain.",
+   "hint": "venir, subjonctif",
+   "a": [
+    "viennes"
+   ],
+   "en": "I want you to come tomorrow.",
+   "stage": 10
+  },
+  {
+   "q": "Je suis content que vous ___ là.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soyez"
+   ],
+   "en": "I am happy that you are here.",
+   "stage": 10
+  },
+  {
+   "q": "J'ai peur qu'il ___ en retard.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "I am afraid he will be late.",
+   "stage": 10
+  },
+  {
+   "q": "Je te ___ donne ce soir.",
+   "hint": "le",
+   "a": [
+    "le"
+   ],
+   "en": "I give it to you tonight.",
+   "stage": 10
+  },
+  {
+   "q": "Il y ___ a deux.",
+   "hint": "pronoun",
+   "a": [
+    "en"
+   ],
+   "en": "There are two of them.",
+   "stage": 10
+  },
+  {
+   "q": "La facture, je ___ lui ai envoyée hier.",
+   "hint": "la",
+   "a": [
+    "la"
+   ],
+   "en": "The invoice, I sent it to him yesterday.",
+   "stage": 10
+  },
+  {
+   "q": "Donne-___-moi.",
+   "hint": "le",
+   "a": [
+    "le"
+   ],
+   "en": "Give it to me.",
+   "stage": 10
+  },
+  {
+   "q": "Je ___ que nous ouvrions à 8 h.",
+   "hint": "proposer",
+   "a": [
+    "propose"
+   ],
+   "en": "I propose that we open at 8.",
+   "stage": 10
+  },
+  {
+   "q": "Je suis d'accord ___ vous.",
+   "hint": "preposition",
+   "a": [
+    "avec"
+   ],
+   "en": "I agree with you.",
+   "stage": 10
+  },
+  {
+   "q": "Je voudrais ___ mon abonnement.",
+   "hint": "to cancel",
+   "a": [
+    "résilier"
+   ],
+   "en": "I would like to cancel my subscription.",
+   "stage": 10
+  },
+  {
+   "q": "Nous ___ réception de votre message.",
+   "hint": "accuser",
+   "a": [
+    "accusons"
+   ],
+   "en": "We acknowledge receipt of your message.",
+   "stage": 10
+  },
+  {
+   "q": "Au Québec, le mot recommandé par l'OQLF pour podcast est ___.",
+   "hint": "Quebec",
+   "a": [
+    "balado"
+   ],
+   "en": "In Quebec, the OQLF recommends the word balado for podcast.",
+   "stage": 10
+  },
+  {
+   "q": "Je voudrais faire un ___ vers mon compte d'épargne.",
+   "hint": "money",
+   "a": [
+    "virement"
+   ],
+   "en": "I would like to make a transfer to my savings account.",
+   "stage": 10
   }
  ]
 }

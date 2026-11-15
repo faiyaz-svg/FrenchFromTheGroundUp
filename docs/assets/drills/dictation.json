@@ -679,6 +679,81 @@
    "fr": "Nous vous enverrons les documents à l'avance.",
    "en": "We will send you the documents ahead of time.",
    "stage": 9
+  },
+  {
+   "fr": "La réunion avait déjà commencé.",
+   "en": "The meeting had already started.",
+   "stage": 10
+  },
+  {
+   "fr": "Il n'avait jamais vu la mer.",
+   "en": "He had never seen the sea.",
+   "stage": 10
+  },
+  {
+   "fr": "Après avoir fini, je suis rentré.",
+   "en": "After finishing, I went home.",
+   "stage": 10
+  },
+  {
+   "fr": "Le quartier où j'habite est calme.",
+   "en": "The neighbourhood where I live is quiet.",
+   "stage": 10
+  },
+  {
+   "fr": "Le livre dont je parle est intéressant.",
+   "en": "The book I am talking about is interesting.",
+   "stage": 10
+  },
+  {
+   "fr": "La personne avec qui je travaille est gentille.",
+   "en": "The person I work with is nice.",
+   "stage": 10
+  },
+  {
+   "fr": "Il faut que vous signiez ici.",
+   "en": "You need to sign here.",
+   "stage": 10
+  },
+  {
+   "fr": "Je veux que tu viennes.",
+   "en": "I want you to come.",
+   "stage": 10
+  },
+  {
+   "fr": "Je suis content que tu sois là.",
+   "en": "I am happy that you are here.",
+   "stage": 10
+  },
+  {
+   "fr": "Je te le donne ce soir.",
+   "en": "I give it to you tonight.",
+   "stage": 10
+  },
+  {
+   "fr": "Je le lui ai envoyé hier.",
+   "en": "I sent it to him yesterday.",
+   "stage": 10
+  },
+  {
+   "fr": "Je partage votre avis.",
+   "en": "I share your opinion.",
+   "stage": 10
+  },
+  {
+   "fr": "Je voudrais ouvrir un compte, s'il vous plaît.",
+   "en": "I would like to open an account, please.",
+   "stage": 10
+  },
+  {
+   "fr": "Nous vous l'enverrons par courriel.",
+   "en": "We will send it to you by email.",
+   "stage": 10
+  },
+  {
+   "fr": "Nous accusons réception de votre demande.",
+   "en": "We acknowledge receipt of your request.",
+   "stage": 10
   }
  ]
 }

@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 122 of 205. New lessons appear here as they are added.
+Lessons written so far: 127 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -161,3 +161,8 @@ Lessons written so far: 122 of 205. New lessons appear here as they are added.
 - [ ] [Pronoun order](10-complex-sentences-and-requests/06-pronoun-order.md) (grammar)
 - [ ] [Agreeing and disagreeing in meetings](10-complex-sentences-and-requests/07-agreeing-in-meetings.md) (speak)
 - [ ] [At the bank](10-complex-sentences-and-requests/08-at-the-bank.md) (speak)
+- [ ] [Music and TV in Quebec](10-complex-sentences-and-requests/09-quebec-music-and-tv.md) (quebec)
+- [ ] [A radio interview](10-complex-sentences-and-requests/10-radio-interview.md) (listen)
+- [ ] [A formal request](10-complex-sentences-and-requests/11-formal-request.md) (write)
+- [ ] [Banking and admin words](10-complex-sentences-and-requests/12-banking-and-admin-words.md) (words)
+- [ ] [Handling a request](10-complex-sentences-and-requests/13-handling-a-request.md) (write, review)

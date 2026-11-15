@@ -1,0 +1,844 @@
+{
+ "conjugation": [
+  {
+   "verb": "parler",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais parlé",
+   "en": "to speak",
+   "stage": 10
+  },
+  {
+   "verb": "parler",
+   "tense": "plus-que-parfait",
+   "person": "nous",
+   "answer": "avions parlé",
+   "en": "to speak",
+   "stage": 10
+  },
+  {
+   "verb": "finir",
+   "tense": "plus-que-parfait",
+   "person": "il",
+   "answer": "avait fini",
+   "en": "to finish",
+   "stage": 10
+  },
+  {
+   "verb": "finir",
+   "tense": "plus-que-parfait",
+   "person": "vous",
+   "answer": "aviez fini",
+   "en": "to finish",
+   "stage": 10
+  },
+  {
+   "verb": "vendre",
+   "tense": "plus-que-parfait",
+   "person": "ils",
+   "answer": "avaient vendu",
+   "en": "to sell",
+   "stage": 10
+  },
+  {
+   "verb": "prendre",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais pris",
+   "en": "to take",
+   "stage": 10
+  },
+  {
+   "verb": "faire",
+   "tense": "plus-que-parfait",
+   "person": "tu",
+   "answer": "avais fait",
+   "en": "to do, to make",
+   "stage": 10
+  },
+  {
+   "verb": "voir",
+   "tense": "plus-que-parfait",
+   "person": "vous",
+   "answer": "aviez vu",
+   "en": "to see",
+   "stage": 10
+  },
+  {
+   "verb": "avoir",
+   "tense": "plus-que-parfait",
+   "person": "il",
+   "answer": "avait eu",
+   "en": "to have",
+   "stage": 10
+  },
+  {
+   "verb": "aller",
+   "tense": "plus-que-parfait",
+   "person": "il",
+   "answer": "était allé",
+   "en": "to go",
+   "stage": 10
+  },
+  {
+   "verb": "arriver",
+   "tense": "plus-que-parfait",
+   "person": "elle",
+   "answer": "était arrivée",
+   "en": "to arrive",
+   "stage": 10
+  },
+  {
+   "verb": "venir",
+   "tense": "plus-que-parfait",
+   "person": "nous",
+   "answer": "étions venus",
+   "en": "to come",
+   "stage": 10
+  },
+  {
+   "verb": "partir",
+   "tense": "plus-que-parfait",
+   "person": "ils",
+   "answer": "étaient partis",
+   "en": "to leave",
+   "stage": 10
+  },
+  {
+   "verb": "parler",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "parle",
+   "en": "to speak",
+   "stage": 10
+  },
+  {
+   "verb": "parler",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "parlions",
+   "en": "to speak",
+   "stage": 10
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "finisse",
+   "en": "to finish",
+   "stage": 10
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "finisses",
+   "en": "to finish",
+   "stage": 10
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "finissions",
+   "en": "to finish",
+   "stage": 10
+  },
+  {
+   "verb": "attendre",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "attendiez",
+   "en": "to wait",
+   "stage": 10
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "prenne",
+   "en": "to take",
+   "stage": 10
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "preniez",
+   "en": "to take",
+   "stage": 10
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "viennes",
+   "en": "to come",
+   "stage": 10
+  },
+  {
+   "verb": "être",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "sois",
+   "en": "to be",
+   "stage": 10
+  },
+  {
+   "verb": "être",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "soit",
+   "en": "to be",
+   "stage": 10
+  },
+  {
+   "verb": "être",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "soyons",
+   "en": "to be",
+   "stage": 10
+  },
+  {
+   "verb": "être",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "soient",
+   "en": "to be",
+   "stage": 10
+  },
+  {
+   "verb": "avoir",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "aie",
+   "en": "to have",
+   "stage": 10
+  },
+  {
+   "verb": "avoir",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "ait",
+   "en": "to have",
+   "stage": 10
+  },
+  {
+   "verb": "avoir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "ayons",
+   "en": "to have",
+   "stage": 10
+  },
+  {
+   "verb": "aller",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "aille",
+   "en": "to go",
+   "stage": 10
+  },
+  {
+   "verb": "aller",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "allions",
+   "en": "to go",
+   "stage": 10
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "fasse",
+   "en": "to do, to make",
+   "stage": 10
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "fassiez",
+   "en": "to do, to make",
+   "stage": 10
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "puisse",
+   "en": "can, to be able to",
+   "stage": 10
+  },
+  {
+   "verb": "savoir",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "sache",
+   "en": "to know",
+   "stage": 10
+  },
+  {
+   "verb": "vouloir",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "veuilles",
+   "en": "to want",
+   "stage": 10
+  },
+  {
+   "verb": "vouloir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "voulions",
+   "en": "to want",
+   "stage": 10
+  }
+ ],
+ "gender": [
+  {
+   "noun": "compte",
+   "answer": "le",
+   "en": "account",
+   "stage": 10
+  },
+  {
+   "noun": "chèque",
+   "answer": "le",
+   "en": "cheque",
+   "stage": 10
+  },
+  {
+   "noun": "virement",
+   "answer": "le",
+   "en": "transfer",
+   "stage": 10
+  },
+  {
+   "noun": "retrait",
+   "answer": "le",
+   "en": "withdrawal",
+   "stage": 10
+  },
+  {
+   "noun": "solde",
+   "answer": "le",
+   "en": "balance",
+   "stage": 10
+  },
+  {
+   "noun": "prêt",
+   "answer": "le",
+   "en": "loan",
+   "stage": 10
+  },
+  {
+   "noun": "hypothèque",
+   "answer": "la",
+   "en": "mortgage",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "relevé",
+   "answer": "le",
+   "en": "statement",
+   "stage": 10
+  },
+  {
+   "noun": "avis",
+   "answer": "le",
+   "en": "opinion",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "compromis",
+   "answer": "le",
+   "en": "compromise",
+   "stage": 10
+  },
+  {
+   "noun": "proposition",
+   "answer": "la",
+   "en": "proposal",
+   "stage": 10
+  },
+  {
+   "noun": "chanson",
+   "answer": "la",
+   "en": "song",
+   "stage": 10
+  },
+  {
+   "noun": "album",
+   "answer": "le",
+   "en": "album",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "émission",
+   "answer": "la",
+   "en": "show, programme",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "série",
+   "answer": "la",
+   "en": "series",
+   "stage": 10
+  },
+  {
+   "noun": "balado",
+   "answer": "le",
+   "en": "podcast",
+   "stage": 10
+  },
+  {
+   "noun": "entreprise",
+   "answer": "la",
+   "en": "business",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "succès",
+   "answer": "le",
+   "en": "success",
+   "stage": 10
+  },
+  {
+   "noun": "échec",
+   "answer": "le",
+   "en": "failure",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "défi",
+   "answer": "le",
+   "en": "challenge",
+   "stage": 10
+  },
+  {
+   "noun": "clientèle",
+   "answer": "la",
+   "en": "clientele",
+   "stage": 10
+  },
+  {
+   "noun": "croissance",
+   "answer": "la",
+   "en": "growth",
+   "stage": 10
+  },
+  {
+   "noun": "attestation",
+   "answer": "la",
+   "en": "certificate, proof",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "certificat",
+   "answer": "le",
+   "en": "certificate",
+   "stage": 10
+  },
+  {
+   "noun": "copie",
+   "answer": "la",
+   "en": "copy",
+   "stage": 10
+  },
+  {
+   "noun": "impôt",
+   "answer": "le",
+   "en": "tax",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "déclaration",
+   "answer": "la",
+   "en": "return, declaration",
+   "stage": 10
+  },
+  {
+   "noun": "reçu",
+   "answer": "le",
+   "en": "receipt",
+   "stage": 10
+  },
+  {
+   "noun": "amende",
+   "answer": "la",
+   "en": "fine",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "inscription",
+   "answer": "la",
+   "en": "registration",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "abonnement",
+   "answer": "le",
+   "en": "subscription",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "acompte",
+   "answer": "le",
+   "en": "down payment",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "inconvénient",
+   "answer": "le",
+   "en": "inconvenience",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "étape",
+   "answer": "la",
+   "en": "step, stage",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "démarche",
+   "answer": "la",
+   "en": "procedure, step",
+   "stage": 10
+  }
+ ],
+ "fill": [
+  {
+   "q": "Quand je suis arrivé, la réunion ___ déjà commencé.",
+   "hint": "avoir, plus-que-parfait",
+   "a": [
+    "avait"
+   ],
+   "en": "When I arrived, the meeting had already started.",
+   "stage": 10
+  },
+  {
+   "q": "Elle ___ arrivée avant nous.",
+   "hint": "être, plus-que-parfait",
+   "a": [
+    "était"
+   ],
+   "en": "She had arrived before us.",
+   "stage": 10
+  },
+  {
+   "q": "Nous n'___ jamais vu la mer.",
+   "hint": "avoir, plus-que-parfait",
+   "a": [
+    "avions"
+   ],
+   "en": "We had never seen the sea.",
+   "stage": 10
+  },
+  {
+   "q": "Le livre ___ je parle est intéressant.",
+   "hint": "relative pronoun",
+   "a": [
+    "dont"
+   ],
+   "en": "The book I am talking about is interesting.",
+   "stage": 10
+  },
+  {
+   "q": "Le quartier ___ j'habite est calme.",
+   "hint": "relative pronoun",
+   "a": [
+    "où"
+   ],
+   "en": "The neighbourhood where I live is quiet.",
+   "stage": 10
+  },
+  {
+   "q": "La femme avec ___ je travaille est gentille.",
+   "hint": "person",
+   "a": [
+    "qui"
+   ],
+   "en": "The woman I work with is nice.",
+   "stage": 10
+  },
+  {
+   "q": "Le bâtiment dans ___ je travaille est vieux.",
+   "hint": "lequel",
+   "a": [
+    "lequel"
+   ],
+   "en": "The building in which I work is old.",
+   "stage": 10
+  },
+  {
+   "q": "Le projet ___ je pense est grand.",
+   "hint": "à + lequel",
+   "a": [
+    "auquel"
+   ],
+   "en": "The project I am thinking about is big.",
+   "stage": 10
+  },
+  {
+   "q": "La rue au bout de ___ se trouve l'école est fermée.",
+   "hint": "de + lequel",
+   "a": [
+    "laquelle"
+   ],
+   "en": "The street at the end of which the school is located is closed.",
+   "stage": 10
+  },
+  {
+   "q": "Il faut que tu ___ à l'heure.",
+   "hint": "être, subjonctif",
+   "a": [
+    "sois"
+   ],
+   "en": "You must be on time.",
+   "stage": 10
+  },
+  {
+   "q": "Il faut que nous ___ une copie.",
+   "hint": "faire, subjonctif",
+   "a": [
+    "fassions"
+   ],
+   "en": "We must make a copy.",
+   "stage": 10
+  },
+  {
+   "q": "Je veux que tu ___ demain.",
+   "hint": "venir, subjonctif",
+   "a": [
+    "viennes"
+   ],
+   "en": "I want you to come tomorrow.",
+   "stage": 10
+  },
+  {
+   "q": "Je suis content que vous ___ là.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soyez"
+   ],
+   "en": "I am happy that you are here.",
+   "stage": 10
+  },
+  {
+   "q": "J'ai peur qu'il ___ en retard.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "I am afraid he will be late.",
+   "stage": 10
+  },
+  {
+   "q": "Je te ___ donne ce soir.",
+   "hint": "le",
+   "a": [
+    "le"
+   ],
+   "en": "I give it to you tonight.",
+   "stage": 10
+  },
+  {
+   "q": "Il y ___ a deux.",
+   "hint": "pronoun",
+   "a": [
+    "en"
+   ],
+   "en": "There are two of them.",
+   "stage": 10
+  },
+  {
+   "q": "La facture, je ___ lui ai envoyée hier.",
+   "hint": "la",
+   "a": [
+    "la"
+   ],
+   "en": "The invoice, I sent it to him yesterday.",
+   "stage": 10
+  },
+  {
+   "q": "Donne-___-moi.",
+   "hint": "le",
+   "a": [
+    "le"
+   ],
+   "en": "Give it to me.",
+   "stage": 10
+  },
+  {
+   "q": "Je ___ que nous ouvrions à 8 h.",
+   "hint": "proposer",
+   "a": [
+    "propose"
+   ],
+   "en": "I propose that we open at 8.",
+   "stage": 10
+  },
+  {
+   "q": "Je suis d'accord ___ vous.",
+   "hint": "preposition",
+   "a": [
+    "avec"
+   ],
+   "en": "I agree with you.",
+   "stage": 10
+  },
+  {
+   "q": "Je voudrais ___ mon abonnement.",
+   "hint": "to cancel",
+   "a": [
+    "résilier"
+   ],
+   "en": "I would like to cancel my subscription.",
+   "stage": 10
+  },
+  {
+   "q": "Nous ___ réception de votre message.",
+   "hint": "accuser",
+   "a": [
+    "accusons"
+   ],
+   "en": "We acknowledge receipt of your message.",
+   "stage": 10
+  },
+  {
+   "q": "Au Québec, le mot recommandé par l'OQLF pour podcast est ___.",
+   "hint": "Quebec",
+   "a": [
+    "balado"
+   ],
+   "en": "In Quebec, the OQLF recommends the word balado for podcast.",
+   "stage": 10
+  },
+  {
+   "q": "Je voudrais faire un ___ vers mon compte d'épargne.",
+   "hint": "money",
+   "a": [
+    "virement"
+   ],
+   "en": "I would like to make a transfer to my savings account.",
+   "stage": 10
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "La réunion avait déjà commencé.",
+   "en": "The meeting had already started.",
+   "stage": 10
+  },
+  {
+   "fr": "Il n'avait jamais vu la mer.",
+   "en": "He had never seen the sea.",
+   "stage": 10
+  },
+  {
+   "fr": "Après avoir fini, je suis rentré.",
+   "en": "After finishing, I went home.",
+   "stage": 10
+  },
+  {
+   "fr": "Le quartier où j'habite est calme.",
+   "en": "The neighbourhood where I live is quiet.",
+   "stage": 10
+  },
+  {
+   "fr": "Le livre dont je parle est intéressant.",
+   "en": "The book I am talking about is interesting.",
+   "stage": 10
+  },
+  {
+   "fr": "La personne avec qui je travaille est gentille.",
+   "en": "The person I work with is nice.",
+   "stage": 10
+  },
+  {
+   "fr": "Il faut que vous signiez ici.",
+   "en": "You need to sign here.",
+   "stage": 10
+  },
+  {
+   "fr": "Je veux que tu viennes.",
+   "en": "I want you to come.",
+   "stage": 10
+  },
+  {
+   "fr": "Je suis content que tu sois là.",
+   "en": "I am happy that you are here.",
+   "stage": 10
+  },
+  {
+   "fr": "Je te le donne ce soir.",
+   "en": "I give it to you tonight.",
+   "stage": 10
+  },
+  {
+   "fr": "Je le lui ai envoyé hier.",
+   "en": "I sent it to him yesterday.",
+   "stage": 10
+  },
+  {
+   "fr": "Je partage votre avis.",
+   "en": "I share your opinion.",
+   "stage": 10
+  },
+  {
+   "fr": "Je voudrais ouvrir un compte, s'il vous plaît.",
+   "en": "I would like to open an account, please.",
+   "stage": 10
+  },
+  {
+   "fr": "Nous vous l'enverrons par courriel.",
+   "en": "We will send it to you by email.",
+   "stage": 10
+  },
+  {
+   "fr": "Nous accusons réception de votre demande.",
+   "en": "We acknowledge receipt of your request.",
+   "stage": 10
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "un balado",
+   "std": "un podcast",
+   "en": "podcast",
+   "note": "Quebec (OQLF term); France: podcast",
+   "stage": 10
+  },
+  {
+   "qc": "un téléroman",
+   "std": "un feuilleton télévisé",
+   "en": "TV serial drama",
+   "note": "Quebec",
+   "stage": 10
+  },
+  {
+   "qc": "un NIP",
+   "std": "un code PIN",
+   "en": "PIN",
+   "note": "Quebec; Europe: PIN",
+   "stage": 10
+  }
+ ]
+}

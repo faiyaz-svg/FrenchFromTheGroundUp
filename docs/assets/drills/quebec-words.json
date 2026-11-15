@@ -447,6 +447,27 @@
    "en": "remote work",
    "note": "both are OQLF terms",
    "stage": 9
+  },
+  {
+   "qc": "un balado",
+   "std": "un podcast",
+   "en": "podcast",
+   "note": "Quebec (OQLF term); France: podcast",
+   "stage": 10
+  },
+  {
+   "qc": "un téléroman",
+   "std": "un feuilleton télévisé",
+   "en": "TV serial drama",
+   "note": "Quebec",
+   "stage": 10
+  },
+  {
+   "qc": "un NIP",
+   "std": "un code PIN",
+   "en": "PIN",
+   "note": "Quebec; Europe: PIN",
+   "stage": 10
   }
  ]
 }

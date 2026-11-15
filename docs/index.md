@@ -186,11 +186,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="10-complex-sentences-and-requests/06-pronoun-order/" data-lesson="10-complex-sentences-and-requests/06-pronoun-order/" title="Pronoun order"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="10-complex-sentences-and-requests/07-agreeing-in-meetings/" data-lesson="10-complex-sentences-and-requests/07-agreeing-in-meetings/" title="Agreeing and disagreeing in meetings"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="10-complex-sentences-and-requests/08-at-the-bank/" data-lesson="10-complex-sentences-and-requests/08-at-the-bank/" title="At the bank"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Music and TV in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="A radio interview"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="A formal request"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Banking and admin words"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="Handling a request"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="10-complex-sentences-and-requests/09-quebec-music-and-tv/" data-lesson="10-complex-sentences-and-requests/09-quebec-music-and-tv/" title="Music and TV in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="10-complex-sentences-and-requests/10-radio-interview/" data-lesson="10-complex-sentences-and-requests/10-radio-interview/" title="A radio interview"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="10-complex-sentences-and-requests/11-formal-request/" data-lesson="10-complex-sentences-and-requests/11-formal-request/" title="A formal request"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="10-complex-sentences-and-requests/12-banking-and-admin-words/" data-lesson="10-complex-sentences-and-requests/12-banking-and-admin-words/" title="Banking and admin words"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="10-complex-sentences-and-requests/13-handling-a-request/" data-lesson="10-complex-sentences-and-requests/13-handling-a-request/" title="Handling a request"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="11">

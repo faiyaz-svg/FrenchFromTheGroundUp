@@ -1731,6 +1731,230 @@
    "answer": "le",
    "en": "hitch",
    "stage": 9
+  },
+  {
+   "noun": "compte",
+   "answer": "le",
+   "en": "account",
+   "stage": 10
+  },
+  {
+   "noun": "chèque",
+   "answer": "le",
+   "en": "cheque",
+   "stage": 10
+  },
+  {
+   "noun": "virement",
+   "answer": "le",
+   "en": "transfer",
+   "stage": 10
+  },
+  {
+   "noun": "retrait",
+   "answer": "le",
+   "en": "withdrawal",
+   "stage": 10
+  },
+  {
+   "noun": "solde",
+   "answer": "le",
+   "en": "balance",
+   "stage": 10
+  },
+  {
+   "noun": "prêt",
+   "answer": "le",
+   "en": "loan",
+   "stage": 10
+  },
+  {
+   "noun": "hypothèque",
+   "answer": "la",
+   "en": "mortgage",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "relevé",
+   "answer": "le",
+   "en": "statement",
+   "stage": 10
+  },
+  {
+   "noun": "avis",
+   "answer": "le",
+   "en": "opinion",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "compromis",
+   "answer": "le",
+   "en": "compromise",
+   "stage": 10
+  },
+  {
+   "noun": "proposition",
+   "answer": "la",
+   "en": "proposal",
+   "stage": 10
+  },
+  {
+   "noun": "chanson",
+   "answer": "la",
+   "en": "song",
+   "stage": 10
+  },
+  {
+   "noun": "album",
+   "answer": "le",
+   "en": "album",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "émission",
+   "answer": "la",
+   "en": "show, programme",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "série",
+   "answer": "la",
+   "en": "series",
+   "stage": 10
+  },
+  {
+   "noun": "balado",
+   "answer": "le",
+   "en": "podcast",
+   "stage": 10
+  },
+  {
+   "noun": "entreprise",
+   "answer": "la",
+   "en": "business",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "succès",
+   "answer": "le",
+   "en": "success",
+   "stage": 10
+  },
+  {
+   "noun": "échec",
+   "answer": "le",
+   "en": "failure",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "défi",
+   "answer": "le",
+   "en": "challenge",
+   "stage": 10
+  },
+  {
+   "noun": "clientèle",
+   "answer": "la",
+   "en": "clientele",
+   "stage": 10
+  },
+  {
+   "noun": "croissance",
+   "answer": "la",
+   "en": "growth",
+   "stage": 10
+  },
+  {
+   "noun": "attestation",
+   "answer": "la",
+   "en": "certificate, proof",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "certificat",
+   "answer": "le",
+   "en": "certificate",
+   "stage": 10
+  },
+  {
+   "noun": "copie",
+   "answer": "la",
+   "en": "copy",
+   "stage": 10
+  },
+  {
+   "noun": "impôt",
+   "answer": "le",
+   "en": "tax",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "déclaration",
+   "answer": "la",
+   "en": "return, declaration",
+   "stage": 10
+  },
+  {
+   "noun": "reçu",
+   "answer": "le",
+   "en": "receipt",
+   "stage": 10
+  },
+  {
+   "noun": "amende",
+   "answer": "la",
+   "en": "fine",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "inscription",
+   "answer": "la",
+   "en": "registration",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "abonnement",
+   "answer": "le",
+   "en": "subscription",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "acompte",
+   "answer": "le",
+   "en": "down payment",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "inconvénient",
+   "answer": "le",
+   "en": "inconvenience",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "étape",
+   "answer": "la",
+   "en": "step, stage",
+   "stage": 10,
+   "elided": true
+  },
+  {
+   "noun": "démarche",
+   "answer": "la",
+   "en": "procedure, step",
+   "stage": 10
   }
  ]
 }
