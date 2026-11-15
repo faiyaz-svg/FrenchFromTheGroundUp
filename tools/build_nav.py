@@ -77,7 +77,7 @@ REFERENCE = [
     ("IPA chart", "reference/ipa-chart.md"),
     ("Quebec and France words", "reference/quebec-and-france-words.md"),
     ("False friends", "reference/false-friends.md"),
-    ("Email formulas", "reference/email-formulas.md"),
+    ("Email and letter formulas", "reference/email-formulas.md"),
     ("Numbers, dates and times", "reference/numbers-dates-and-times.md"),
     ("Linking words", "reference/linking-words.md"),
     ("Common mistakes", "reference/common-mistakes.md"),

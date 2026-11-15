@@ -22,13 +22,13 @@ Quebec and France share one grammar and one spelling. The differences are mostly
 
 ## Tu and vous
 
-French has two words for "you". *Vous* is polite and also the plural. *Tu* is for friends, family and children. The basics are in Greetings and politeness<!-- link: ../01-first-sounds-and-greetings/08-greetings-and-politeness.md -->.
+French has two words for "you". *Vous* is polite and also the plural. *Tu* is for friends, family and children. The basics are in [Greetings and politeness](../01-first-sounds-and-greetings/08-greetings-and-politeness.md).
 
 Habits differ by region and by person. In Quebec, a shop worker or a younger colleague may say *tu* to you quickly, and you may hear *tu* in places where *vous* would be normal in France. When you are not sure, use *vous* and wait to see what the other person uses. A polite *vous* rarely causes offence.
 
 ## Greetings and sacres
 
-*Bonjour* works for hello. In Montreal you will also hear *bonjour-hi*, a shop greeting that mixes both languages. It is taught in Bonjour-hi and other Montreal greetings<!-- link: ../01-first-sounds-and-greetings/09-bonjour-hi-montreal-greetings.md -->. Quebec also has strong swear words called *sacres*. They are taught as words to recognise and not to use, in Sacres: recognise, don't use<!-- link: ../12-real-montreal/05-sacres-recognise-dont-use.md -->.
+*Bonjour* works for hello. In Montreal you will also hear *bonjour-hi*, a shop greeting that mixes both languages. It is taught in [Bonjour-hi and other Montreal greetings](../01-first-sounds-and-greetings/09-bonjour-hi-montreal-greetings.md). Quebec also has strong swear words called *sacres*. They are taught as words to recognise and not to use, in Sacres: recognise, don't use<!-- link: ../12-real-montreal/05-sacres-recognise-dont-use.md -->.
 
 ## Why standard French comes first
 

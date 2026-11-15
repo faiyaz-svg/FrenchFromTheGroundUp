@@ -4,7 +4,7 @@ Ready phrases for a trip to Montreal and Quebec City, grouped by situation. Ever
 
 The phrases come before the lessons that teach them, so use them as set sentences and learn the grammar later. The matching lessons are:
 
-- Greetings and politeness<!-- link: ../01-first-sounds-and-greetings/08-greetings-and-politeness.md -->
+- [Greetings and politeness](../01-first-sounds-and-greetings/08-greetings-and-politeness.md)
 - Ordering at a café<!-- link: ../02-sounds-spelling-and-everyday-things/08-ordering-at-a-cafe.md -->
 - Quebec words: dépanneur and café<!-- link: ../02-sounds-spelling-and-everyday-things/09-quebec-dep-and-cafe-words.md -->
 - Asking for directions<!-- link: ../04-people-places-and-directions/08-asking-directions.md -->

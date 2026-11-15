@@ -13,10 +13,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="1">
 <a class="fm-seg-name" href="01-first-sounds-and-greetings/">1 · First sounds and greetings</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="How French spelling, sounds and rhythm work"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Typing accents on your keyboard"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="The vowels a, i, ou and u"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="The e vowels"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/01-french-sound-map/" data-lesson="01-first-sounds-and-greetings/01-french-sound-map/" title="How French spelling, sounds and rhythm work"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/02-typing-accents/" data-lesson="01-first-sounds-and-greetings/02-typing-accents/" title="Typing accents on your keyboard"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/03-vowels-a-i-ou-u/" data-lesson="01-first-sounds-and-greetings/03-vowels-a-i-ou-u/" title="The vowels a, i, ou and u"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="01-first-sounds-and-greetings/04-vowels-e-family/" data-lesson="01-first-sounds-and-greetings/04-vowels-e-family/" title="The e vowels"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="The vowels o and eu"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Nasal vowels"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="The alphabet and spelling your name"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

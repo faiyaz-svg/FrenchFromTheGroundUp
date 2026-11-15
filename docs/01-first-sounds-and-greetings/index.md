@@ -7,10 +7,10 @@ Before this stage: Start here. Nothing else.
 <!-- lessons:start -->
 ## Lessons
 
-1. How French spelling, sounds and rhythm work (not written yet) (sounds)
-2. Typing accents on your keyboard (not written yet) (write)
-3. The vowels a, i, ou and u (not written yet) (sounds)
-4. The e vowels (not written yet) (sounds)
+1. [How French spelling, sounds and rhythm work](01-french-sound-map.md) (sounds)
+2. [Typing accents on your keyboard](02-typing-accents.md) (write)
+3. [The vowels a, i, ou and u](03-vowels-a-i-ou-u.md) (sounds)
+4. [The e vowels](04-vowels-e-family.md) (sounds)
 5. The vowels o and eu (not written yet) (sounds)
 6. Nasal vowels (not written yet) (sounds)
 7. The alphabet and spelling your name (not written yet) (words)

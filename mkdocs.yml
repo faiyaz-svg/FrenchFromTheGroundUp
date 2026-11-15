@@ -104,6 +104,10 @@ nav:
       - "Progress": progress.md
   - "1 Sounds":
       - 01-first-sounds-and-greetings/index.md
+      - "How French spelling, sounds and rhythm work": 01-first-sounds-and-greetings/01-french-sound-map.md
+      - "Typing accents on your keyboard": 01-first-sounds-and-greetings/02-typing-accents.md
+      - "The vowels a, i, ou and u": 01-first-sounds-and-greetings/03-vowels-a-i-ou-u.md
+      - "The e vowels": 01-first-sounds-and-greetings/04-vowels-e-family.md
   - "2 Things":
       - 02-sounds-spelling-and-everyday-things/index.md
   - "3 Verbs":
@@ -150,7 +154,7 @@ nav:
       - "IPA chart": reference/ipa-chart.md
       - "Quebec and France words": reference/quebec-and-france-words.md
       - "False friends": reference/false-friends.md
-      - "Email formulas": reference/email-formulas.md
+      - "Email and letter formulas": reference/email-formulas.md
       - "Numbers, dates and times": reference/numbers-dates-and-times.md
       - "Linking words": reference/linking-words.md
       - "Common mistakes": reference/common-mistakes.md

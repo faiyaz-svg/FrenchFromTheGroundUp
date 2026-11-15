@@ -4,7 +4,7 @@ You need two tools for the routine: a way to type French accents and Anki for th
 
 ## Typing accents
 
-The full steps are in the lesson Typing accents on your keyboard<!-- link: ../01-first-sounds-and-greetings/02-typing-accents.md -->. Until you reach it, here is the short version. On Windows, you can add a Canadian French or Canadian Multilingual Standard keyboard in Settings, under Time & language, then Language & region. Either one lets you type *é*, *è*, *ê*, *à*, *ç* and the other French letters. The lesson shows the keys and how to practise them.
+The full steps are in the lesson [Typing accents on your keyboard](../01-first-sounds-and-greetings/02-typing-accents.md). Until you reach it, here is the short version. On Windows, you can add a Canadian French or Canadian Multilingual Standard keyboard in Settings, under Time & language, then Language & region. Either one lets you type *é*, *è*, *ê*, *à*, *ç* and the other French letters. The lesson shows the keys and how to practise them.
 
 ## Anki
 

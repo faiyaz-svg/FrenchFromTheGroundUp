@@ -14,7 +14,7 @@ Planned:
 - [IPA chart](ipa-chart.md): the sounds of French, with Quebec variants.
 - [Quebec and France words](quebec-and-france-words.md): everyday words that differ.
 - [False friends](false-friends.md): French words that look like English ones and mean something else.
-- Email formulas<!-- link: email-formulas.md -->: greetings, closings and set phrases for emails and letters.
+- [Email and letter formulas](email-formulas.md): greetings, closings and set phrases for emails and letters.
 - [Numbers, dates and times](numbers-dates-and-times.md): how to say and write them.
 - [Linking words](linking-words.md): connectors for longer sentences and arguments.
 - [Montreal phrasebook](montreal-phrasebook.md): useful lines for daily life.

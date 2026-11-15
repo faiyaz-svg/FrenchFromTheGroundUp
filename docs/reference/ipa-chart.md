@@ -2,7 +2,7 @@
 
 This page lists every sound (phoneme) of standard French in the International Phonetic Alphabet (IPA), with how to make it, how it is usually spelled and two example words. Use it to look up a symbol you met in a dictionary or in a lesson. A short section at the end covers well-described features of Quebec pronunciation.
 
-Lessons for these: the vowels a, i, ou and u<!-- link: ../01-first-sounds-and-greetings/03-vowels-a-i-ou-u.md -->, the e vowels<!-- link: ../01-first-sounds-and-greetings/04-vowels-e-family.md -->, the vowels o and eu<!-- link: ../01-first-sounds-and-greetings/05-vowels-o-and-eu.md -->, nasal vowels<!-- link: ../01-first-sounds-and-greetings/06-nasal-vowels.md -->, French consonants<!-- link: ../02-sounds-spelling-and-everyday-things/01-consonants.md --> and the French r and the semi-vowels<!-- link: ../02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels.md -->.
+Lessons for these: [the vowels a, i, ou and u](../01-first-sounds-and-greetings/03-vowels-a-i-ou-u.md), [the e vowels](../01-first-sounds-and-greetings/04-vowels-e-family.md), [the vowels o and eu](../01-first-sounds-and-greetings/05-vowels-o-and-eu.md), [nasal vowels](../01-first-sounds-and-greetings/06-nasal-vowels.md), French consonants<!-- link: ../02-sounds-spelling-and-everyday-things/01-consonants.md --> and the French r and the semi-vowels<!-- link: ../02-sounds-spelling-and-everyday-things/02-r-and-semi-vowels.md -->.
 
 ## How to read the chart
 
@@ -31,7 +31,7 @@ An **oral vowel** is a vowel made with air coming out of the mouth only. French 
 | /a/ | Like the vowel in "father", but made further forward in the mouth. | `a`, `à`, `e` in `femme` | *la* /la/, *chat* /ʃa/ |
 | /ɑ/ | A back "a", like "father". Many speakers in France have lost it and say /a/, but it remains in Quebec. | `â`, some words in `-as`, `-asse` | *pâte* /pɑt/, *âge* /ɑʒ/ |
 
-Watch the difference between /e/ and /ɛ/, and between /ø/ and /œ/. English has no matching pairs, so they are easy to blur. The lesson on the e vowels<!-- link: ../01-first-sounds-and-greetings/04-vowels-e-family.md --> gives the rule of thumb: /e/ and /ø/ end a syllable, while /ɛ/ and /œ/ come before a pronounced consonant.
+Watch the difference between /e/ and /ɛ/, and between /ø/ and /œ/. English has no matching pairs, so they are easy to blur. The lesson on [the e vowels](../01-first-sounds-and-greetings/04-vowels-e-family.md) gives the rule of thumb: /e/ and /ø/ end a syllable, while /ɛ/ and /œ/ come before a pronounced consonant.
 
 ## Nasal vowels
 
