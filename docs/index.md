@@ -297,11 +297,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="16-debate-news-and-test-readiness/06-radio-debates/" data-lesson="16-debate-news-and-test-readiness/06-radio-debates/" title="Radio debates"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="16-debate-news-and-test-readiness/07-tv-news-and-documentaries/" data-lesson="16-debate-news-and-test-readiness/07-tv-news-and-documentaries/" title="TV news and documentaries"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="16-debate-news-and-test-readiness/08-quebec-today-debates/" data-lesson="16-debate-news-and-test-readiness/08-quebec-today-debates/" title="Debates in Quebec today"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Editorials"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="An opinion piece"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Oral test practice"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="The final error clinic"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="Capstone"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/09-editorials/" data-lesson="16-debate-news-and-test-readiness/09-editorials/" title="Editorials"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/10-opinion-piece/" data-lesson="16-debate-news-and-test-readiness/10-opinion-piece/" title="An opinion piece"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/11-oral-test-practice/" data-lesson="16-debate-news-and-test-readiness/11-oral-test-practice/" title="Oral test practice"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/12-final-error-clinic/" data-lesson="16-debate-news-and-test-readiness/12-final-error-clinic/" title="The final error clinic"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/13-capstone/" data-lesson="16-debate-news-and-test-readiness/13-capstone/" title="Capstone"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 </section>

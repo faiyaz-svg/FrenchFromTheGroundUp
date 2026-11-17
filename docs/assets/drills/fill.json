@@ -2809,6 +2809,186 @@
    ],
    "en": "The first component of the action plan concerns buses.",
    "stage": 15
+  },
+  {
+   "q": "Ce ___ me dérange, c'est le bruit.",
+   "hint": "qui ou que",
+   "a": [
+    "qui"
+   ],
+   "en": "What bothers me is the noise.",
+   "stage": 16
+  },
+  {
+   "q": "Ce ___ je veux, c'est une réponse.",
+   "hint": "qui ou que",
+   "a": [
+    "que"
+   ],
+   "en": "What I want is an answer.",
+   "stage": 16
+  },
+  {
+   "q": "C'est moi qui ___ fait ce plan.",
+   "hint": "avoir, présent",
+   "a": [
+    "ai"
+   ],
+   "en": "I am the one who made this plan.",
+   "stage": 16
+  },
+  {
+   "q": "Je fais ___ mon vélo.",
+   "hint": "réparer",
+   "a": [
+    "réparer"
+   ],
+   "en": "I am having my bike repaired.",
+   "stage": 16
+  },
+  {
+   "q": "À peine ___-il arrivé que la pluie a commencé.",
+   "hint": "être, imparfait",
+   "a": [
+    "était"
+   ],
+   "en": "Hardly had he arrived when the rain started.",
+   "stage": 16
+  },
+  {
+   "q": "Peut-être viendra-___-elle.",
+   "hint": "lettre de liaison",
+   "a": [
+    "t"
+   ],
+   "en": "Perhaps she will come.",
+   "stage": 16
+  },
+  {
+   "q": "Nous n'avons ___ dix minutes.",
+   "hint": "seulement",
+   "a": [
+    "que"
+   ],
+   "en": "We have only ten minutes.",
+   "stage": 16
+  },
+  {
+   "q": "Il ne reste ___ de temps.",
+   "hint": "presque pas",
+   "a": [
+    "guère"
+   ],
+   "en": "There is hardly any time left.",
+   "stage": 16
+  },
+  {
+   "q": "Il faut ___ nous agissions maintenant.",
+   "hint": "conjonction",
+   "a": [
+    "que"
+   ],
+   "en": "We must act now.",
+   "stage": 16
+  },
+  {
+   "q": "Bien que le budget ___ petit, nous commençons.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "Although the budget is small, we are starting.",
+   "stage": 16
+  },
+  {
+   "q": "Si nous ___ testé cette formule plus tôt, nous aurions gagné du temps.",
+   "hint": "avoir, plus-que-parfait",
+   "a": [
+    "avions"
+   ],
+   "en": "If we had tested this formula earlier, we would have saved time.",
+   "stage": 16
+  },
+  {
+   "q": "Je mets cet argument en ___.",
+   "hint": "to question",
+   "a": [
+    "cause"
+   ],
+   "en": "I question this argument.",
+   "stage": 16
+  },
+  {
+   "q": "Un ___ lit les titres au téléjournal.",
+   "hint": "personne qui présente",
+   "a": [
+    "présentateur"
+   ],
+   "en": "A presenter reads the headlines on the news.",
+   "stage": 16
+  },
+  {
+   "q": "Je vais ___ pour ce poste.",
+   "hint": "to apply",
+   "a": [
+    "postuler"
+   ],
+   "en": "I am going to apply for this job.",
+   "stage": 16
+  },
+  {
+   "q": "Mon équipe me ___ beaucoup.",
+   "hint": "soutenir, présent",
+   "a": [
+    "soutient"
+   ],
+   "en": "My team supports me a lot.",
+   "stage": 16
+  },
+  {
+   "q": "Une ___ est un magasin où l'on achète des livres.",
+   "hint": "pas la bibliothèque",
+   "a": [
+    "librairie"
+   ],
+   "en": "A bookstore is a shop where you buy books.",
+   "stage": 16
+  },
+  {
+   "q": "La dette est la somme de tous les ___.",
+   "hint": "pluriel",
+   "a": [
+    "déficits"
+   ],
+   "en": "Debt is the sum of all the deficits.",
+   "stage": 16
+  },
+  {
+   "q": "Dans un premier ___, je vais montrer que c'est utile.",
+   "hint": "first",
+   "a": [
+    "temps"
+   ],
+   "en": "First, I will show that it is useful.",
+   "stage": 16
+  },
+  {
+   "q": "Avec tout le respect que je vous ___, je ne suis pas d'accord.",
+   "hint": "devoir, présent",
+   "a": [
+    "dois"
+   ],
+   "en": "With all due respect, I don't agree.",
+   "stage": 16
+  },
+  {
+   "q": "Je ne pense pas que ce ___ vrai.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "I don't think that is true.",
+   "stage": 16
   }
  ]
 }

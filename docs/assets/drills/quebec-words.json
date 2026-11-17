@@ -622,6 +622,48 @@
    "en": "health insurance card",
    "note": "everyday Quebec name; the official name is the carte d'assurance maladie",
    "stage": 15
+  },
+  {
+   "qc": "canceller",
+   "std": "annuler",
+   "en": "to cancel",
+   "note": "casual; an anglicism the OQLF advises against",
+   "stage": 16
+  },
+  {
+   "qc": "appliquer (pour un emploi)",
+   "std": "postuler",
+   "en": "to apply for a job",
+   "note": "casual; an anglicism the OQLF advises against",
+   "stage": 16
+  },
+  {
+   "qc": "être en charge de",
+   "std": "être responsable de",
+   "en": "to be in charge of",
+   "note": "heard often; the OQLF advises against it",
+   "stage": 16
+  },
+  {
+   "qc": "ben",
+   "std": "bien",
+   "en": "well",
+   "note": "casual speech",
+   "stage": 16
+  },
+  {
+   "qc": "pis",
+   "std": "puis",
+   "en": "and then",
+   "note": "casual speech",
+   "stage": 16
+  },
+  {
+   "qc": "ouin",
+   "std": "oui",
+   "en": "yes",
+   "note": "casual speech",
+   "stage": 16
   }
  ]
 }

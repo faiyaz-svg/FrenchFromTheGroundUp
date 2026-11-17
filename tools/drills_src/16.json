@@ -1,0 +1,753 @@
+{
+ "conjugation": [
+  {
+   "verb": "faire",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais fait",
+   "en": "to do, to make",
+   "stage": 16
+  },
+  {
+   "verb": "dire",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "aurait dit",
+   "en": "to say",
+   "stage": 16
+  },
+  {
+   "verb": "prendre",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions pris",
+   "en": "to take",
+   "stage": 16
+  },
+  {
+   "verb": "voir",
+   "tense": "conditionnel passé",
+   "person": "vous",
+   "answer": "auriez vu",
+   "en": "to see",
+   "stage": 16
+  },
+  {
+   "verb": "écrire",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "auraient écrit",
+   "en": "to write",
+   "stage": 16
+  },
+  {
+   "verb": "finir",
+   "tense": "conditionnel passé",
+   "person": "tu",
+   "answer": "aurais fini",
+   "en": "to finish",
+   "stage": 16
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "aurait eu",
+   "en": "to have",
+   "stage": 16
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais été",
+   "en": "to be",
+   "stage": 16
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions pu",
+   "en": "can, to be able to",
+   "stage": 16
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel passé",
+   "person": "vous",
+   "answer": "auriez voulu",
+   "en": "to want",
+   "stage": 16
+  },
+  {
+   "verb": "devoir",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "auraient dû",
+   "en": "must, to have to",
+   "stage": 16
+  },
+  {
+   "verb": "savoir",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais su",
+   "en": "to know",
+   "stage": 16
+  },
+  {
+   "verb": "attendre",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions attendu",
+   "en": "to wait",
+   "stage": 16
+  },
+  {
+   "verb": "venir",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "serait venu",
+   "en": "to come",
+   "stage": 16
+  },
+  {
+   "verb": "partir",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "seraient partis",
+   "en": "to leave",
+   "stage": 16
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "fasse",
+   "en": "to do, to make",
+   "stage": 16
+  },
+  {
+   "verb": "aller",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "ailles",
+   "en": "to go",
+   "stage": 16
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "vienne",
+   "en": "to come",
+   "stage": 16
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "puissions",
+   "en": "can, to be able to",
+   "stage": 16
+  },
+  {
+   "verb": "vouloir",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "vouliez",
+   "en": "to want",
+   "stage": 16
+  },
+  {
+   "verb": "savoir",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "sachent",
+   "en": "to know",
+   "stage": 16
+  },
+  {
+   "verb": "avoir",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "aies",
+   "en": "to have",
+   "stage": 16
+  },
+  {
+   "verb": "être",
+   "tense": "subjonctif présent",
+   "person": "elle",
+   "answer": "soit",
+   "en": "to be",
+   "stage": 16
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "prennent",
+   "en": "to take",
+   "stage": 16
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "finissions",
+   "en": "to finish",
+   "stage": 16
+  },
+  {
+   "verb": "devoir",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "doive",
+   "en": "must, to have to",
+   "stage": 16
+  },
+  {
+   "verb": "voir",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "voyiez",
+   "en": "to see",
+   "stage": 16
+  },
+  {
+   "verb": "dire",
+   "tense": "subjonctif passé",
+   "person": "je",
+   "answer": "aie dit",
+   "en": "to say",
+   "stage": 16
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif passé",
+   "person": "il",
+   "answer": "ait pris",
+   "en": "to take",
+   "stage": 16
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif passé",
+   "person": "nous",
+   "answer": "ayons fini",
+   "en": "to finish",
+   "stage": 16
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif passé",
+   "person": "il",
+   "answer": "soit venu",
+   "en": "to come",
+   "stage": 16
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif passé",
+   "person": "vous",
+   "answer": "ayez fait",
+   "en": "to do, to make",
+   "stage": 16
+  }
+ ],
+ "gender": [
+  {
+   "noun": "plan",
+   "answer": "le",
+   "en": "plan",
+   "stage": 16
+  },
+  {
+   "noun": "problématique",
+   "answer": "la",
+   "en": "central question",
+   "stage": 16
+  },
+  {
+   "noun": "transition",
+   "answer": "la",
+   "en": "transition",
+   "stage": 16
+  },
+  {
+   "noun": "antithèse",
+   "answer": "la",
+   "en": "antithesis",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "synthèse",
+   "answer": "la",
+   "en": "synthesis",
+   "stage": 16
+  },
+  {
+   "noun": "accroche",
+   "answer": "la",
+   "en": "hook",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "chute",
+   "answer": "la",
+   "en": "closing line",
+   "stage": 16
+  },
+  {
+   "noun": "titre",
+   "answer": "le",
+   "en": "title",
+   "stage": 16
+  },
+  {
+   "noun": "ton",
+   "answer": "le",
+   "en": "tone",
+   "stage": 16
+  },
+  {
+   "noun": "scrutin",
+   "answer": "le",
+   "en": "vote",
+   "stage": 16
+  },
+  {
+   "noun": "coalition",
+   "answer": "la",
+   "en": "coalition",
+   "stage": 16
+  },
+  {
+   "noun": "déficit",
+   "answer": "le",
+   "en": "deficit",
+   "stage": 16
+  },
+  {
+   "noun": "dette",
+   "answer": "la",
+   "en": "debt",
+   "stage": 16
+  },
+  {
+   "noun": "récession",
+   "answer": "la",
+   "en": "recession",
+   "stage": 16
+  },
+  {
+   "noun": "inflation",
+   "answer": "la",
+   "en": "inflation",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "inégalité",
+   "answer": "la",
+   "en": "inequality",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "désinformation",
+   "answer": "la",
+   "en": "disinformation",
+   "stage": 16
+  },
+  {
+   "noun": "cybersécurité",
+   "answer": "la",
+   "en": "cybersecurity",
+   "stage": 16
+  },
+  {
+   "noun": "éditorial",
+   "answer": "le",
+   "en": "editorial",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "euphémisme",
+   "answer": "le",
+   "en": "euphemism",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "litote",
+   "answer": "la",
+   "en": "understatement",
+   "stage": 16
+  },
+  {
+   "noun": "hyperbole",
+   "answer": "la",
+   "en": "exaggeration",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "métaphore",
+   "answer": "la",
+   "en": "metaphor",
+   "stage": 16
+  },
+  {
+   "noun": "motion",
+   "answer": "la",
+   "en": "motion",
+   "stage": 16
+  },
+  {
+   "noun": "orateur",
+   "answer": "le",
+   "en": "speaker",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "réplique",
+   "answer": "la",
+   "en": "reply",
+   "stage": 16
+  },
+  {
+   "noun": "sophisme",
+   "answer": "le",
+   "en": "fallacy",
+   "stage": 16
+  },
+  {
+   "noun": "surenchère",
+   "answer": "la",
+   "en": "outbidding",
+   "stage": 16
+  },
+  {
+   "noun": "bandeau",
+   "answer": "le",
+   "en": "on-screen banner",
+   "stage": 16
+  },
+  {
+   "noun": "diapositive",
+   "answer": "la",
+   "en": "slide",
+   "stage": 16
+  }
+ ],
+ "fill": [
+  {
+   "q": "Ce ___ me dérange, c'est le bruit.",
+   "hint": "qui ou que",
+   "a": [
+    "qui"
+   ],
+   "en": "What bothers me is the noise.",
+   "stage": 16
+  },
+  {
+   "q": "Ce ___ je veux, c'est une réponse.",
+   "hint": "qui ou que",
+   "a": [
+    "que"
+   ],
+   "en": "What I want is an answer.",
+   "stage": 16
+  },
+  {
+   "q": "C'est moi qui ___ fait ce plan.",
+   "hint": "avoir, présent",
+   "a": [
+    "ai"
+   ],
+   "en": "I am the one who made this plan.",
+   "stage": 16
+  },
+  {
+   "q": "Je fais ___ mon vélo.",
+   "hint": "réparer",
+   "a": [
+    "réparer"
+   ],
+   "en": "I am having my bike repaired.",
+   "stage": 16
+  },
+  {
+   "q": "À peine ___-il arrivé que la pluie a commencé.",
+   "hint": "être, imparfait",
+   "a": [
+    "était"
+   ],
+   "en": "Hardly had he arrived when the rain started.",
+   "stage": 16
+  },
+  {
+   "q": "Peut-être viendra-___-elle.",
+   "hint": "lettre de liaison",
+   "a": [
+    "t"
+   ],
+   "en": "Perhaps she will come.",
+   "stage": 16
+  },
+  {
+   "q": "Nous n'avons ___ dix minutes.",
+   "hint": "seulement",
+   "a": [
+    "que"
+   ],
+   "en": "We have only ten minutes.",
+   "stage": 16
+  },
+  {
+   "q": "Il ne reste ___ de temps.",
+   "hint": "presque pas",
+   "a": [
+    "guère"
+   ],
+   "en": "There is hardly any time left.",
+   "stage": 16
+  },
+  {
+   "q": "Il faut ___ nous agissions maintenant.",
+   "hint": "conjonction",
+   "a": [
+    "que"
+   ],
+   "en": "We must act now.",
+   "stage": 16
+  },
+  {
+   "q": "Bien que le budget ___ petit, nous commençons.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "Although the budget is small, we are starting.",
+   "stage": 16
+  },
+  {
+   "q": "Si nous ___ testé cette formule plus tôt, nous aurions gagné du temps.",
+   "hint": "avoir, plus-que-parfait",
+   "a": [
+    "avions"
+   ],
+   "en": "If we had tested this formula earlier, we would have saved time.",
+   "stage": 16
+  },
+  {
+   "q": "Je mets cet argument en ___.",
+   "hint": "to question",
+   "a": [
+    "cause"
+   ],
+   "en": "I question this argument.",
+   "stage": 16
+  },
+  {
+   "q": "Un ___ lit les titres au téléjournal.",
+   "hint": "personne qui présente",
+   "a": [
+    "présentateur"
+   ],
+   "en": "A presenter reads the headlines on the news.",
+   "stage": 16
+  },
+  {
+   "q": "Je vais ___ pour ce poste.",
+   "hint": "to apply",
+   "a": [
+    "postuler"
+   ],
+   "en": "I am going to apply for this job.",
+   "stage": 16
+  },
+  {
+   "q": "Mon équipe me ___ beaucoup.",
+   "hint": "soutenir, présent",
+   "a": [
+    "soutient"
+   ],
+   "en": "My team supports me a lot.",
+   "stage": 16
+  },
+  {
+   "q": "Une ___ est un magasin où l'on achète des livres.",
+   "hint": "pas la bibliothèque",
+   "a": [
+    "librairie"
+   ],
+   "en": "A bookstore is a shop where you buy books.",
+   "stage": 16
+  },
+  {
+   "q": "La dette est la somme de tous les ___.",
+   "hint": "pluriel",
+   "a": [
+    "déficits"
+   ],
+   "en": "Debt is the sum of all the deficits.",
+   "stage": 16
+  },
+  {
+   "q": "Dans un premier ___, je vais montrer que c'est utile.",
+   "hint": "first",
+   "a": [
+    "temps"
+   ],
+   "en": "First, I will show that it is useful.",
+   "stage": 16
+  },
+  {
+   "q": "Avec tout le respect que je vous ___, je ne suis pas d'accord.",
+   "hint": "devoir, présent",
+   "a": [
+    "dois"
+   ],
+   "en": "With all due respect, I don't agree.",
+   "stage": 16
+  },
+  {
+   "q": "Je ne pense pas que ce ___ vrai.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "I don't think that is true.",
+   "stage": 16
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "Dans un premier temps, je voudrais montrer que cette idée est utile.",
+   "en": "First, I would like to show that this idea is useful.",
+   "stage": 16
+  },
+  {
+   "fr": "Ce qui me dérange, c'est le manque d'information.",
+   "en": "What bothers me is the lack of information.",
+   "stage": 16
+  },
+  {
+   "fr": "Ce projet, je le trouve utile.",
+   "en": "This project, I find it useful.",
+   "stage": 16
+  },
+  {
+   "fr": "Nous n'avons que dix minutes pour finir.",
+   "en": "We have only ten minutes to finish.",
+   "stage": 16
+  },
+  {
+   "fr": "À peine avions-nous annoncé le projet que des voisins ont offert leur aide.",
+   "en": "Hardly had we announced the project when neighbours offered help.",
+   "stage": 16
+  },
+  {
+   "fr": "Le déficit grimpe et la dette inquiète les économistes.",
+   "en": "The deficit climbs and the debt worries economists.",
+   "stage": 16
+  },
+  {
+   "fr": "Tu as lu ça où? Je voudrais vérifier la source.",
+   "en": "Where did you read that? I would like to check the source.",
+   "stage": 16
+  },
+  {
+   "fr": "Avec tout le respect que je vous dois, je ne suis pas d'accord.",
+   "en": "With all due respect, I don't agree.",
+   "stage": 16
+  },
+  {
+   "fr": "Sur le fond, je suis d'accord; sur la forme, non.",
+   "en": "On substance I agree; on form I don't.",
+   "stage": 16
+  },
+  {
+   "fr": "Notre reporter est sur place, et une enquête est ouverte.",
+   "en": "Our reporter is on the scene, and an investigation has been opened.",
+   "stage": 16
+  },
+  {
+   "fr": "Le statu quo n'est pas un idéal, mais c'est un point de départ.",
+   "en": "The status quo is not an ideal, but it is a starting point.",
+   "stage": 16
+  },
+  {
+   "fr": "Selon le gouvernement, le plan prévoit 45 000 immigrants permanents.",
+   "en": "According to the government, the plan sets 45,000 permanent immigrants.",
+   "stage": 16
+  },
+  {
+   "fr": "Laissez-moi réfléchir, c'est une bonne question.",
+   "en": "Let me think, that's a good question.",
+   "stage": 16
+  },
+  {
+   "fr": "Si j'avais su plus tôt, j'aurais demandé une chambre calme.",
+   "en": "If I had known sooner, I would have asked for a quiet room.",
+   "stage": 16
+  },
+  {
+   "fr": "Je vais postuler pour ce poste demain.",
+   "en": "I am going to apply for this job tomorrow.",
+   "stage": 16
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "canceller",
+   "std": "annuler",
+   "en": "to cancel",
+   "note": "casual; an anglicism the OQLF advises against",
+   "stage": 16
+  },
+  {
+   "qc": "appliquer (pour un emploi)",
+   "std": "postuler",
+   "en": "to apply for a job",
+   "note": "casual; an anglicism the OQLF advises against",
+   "stage": 16
+  },
+  {
+   "qc": "être en charge de",
+   "std": "être responsable de",
+   "en": "to be in charge of",
+   "note": "heard often; the OQLF advises against it",
+   "stage": 16
+  },
+  {
+   "qc": "ben",
+   "std": "bien",
+   "en": "well",
+   "note": "casual speech",
+   "stage": 16
+  },
+  {
+   "qc": "pis",
+   "std": "puis",
+   "en": "and then",
+   "note": "casual speech",
+   "stage": 16
+  },
+  {
+   "qc": "ouin",
+   "std": "oui",
+   "en": "yes",
+   "note": "casual speech",
+   "stage": 16
+  }
+ ]
+}

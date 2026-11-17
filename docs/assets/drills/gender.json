@@ -2730,6 +2730,194 @@
    "answer": "le",
    "en": "consent",
    "stage": 15
+  },
+  {
+   "noun": "plan",
+   "answer": "le",
+   "en": "plan",
+   "stage": 16
+  },
+  {
+   "noun": "problématique",
+   "answer": "la",
+   "en": "central question",
+   "stage": 16
+  },
+  {
+   "noun": "transition",
+   "answer": "la",
+   "en": "transition",
+   "stage": 16
+  },
+  {
+   "noun": "antithèse",
+   "answer": "la",
+   "en": "antithesis",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "synthèse",
+   "answer": "la",
+   "en": "synthesis",
+   "stage": 16
+  },
+  {
+   "noun": "accroche",
+   "answer": "la",
+   "en": "hook",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "chute",
+   "answer": "la",
+   "en": "closing line",
+   "stage": 16
+  },
+  {
+   "noun": "titre",
+   "answer": "le",
+   "en": "title",
+   "stage": 16
+  },
+  {
+   "noun": "ton",
+   "answer": "le",
+   "en": "tone",
+   "stage": 16
+  },
+  {
+   "noun": "scrutin",
+   "answer": "le",
+   "en": "vote",
+   "stage": 16
+  },
+  {
+   "noun": "coalition",
+   "answer": "la",
+   "en": "coalition",
+   "stage": 16
+  },
+  {
+   "noun": "déficit",
+   "answer": "le",
+   "en": "deficit",
+   "stage": 16
+  },
+  {
+   "noun": "dette",
+   "answer": "la",
+   "en": "debt",
+   "stage": 16
+  },
+  {
+   "noun": "récession",
+   "answer": "la",
+   "en": "recession",
+   "stage": 16
+  },
+  {
+   "noun": "inflation",
+   "answer": "la",
+   "en": "inflation",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "inégalité",
+   "answer": "la",
+   "en": "inequality",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "désinformation",
+   "answer": "la",
+   "en": "disinformation",
+   "stage": 16
+  },
+  {
+   "noun": "cybersécurité",
+   "answer": "la",
+   "en": "cybersecurity",
+   "stage": 16
+  },
+  {
+   "noun": "éditorial",
+   "answer": "le",
+   "en": "editorial",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "euphémisme",
+   "answer": "le",
+   "en": "euphemism",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "litote",
+   "answer": "la",
+   "en": "understatement",
+   "stage": 16
+  },
+  {
+   "noun": "hyperbole",
+   "answer": "la",
+   "en": "exaggeration",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "métaphore",
+   "answer": "la",
+   "en": "metaphor",
+   "stage": 16
+  },
+  {
+   "noun": "motion",
+   "answer": "la",
+   "en": "motion",
+   "stage": 16
+  },
+  {
+   "noun": "orateur",
+   "answer": "le",
+   "en": "speaker",
+   "stage": 16,
+   "elided": true
+  },
+  {
+   "noun": "réplique",
+   "answer": "la",
+   "en": "reply",
+   "stage": 16
+  },
+  {
+   "noun": "sophisme",
+   "answer": "le",
+   "en": "fallacy",
+   "stage": 16
+  },
+  {
+   "noun": "surenchère",
+   "answer": "la",
+   "en": "outbidding",
+   "stage": 16
+  },
+  {
+   "noun": "bandeau",
+   "answer": "le",
+   "en": "on-screen banner",
+   "stage": 16
+  },
+  {
+   "noun": "diapositive",
+   "answer": "la",
+   "en": "slide",
+   "stage": 16
   }
  ]
 }

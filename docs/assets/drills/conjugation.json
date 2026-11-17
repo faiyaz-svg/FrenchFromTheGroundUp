@@ -3423,6 +3423,262 @@
    "answer": "nécessiteraient",
    "en": "to require",
    "stage": 15
+  },
+  {
+   "verb": "faire",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais fait",
+   "en": "to do, to make",
+   "stage": 16
+  },
+  {
+   "verb": "dire",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "aurait dit",
+   "en": "to say",
+   "stage": 16
+  },
+  {
+   "verb": "prendre",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions pris",
+   "en": "to take",
+   "stage": 16
+  },
+  {
+   "verb": "voir",
+   "tense": "conditionnel passé",
+   "person": "vous",
+   "answer": "auriez vu",
+   "en": "to see",
+   "stage": 16
+  },
+  {
+   "verb": "écrire",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "auraient écrit",
+   "en": "to write",
+   "stage": 16
+  },
+  {
+   "verb": "finir",
+   "tense": "conditionnel passé",
+   "person": "tu",
+   "answer": "aurais fini",
+   "en": "to finish",
+   "stage": 16
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "aurait eu",
+   "en": "to have",
+   "stage": 16
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais été",
+   "en": "to be",
+   "stage": 16
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions pu",
+   "en": "can, to be able to",
+   "stage": 16
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel passé",
+   "person": "vous",
+   "answer": "auriez voulu",
+   "en": "to want",
+   "stage": 16
+  },
+  {
+   "verb": "devoir",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "auraient dû",
+   "en": "must, to have to",
+   "stage": 16
+  },
+  {
+   "verb": "savoir",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais su",
+   "en": "to know",
+   "stage": 16
+  },
+  {
+   "verb": "attendre",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions attendu",
+   "en": "to wait",
+   "stage": 16
+  },
+  {
+   "verb": "venir",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "serait venu",
+   "en": "to come",
+   "stage": 16
+  },
+  {
+   "verb": "partir",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "seraient partis",
+   "en": "to leave",
+   "stage": 16
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "fasse",
+   "en": "to do, to make",
+   "stage": 16
+  },
+  {
+   "verb": "aller",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "ailles",
+   "en": "to go",
+   "stage": 16
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "vienne",
+   "en": "to come",
+   "stage": 16
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "puissions",
+   "en": "can, to be able to",
+   "stage": 16
+  },
+  {
+   "verb": "vouloir",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "vouliez",
+   "en": "to want",
+   "stage": 16
+  },
+  {
+   "verb": "savoir",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "sachent",
+   "en": "to know",
+   "stage": 16
+  },
+  {
+   "verb": "avoir",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "aies",
+   "en": "to have",
+   "stage": 16
+  },
+  {
+   "verb": "être",
+   "tense": "subjonctif présent",
+   "person": "elle",
+   "answer": "soit",
+   "en": "to be",
+   "stage": 16
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "prennent",
+   "en": "to take",
+   "stage": 16
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "finissions",
+   "en": "to finish",
+   "stage": 16
+  },
+  {
+   "verb": "devoir",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "doive",
+   "en": "must, to have to",
+   "stage": 16
+  },
+  {
+   "verb": "voir",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "voyiez",
+   "en": "to see",
+   "stage": 16
+  },
+  {
+   "verb": "dire",
+   "tense": "subjonctif passé",
+   "person": "je",
+   "answer": "aie dit",
+   "en": "to say",
+   "stage": 16
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif passé",
+   "person": "il",
+   "answer": "ait pris",
+   "en": "to take",
+   "stage": 16
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif passé",
+   "person": "nous",
+   "answer": "ayons fini",
+   "en": "to finish",
+   "stage": 16
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif passé",
+   "person": "il",
+   "answer": "soit venu",
+   "en": "to come",
+   "stage": 16
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif passé",
+   "person": "vous",
+   "answer": "ayez fait",
+   "en": "to do, to make",
+   "stage": 16
   }
  ]
 }

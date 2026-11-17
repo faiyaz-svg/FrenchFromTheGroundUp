@@ -1049,6 +1049,81 @@
    "fr": "Un voyageur vint de la ville et apporta du blé.",
    "en": "A traveller came from the town and brought wheat.",
    "stage": 15
+  },
+  {
+   "fr": "Dans un premier temps, je voudrais montrer que cette idée est utile.",
+   "en": "First, I would like to show that this idea is useful.",
+   "stage": 16
+  },
+  {
+   "fr": "Ce qui me dérange, c'est le manque d'information.",
+   "en": "What bothers me is the lack of information.",
+   "stage": 16
+  },
+  {
+   "fr": "Ce projet, je le trouve utile.",
+   "en": "This project, I find it useful.",
+   "stage": 16
+  },
+  {
+   "fr": "Nous n'avons que dix minutes pour finir.",
+   "en": "We have only ten minutes to finish.",
+   "stage": 16
+  },
+  {
+   "fr": "À peine avions-nous annoncé le projet que des voisins ont offert leur aide.",
+   "en": "Hardly had we announced the project when neighbours offered help.",
+   "stage": 16
+  },
+  {
+   "fr": "Le déficit grimpe et la dette inquiète les économistes.",
+   "en": "The deficit climbs and the debt worries economists.",
+   "stage": 16
+  },
+  {
+   "fr": "Tu as lu ça où? Je voudrais vérifier la source.",
+   "en": "Where did you read that? I would like to check the source.",
+   "stage": 16
+  },
+  {
+   "fr": "Avec tout le respect que je vous dois, je ne suis pas d'accord.",
+   "en": "With all due respect, I don't agree.",
+   "stage": 16
+  },
+  {
+   "fr": "Sur le fond, je suis d'accord; sur la forme, non.",
+   "en": "On substance I agree; on form I don't.",
+   "stage": 16
+  },
+  {
+   "fr": "Notre reporter est sur place, et une enquête est ouverte.",
+   "en": "Our reporter is on the scene, and an investigation has been opened.",
+   "stage": 16
+  },
+  {
+   "fr": "Le statu quo n'est pas un idéal, mais c'est un point de départ.",
+   "en": "The status quo is not an ideal, but it is a starting point.",
+   "stage": 16
+  },
+  {
+   "fr": "Selon le gouvernement, le plan prévoit 45 000 immigrants permanents.",
+   "en": "According to the government, the plan sets 45,000 permanent immigrants.",
+   "stage": 16
+  },
+  {
+   "fr": "Laissez-moi réfléchir, c'est une bonne question.",
+   "en": "Let me think, that's a good question.",
+   "stage": 16
+  },
+  {
+   "fr": "Si j'avais su plus tôt, j'aurais demandé une chambre calme.",
+   "en": "If I had known sooner, I would have asked for a quiet room.",
+   "stage": 16
+  },
+  {
+   "fr": "Je vais postuler pour ce poste demain.",
+   "en": "I am going to apply for this job tomorrow.",
+   "stage": 16
   }
  ]
 }

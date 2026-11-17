@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 15.
 6. [Radio debates](06-radio-debates.md) (listen)
 7. [TV news and documentaries](07-tv-news-and-documentaries.md) (listen)
 8. [Debates in Quebec today](08-quebec-today-debates.md) (quebec)
-9. Editorials (not written yet) (read)
-10. An opinion piece (not written yet) (write)
-11. Oral test practice (not written yet) (speak)
-12. The final error clinic (not written yet) (write)
-13. Capstone (not written yet) (speak, review)
+9. [Editorials](09-editorials.md) (read)
+10. [An opinion piece](10-opinion-piece.md) (write)
+11. [Oral test practice](11-oral-test-practice.md) (speak)
+12. [The final error clinic](12-final-error-clinic.md) (write)
+13. [Capstone](13-capstone.md) (speak, review)
 
 <!-- lessons:end -->
 
