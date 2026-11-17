@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 183 of 205. New lessons appear here as they are added.
+Lessons written so far: 187 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -239,3 +239,7 @@ Lessons written so far: 183 of 205. New lessons appear here as they are added.
 - [ ] [Emphasis and inversion](16-debate-news-and-test-readiness/02-emphasis-and-inversion.md) (grammar)
 - [ ] [Advanced news vocabulary](16-debate-news-and-test-readiness/03-news-vocabulary-advanced.md) (words)
 - [ ] [Discussing current events](16-debate-news-and-test-readiness/04-current-events-discussion.md) (speak)
+- [ ] [Formal debate](16-debate-news-and-test-readiness/05-formal-debate.md) (speak)
+- [ ] [Radio debates](16-debate-news-and-test-readiness/06-radio-debates.md) (listen)
+- [ ] [TV news and documentaries](16-debate-news-and-test-readiness/07-tv-news-and-documentaries.md) (listen)
+- [ ] [Debates in Quebec today](16-debate-news-and-test-readiness/08-quebec-today-debates.md) (quebec)

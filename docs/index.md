@@ -293,10 +293,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="16-debate-news-and-test-readiness/02-emphasis-and-inversion/" data-lesson="16-debate-news-and-test-readiness/02-emphasis-and-inversion/" title="Emphasis and inversion"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="16-debate-news-and-test-readiness/03-news-vocabulary-advanced/" data-lesson="16-debate-news-and-test-readiness/03-news-vocabulary-advanced/" title="Advanced news vocabulary"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="16-debate-news-and-test-readiness/04-current-events-discussion/" data-lesson="16-debate-news-and-test-readiness/04-current-events-discussion/" title="Discussing current events"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="Formal debate"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="Radio debates"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="TV news and documentaries"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Debates in Quebec today"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/05-formal-debate/" data-lesson="16-debate-news-and-test-readiness/05-formal-debate/" title="Formal debate"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/06-radio-debates/" data-lesson="16-debate-news-and-test-readiness/06-radio-debates/" title="Radio debates"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/07-tv-news-and-documentaries/" data-lesson="16-debate-news-and-test-readiness/07-tv-news-and-documentaries/" title="TV news and documentaries"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/08-quebec-today-debates/" data-lesson="16-debate-news-and-test-readiness/08-quebec-today-debates/" title="Debates in Quebec today"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="Editorials"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="An opinion piece"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="Oral test practice"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
