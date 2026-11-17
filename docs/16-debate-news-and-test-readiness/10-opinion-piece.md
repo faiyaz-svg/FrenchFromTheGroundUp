@@ -12,7 +12,7 @@ After this lesson you can write an opinion piece of 250 to 300 words for a local
 
 ## Avant de commencer
 
-Avant : [structurer un argument](01-structuring-an-argument.md), [la mise en relief](02-emphasis-and-inversion.md), [les éditoriaux](09-editorials.md), [le paragraphe argumentatif](../13-subjunctive-and-argument/10-argumentative-paragraph.md), le conditionnel passé<!-- link: ../14-conditionals-work-and-interviews/01-conditionnel-passe.md -->. Vous avez besoin d'un éditeur de texte avec un compteur de mots.
+Avant : [structurer un argument](01-structuring-an-argument.md), [la mise en relief](02-emphasis-and-inversion.md), [les éditoriaux](09-editorials.md), [le paragraphe argumentatif](../13-subjunctive-and-argument/10-argumentative-paragraph.md), le [conditionnel passé](../14-conditionals-work-and-interviews/01-conditionnel-passe.md). Vous avez besoin d'un éditeur de texte avec un compteur de mots.
 {: .fr }
 
 Before this: structuring an argument, emphasis and inversion, editorials, the argumentative paragraph and the conditionnel passé. You need: a text editor with a word counter.

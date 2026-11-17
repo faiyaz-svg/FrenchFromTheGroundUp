@@ -12,7 +12,7 @@ After this lesson you can write a formal email or letter following the rules of 
 
 ## Avant de commencer
 
-Avant : [les bases du courriel de travail](../09-work-and-the-future/10-work-email-basics.md), [une demande formelle](../10-complex-sentences-and-requests/11-formal-request.md), [la page des formules de courriel](../reference/email-formulas.md), [écrire une plainte](../11-reporting-and-opinions/11-writing-a-complaint.md), The conditionnel passé<!-- link: ../14-conditionals-work-and-interviews/01-conditionnel-passe.md -->. Vous n'avez besoin de rien.
+Avant : [les bases du courriel de travail](../09-work-and-the-future/10-work-email-basics.md), [une demande formelle](../10-complex-sentences-and-requests/11-formal-request.md), [la page des formules de courriel](../reference/email-formulas.md), [écrire une plainte](../11-reporting-and-opinions/11-writing-a-complaint.md), [The conditionnel passé](../14-conditionals-work-and-interviews/01-conditionnel-passe.md). Vous n'avez besoin de rien.
 {: .fr }
 
 Before this: work email basics, a formal request, the email formulas page, writing a complaint, and the conditionnel passé. You need: nothing.

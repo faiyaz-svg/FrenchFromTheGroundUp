@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 192 of 205. New lessons appear here as they are added.
+Lessons written so far: 196 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -216,6 +216,13 @@ Lessons written so far: 192 of 205. New lessons appear here as they are added.
 - [ ] [Longer articles](13-subjunctive-and-argument/11-longer-articles.md) (read)
 - [ ] [Fix the errors, B2](13-subjunctive-and-argument/12-fix-the-errors-b2.md) (write)
 - [ ] [Argue it both ways](13-subjunctive-and-argument/13-argue-it-both-ways.md) (speak, review)
+
+### Stage 14: Conditionals, work and interviews
+
+- [ ] [The conditionnel passé](14-conditionals-work-and-interviews/01-conditionnel-passe.md) (grammar)
+- [ ] [All types of si clauses](14-conditionals-work-and-interviews/02-si-clauses-all-types.md) (grammar)
+- [ ] [The futur antérieur](14-conditionals-work-and-interviews/03-futur-anterieur.md) (grammar)
+- [ ] [Regret and reproach](14-conditionals-work-and-interviews/04-regret-and-reproach.md) (grammar)
 
 ### Stage 15: Formal register and government French
 

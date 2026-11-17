@@ -187,4 +187,4 @@ Oublier de revenir à la thèse à la fin : le monologue finit sur le contre. T
 - **Monologue**: a speech by one person, without interruption.
 - **Parti pris**: an opinion decided in advance, before looking at the arguments.
 
-Suite : The conditionnel passé<!-- link: ../14-conditionals-work-and-interviews/01-conditionnel-passe.md -->
+Suite : [The conditionnel passé](../14-conditionals-work-and-interviews/01-conditionnel-passe.md)

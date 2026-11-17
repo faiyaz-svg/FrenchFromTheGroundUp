@@ -253,10 +253,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="14">
 <a class="fm-seg-name" href="14-conditionals-work-and-interviews/">14 · Conditionals, work and interviews</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="The conditionnel passé"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="All types of si clauses"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="The futur antérieur"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="Regret and reproach"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/01-conditionnel-passe/" data-lesson="14-conditionals-work-and-interviews/01-conditionnel-passe/" title="The conditionnel passé"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/02-si-clauses-all-types/" data-lesson="14-conditionals-work-and-interviews/02-si-clauses-all-types/" title="All types of si clauses"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/03-futur-anterieur/" data-lesson="14-conditionals-work-and-interviews/03-futur-anterieur/" title="The futur antérieur"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/04-regret-and-reproach/" data-lesson="14-conditionals-work-and-interviews/04-regret-and-reproach/" title="Regret and reproach"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Hedging and softening"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="HR vocabulary"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="A Canadian CV"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

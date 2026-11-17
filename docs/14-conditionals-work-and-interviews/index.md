@@ -7,10 +7,10 @@ Before this stage: Stages 1 to 13.
 <!-- lessons:start -->
 ## Lessons
 
-1. The conditionnel passé (not written yet) (grammar)
-2. All types of si clauses (not written yet) (grammar)
-3. The futur antérieur (not written yet) (grammar)
-4. Regret and reproach (not written yet) (grammar)
+1. [The conditionnel passé](01-conditionnel-passe.md) (grammar)
+2. [All types of si clauses](02-si-clauses-all-types.md) (grammar)
+3. [The futur antérieur](03-futur-anterieur.md) (grammar)
+4. [Regret and reproach](04-regret-and-reproach.md) (grammar)
 5. Hedging and softening (not written yet) (words)
 6. HR vocabulary (not written yet) (words)
 7. A Canadian CV (not written yet) (write)
