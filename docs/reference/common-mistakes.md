@@ -1523,4 +1523,672 @@ Cacher les points faibles. Une lacune notée est une lacune qu'on peut travaille
 Hiding weak points. A gap you have noted is a gap you can work on.
 {: .en }
 
+
+## Stage 13: Subjunctive and argument
+
+### [The subjunctive: doubt and opinion](../13-subjunctive-and-argument/01-subjunctive-doubt-opinion.md)
+
+Mettre l'indicatif après un doute : « Je doute qu'il a raison. » Après *douter que*, le subjonctif est obligatoire : *Je doute qu'il ait raison.*
+
+Garder l'indicatif quand *penser* est négatif : « Je ne pense pas qu'il vient. » La phrase négative demande le subjonctif : *Je ne pense pas qu'il vienne.*
+
+Mettre le subjonctif après *il me semble que* : « Il me semble qu'il soit en retard. » Avec *me*, on emploie l'indicatif : *Il me semble qu'il est en retard.*
+
+### [The subjunctive after conjunctions](../13-subjunctive-and-argument/02-subjunctive-conjunctions.md)
+
+Mettre le subjonctif après *après que* : « Après qu'il ait fini ». Il s'agit d'un fait passé : *après qu'il a fini*.
+
+Garder *que* avec un seul sujet : « Je pars avant que je dîne ». Avec un seul sujet, on dit *je pars avant de dîner*.
+
+Ajouter *ne* après *sans que* : « sans qu'il ne le sache ». Après *sans que*, ce *ne* est une erreur : *sans qu'il le sache*.
+
+### [Concession](../13-subjunctive-and-argument/03-concession.md)
+
+Employer l'indicatif après *bien que* : « Bien que le budget est petit ». Écrivez *bien que le budget soit petit*.
+
+Mettre le futur après *même si* : « Même si tu viendras ». *Même si* suit les règles de *si* : *même si tu viens*.
+
+Mettre un verbe conjugué après *malgré* : « Malgré il pleut ». *Malgré* est suivi d'un nom : *malgré la pluie*.
+
+### [The past subjunctive](../13-subjunctive-and-argument/04-subjonctif-passe.md)
+
+Mettre le subjonctif présent pour une action finie : « Je regrette que nous abandonnions ». Pour une action finie, écrivez *Je regrette que nous ayons abandonné*.
+
+Oublier l'accord avec *être* : « Je suis content qu'elles soient parti ». Avec *être*, le participe s'accorde : *qu'elles soient parties*.
+
+Employer le subjonctif après *après que* : « après qu'il ait fini ». L'OQLF indique l'indicatif : *après qu'il a fini*.
+
+### [Subjunctive or indicative](../13-subjunctive-and-argument/05-subjunctive-or-indicative.md)
+
+Mettre le subjonctif après *espérer que* : « J'espère qu'il vienne ». *Espérer que* prend l'indicatif : *J'espère qu'il viendra.*
+
+Mettre l'indicatif après *trouver que* à la forme négative : « Je ne trouve pas que c'est clair ». Une phrase négative exprime le doute : *Je ne trouve pas que ce soit clair.*
+
+Prendre *tandis que* ou *sauf que* pour des conjonctions du subjonctif. Elles prennent l'indicatif : *sauf qu'il y a du vent.*
+
+### [Advanced connectors](../13-subjunctive-and-argument/06-advanced-connectors.md)
+
+Mettre un verbe après *d'où* : « d'où il y a des retards ». *D'où* est suivi d'un nom : *d'où des retards*.
+
+Oublier l'inversion après *aussi* au sens de « donc » : « Aussi il faut agir ». À l'écrit soutenu : *Aussi faut-il agir.* Sinon, dites *donc*.
+
+Confondre *à savoir* et *notamment*. *À savoir* donne la liste complète : *à savoir le plan et le budget.* *Notamment* donne un exemple parmi d'autres.
+
+### [Debating a point](../13-subjunctive-and-argument/07-debating-a-point.md)
+
+Mettre l'indicatif après *admettons que* : « Admettons que vous avez raison ». *Admettons que* prend le subjonctif : *Admettons que vous ayez raison.*
+
+Confondre *réfuter* et *refuser*. *Réfuter* veut dire montrer qu'un argument est faux; *refuser* veut dire dire non.
+
+Dire *Tu es de mauvaise foi* dans un débat formel. L'expression accuse l'autre; préférez *Je ne suis pas convaincu que...*.
+
+### [Language and identity in Quebec](../13-subjunctive-and-argument/08-quebec-language-and-identity.md)
+
+Confondre *anglophone* et *allophone*. Un anglophone parle anglais; un allophone a une langue maternelle autre que le français ou l'anglais.
+
+Écrire « Les Québécois pensent que... ». Les opinions divergent : citez une personne ou une source (*selon la loi*, *selon cette personne*).
+
+Mélanger *première langue officielle parlée* et *langue maternelle*. Ce sont deux mesures différentes de Statistique Canada, avec deux résultats différents.
+
+### [Podcast listening](../13-subjunctive-and-argument/09-podcast-listening.md)
+
+Chercher chaque mot : l'écoute devient trop lente. Cherchez d'abord le sujet, les angles et la conclusion, puis les détails.
+
+Prendre un petit mot familier pour une erreur. *Tsé* et *faque* sont du français familier au Québec; ils ne sont pas des fautes.
+
+Confondre *aborder* et *évoquer*. *Aborder* ouvre un sujet pour en parler; *évoquer* le mentionne rapidement.
+
+### [An argumentative paragraph](../13-subjunctive-and-argument/10-argumentative-paragraph.md)
+
+Écrire plusieurs idées sans thèse : le lecteur ne sait pas ce que vous défendez. Écrivez la thèse dans la première phrase.
+
+Donner un argument sans exemple : « Le télétravail est bon, parce qu'il est bon ». Étayez chaque argument avec un exemple ou une donnée.
+
+Ajouter une idée nouvelle dans la conclusion. La conclusion reprend la thèse avec d'autres mots.
+
+### [Longer articles](../13-subjunctive-and-argument/11-longer-articles.md)
+
+Lire mot à mot : on perd le plan. Lisez d'abord le titre et la première phrase de chaque paragraphe.
+
+Prendre un chiffre fictif ou sans source pour un fait. Ici, tous les chiffres sont inventés; dans un vrai article, cherchez qui les donne.
+
+Confondre *réglementer* et *plafonner*. *Réglementer* veut dire fixer des règles; *plafonner* veut dire fixer une limite.
+
+### [Fix the errors, B2](../13-subjunctive-and-argument/12-fix-the-errors-b2.md)
+
+Chercher toutes les erreurs en un seul passage : on en manque beaucoup. Relisez cinq fois, une famille d'erreurs par passage.
+
+Corriger une phrase sans relire le reste : une correction peut créer une incohérence. Relisez le paragraphe entier après chaque changement.
+
+Garder un mot familier dans un texte formel : *les gars*, *plein de*. Remplacez par *les employés*, *de nombreux*.
+
+### [Argue it both ways](../13-subjunctive-and-argument/13-argue-it-both-ways.md)
+
+Prendre position dès la première phrase : le « pour et contre » devient une opinion déguisée. Gardez la prise de position pour la fin.
+
+Donner trois arguments faibles au lieu de deux arguments solides. Chaque argument demande une phrase et un exemple.
+
+Oublier de revenir à la thèse à la fin : le monologue finit sur le contre. Terminez par *en définitive* et une prise de position.
+
+
+## Stage 14: Conditionals, work and interviews
+
+### [The conditionnel passé](../14-conditionals-work-and-interviews/01-conditionnel-passe.md)
+
+Oublier l'accord avec *être* : « Elle serait parti ». Écrivez *elle serait partie*.
+{: .fr }
+
+Forgetting agreement with *être*: "Elle serait parti". Write *elle serait partie*.
+{: .en }
+
+Mettre le conditionnel présent pour un fait passé : « Tu pourrais m'appeler » veut dire « you could call me » (maintenant). Pour le passé, écrivez *tu aurais pu m'appeler*.
+{: .fr }
+
+Using the conditionnel présent for a past fact: "Tu pourrais m'appeler" means "you could call me" (now). For the past, write *tu aurais pu m'appeler*.
+{: .en }
+
+Employer le conditionnel de nouvelle pour un fait vérifié : si la nouvelle est confirmée, écrivez *le directeur a démissionné*.
+{: .fr }
+
+Using the news conditionnel for a verified fact: if the news is confirmed, write *le directeur a démissionné*.
+{: .en }
+
+### [All types of si clauses](../14-conditionals-work-and-interviews/02-si-clauses-all-types.md)
+
+Mettre le conditionnel après *si* : « Si j'aurais su ». Écrivez *si j'avais su*. Le conditionnel va dans la proposition de résultat.
+{: .fr }
+
+Putting the conditionnel after *si*: "Si j'aurais su". Write *si j'avais su*. The conditionnel goes in the result clause.
+{: .en }
+
+Confondre *éventuellement* et « eventually » : *éventuellement* veut dire « possibly ». Pour « à la fin », écrivez *finalement*.
+{: .fr }
+
+Confusing *éventuellement* and "eventually": *éventuellement* means "possibly". For "in the end", write *finalement*.
+{: .en }
+
+Employer le futur après *au cas où* : « Au cas où il viendra ». Écrivez *au cas où il viendrait*.
+{: .fr }
+
+Using the futur after *au cas où*: "Au cas où il viendra". Write *au cas où il viendrait*.
+{: .en }
+
+### [The futur antérieur](../14-conditionals-work-and-interviews/03-futur-anterieur.md)
+
+Mettre le présent après *quand* pour le futur : « Quand je finis, je vous appelle » est possible à l'oral pour une habitude, mais pour une action future terminée, écrivez *Quand j'aurai fini, je vous appellerai.*
+{: .fr }
+
+Using the présent after *quand* for the future: "Quand je finis, je vous appelle" is possible in speech for a habit, but for a finished future action, write *Quand j'aurai fini, je vous appellerai.*
+{: .en }
+
+Oublier l'accord avec *être* : « Elle sera arrivé ». Écrivez *elle sera arrivée*.
+{: .fr }
+
+Forgetting agreement with *être*: "Elle sera arrivé". Write *elle sera arrivée*.
+{: .en }
+
+Mettre un article après *dès réception* : « dès la réception du paiement » est correct, mais plus long. La formule courante est *dès réception du paiement*.
+{: .fr }
+
+Putting an article after *dès réception*: "dès la réception du paiement" is correct, but longer. The usual formula is *dès réception du paiement*.
+{: .en }
+
+### [Regret and reproach](../14-conditionals-work-and-interviews/04-regret-and-reproach.md)
+
+Dire « Je devrais avoir appelé » pour « I should have called ». Écrivez *j'aurais dû appeler*.
+{: .fr }
+
+Saying "Je devrais avoir appelé" for "I should have called". Write *j'aurais dû appeler*.
+{: .en }
+
+Confondre *s'en vouloir* et *en vouloir à quelqu'un* : *je m'en veux* est un regret sur soi, *je t'en veux* est un reproche envers l'autre.
+{: .fr }
+
+Confusing *s'en vouloir* and *en vouloir à quelqu'un*: *je m'en veux* is a regret about yourself, *je t'en veux* is a reproach toward the other.
+{: .en }
+
+Mettre l'indicatif après *regretter que* : « Je regrette que tu n'as pas appelé ». Écrivez *je regrette que tu n'aies pas appelé*.
+{: .fr }
+
+Putting the indicative after *regretter que*: "Je regrette que tu n'as pas appelé". Write *je regrette que tu n'aies pas appelé*.
+{: .en }
+
+### [Hedging and softening](../14-conditionals-work-and-interviews/05-hedging-and-softening.md)
+
+Comprendre *sans doute* comme « certainement » : il veut dire « probablement ». Pour « certainement », écrivez *sans aucun doute*.
+{: .fr }
+
+Understanding *sans doute* as "certainly": it means "probably". For "certainly", write *sans aucun doute*.
+{: .en }
+
+Mettre l'indicatif après *il semblerait que* : « Il semblerait que c'est vrai ». Écrivez *il semblerait que ce soit vrai*.
+{: .fr }
+
+Putting the indicative after *il semblerait que*: "Il semblerait que c'est vrai". Write *il semblerait que ce soit vrai*.
+{: .en }
+
+Empiler quatre nuances dans une phrase : « À vrai dire, il me semblerait plutôt que, dans une certaine mesure... ». Une ou deux nuances suffisent, sinon le sens se perd.
+{: .fr }
+
+Stacking four hedges in one sentence: "À vrai dire, il me semblerait plutôt que, dans une certaine mesure...". One or two hedges are enough, otherwise the meaning gets lost.
+{: .en }
+
+### [HR vocabulary](../14-conditionals-work-and-interviews/06-hr-vocabulary.md)
+
+Employer *shift* au lieu de *quart de travail* dans un texte formel. Écrivez *quart de travail* ou *quart*.
+{: .fr }
+
+Using *shift* instead of *quart de travail* in a formal text. Write *quart de travail* or *quart*.
+{: .en }
+
+Confondre *une promotion* (un poste plus élevé) et *une mutation* (un changement de poste ou de lieu, au même niveau en général).
+{: .fr }
+
+Confusing *une promotion* (a higher post) and *une mutation* (a change of post or place, usually at the same level).
+{: .en }
+
+Penser que *un licenciement* et *une mise à pied* sont toujours la même chose : la mise à pied peut être temporaire.
+{: .fr }
+
+Thinking *un licenciement* and *une mise à pied* are always the same thing: a layoff can be temporary.
+{: .en }
+
+### [A Canadian CV](../14-conditionals-work-and-interviews/07-canadian-cv.md)
+
+Écrire les puces avec « je » : « J'ai géré un budget ». Dans ce livre, écrivez *gérer un budget* (l'OQLF accepte les noms d'action et les verbes à l'infinitif).
+{: .fr }
+
+Writing bullets with "je": "J'ai géré un budget". In this book, write *gérer un budget* (the OQLF accepts action nouns and infinitives).
+{: .en }
+
+Mettre une photo ou l'âge par habitude : ce n'est pas la convention canadienne, selon l'OQLF.
+{: .fr }
+
+Adding a photo or your age out of habit: this is not the Canadian convention, according to the OQLF.
+{: .en }
+
+Mélanger les langues dans une même section : écrivez *Expérience professionnelle*, pas « Work experience ».
+{: .fr }
+
+Mixing languages in the same section: write *Expérience professionnelle*, not "Work experience".
+{: .en }
+
+### [Interview role play](../14-conditionals-work-and-interviews/08-interview-role-play.md)
+
+Dire « J'ai pas de faiblesse » : le jury attend une faiblesse réelle avec un effort. Dites ce que vous améliorez.
+{: .fr }
+
+Saying "J'ai pas de faiblesse": the panel expects a real weakness with an effort. Say what you are improving.
+{: .en }
+
+Employer le futur ou le conditionnel après *si* : « Si deux collègues se disputeraient, j'écouterais... ». La règle ne change pas à l'entrevue : *si* + imparfait, puis le conditionnel.
+{: .fr }
+
+Using the futur or the conditionnel after *si*: "Si deux collègues se disputeraient, j'écouterais...". The rule does not change in an interview: *si* + imparfait, then the conditionnel.
+{: .en }
+
+Dire « nous » pour tout : « Nous avons résolu le problème ». Dans la partie action, dites ce que *vous* avez fait : *j'ai proposé*, *j'ai expliqué*.
+{: .fr }
+
+Saying "nous" for everything: "Nous avons résolu le problème". In the action part, say what *you* did: *j'ai proposé*, *j'ai expliqué*.
+{: .en }
+
+### [TV, cinema and humour in Quebec](../14-conditionals-work-and-interviews/09-quebec-tv-cinema-humour.md)
+
+Dire « une film » : *film* est masculin. Écrivez *un film*, *un long métrage*.
+{: .fr }
+
+Saying "une film": *film* is masculine. Write *un film*, *un long métrage*.
+{: .en }
+
+Confondre *un acteur* et *un réalisateur* : le premier joue, le second dirige.
+{: .fr }
+
+Confusing *un acteur* and *un réalisateur*: the first acts, the second directs.
+{: .en }
+
+### [Interviews and meetings](../14-conditionals-work-and-interviews/10-interviews-and-meetings.md)
+
+Confondre *un livrable* et *une livraison* : le livrable est le résultat à remettre; la livraison est l'action de remettre.
+{: .fr }
+
+Confusing *un livrable* and *une livraison*: the deliverable is the result to hand over; the delivery is the action of handing over.
+{: .en }
+
+Dire « un gap » pour *un écart* : écrivez *un écart*.
+{: .fr }
+
+Saying "un gap" for *un écart*: write *un écart*.
+{: .en }
+
+Oublier l'accord du participe avec *l'* : *je l'aurai envoyée* (la liste est féminine).
+{: .fr }
+
+Forgetting the agreement of the participle with *l'*: *je l'aurai envoyée* (the list is feminine).
+{: .en }
+
+### [Contributing to meetings](../14-conditionals-work-and-interviews/11-contributing-to-meetings.md)
+
+Employer l'indicatif après *je propose que* : « Je propose que nous réorientons ». Écrivez *je propose que nous réorientions*.
+{: .fr }
+
+Using the indicative after *je propose que*: "Je propose que nous réorientons". Write *je propose que nous réorientions*.
+{: .en }
+
+Dire « Je m'en occupe de ça » avec un doublon : *je m'en charge* suffit, ou *je m'occupe de cela*.
+{: .fr }
+
+Doubling the object: "Je m'en occupe de ça". *Je m'en charge* is enough, or *je m'occupe de cela*.
+{: .en }
+
+Interrompre sans excuse et sans question : « Mais non! ». Commencez par vous excuser : *Excusez-moi de vous interrompre.*
+{: .fr }
+
+Interrupting with no apology and no question: "Mais non!". Begin with an apology: *Excusez-moi de vous interrompre.*
+{: .en }
+
+### [Job postings and policies](../14-conditionals-work-and-interviews/12-job-postings-and-policies.md)
+
+Confondre *exigence* et *atout* : l'exigence est obligatoire, l'atout est un plus.
+{: .fr }
+
+Confusing *exigence* and *atout*: the requirement is mandatory, the asset is a plus.
+{: .en }
+
+Confondre *abroger* et *abréger* : *abroger* veut dire annuler officiellement, *abréger* veut dire raccourcir.
+{: .fr }
+
+Confusing *abroger* and *abréger*: *abroger* means to cancel officially, *abréger* means to shorten.
+{: .en }
+
+Penser que *impératif* veut dire « urgent » : dans une offre, *impératif* veut dire qu'il faut déjà remplir l'exigence à la nomination.
+{: .fr }
+
+Thinking *impératif* means "urgent": in a posting, *impératif* means the requirement must already be met at appointment.
+{: .en }
+
+### [Interview day](../14-conditionals-work-and-interviews/13-interview-day.md)
+
+Mettre le conditionnel après *si* sous le stress : « Si j'aurais un conflit ». La règle reste la même : *si j'avais un conflit*.
+{: .fr }
+
+Putting the conditionnel after *si* under stress: "Si j'aurais un conflit". The rule stays the same: *si j'avais un conflit*.
+{: .en }
+
+Écrire un courriel de remerciement trop long : deux ou trois phrases suffisent.
+{: .fr }
+
+Writing a thank-you email that is too long: two or three sentences are enough.
+{: .en }
+
+Arriver en retard sans prévenir : si vous êtes en retard, appelez ou écrivez avant l'heure du rendez-vous.
+{: .fr }
+
+Arriving late without warning: if you are late, call or write before the appointment time.
+{: .en }
+
+
+## Stage 15: Formal register and government French
+
+### [Nominalisation](../15-formal-register-and-government-french/01-nominalisation.md)
+
+Mettre le mauvais genre à un nom dérivé : *le gestion*. Les noms en *-tion* sont féminins et les noms en *-ment* sont masculins, donc *la gestion* est féminin, comme *la réduction*.
+{: .fr }
+
+Using the wrong gender on a derived noun: *le gestion*. Nouns in *-tion* are feminine and nouns in *-ment* are masculine, so *la gestion* is feminine, like *la réduction*.
+{: .en }
+
+Empiler les noms : *la réalisation de l'évaluation de la mise en œuvre de la gestion*. Le texte devient illisible. Gardez un verbe dans chaque phrase.
+{: .fr }
+
+Piling nouns on top of each other: *la réalisation de l'évaluation de la mise en œuvre de la gestion*. The text becomes unreadable. Keep a verb in every sentence.
+{: .en }
+
+### [Shifting register](../15-formal-register-and-government-french/02-register-shifts.md)
+
+Utiliser un mot soutenu dans une conversation : *Je désire un café* au dépanneur. Dites *Je voudrais un café*.
+{: .fr }
+
+Using a formal word in a conversation: *Je désire un café* at the corner store. Say *Je voudrais un café*.
+{: .en }
+
+Traduire « to assist » par *assister* quand on veut dire « aider » : *Il m'a assisté pour mon travail* est correct, mais formel. Pour « to attend », dites *assister à*.
+{: .fr }
+
+Translating "to assist" with *assister* when you mean "to help": *Il m'a assisté pour mon travail* is correct but formal. For "to attend", say *assister à*.
+{: .en }
+
+### [Formal emails](../15-formal-register-and-government-french/03-formal-emails.md)
+
+Mettre une espace avant le point d'exclamation, le point d'interrogation ou le point-virgule, comme dans la ligne suivante.
+
+```fr
+Bonjour ! Merci ; à bientôt ? {x}
+```
+
+Ce livre met le point d'exclamation et le point d'interrogation sans espace; l'OQLF accepte aussi une fine espace.
+{: .fr }
+
+Putting a space before the exclamation mark, the question mark or the semicolon, as in the line above. This book puts the exclamation mark and the question mark with no space; the OQLF also accepts a thin space.
+{: .en }
+
+Écrire *l'expression de mes salutations distinguées*. L'OQLF dit d'écrire *mes salutations distinguées*, sans *expression de*, parce qu'on n'exprime pas des salutations.
+{: .fr }
+
+Writing *l'expression de mes salutations distinguées*. The OQLF says to write *mes salutations distinguées*, without *expression de*, because you do not express greetings.
+{: .en }
+
+Abréger *Madame* dans l'appel. L'usage est de l'écrire en toutes lettres à cet endroit.
+{: .fr }
+
+Abbreviating *Madame* in the greeting. The usual practice is to write it in full there.
+{: .en }
+
+### [Recognising the passé simple](../15-formal-register-and-government-french/04-passe-simple-recognition.md)
+
+Prendre *il finit* pour un présent dans un récit au passé. Regardez les autres verbes de la phrase : s'ils sont au passé, *il finit* aussi.
+{: .fr }
+
+Taking *il finit* for a present in a narrative in the past. Look at the other verbs in the sentence: if they are in the past, so is *il finit*.
+{: .en }
+
+Utiliser le passé simple dans une conversation ou dans un courriel : *Hier, je finis le rapport.* On écrit *J'ai fini le rapport.* Le passé simple est à reconnaître seulement.
+{: .fr }
+
+Using the passé simple in a conversation or an email: *Hier, je finis le rapport.* You write *J'ai fini le rapport.* The passé simple is for recognition only.
+{: .en }
+
+### [Government vocabulary](../15-formal-register-and-government-french/05-government-vocabulary.md)
+
+Confondre *une prestation* et *une subvention*. Une prestation va à une personne; une subvention va à un organisme ou à un projet.
+{: .fr }
+
+Confusing *une prestation* and *une subvention*. A prestation goes to a person; a subvention goes to an organisation or a project.
+{: .en }
+
+Dire *la Chambre des communes* pour l'Assemblée nationale du Québec. Au Québec, les députés siègent à *l'Assemblée nationale*; la Chambre des communes est celle du Parlement du Canada.
+{: .fr }
+
+Saying *la Chambre des communes* for the Assemblée nationale of Quebec. In Quebec, members sit in the *Assemblée nationale*; the House of Commons belongs to the Parliament of Canada.
+{: .en }
+
+### [Serving the public formally](../15-formal-register-and-government-french/06-serving-the-public-formally.md)
+
+Dire *tu* à une personne qu'on sert : *As-tu ton numéro?* Au comptoir, on dit *vous*.
+{: .fr }
+
+Saying *tu* to a person you serve: *As-tu ton numéro?* At the counter, say *vous*.
+{: .en }
+
+Dire *Il faut que vous attendiez* de façon sèche. Dites *Veuillez patienter un instant*, avec un ton poli.
+{: .fr }
+
+Saying *Il faut que vous attendiez* in a curt way. Say *Veuillez patienter un instant*, in a polite tone.
+{: .en }
+
+### [Briefing notes](../15-formal-register-and-government-french/07-briefing-notes.md)
+
+Cacher la recommandation à la fin d'un long texte. Mettez la demande dans l'objet et la recommandation sous son propre titre.
+{: .fr }
+
+Hiding the recommendation at the end of a long text. Put the request in the subject line and the recommendation under its own heading.
+{: .en }
+
+Écrire *briefer* pour « to brief ». L'OQLF déconseille ce verbe et recommande *breffer*.
+{: .fr }
+
+Writing *briefer* for "to brief". The OQLF discourages this verb and recommends *breffer*.
+{: .en }
+
+### [Summaries and minutes](../15-formal-register-and-government-french/08-summaries-and-minutes.md)
+
+Mettre le futur ou l'indicatif après *il est proposé que* : *il est proposé que l'association versera*. Écrivez le subjonctif : *il est proposé que l'association verse*.
+{: .fr }
+
+Using the future or the indicative after *il est proposé que*: *il est proposé que l'association versera*. Write the subjunctive: *il est proposé que l'association verse*.
+{: .en }
+
+Mettre son opinion dans un résumé ou un procès-verbal : *une bonne idée*. On rapporte les faits et les décisions.
+{: .fr }
+
+Putting your opinion in a summary or in minutes: *une bonne idée*. You report facts and decisions.
+{: .en }
+
+### [Francophone institutions in Quebec and Ontario](../15-formal-register-and-government-french/09-francophone-institutions-quebec-and-ontario.md)
+
+Dire que « les Franco-Ontariens sont comme les Québécois ». Les deux communautés ont des histoires et des institutions différentes. Décrivez chaque situation avec ses faits.
+{: .fr }
+
+Saying that "Franco-Ontarians are like Quebeckers". The two communities have different histories and institutions. Describe each situation with its facts.
+{: .en }
+
+Donner un chiffre sans source : *il y a dix régions désignées*. Les chiffres changent. Citez la page officielle et l'année.
+{: .fr }
+
+Giving a figure with no source: *il y a dix régions désignées*. Figures change. Cite the official page and the year.
+{: .en }
+
+### [Press conferences](../15-formal-register-and-government-french/10-press-conferences.md)
+
+Confondre *un milliard* et *un million*. Un milliard est mille millions. Écoutez le mot avant de noter le chiffre.
+{: .fr }
+
+Confusing *un milliard* and *un million*. A milliard is a thousand millions. Listen for the word before you note the figure.
+{: .en }
+
+Dire *La ministre dit un plan*. Pour une annonce, utilisez *annoncer* ou *présenter* : *La ministre annonce un plan.*
+{: .fr }
+
+Saying *La ministre dit un plan*. For an announcement, use *annoncer* or *présenter*: *La ministre annonce un plan.*
+{: .en }
+
+### [Official documents](../15-formal-register-and-government-french/11-official-documents.md)
+
+Utiliser *nonobstant* dans une conversation ou un courriel courant. C'est un mot juridique. Dites *malgré*.
+{: .fr }
+
+Using *nonobstant* in a conversation or an everyday email. It is a legal word. Say *malgré*.
+{: .en }
+
+Lire *nul* comme un adjectif qui veut dire « zéro » : *Nul ne peut cultiver* veut dire « personne ne peut cultiver ».
+{: .fr }
+
+Reading *nul* as an adjective meaning "zero": *Nul ne peut cultiver* means "no one may farm".
+{: .en }
+
+### [Test-style work texts](../15-formal-register-and-government-french/12-test-style-work-texts.md)
+
+Ne pas répondre à la consigne : écrire un très bon texte sur un autre sujet. Relisez la consigne avant d'écrire et à la fin.
+{: .fr }
+
+Not answering the instructions: writing a very good text on another subject. Reread the instructions before you write and at the end.
+{: .en }
+
+Passer tout le temps à écrire et ne pas relire. Gardez cinq minutes par texte pour les accords, les accents et le *vous*.
+{: .fr }
+
+Spending all the time writing and not rereading. Keep five minutes per text for agreement, accents and *vous*.
+{: .en }
+
+### [A week in a government office](../15-formal-register-and-government-french/13-a-week-in-a-government-office.md)
+
+Utiliser le même ton dans les cinq documents. Un courriel à une citoyenne est formel; un résumé pour l'équipe peut être plus simple. Ajustez le registre à chaque lecteur.
+{: .fr }
+
+Using the same tone in all five documents. An email to a citizen is formal; a summary for the team can be simpler. Adjust the register to each reader.
+{: .en }
+
+Oublier l'espacement de l'OQLF sous la pression du temps : l'espace insécable avant les deux-points, le $ et le *h*. Gardez dix secondes pour le vérifier à la fin.
+{: .fr }
+
+Forgetting the OQLF spacing under time pressure: the non-breaking space before the colon, the $ and the *h*. Keep ten seconds to check it at the end.
+{: .en }
+
+
+## Stage 16: Debate, news and test readiness
+
+### [Structuring an argument](../16-debate-news-and-test-readiness/01-structuring-an-argument.md)
+
+Commencer un nouvel argument dans la conclusion. La conclusion répond à la question et ouvre sur autre chose; elle ne prouve plus rien.
+
+Écrire un paragraphe sans exemple. Un argument sans exemple reste une opinion : ajoutez toujours un fait ou une scène.
+
+Annoncer trois parties, puis en écrire deux. Le plan de l'introduction doit correspondre au développement.
+
+### [Emphasis and inversion](../16-debate-news-and-test-readiness/02-emphasis-and-inversion.md)
+
+Dire « C'est moi qui a fait » : après *c'est moi qui*, le verbe s'accorde avec *moi*. Écrivez *c'est moi qui ai fait*.
+
+Écrire « Elle a faite réparer la toiture » : le participe *fait* est invariable devant un infinitif. Écrivez *elle a fait réparer la toiture*.
+
+Oublier le trait d'union dans l'inversion : « viendra elle ». Écrivez *viendra-t-elle*.
+
+### [Advanced news vocabulary](../16-debate-news-and-test-readiness/03-news-vocabulary-advanced.md)
+
+Écrire « le changement climatique » au singulier pour parler du phénomène : on emploie surtout le pluriel, et l'OQLF le met dans le titre de son vocabulaire. Écrivez *les changements climatiques*.
+
+Confondre *un déficit* et *la dette* : le déficit est annuel, la dette est la somme de tous les déficits.
+
+Écrire « la main d'œuvre » sans trait d'union : écrivez *la main-d'œuvre*.
+
+### [Discussing current events](../16-debate-news-and-test-readiness/04-current-events-discussion.md)
+
+Employer *actuellement* pour dire « actually » : *actuellement* veut dire « en ce moment ». Pour « actually », écrivez *en fait*.
+
+Dire *un média est objectif* pour dire qu'il est d'accord avec vous : *objectif* veut dire qu'il présente les faits sans prendre parti.
+
+Oublier le subjonctif après *J'ai peur que* : « J'ai peur que c'est faux ». Écrivez *j'ai peur que ce soit faux*.
+
+### [Formal debate](../16-debate-news-and-test-readiness/05-formal-debate.md)
+
+Attaquer la personne au lieu de l'argument : « Vous n'y connaissez rien ». Dites plutôt *je mets cet argument en cause*.
+
+Parler à l'autre camp à la deuxième personne : « tu as tort ». Dans un débat formel, on s'adresse à la présidence.
+
+Dépasser le temps de parole. Une conclusion d'une minute suffit : une phrase de bilan et une demande.
+
+### [Radio debates](../16-debate-news-and-test-readiness/06-radio-debates.md)
+
+Prendre *un sophisme* pour *un mensonge* : un sophisme est un raisonnement faux, pas toujours un mensonge.
+
+Dire « sur le fonds » : écrivez *sur le fond*.
+
+Confondre *une surenchère* avec une simple opinion forte : la surenchère augmente sans cesse la dose pour dépasser l'autre.
+
+### [TV news and documentaries](../16-debate-news-and-test-readiness/07-tv-news-and-documentaries.md)
+
+Confondre *un reporter* et *un présentateur* : le reporter est sur place; le présentateur est au studio.
+
+Traduire *un fait divers* par « a fact » : c'est une petite nouvelle de la vie courante, souvent un accident ou un incendie.
+
+S'arrêter à chaque mot inconnu : continuez, puis revenez à la deuxième écoute.
+
+### [Debates in Quebec today](../16-debate-news-and-test-readiness/08-quebec-today-debates.md)
+
+Dire « le Québec est contre l'immigration » ou une phrase du même genre : les positions varient d'une personne et d'un groupe à l'autre. Dites *certains pensent que..., d'autres pensent que...*
+
+Présenter un argument comme un fait : *les critiques disent que la loi limite les services* est un argument; le texte de la loi est un fait.
+
+Ne pas dire la date d'un chiffre : écrivez *selon le rapport de 2025* ou *en 2026*.
+
+### [Editorials](../16-debate-news-and-test-readiness/09-editorials.md)
+
+Croire qu'un éditorial donne les faits de façon neutre : il défend une position. Cherchez le journal ou l'auteur qui parle.
+
+Prendre une litote pour une critique : *ce n'est pas mauvais* veut dire « c'est bon ».
+
+Confondre *s'indigner* et *s'insurger* : on *s'indigne* d'une injustice (réaction) et on *s'insurge contre* quelque chose (révolte).
+
+### [An opinion piece](../16-debate-news-and-test-readiness/10-opinion-piece.md)
+
+Entrer dans le sujet sans accroche : « Le stationnement est fermé ». Commencez par un fait ou une question qui donne envie de lire.
+
+Mettre trois formules dans le même texte : une seule suffit, à la fin.
+
+Écrire une concession qui prend le pas sur la thèse : après *certes*, revenez vite à votre idée avec *mais* ou *cela dit*.
+
+### [Oral test practice](../16-debate-news-and-test-readiness/11-oral-test-practice.md)
+
+Rester silencieux pour chercher le mot parfait : dites *comment dire* et contournez avec *en d'autres termes*.
+
+Mélanger *tu* et *vous* devant un examinateur : choisissez *vous* au début et gardez-le.
+
+Mémoriser un monologue mot à mot : un texte appris sonne faux, et vous perdez le fil à la première interruption. Apprenez le plan, pas le texte.
+
+### [The final error clinic](../16-debate-news-and-test-readiness/12-final-error-clinic.md)
+
+Employer « actuellement » pour traduire « actually » : *actuellement* veut dire « en ce moment ». Écrivez *en fait*.
+
+Dire « je vais appliquer pour ce poste » : l'OQLF déconseille cet emploi de *appliquer*. Écrivez *je vais postuler pour ce poste*.
+
+Mettre un temps du futur ou de l'indicatif après *il faut que* : « il faut que je vais ». Écrivez *il faut que j'aille*.
+
+### [Capstone](../16-debate-news-and-test-readiness/13-capstone.md)
+
+Mélanger *tu* et *vous* dans une même scène : choisissez-en un et gardez-le jusqu'à la fin de la scène.
+
+Écrire un courriel formel sans formule de politesse finale : ajoutez *Veuillez agréer* ou une formule équivalente.
+
+Lire ses diapositives à voix haute : l'écran donne les mots-clés; votre voix donne les phrases.
+
 <!-- generated:end -->

@@ -12,7 +12,7 @@ After this lesson you can give a two-minute monologue, hold a short interaction 
 
 ## Avant de commencer
 
-Avant : la simulation d'entrevue<!-- link: ../14-conditionals-work-and-interviews/08-interview-role-play.md -->, [discuter de l'actualité](04-current-events-discussion.md), [le débat formel](05-formal-debate.md), [niveaux et objectifs](../00-start-here/levels-and-goals.md). Vous avez besoin d'un téléphone pour vous enregistrer et d'une minuterie.
+Avant : [la simulation d'entrevue](../14-conditionals-work-and-interviews/08-interview-role-play.md), [discuter de l'actualité](04-current-events-discussion.md), [le débat formel](05-formal-debate.md), [niveaux et objectifs](../00-start-here/levels-and-goals.md). Vous avez besoin d'un téléphone pour vous enregistrer et d'une minuterie.
 {: .fr }
 
 Before this: the interview role play, discussing current events, the formal debate and levels and goals. You need: a phone to record yourself and a timer.

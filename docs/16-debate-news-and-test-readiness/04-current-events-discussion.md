@@ -12,7 +12,7 @@ After this lesson you can talk about a news item with a friend or a colleague: s
 
 ## Avant de commencer
 
-Avant : [le vocabulaire des nouvelles avancé](03-news-vocabulary-advanced.md), [débattre d'un point](../13-subjunctive-and-argument/07-debating-a-point.md), [donner son opinion](../11-reporting-and-opinions/07-giving-opinions.md), atténuer ses propos<!-- link: ../14-conditionals-work-and-interviews/05-hedging-and-softening.md -->. Vous n'avez besoin de rien. Les nouvelles de cette leçon sont inventées.
+Avant : [le vocabulaire des nouvelles avancé](03-news-vocabulary-advanced.md), [débattre d'un point](../13-subjunctive-and-argument/07-debating-a-point.md), [donner son opinion](../11-reporting-and-opinions/07-giving-opinions.md), [atténuer ses propos](../14-conditionals-work-and-interviews/05-hedging-and-softening.md). Vous n'avez besoin de rien. Les nouvelles de cette leçon sont inventées.
 {: .fr }
 
 Before this: advanced news vocabulary, debating a point, giving your opinion and hedging and softening. You need: nothing. The news items in this lesson are invented.
