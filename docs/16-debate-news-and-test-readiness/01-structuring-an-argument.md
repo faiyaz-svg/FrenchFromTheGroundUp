@@ -12,7 +12,7 @@ After this lesson you can prepare a three-part plan, then write an introduction 
 
 ## Avant de commencer
 
-Avant : [les connecteurs avancés](../13-subjunctive-and-argument/06-advanced-connectors.md), [la concession](../13-subjunctive-and-argument/03-concession.md), le paragraphe argumentatif<!-- link: ../13-subjunctive-and-argument/10-argumentative-paragraph.md --> et les notes d'information<!-- link: ../15-formal-register-and-government-french/07-briefing-notes.md -->. Vous avez besoin d'une feuille et d'un crayon, ou d'un fichier vide.
+Avant : [les connecteurs avancés](../13-subjunctive-and-argument/06-advanced-connectors.md), [la concession](../13-subjunctive-and-argument/03-concession.md), [le paragraphe argumentatif](../13-subjunctive-and-argument/10-argumentative-paragraph.md) et [les notes d'information](../15-formal-register-and-government-french/07-briefing-notes.md). Vous avez besoin d'une feuille et d'un crayon, ou d'un fichier vide.
 {: .fr }
 
 Before this: advanced connectors, concession, the argumentative paragraph and briefing notes. You need: a sheet of paper and a pencil, or an empty file.
