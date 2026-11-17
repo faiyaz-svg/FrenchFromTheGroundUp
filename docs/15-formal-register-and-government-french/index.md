@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 14.
 6. [Serving the public formally](06-serving-the-public-formally.md) (speak)
 7. [Briefing notes](07-briefing-notes.md) (write)
 8. [Summaries and minutes](08-summaries-and-minutes.md) (write)
-9. Francophone institutions in Quebec and Ontario (not written yet) (quebec)
-10. Press conferences (not written yet) (listen)
-11. Official documents (not written yet) (read)
-12. Test-style work texts (not written yet) (write)
-13. A week in a government office (not written yet) (write, review)
+9. [Francophone institutions in Quebec and Ontario](09-francophone-institutions-quebec-and-ontario.md) (quebec)
+10. [Press conferences](10-press-conferences.md) (listen)
+11. [Official documents](11-official-documents.md) (read)
+12. [Test-style work texts](12-test-style-work-texts.md) (write)
+13. [A week in a government office](13-a-week-in-a-government-office.md) (write, review)
 
 <!-- lessons:end -->
 

@@ -3183,6 +3183,246 @@
    "answer": "refassiez",
    "en": "to redo",
    "stage": 13
+  },
+  {
+   "verb": "procéder",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "procède",
+   "en": "to proceed, to carry out",
+   "stage": 15
+  },
+  {
+   "verb": "investir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "investissions",
+   "en": "to invest",
+   "stage": 15
+  },
+  {
+   "verb": "résider",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "résidiez",
+   "en": "to reside",
+   "stage": 15
+  },
+  {
+   "verb": "appuyer",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "appuient",
+   "en": "to support",
+   "stage": 15
+  },
+  {
+   "verb": "mentionner",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "mentionnes",
+   "en": "to mention",
+   "stage": 15
+  },
+  {
+   "verb": "transmettre",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "transmette",
+   "en": "to send, to transmit",
+   "stage": 15
+  },
+  {
+   "verb": "réduire",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "réduisions",
+   "en": "to reduce",
+   "stage": 15
+  },
+  {
+   "verb": "verser",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "verse",
+   "en": "to pay",
+   "stage": 15
+  },
+  {
+   "verb": "accueillir",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "accueilliez",
+   "en": "to welcome",
+   "stage": 15
+  },
+  {
+   "verb": "transmettre",
+   "tense": "futur antérieur",
+   "person": "je",
+   "answer": "aurai transmis",
+   "en": "to send, to transmit",
+   "stage": 15
+  },
+  {
+   "verb": "rédiger",
+   "tense": "futur antérieur",
+   "person": "nous",
+   "answer": "aurons rédigé",
+   "en": "to write, to draft",
+   "stage": 15
+  },
+  {
+   "verb": "évaluer",
+   "tense": "futur antérieur",
+   "person": "vous",
+   "answer": "aurez évalué",
+   "en": "to evaluate",
+   "stage": 15
+  },
+  {
+   "verb": "terminer",
+   "tense": "futur antérieur",
+   "person": "ils",
+   "answer": "auront terminé",
+   "en": "to finish",
+   "stage": 15
+  },
+  {
+   "verb": "recevoir",
+   "tense": "futur antérieur",
+   "person": "elle",
+   "answer": "aura reçu",
+   "en": "to receive",
+   "stage": 15
+  },
+  {
+   "verb": "décliner",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais décliné",
+   "en": "to decline",
+   "stage": 15
+  },
+  {
+   "verb": "déplorer",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions déploré",
+   "en": "to regret",
+   "stage": 15
+  },
+  {
+   "verb": "approuver",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "auraient approuvé",
+   "en": "to approve",
+   "stage": 15
+  },
+  {
+   "verb": "investir",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "aurait investi",
+   "en": "to invest",
+   "stage": 15
+  },
+  {
+   "verb": "procéder",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a procédé",
+   "en": "to proceed, to carry out",
+   "stage": 15
+  },
+  {
+   "verb": "résider",
+   "tense": "passé composé",
+   "person": "elle",
+   "answer": "a résidé",
+   "en": "to reside",
+   "stage": 15
+  },
+  {
+   "verb": "saluer",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "avons salué",
+   "en": "to welcome, to greet",
+   "stage": 15
+  },
+  {
+   "verb": "mentionner",
+   "tense": "passé composé",
+   "person": "ils",
+   "answer": "ont mentionné",
+   "en": "to mention",
+   "stage": 15
+  },
+  {
+   "verb": "entamer",
+   "tense": "passé composé",
+   "person": "vous",
+   "answer": "avez entamé",
+   "en": "to begin, to start on",
+   "stage": 15
+  },
+  {
+   "verb": "renseigner",
+   "tense": "passé composé",
+   "person": "tu",
+   "answer": "as renseigné",
+   "en": "to inform",
+   "stage": 15
+  },
+  {
+   "verb": "indiquer",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais indiqué",
+   "en": "to indicate",
+   "stage": 15
+  },
+  {
+   "verb": "synthétiser",
+   "tense": "plus-que-parfait",
+   "person": "nous",
+   "answer": "avions synthétisé",
+   "en": "to summarise",
+   "stage": 15
+  },
+  {
+   "verb": "orienter",
+   "tense": "plus-que-parfait",
+   "person": "il",
+   "answer": "avait orienté",
+   "en": "to direct",
+   "stage": 15
+  },
+  {
+   "verb": "débuter",
+   "tense": "conditionnel présent",
+   "person": "elle",
+   "answer": "débuterait",
+   "en": "to begin",
+   "stage": 15
+  },
+  {
+   "verb": "désirer",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "désirerais",
+   "en": "to want",
+   "stage": 15
+  },
+  {
+   "verb": "nécessiter",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "nécessiteraient",
+   "en": "to require",
+   "stage": 15
   }
  ]
 }

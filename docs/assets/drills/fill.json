@@ -2629,6 +2629,186 @@
    ],
    "en": "Let's suppose you are right.",
    "stage": 13
+  },
+  {
+   "q": "Je ___ de vous écrire au sujet de mon dossier.",
+   "hint": "se permettre, présent",
+   "a": [
+    "me permets"
+   ],
+   "en": "I am taking the liberty of writing to you about my file.",
+   "stage": 15
+  },
+  {
+   "q": "Nous vous ___ gré de répondre avant lundi.",
+   "hint": "savoir, conditionnel présent",
+   "a": [
+    "saurions"
+   ],
+   "en": "We would be grateful if you would reply before Monday.",
+   "stage": 15
+  },
+  {
+   "q": "Il est proposé que l'association ___ 800 $.",
+   "hint": "verser, subjonctif présent",
+   "a": [
+    "verse"
+   ],
+   "en": "It is moved that the association pay 800 $.",
+   "stage": 15
+  },
+  {
+   "q": "Veuillez ___, Madame, mes salutations distinguées.",
+   "hint": "verbe de la formule de politesse",
+   "a": [
+    "agréer"
+   ],
+   "en": "Please accept, Madam, my best regards.",
+   "stage": 15
+  },
+  {
+   "q": "La ___ du rapport est prévue pour juin.",
+   "hint": "rédiger, nom en -tion",
+   "a": [
+    "rédaction"
+   ],
+   "en": "The writing of the report is planned for June.",
+   "stage": 15
+  },
+  {
+   "q": "L'___ des délais inquiète les citoyens.",
+   "hint": "augmenter, nom en -tion",
+   "a": [
+    "augmentation"
+   ],
+   "en": "The increase in delays worries citizens.",
+   "stage": 15
+  },
+  {
+   "q": "Le sous-ministre est un haut ___ : il n'est pas élu.",
+   "hint": "employé de l'État",
+   "a": [
+    "fonctionnaire"
+   ],
+   "en": "The deputy minister is a senior public servant: not elected.",
+   "stage": 15
+  },
+  {
+   "q": "Une ___ est une somme versée à une personne.",
+   "hint": "mot du gouvernement",
+   "a": [
+    "prestation"
+   ],
+   "en": "A benefit is a sum paid to a person.",
+   "stage": 15
+  },
+  {
+   "q": "Le ___ est atteint si quatre personnes sont présentes.",
+   "hint": "réunion",
+   "a": [
+    "quorum"
+   ],
+   "en": "The quorum is reached if four people are present.",
+   "stage": 15
+  },
+  {
+   "q": "La résolution est adoptée à l'___.",
+   "hint": "tous votent pour",
+   "a": [
+    "unanimité"
+   ],
+   "en": "The resolution is adopted unanimously.",
+   "stage": 15
+  },
+  {
+   "q": "Le gouvernement investit un ___ de dollars.",
+   "hint": "mille millions",
+   "a": [
+    "milliard"
+   ],
+   "en": "The government invests a billion dollars.",
+   "stage": 15
+  },
+  {
+   "q": "Nous vous remercions de votre ___.",
+   "hint": "collaborer, nom en -tion",
+   "a": [
+    "collaboration"
+   ],
+   "en": "Thank you for your cooperation.",
+   "stage": 15
+  },
+  {
+   "q": "Le demandeur est ___ de fournir un budget complet.",
+   "hint": "obligé de",
+   "a": [
+    "tenu"
+   ],
+   "en": "The applicant is required to provide a complete budget.",
+   "stage": 15
+  },
+  {
+   "q": "Elle ___ à la réunion de jeudi.",
+   "hint": "assister, passé composé",
+   "a": [
+    "a assisté"
+   ],
+   "en": "She attended Thursday's meeting.",
+   "stage": 15
+  },
+  {
+   "q": "Le contrat prend fin par ___.",
+   "hint": "résilier, nom en -tion",
+   "a": [
+    "résiliation"
+   ],
+   "en": "The contract ends by termination.",
+   "stage": 15
+  },
+  {
+   "q": "Le ___ du ministre conseille le ministre.",
+   "hint": "l'équipe de conseillers",
+   "a": [
+    "cabinet"
+   ],
+   "en": "The minister's office advises the minister.",
+   "stage": 15
+  },
+  {
+   "q": "Je suis en ___ de vous répondre demain.",
+   "hint": "être en ___ de",
+   "a": [
+    "mesure"
+   ],
+   "en": "I am able to answer you tomorrow.",
+   "stage": 15
+  },
+  {
+   "q": "On écrit Madame en toutes lettres dans l'___.",
+   "hint": "le début d'une lettre",
+   "a": [
+    "appel"
+   ],
+   "en": "You write Madame in full in the greeting.",
+   "stage": 15
+  },
+  {
+   "q": "Avez-vous une pièce ___?",
+   "hint": "document qui prouve",
+   "a": [
+    "justificative"
+   ],
+   "en": "Do you have a supporting document?",
+   "stage": 15
+  },
+  {
+   "q": "Le premier ___ du plan d'action concerne les autobus.",
+   "hint": "une partie d'un projet",
+   "a": [
+    "volet"
+   ],
+   "en": "The first component of the action plan concerns buses.",
+   "stage": 15
   }
  ]
 }

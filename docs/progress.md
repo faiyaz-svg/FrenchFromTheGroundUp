@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 174 of 205. New lessons appear here as they are added.
+Lessons written so far: 179 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -227,3 +227,8 @@ Lessons written so far: 174 of 205. New lessons appear here as they are added.
 - [ ] [Serving the public formally](15-formal-register-and-government-french/06-serving-the-public-formally.md) (speak)
 - [ ] [Briefing notes](15-formal-register-and-government-french/07-briefing-notes.md) (write)
 - [ ] [Summaries and minutes](15-formal-register-and-government-french/08-summaries-and-minutes.md) (write)
+- [ ] [Francophone institutions in Quebec and Ontario](15-formal-register-and-government-french/09-francophone-institutions-quebec-and-ontario.md) (quebec)
+- [ ] [Press conferences](15-formal-register-and-government-french/10-press-conferences.md) (listen)
+- [ ] [Official documents](15-formal-register-and-government-french/11-official-documents.md) (read)
+- [ ] [Test-style work texts](15-formal-register-and-government-french/12-test-style-work-texts.md) (write)
+- [ ] [A week in a government office](15-formal-register-and-government-french/13-a-week-in-a-government-office.md) (write, review)

@@ -1,0 +1,701 @@
+{
+ "conjugation": [
+  {
+   "verb": "procéder",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "procède",
+   "en": "to proceed, to carry out",
+   "stage": 15
+  },
+  {
+   "verb": "investir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "investissions",
+   "en": "to invest",
+   "stage": 15
+  },
+  {
+   "verb": "résider",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "résidiez",
+   "en": "to reside",
+   "stage": 15
+  },
+  {
+   "verb": "appuyer",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "appuient",
+   "en": "to support",
+   "stage": 15
+  },
+  {
+   "verb": "mentionner",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "mentionnes",
+   "en": "to mention",
+   "stage": 15
+  },
+  {
+   "verb": "transmettre",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "transmette",
+   "en": "to send, to transmit",
+   "stage": 15
+  },
+  {
+   "verb": "réduire",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "réduisions",
+   "en": "to reduce",
+   "stage": 15
+  },
+  {
+   "verb": "verser",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "verse",
+   "en": "to pay",
+   "stage": 15
+  },
+  {
+   "verb": "accueillir",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "accueilliez",
+   "en": "to welcome",
+   "stage": 15
+  },
+  {
+   "verb": "transmettre",
+   "tense": "futur antérieur",
+   "person": "je",
+   "answer": "aurai transmis",
+   "en": "to send, to transmit",
+   "stage": 15
+  },
+  {
+   "verb": "rédiger",
+   "tense": "futur antérieur",
+   "person": "nous",
+   "answer": "aurons rédigé",
+   "en": "to write, to draft",
+   "stage": 15
+  },
+  {
+   "verb": "évaluer",
+   "tense": "futur antérieur",
+   "person": "vous",
+   "answer": "aurez évalué",
+   "en": "to evaluate",
+   "stage": 15
+  },
+  {
+   "verb": "terminer",
+   "tense": "futur antérieur",
+   "person": "ils",
+   "answer": "auront terminé",
+   "en": "to finish",
+   "stage": 15
+  },
+  {
+   "verb": "recevoir",
+   "tense": "futur antérieur",
+   "person": "elle",
+   "answer": "aura reçu",
+   "en": "to receive",
+   "stage": 15
+  },
+  {
+   "verb": "décliner",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais décliné",
+   "en": "to decline",
+   "stage": 15
+  },
+  {
+   "verb": "déplorer",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions déploré",
+   "en": "to regret",
+   "stage": 15
+  },
+  {
+   "verb": "approuver",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "auraient approuvé",
+   "en": "to approve",
+   "stage": 15
+  },
+  {
+   "verb": "investir",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "aurait investi",
+   "en": "to invest",
+   "stage": 15
+  },
+  {
+   "verb": "procéder",
+   "tense": "passé composé",
+   "person": "il",
+   "answer": "a procédé",
+   "en": "to proceed, to carry out",
+   "stage": 15
+  },
+  {
+   "verb": "résider",
+   "tense": "passé composé",
+   "person": "elle",
+   "answer": "a résidé",
+   "en": "to reside",
+   "stage": 15
+  },
+  {
+   "verb": "saluer",
+   "tense": "passé composé",
+   "person": "nous",
+   "answer": "avons salué",
+   "en": "to welcome, to greet",
+   "stage": 15
+  },
+  {
+   "verb": "mentionner",
+   "tense": "passé composé",
+   "person": "ils",
+   "answer": "ont mentionné",
+   "en": "to mention",
+   "stage": 15
+  },
+  {
+   "verb": "entamer",
+   "tense": "passé composé",
+   "person": "vous",
+   "answer": "avez entamé",
+   "en": "to begin, to start on",
+   "stage": 15
+  },
+  {
+   "verb": "renseigner",
+   "tense": "passé composé",
+   "person": "tu",
+   "answer": "as renseigné",
+   "en": "to inform",
+   "stage": 15
+  },
+  {
+   "verb": "indiquer",
+   "tense": "plus-que-parfait",
+   "person": "je",
+   "answer": "avais indiqué",
+   "en": "to indicate",
+   "stage": 15
+  },
+  {
+   "verb": "synthétiser",
+   "tense": "plus-que-parfait",
+   "person": "nous",
+   "answer": "avions synthétisé",
+   "en": "to summarise",
+   "stage": 15
+  },
+  {
+   "verb": "orienter",
+   "tense": "plus-que-parfait",
+   "person": "il",
+   "answer": "avait orienté",
+   "en": "to direct",
+   "stage": 15
+  },
+  {
+   "verb": "débuter",
+   "tense": "conditionnel présent",
+   "person": "elle",
+   "answer": "débuterait",
+   "en": "to begin",
+   "stage": 15
+  },
+  {
+   "verb": "désirer",
+   "tense": "conditionnel présent",
+   "person": "je",
+   "answer": "désirerais",
+   "en": "to want",
+   "stage": 15
+  },
+  {
+   "verb": "nécessiter",
+   "tense": "conditionnel présent",
+   "person": "ils",
+   "answer": "nécessiteraient",
+   "en": "to require",
+   "stage": 15
+  }
+ ],
+ "gender": [
+  {
+   "noun": "réduction",
+   "answer": "la",
+   "en": "reduction",
+   "stage": 15
+  },
+  {
+   "noun": "diminution",
+   "answer": "la",
+   "en": "decrease",
+   "stage": 15
+  },
+  {
+   "noun": "augmentation",
+   "answer": "la",
+   "en": "increase",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "développement",
+   "answer": "le",
+   "en": "development",
+   "stage": 15
+  },
+  {
+   "noun": "déroulement",
+   "answer": "le",
+   "en": "course of events",
+   "stage": 15
+  },
+  {
+   "noun": "élaboration",
+   "answer": "la",
+   "en": "drawing up",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "rédaction",
+   "answer": "la",
+   "en": "writing, drafting",
+   "stage": 15
+  },
+  {
+   "noun": "transmission",
+   "answer": "la",
+   "en": "sending, transmission",
+   "stage": 15
+  },
+  {
+   "noun": "gestion",
+   "answer": "la",
+   "en": "management",
+   "stage": 15
+  },
+  {
+   "noun": "évaluation",
+   "answer": "la",
+   "en": "evaluation",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "amélioration",
+   "answer": "la",
+   "en": "improvement",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "importance",
+   "answer": "la",
+   "en": "importance",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "rapidité",
+   "answer": "la",
+   "en": "speed",
+   "stage": 15
+  },
+  {
+   "noun": "disponibilité",
+   "answer": "la",
+   "en": "availability",
+   "stage": 15
+  },
+  {
+   "noun": "transparence",
+   "answer": "la",
+   "en": "transparency",
+   "stage": 15
+  },
+  {
+   "noun": "ministère",
+   "answer": "le",
+   "en": "ministry, department",
+   "stage": 15
+  },
+  {
+   "noun": "cabinet",
+   "answer": "le",
+   "en": "minister's office",
+   "stage": 15
+  },
+  {
+   "noun": "décret",
+   "answer": "le",
+   "en": "order, decree",
+   "stage": 15
+  },
+  {
+   "noun": "subvention",
+   "answer": "la",
+   "en": "grant",
+   "stage": 15
+  },
+  {
+   "noun": "prestation",
+   "answer": "la",
+   "en": "benefit",
+   "stage": 15
+  },
+  {
+   "noun": "formulaire",
+   "answer": "le",
+   "en": "form",
+   "stage": 15
+  },
+  {
+   "noun": "quorum",
+   "answer": "le",
+   "en": "quorum",
+   "stage": 15
+  },
+  {
+   "noun": "procès-verbal",
+   "answer": "le",
+   "en": "minutes",
+   "stage": 15
+  },
+  {
+   "noun": "alinéa",
+   "answer": "le",
+   "en": "paragraph (of an article)",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "sanction",
+   "answer": "la",
+   "en": "penalty",
+   "stage": 15
+  },
+  {
+   "noun": "milliard",
+   "answer": "le",
+   "en": "billion",
+   "stage": 15
+  },
+  {
+   "noun": "enveloppe",
+   "answer": "la",
+   "en": "envelope, funding allocation",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "guichet",
+   "answer": "le",
+   "en": "counter",
+   "stage": 15
+  },
+  {
+   "noun": "civière",
+   "answer": "la",
+   "en": "stretcher",
+   "stage": 15
+  },
+  {
+   "noun": "consentement",
+   "answer": "le",
+   "en": "consent",
+   "stage": 15
+  }
+ ],
+ "fill": [
+  {
+   "q": "Je ___ de vous écrire au sujet de mon dossier.",
+   "hint": "se permettre, présent",
+   "a": [
+    "me permets"
+   ],
+   "en": "I am taking the liberty of writing to you about my file.",
+   "stage": 15
+  },
+  {
+   "q": "Nous vous ___ gré de répondre avant lundi.",
+   "hint": "savoir, conditionnel présent",
+   "a": [
+    "saurions"
+   ],
+   "en": "We would be grateful if you would reply before Monday.",
+   "stage": 15
+  },
+  {
+   "q": "Il est proposé que l'association ___ 800 $.",
+   "hint": "verser, subjonctif présent",
+   "a": [
+    "verse"
+   ],
+   "en": "It is moved that the association pay 800 $.",
+   "stage": 15
+  },
+  {
+   "q": "Veuillez ___, Madame, mes salutations distinguées.",
+   "hint": "verbe de la formule de politesse",
+   "a": [
+    "agréer"
+   ],
+   "en": "Please accept, Madam, my best regards.",
+   "stage": 15
+  },
+  {
+   "q": "La ___ du rapport est prévue pour juin.",
+   "hint": "rédiger, nom en -tion",
+   "a": [
+    "rédaction"
+   ],
+   "en": "The writing of the report is planned for June.",
+   "stage": 15
+  },
+  {
+   "q": "L'___ des délais inquiète les citoyens.",
+   "hint": "augmenter, nom en -tion",
+   "a": [
+    "augmentation"
+   ],
+   "en": "The increase in delays worries citizens.",
+   "stage": 15
+  },
+  {
+   "q": "Le sous-ministre est un haut ___ : il n'est pas élu.",
+   "hint": "employé de l'État",
+   "a": [
+    "fonctionnaire"
+   ],
+   "en": "The deputy minister is a senior public servant: not elected.",
+   "stage": 15
+  },
+  {
+   "q": "Une ___ est une somme versée à une personne.",
+   "hint": "mot du gouvernement",
+   "a": [
+    "prestation"
+   ],
+   "en": "A benefit is a sum paid to a person.",
+   "stage": 15
+  },
+  {
+   "q": "Le ___ est atteint si quatre personnes sont présentes.",
+   "hint": "réunion",
+   "a": [
+    "quorum"
+   ],
+   "en": "The quorum is reached if four people are present.",
+   "stage": 15
+  },
+  {
+   "q": "La résolution est adoptée à l'___.",
+   "hint": "tous votent pour",
+   "a": [
+    "unanimité"
+   ],
+   "en": "The resolution is adopted unanimously.",
+   "stage": 15
+  },
+  {
+   "q": "Le gouvernement investit un ___ de dollars.",
+   "hint": "mille millions",
+   "a": [
+    "milliard"
+   ],
+   "en": "The government invests a billion dollars.",
+   "stage": 15
+  },
+  {
+   "q": "Nous vous remercions de votre ___.",
+   "hint": "collaborer, nom en -tion",
+   "a": [
+    "collaboration"
+   ],
+   "en": "Thank you for your cooperation.",
+   "stage": 15
+  },
+  {
+   "q": "Le demandeur est ___ de fournir un budget complet.",
+   "hint": "obligé de",
+   "a": [
+    "tenu"
+   ],
+   "en": "The applicant is required to provide a complete budget.",
+   "stage": 15
+  },
+  {
+   "q": "Elle ___ à la réunion de jeudi.",
+   "hint": "assister, passé composé",
+   "a": [
+    "a assisté"
+   ],
+   "en": "She attended Thursday's meeting.",
+   "stage": 15
+  },
+  {
+   "q": "Le contrat prend fin par ___.",
+   "hint": "résilier, nom en -tion",
+   "a": [
+    "résiliation"
+   ],
+   "en": "The contract ends by termination.",
+   "stage": 15
+  },
+  {
+   "q": "Le ___ du ministre conseille le ministre.",
+   "hint": "l'équipe de conseillers",
+   "a": [
+    "cabinet"
+   ],
+   "en": "The minister's office advises the minister.",
+   "stage": 15
+  },
+  {
+   "q": "Je suis en ___ de vous répondre demain.",
+   "hint": "être en ___ de",
+   "a": [
+    "mesure"
+   ],
+   "en": "I am able to answer you tomorrow.",
+   "stage": 15
+  },
+  {
+   "q": "On écrit Madame en toutes lettres dans l'___.",
+   "hint": "le début d'une lettre",
+   "a": [
+    "appel"
+   ],
+   "en": "You write Madame in full in the greeting.",
+   "stage": 15
+  },
+  {
+   "q": "Avez-vous une pièce ___?",
+   "hint": "document qui prouve",
+   "a": [
+    "justificative"
+   ],
+   "en": "Do you have a supporting document?",
+   "stage": 15
+  },
+  {
+   "q": "Le premier ___ du plan d'action concerne les autobus.",
+   "hint": "une partie d'un projet",
+   "a": [
+    "volet"
+   ],
+   "en": "The first component of the action plan concerns buses.",
+   "stage": 15
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "La réduction des délais est une priorité.",
+   "en": "Reducing delays is a priority.",
+   "stage": 15
+  },
+  {
+   "fr": "La mise à jour du site est prévue pour lundi.",
+   "en": "The update of the site is planned for Monday.",
+   "stage": 15
+  },
+  {
+   "fr": "Le nouveau bureau ouvre lundi.",
+   "en": "The new office opens Monday.",
+   "stage": 15
+  },
+  {
+   "fr": "Veuillez confirmer votre présence.",
+   "en": "Please confirm your attendance.",
+   "stage": 15
+  },
+  {
+   "fr": "Je me permets de vous écrire au sujet de mon dossier.",
+   "en": "I am writing to you about my file.",
+   "stage": 15
+  },
+  {
+   "fr": "Nous vous saurions gré de nous répondre avant le 27 novembre.",
+   "en": "We would be grateful for your reply before November 27.",
+   "stage": 15
+  },
+  {
+   "fr": "Je dois malheureusement décliner votre invitation.",
+   "en": "Unfortunately I must decline your invitation.",
+   "stage": 15
+  },
+  {
+   "fr": "Puis-je avoir votre numéro de dossier?",
+   "en": "May I have your file number?",
+   "stage": 15
+  },
+  {
+   "fr": "Veuillez vous présenter au guichet trois.",
+   "en": "Please go to counter three.",
+   "stage": 15
+  },
+  {
+   "fr": "La séance est levée à dix-neuf heures cinquante.",
+   "en": "The meeting is adjourned at ten to eight in the evening.",
+   "stage": 15
+  },
+  {
+   "fr": "La résolution est adoptée à l'unanimité.",
+   "en": "The resolution is adopted unanimously.",
+   "stage": 15
+  },
+  {
+   "fr": "Nous recommandons la deuxième option.",
+   "en": "We recommend the second option.",
+   "stage": 15
+  },
+  {
+   "fr": "Le demandeur est tenu de fournir un budget complet.",
+   "en": "The applicant is required to provide a complete budget.",
+   "stage": 15
+  },
+  {
+   "fr": "Chaque partie peut résilier le contrat avec un préavis de trente jours.",
+   "en": "Each party may terminate the contract with thirty days' notice.",
+   "stage": 15
+  },
+  {
+   "fr": "Un voyageur vint de la ville et apporta du blé.",
+   "en": "A traveller came from the town and brought wheat.",
+   "stage": 15
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "carte soleil",
+   "std": "carte d'assurance maladie",
+   "en": "health insurance card",
+   "note": "everyday Quebec name; the official name is the carte d'assurance maladie",
+   "stage": 15
+  }
+ ]
+}

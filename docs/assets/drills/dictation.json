@@ -974,6 +974,81 @@
    "fr": "J'ai pesé le pour et le contre, et je prends position.",
    "en": "I weighed the pros and cons, and I take a stand.",
    "stage": 13
+  },
+  {
+   "fr": "La réduction des délais est une priorité.",
+   "en": "Reducing delays is a priority.",
+   "stage": 15
+  },
+  {
+   "fr": "La mise à jour du site est prévue pour lundi.",
+   "en": "The update of the site is planned for Monday.",
+   "stage": 15
+  },
+  {
+   "fr": "Le nouveau bureau ouvre lundi.",
+   "en": "The new office opens Monday.",
+   "stage": 15
+  },
+  {
+   "fr": "Veuillez confirmer votre présence.",
+   "en": "Please confirm your attendance.",
+   "stage": 15
+  },
+  {
+   "fr": "Je me permets de vous écrire au sujet de mon dossier.",
+   "en": "I am writing to you about my file.",
+   "stage": 15
+  },
+  {
+   "fr": "Nous vous saurions gré de nous répondre avant le 27 novembre.",
+   "en": "We would be grateful for your reply before November 27.",
+   "stage": 15
+  },
+  {
+   "fr": "Je dois malheureusement décliner votre invitation.",
+   "en": "Unfortunately I must decline your invitation.",
+   "stage": 15
+  },
+  {
+   "fr": "Puis-je avoir votre numéro de dossier?",
+   "en": "May I have your file number?",
+   "stage": 15
+  },
+  {
+   "fr": "Veuillez vous présenter au guichet trois.",
+   "en": "Please go to counter three.",
+   "stage": 15
+  },
+  {
+   "fr": "La séance est levée à dix-neuf heures cinquante.",
+   "en": "The meeting is adjourned at ten to eight in the evening.",
+   "stage": 15
+  },
+  {
+   "fr": "La résolution est adoptée à l'unanimité.",
+   "en": "The resolution is adopted unanimously.",
+   "stage": 15
+  },
+  {
+   "fr": "Nous recommandons la deuxième option.",
+   "en": "We recommend the second option.",
+   "stage": 15
+  },
+  {
+   "fr": "Le demandeur est tenu de fournir un budget complet.",
+   "en": "The applicant is required to provide a complete budget.",
+   "stage": 15
+  },
+  {
+   "fr": "Chaque partie peut résilier le contrat avec un préavis de trente jours.",
+   "en": "Each party may terminate the contract with thirty days' notice.",
+   "stage": 15
+  },
+  {
+   "fr": "Un voyageur vint de la ville et apporta du blé.",
+   "en": "A traveller came from the town and brought wheat.",
+   "stage": 15
   }
  ]
 }

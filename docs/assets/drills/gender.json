@@ -2543,6 +2543,193 @@
    "answer": "le",
    "en": "speaker",
    "stage": 13
+  },
+  {
+   "noun": "réduction",
+   "answer": "la",
+   "en": "reduction",
+   "stage": 15
+  },
+  {
+   "noun": "diminution",
+   "answer": "la",
+   "en": "decrease",
+   "stage": 15
+  },
+  {
+   "noun": "augmentation",
+   "answer": "la",
+   "en": "increase",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "développement",
+   "answer": "le",
+   "en": "development",
+   "stage": 15
+  },
+  {
+   "noun": "déroulement",
+   "answer": "le",
+   "en": "course of events",
+   "stage": 15
+  },
+  {
+   "noun": "élaboration",
+   "answer": "la",
+   "en": "drawing up",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "rédaction",
+   "answer": "la",
+   "en": "writing, drafting",
+   "stage": 15
+  },
+  {
+   "noun": "transmission",
+   "answer": "la",
+   "en": "sending, transmission",
+   "stage": 15
+  },
+  {
+   "noun": "gestion",
+   "answer": "la",
+   "en": "management",
+   "stage": 15
+  },
+  {
+   "noun": "évaluation",
+   "answer": "la",
+   "en": "evaluation",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "amélioration",
+   "answer": "la",
+   "en": "improvement",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "importance",
+   "answer": "la",
+   "en": "importance",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "rapidité",
+   "answer": "la",
+   "en": "speed",
+   "stage": 15
+  },
+  {
+   "noun": "disponibilité",
+   "answer": "la",
+   "en": "availability",
+   "stage": 15
+  },
+  {
+   "noun": "transparence",
+   "answer": "la",
+   "en": "transparency",
+   "stage": 15
+  },
+  {
+   "noun": "ministère",
+   "answer": "le",
+   "en": "ministry, department",
+   "stage": 15
+  },
+  {
+   "noun": "cabinet",
+   "answer": "le",
+   "en": "minister's office",
+   "stage": 15
+  },
+  {
+   "noun": "décret",
+   "answer": "le",
+   "en": "order, decree",
+   "stage": 15
+  },
+  {
+   "noun": "subvention",
+   "answer": "la",
+   "en": "grant",
+   "stage": 15
+  },
+  {
+   "noun": "prestation",
+   "answer": "la",
+   "en": "benefit",
+   "stage": 15
+  },
+  {
+   "noun": "formulaire",
+   "answer": "le",
+   "en": "form",
+   "stage": 15
+  },
+  {
+   "noun": "quorum",
+   "answer": "le",
+   "en": "quorum",
+   "stage": 15
+  },
+  {
+   "noun": "procès-verbal",
+   "answer": "le",
+   "en": "minutes",
+   "stage": 15
+  },
+  {
+   "noun": "alinéa",
+   "answer": "le",
+   "en": "paragraph (of an article)",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "sanction",
+   "answer": "la",
+   "en": "penalty",
+   "stage": 15
+  },
+  {
+   "noun": "milliard",
+   "answer": "le",
+   "en": "billion",
+   "stage": 15
+  },
+  {
+   "noun": "enveloppe",
+   "answer": "la",
+   "en": "envelope, funding allocation",
+   "stage": 15,
+   "elided": true
+  },
+  {
+   "noun": "guichet",
+   "answer": "le",
+   "en": "counter",
+   "stage": 15
+  },
+  {
+   "noun": "civière",
+   "answer": "la",
+   "en": "stretcher",
+   "stage": 15
+  },
+  {
+   "noun": "consentement",
+   "answer": "le",
+   "en": "consent",
+   "stage": 15
   }
  ]
 }

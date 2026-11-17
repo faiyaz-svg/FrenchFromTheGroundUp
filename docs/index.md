@@ -279,11 +279,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="15-formal-register-and-government-french/06-serving-the-public-formally/" data-lesson="15-formal-register-and-government-french/06-serving-the-public-formally/" title="Serving the public formally"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="15-formal-register-and-government-french/07-briefing-notes/" data-lesson="15-formal-register-and-government-french/07-briefing-notes/" title="Briefing notes"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="15-formal-register-and-government-french/08-summaries-and-minutes/" data-lesson="15-formal-register-and-government-french/08-summaries-and-minutes/" title="Summaries and minutes"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Francophone institutions in Quebec and Ontario"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Press conferences"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Official documents"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Test-style work texts"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="A week in a government office"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="15-formal-register-and-government-french/09-francophone-institutions-quebec-and-ontario/" data-lesson="15-formal-register-and-government-french/09-francophone-institutions-quebec-and-ontario/" title="Francophone institutions in Quebec and Ontario"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="15-formal-register-and-government-french/10-press-conferences/" data-lesson="15-formal-register-and-government-french/10-press-conferences/" title="Press conferences"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="15-formal-register-and-government-french/11-official-documents/" data-lesson="15-formal-register-and-government-french/11-official-documents/" title="Official documents"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="15-formal-register-and-government-french/12-test-style-work-texts/" data-lesson="15-formal-register-and-government-french/12-test-style-work-texts/" title="Test-style work texts"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="15-formal-register-and-government-french/13-a-week-in-a-government-office/" data-lesson="15-formal-register-and-government-french/13-a-week-in-a-government-office/" title="A week in a government office"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="16">
