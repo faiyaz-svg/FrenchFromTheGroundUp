@@ -15,7 +15,7 @@ After this lesson you can say the same message in three registers (casual, neutr
 Avant : [l'argot, à reconnaître](../12-real-montreal/04-slang-recognise-all-use-some.md), [la culture du travail au Québec](../09-work-and-the-future/08-quebec-work-culture.md), les nuances et les atténuations. Vous n'avez besoin de rien.
 {: .fr }
 
-Before this: [slang to recognise](../12-real-montreal/04-slang-recognise-all-use-some.md), [Quebec work culture](../09-work-and-the-future/08-quebec-work-culture.md), and Hedging and softening<!-- link: ../14-conditionals-work-and-interviews/05-hedging-and-softening.md -->. You need: nothing.
+Before this: [slang to recognise](../12-real-montreal/04-slang-recognise-all-use-some.md), [Quebec work culture](../09-work-and-the-future/08-quebec-work-culture.md), and [Hedging and softening](../14-conditionals-work-and-interviews/05-hedging-and-softening.md). You need: nothing.
 {: .en }
 
 ## L'idée

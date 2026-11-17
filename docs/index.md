@@ -257,10 +257,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="14-conditionals-work-and-interviews/02-si-clauses-all-types/" data-lesson="14-conditionals-work-and-interviews/02-si-clauses-all-types/" title="All types of si clauses"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="14-conditionals-work-and-interviews/03-futur-anterieur/" data-lesson="14-conditionals-work-and-interviews/03-futur-anterieur/" title="The futur antérieur"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="14-conditionals-work-and-interviews/04-regret-and-reproach/" data-lesson="14-conditionals-work-and-interviews/04-regret-and-reproach/" title="Regret and reproach"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="Hedging and softening"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="HR vocabulary"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="A Canadian CV"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Interview role play"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/05-hedging-and-softening/" data-lesson="14-conditionals-work-and-interviews/05-hedging-and-softening/" title="Hedging and softening"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/06-hr-vocabulary/" data-lesson="14-conditionals-work-and-interviews/06-hr-vocabulary/" title="HR vocabulary"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/07-canadian-cv/" data-lesson="14-conditionals-work-and-interviews/07-canadian-cv/" title="A Canadian CV"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/08-interview-role-play/" data-lesson="14-conditionals-work-and-interviews/08-interview-role-play/" title="Interview role play"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="TV, cinema and humour in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="Interviews and meetings"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="Contributing to meetings"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>

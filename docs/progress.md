@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 196 of 205. New lessons appear here as they are added.
+Lessons written so far: 200 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -223,6 +223,10 @@ Lessons written so far: 196 of 205. New lessons appear here as they are added.
 - [ ] [All types of si clauses](14-conditionals-work-and-interviews/02-si-clauses-all-types.md) (grammar)
 - [ ] [The futur antérieur](14-conditionals-work-and-interviews/03-futur-anterieur.md) (grammar)
 - [ ] [Regret and reproach](14-conditionals-work-and-interviews/04-regret-and-reproach.md) (grammar)
+- [ ] [Hedging and softening](14-conditionals-work-and-interviews/05-hedging-and-softening.md) (words)
+- [ ] [HR vocabulary](14-conditionals-work-and-interviews/06-hr-vocabulary.md) (words)
+- [ ] [A Canadian CV](14-conditionals-work-and-interviews/07-canadian-cv.md) (write)
+- [ ] [Interview role play](14-conditionals-work-and-interviews/08-interview-role-play.md) (speak)
 
 ### Stage 15: Formal register and government French
 

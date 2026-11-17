@@ -15,7 +15,7 @@ After this lesson you can read and use the vocabulary of the federal, provincial
 Avant : [le vocabulaire des nouvelles](../11-reporting-and-opinions/06-news-vocabulary.md), [les nouvelles et les institutions au Québec](../11-reporting-and-opinions/09-quebec-news-and-institutions.md), le vocabulaire des ressources humaines. Vous n'avez besoin de rien.
 {: .fr }
 
-Before this: [news vocabulary](../11-reporting-and-opinions/06-news-vocabulary.md), [news and institutions in Quebec](../11-reporting-and-opinions/09-quebec-news-and-institutions.md), and HR vocabulary<!-- link: ../14-conditionals-work-and-interviews/06-hr-vocabulary.md -->. You need: nothing.
+Before this: [news vocabulary](../11-reporting-and-opinions/06-news-vocabulary.md), [news and institutions in Quebec](../11-reporting-and-opinions/09-quebec-news-and-institutions.md), and [HR vocabulary](../14-conditionals-work-and-interviews/06-hr-vocabulary.md). You need: nothing.
 {: .en }
 
 ## L'idée
