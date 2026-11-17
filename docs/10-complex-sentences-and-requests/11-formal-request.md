@@ -124,7 +124,7 @@ Je vous remercie d'avance de votre aide. | Thank you in advance for your help.
 | 10 | Lisez la leçon et le modèle. Faites À vous 1 à 3 avec les réponses fermées | Les mots que vous voudriez utiliser |
 | 2 | Lisez les deux tableaux de phrases | Les mots avec *ci-* |
 | 4 | Écoutez le modèle avec le bouton de lecture | Les pauses après les virgules |
-| 4 | Dites les phrases de Dites-le | La politesse du ton : *je vous serais reconnaissant* |
+| 4 | Dites les phrases de la section Dites-le | La politesse du ton : *je vous serais reconnaissant* |
 | 5 | Écrivez le brouillon de la tâche 4 | Si chaque partie du courriel est là |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases. Finissez le courriel le deuxième ou le troisième jour.
@@ -138,7 +138,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases. 
 - [ ] Vous avez écrit un courriel de 120 à 150 mots avec les cinq parties.
 - [ ] Votre ligne *Objet* suit les règles de l'OQLF.
 - [ ] Votre formule finale répète *Madame, Monsieur* entre virgules.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

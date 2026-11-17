@@ -124,7 +124,7 @@ L'OQLF veille au respect de la Charte de la langue française. | The OQLF ensure
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les noms et les dates |
 | 2 | Écoutez ou lisez un extrait de TFO, d'Idéllo ou d'ICI OHdio (voir [la page des médias](../reference/media.md)) | Les mots de la leçon |
 | 6 | Écoutez les deux témoignages, puis répétez les phrases de Chantal | Le ton neutre et calme |
-| 7 | Dites les phrases de Dites-le, puis expliquez à voix haute la différence Québec-Ontario | Votre neutralité |
+| 7 | Dites les phrases de la section Dites-le, puis expliquez à voix haute la différence Québec-Ontario | Votre neutralité |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -137,7 +137,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire en deux phrases ce que fait l'OQLF.
 - [ ] Vous pouvez expliquer ce qu'est une région désignée.
 - [ ] Vous pouvez donner trois faits sur la communauté franco-ontarienne.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

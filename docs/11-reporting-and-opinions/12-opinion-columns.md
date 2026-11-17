@@ -149,7 +149,7 @@ Le chroniqueur souligne que les accidents baissent. | The columnist points out t
 | 10 | Lisez la leçon. Lisez les deux chroniques et faites À vous | Les connecteurs |
 | 2 | Lisez une courte chronique ou une lettre ouverte dans un journal québécois | La position, dans la première phrase |
 | 6 | Relisez les chroniques à voix haute, une ligne à la fois | Le ton de l'ironie dans *Bravo* |
-| 7 | Dites les phrases de Dites-le, puis résumez chaque chronique en deux phrases | *Selon moi*, *il me semble que* |
+| 7 | Dites les phrases de la section Dites-le, puis résumez chaque chronique en deux phrases | *Selon moi*, *il me semble que* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -162,7 +162,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire la position et deux arguments de chaque chronique sans regarder le texte.
 - [ ] Vous pouvez trouver une phrase ironique dans un texte et dire pourquoi elle est ironique.
 - [ ] Vous pouvez dire la différence entre *un débat* et *une polémique*.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

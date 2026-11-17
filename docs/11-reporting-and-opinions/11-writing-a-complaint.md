@@ -134,7 +134,7 @@ Je vous remercie de votre attention. | Thank you for your attention.
 | 10 | Lisez la leçon et le modèle | Les cinq étapes |
 | 2 | Lisez une lettre de plainte modèle dans un guide de langue | Le ton ferme et poli |
 | 4 | Écoutez le modèle de plainte et répétez trois phrases | Le ton calme |
-| 5 | Dites les phrases de Dites-le | La pause avant *faute de quoi* |
+| 5 | Dites les phrases de la section Dites-le | La pause avant *faute de quoi* |
 | 4 | Écrivez votre plainte (150 à 180 mots) | Les temps de chaque étape |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.

@@ -119,7 +119,7 @@ Voici le résumé de la semaine. | Here is the summary of the week.
 | 10 | Relisez les leçons de l'étape dont vous avez besoin pour la tâche du jour | Les formules à garder |
 | 2 | Lisez un rapport mensuel ou annuel d'une ville | Le style nominal |
 | 4 | Écoutez la scène du jour dans Écoutez | Les chiffres et les noms |
-| 3 | Dites les phrases de Dites-le | Votre rythme |
+| 3 | Dites les phrases de la section Dites-le | Votre rythme |
 | 6 | Écrivez le document du jour (60 à 120 mots), puis relisez-le avec la liste de contrôle | Les espaces, le *vous* et les accords |
 
 Répétez cette routine sur cinq jours : une tâche par jour, du lundi au vendredi.
@@ -133,7 +133,7 @@ Répétez cette routine sur cinq jours : une tâche par jour, du lundi au vendr
 - [ ] Vous avez écrit les cinq documents, chacun de 60 à 120 mots.
 - [ ] Vous avez noté chaque document avec la grille de la leçon sur les textes de travail, et obtenu au moins 12 sur 18.
 - [ ] Vous pouvez expliquer, en français, la différence entre un procès-verbal et une note de breffage.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

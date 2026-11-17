@@ -120,7 +120,7 @@ Pourriez-vous m'envoyer un reçu? | Could you send me a receipt?
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les mots que vous ne reconnaissez pas |
 | 2 | Lisez l'avis d'inscription à voix basse | Les mots qui reviennent |
 | 6 | Écoutez le contrat avec le bouton de lecture. Arrêtez et répétez | Les consonnes finales : *acompte*, *impôt* |
-| 7 | Dites les phrases de Dites-le, puis expliquez en français ce qu'est un acompte | La liaison dans *un abonnement* |
+| 7 | Dites les phrases de la section Dites-le, puis expliquez en français ce qu'est un acompte | La liaison dans *un abonnement* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -133,7 +133,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire le sens des treize mots de la liste sans regarder.
 - [ ] Vous pouvez lire le contrat et l'avis sans regarder les traductions.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à compléter](../practice/fill-in-the-blank.md) (mots de l'administration).
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

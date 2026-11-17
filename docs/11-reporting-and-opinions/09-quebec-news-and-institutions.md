@@ -135,7 +135,7 @@ Ottawa annonce de l'argent pour les transports. | Ottawa announces money for tra
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les trois niveaux |
 | 2 | Lisez un titre de ICI Radio-Canada et dites le niveau | *Ottawa*, *Québec*, *la Ville* |
 | 6 | Écoutez les phrases. Répétez chaque phrase | Le nom du lieu au début |
-| 7 | Dites les phrases de Dites-le, puis expliquez les trois niveaux à voix haute | Les mots *Assemblée*, *arrondissement* |
+| 7 | Dites les phrases de la section Dites-le, puis expliquez les trois niveaux à voix haute | Les mots *Assemblée*, *arrondissement* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -148,7 +148,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire à voix haute qui siège à Québec, à Ottawa et à l'hôtel de ville.
 - [ ] Vous pouvez lire *Ottawa annonce* et *Québec annonce* sans vous tromper de niveau.
 - [ ] Vous pouvez nommer cinq arrondissements de Montréal.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

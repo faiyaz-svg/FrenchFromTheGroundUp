@@ -129,7 +129,7 @@ En conclusion, le projet est utile. | In conclusion, the project is useful.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le rôle de chaque connecteur |
 | 2 | Lisez un petit texte d'opinion sur ICI Radio-Canada | Les connecteurs en début de phrase |
 | 6 | Écoutez le paragraphe. Répétez chaque ligne | Le ton qui baisse après *En revanche,* |
-| 7 | Dites les phrases de Dites-le, puis donnez votre opinion en trois phrases liées | La pause après le connecteur |
+| 7 | Dites les phrases de la section Dites-le, puis donnez votre opinion en trois phrases liées | La pause après le connecteur |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -142,7 +142,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez nommer un connecteur pour chaque rôle (ajouter, opposer, expliquer, conclure, ordonner).
 - [ ] Vous pouvez dire la différence entre *car* et *puisque*.
 - [ ] Vous pouvez dire un petit paragraphe de quatre phrases avec trois connecteurs.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

@@ -114,8 +114,8 @@ Je suis désolé, je dois remettre ce rendez-vous. | I'm sorry, I have to postpo
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | La voyelle de chaque mot |
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | *tu* ou *vous* dans chaque phrase |
 | 2 | Écoutez deux minutes d'une conversation sur [ICI TOU.TV](https://ici.tou.tv/) et notez une proposition | Comment on accepte |
-| 6 | Écoutez le dialogue de Sam, Julie et Nadine, puis la scène 1 de Dites-le | Le passage de *tu* à *vous* |
-| 7 | Dites les phrases de Dites-le. Jouez la scène 1, puis la scène 2, avec un partenaire ou un enregistreur | Votre rythme et votre politesse |
+| 6 | Écoutez le dialogue de Sam, Julie et Nadine, puis la scène 1 de la section Dites-le | Le passage de *tu* à *vous* |
+| 7 | Dites les phrases de la section Dites-le. Jouez la scène 1, puis la scène 2, avec un partenaire ou un enregistreur | Votre rythme et votre politesse |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -128,7 +128,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez jouer la scène 1 (*tu*) en trois répliques, sans lire.
 - [ ] Vous pouvez jouer la scène 2 (*vous*) avec une proposition, un refus poli et un nouveau rendez-vous.
 - [ ] Vous pouvez comprendre *Pas de trouble* et *Ça fait mon affaire* quand vous les entendez.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

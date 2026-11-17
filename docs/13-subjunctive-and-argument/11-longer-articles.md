@@ -150,7 +150,7 @@ Quoi qu'il en soit, le temps presse pour les locataires. | Whatever the case, ti
 | 10 | Lisez la leçon. Lisez l'article en deux temps, puis faites À vous avec les réponses fermées | La première phrase de chaque paragraphe |
 | 2 | Lisez les deux premiers paragraphes d'un vrai article d'analyse sur ICI Radio-Canada | Les mots qui annoncent une source |
 | 6 | Écoutez l'article, paragraphe par paragraphe. Répétez les phrases avec un chiffre | Les chiffres et les connecteurs |
-| 7 | Dites les phrases de Dites-le, puis résumez l'article à voix haute en quatre phrases | La pause entre problème, causes, solutions |
+| 7 | Dites les phrases de la section Dites-le, puis résumez l'article à voix haute en quatre phrases | La pause entre problème, causes, solutions |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 

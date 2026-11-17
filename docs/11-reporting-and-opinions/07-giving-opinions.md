@@ -129,7 +129,7 @@ En conclusion, je soutiens cette idée. | In conclusion, I support this idea.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez |
 | 2 | Écoutez un extrait d'une discussion à ICI Radio-Canada | Les débuts d'opinion |
 | 6 | Écoutez le dialogue. Répétez les phrases de Camille et de Pierre | Le ton poli de *Je ne suis pas tout à fait d'accord* |
-| 7 | Dites les phrases de Dites-le, puis donnez une opinion d'une minute et enregistrez-vous | Vos pauses entre les raisons |
+| 7 | Dites les phrases de la section Dites-le, puis donnez une opinion d'une minute et enregistrez-vous | Vos pauses entre les raisons |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -142,7 +142,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez donner une opinion d'une minute avec deux raisons et un exemple, sans lire.
 - [ ] Vous pouvez dire trois façons d'être poliment contre.
 - [ ] Vous pouvez dire la différence entre *soutenir* et *s'opposer à*.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

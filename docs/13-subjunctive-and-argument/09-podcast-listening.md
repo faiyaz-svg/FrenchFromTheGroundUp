@@ -132,7 +132,7 @@ Pour conclure, le sujet a plusieurs angles. | To conclude, the subject has sever
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées, après trois écoutes | Le sujet, puis les angles, puis la conclusion |
 | 2 | Écoutez deux minutes d'un balado sur [ICI OHdio](https://ici.radio-canada.ca/ohdio) | Les verbes *aborder* et *évoquer* |
 | 6 | Réécoutez l'extrait sans le texte, puis avec le texte. Répétez les lignes de Josée | Les petits mots familiers de Josée |
-| 7 | Dites les phrases de Dites-le, puis résumez l'extrait en cinq phrases | Les connecteurs de votre résumé |
+| 7 | Dites les phrases de la section Dites-le, puis résumez l'extrait en cinq phrases | Les connecteurs de votre résumé |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -145,7 +145,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez résumer l'extrait en cinq phrases : sujet, deux angles, un exemple, la conclusion.
 - [ ] Vous pouvez expliquer *ben*, *tsé* et *faque*.
 - [ ] Vous pouvez repérer *aborder*, *évoquer* et *approfondir* dans un balado réel.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

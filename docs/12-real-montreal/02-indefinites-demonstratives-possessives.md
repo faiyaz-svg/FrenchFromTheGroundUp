@@ -127,7 +127,7 @@ Je n'ai aucune idée. | I have no idea.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le genre dans le dernier son : *celui*, *celle* |
 | 2 | Lisez deux pages d'un site de nouvelles de [ICI Radio-Canada](https://ici.radio-canada.ca/) et notez cinq emplois de *tout* | Le mot que *tout* accompagne |
 | 6 | Écoutez le dialogue deux fois, la traduction cachée | *celui*, *ceux*, *le mien* |
-| 7 | Dites les phrases de Dites-le, puis décrivez cinq objets de votre sac avec *le mien* et *le tien* | La voyelle nasale de *mien* et *tien* |
+| 7 | Dites les phrases de la section Dites-le, puis décrivez cinq objets de votre sac avec *le mien* et *le tien* | La voyelle nasale de *mien* et *tien* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -140,7 +140,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à trous](../practice/fill-in-the-blank.md) de ce niveau.
 - [ ] Vous pouvez donner le pronom possessif de six noms, au masculin et au féminin, sans regarder.
 - [ ] Vous pouvez dire trois emplois de *tout* (adjectif, pronom, adverbe), un exemple chacun.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

@@ -140,7 +140,7 @@ Il est certain que nous avons le temps. Il est possible que nous l'ayons. | It i
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | L'étape de la méthode où vous vous trompez |
 | 2 | Lisez une phrase d'un article avec *je ne pense pas que* ou *il est possible que* | Le verbe après *que* |
 | 6 | Écoutez Karine et Daniel. Répétez les phrases corrigées | Le mode après *espérer que* et *souhaiter que* |
-| 7 | Dites les phrases de Dites-le, puis dites cinq paires indicatif-subjonctif de votre choix | La différence entre *viendra* et *vienne* |
+| 7 | Dites les phrases de la section Dites-le, puis dites cinq paires indicatif-subjonctif de votre choix | La différence entre *viendra* et *vienne* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 

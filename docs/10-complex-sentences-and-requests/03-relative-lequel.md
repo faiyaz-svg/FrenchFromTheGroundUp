@@ -149,7 +149,7 @@ La rue sur laquelle passera l'autobus est étroite. | The street the bus will us
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez entre *qui* et *lequel* |
 | 2 | Lisez à voix basse le texte de l'urbaniste | Les mots après chaque préposition |
 | 6 | Écoutez le texte de l'urbaniste. Arrêtez et répétez | La liaison dans *dans lequel* et *auprès duquel* |
-| 7 | Dites les phrases de Dites-le, puis décrivez votre lieu de travail avec *dans lequel* | Le /ɛl/ de *laquelle* et *lequel* |
+| 7 | Dites les phrases de la section Dites-le, puis décrivez votre lieu de travail avec *dans lequel* | Le /ɛl/ de *laquelle* et *lequel* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -162,7 +162,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire les quatre formes de *lequel* de mémoire.
 - [ ] Vous pouvez dire quand utiliser *qui* après une préposition et quand utiliser *lequel*.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à compléter](../practice/fill-in-the-blank.md) (pronoms relatifs).
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

@@ -110,10 +110,10 @@ Ce sont des gens avec qui je travaille bien. | They are people I work well with.
 | Minutes | Tâche | À écouter |
 |---|---|---|
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | Le son final de chaque mot |
-| 10 | Lisez les cinq étapes et la liste de mots. Faites les questions 1 et 2 de À vous | Les mots qui marquent le temps |
+| 10 | Lisez les cinq étapes et la liste de mots. Faites les questions 1 et 2 de la section À vous | Les mots qui marquent le temps |
 | 2 | Lisez la réponse de Fatima sur son échec | Les pauses entre les idées |
 | 6 | Écoutez l'entrevue une troisième fois en lisant le texte. Arrêtez et répétez trois réponses | Les liaisons : *j'avais*, *il y avait* |
-| 7 | Dites les phrases de Dites-le, puis racontez en trois phrases comment Fatima a commencé | Votre rythme comparé à celui de l'audio |
+| 7 | Dites les phrases de la section Dites-le, puis racontez en trois phrases comment Fatima a commencé | Votre rythme comparé à celui de l'audio |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -123,10 +123,10 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
 ## Pour passer à la suite
 
-- [ ] Vous pouvez répondre aux cinq questions de À vous sans relire le texte.
+- [ ] Vous pouvez répondre aux cinq questions de la section À vous sans relire le texte.
 - [ ] Vous pouvez dire les cinq étapes pour écouter une longue réponse.
 - [ ] Vous pouvez repérer le plus-que-parfait, *où* et un subjonctif dans le texte.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

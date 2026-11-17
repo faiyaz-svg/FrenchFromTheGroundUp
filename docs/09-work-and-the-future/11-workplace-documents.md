@@ -124,7 +124,7 @@ Le poste est à temps plein. | The job is full time.
 | 10 | Lisez la leçon et les trois documents. Faites À vous avec les réponses fermées | Les mots que vous devinez |
 | 2 | Lisez une offre d'emploi sur un site de recrutement du gouvernement | Les mots *exigences* et *atouts* |
 | 6 | Écoutez les trois documents. Répétez chaque phrase | *doivent* et *peuvent* |
-| 7 | Dites les phrases de Dites-le, puis résumez un document en deux phrases | Le futur dans la note de service |
+| 7 | Dites les phrases de la section Dites-le, puis résumez un document en deux phrases | Le futur dans la note de service |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -134,10 +134,10 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
 ## Pour passer à la suite
 
-- [ ] Vous répondez correctement à 8 des 10 questions de À vous, sans traduire mot à mot.
+- [ ] Vous répondez correctement à 8 des 10 questions de la section À vous, sans traduire mot à mot.
 - [ ] Vous pouvez dire la différence entre *doit* et *peut* dans une politique.
 - [ ] Vous pouvez nommer les parties d'une description de tâches en français.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

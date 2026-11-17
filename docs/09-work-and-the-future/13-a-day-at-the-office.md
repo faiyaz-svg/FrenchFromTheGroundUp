@@ -114,7 +114,7 @@ Tu viens dîner à la cafétéria? | Are you coming to have lunch at the cafeter
 | 10 | Lisez la leçon. Faites À vous, puis jouez les rôles de Marc avec les phrases de l'Écoutez | Où vous hésitez entre *tu* et *vous* |
 | 2 | Écoutez un extrait de Francolab ou de Mauril sur le bureau | Les mots de bureau de cette étape |
 | 6 | Écoutez les quatre moments. Répétez chaque phrase | Les terminaisons *-ai*, *-ais* |
-| 7 | Faites le jeu de rôle de Dites-le, puis changez de rôle | Le ton de chaque moment |
+| 7 | Faites le jeu de rôle de la section Dites-le, puis changez de rôle | Le ton de chaque moment |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -127,7 +127,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez faire le jeu de rôle de deux minutes, une fois comme Marc et une fois comme Aïcha, sans notes.
 - [ ] Vous obtenez 8 sur 10 à chaque exercice de l'étape 9 : [conjugaison](../practice/conjugation.md), [à compléter](../practice/fill-in-the-blank.md) et [dictée](../practice/dictation.md).
 - [ ] Vous pouvez dire ce que vous ferez demain, avec le futur simple et un *si*, en six phrases.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

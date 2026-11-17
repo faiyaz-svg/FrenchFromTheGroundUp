@@ -129,7 +129,7 @@ Notre correspondant est en direct. | Our correspondent is live.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées, après trois écoutes | Les titres, puis les chiffres |
 | 2 | Écoutez les titres d'un vrai bulletin de ICI Radio-Canada | Le premier mot de chaque titre |
 | 6 | Réécoutez le bulletin sans le texte, puis avec le texte. Répétez la météo | Les chiffres de la météo |
-| 7 | Dites les phrases de Dites-le, puis résumez le bulletin en trois phrases | Votre résumé : qui, quoi, où |
+| 7 | Dites les phrases de la section Dites-le, puis résumez le bulletin en trois phrases | Votre résumé : qui, quoi, où |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -140,9 +140,9 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 ## Pour passer à la suite
 
 - [ ] Vous pouvez dire les trois titres du bulletin de mémoire.
-- [ ] Vous pouvez répondre aux questions de À vous sans lire le texte.
+- [ ] Vous pouvez répondre aux questions de la section À vous sans lire le texte.
 - [ ] Vous pouvez dire quel mot ouvre un conditionnel de nouvelles et pourquoi.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

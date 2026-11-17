@@ -125,9 +125,9 @@ Elle s'était couchée tard. | She had gone to bed late.
 |---|---|---|
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | Le son final de chaque mot |
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez entre *avais* et *ai* |
-| 2 | Lisez les phrases de Dites-le en suivant avec le doigt | Le *s* de *avais* et de *avions* |
+| 2 | Lisez les phrases de la section Dites-le en suivant avec le doigt | Le *s* de *avais* et de *avions* |
 | 6 | Écoutez le dialogue de Samira. Arrêtez et répétez | Le mot avant le participe : *avait* ou *était* |
-| 7 | Dites les phrases de Dites-le, puis racontez votre matin avec trois verbes au plus-que-parfait | Le rythme de *j'avais déjà* |
+| 7 | Dites les phrases de la section Dites-le, puis racontez votre matin avec trois verbes au plus-que-parfait | Le rythme de *j'avais déjà* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -140,7 +140,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire la formation du plus-que-parfait en trois étapes, sans regarder la leçon.
 - [ ] Vous obtenez 8 sur 10 à l'exercice de [conjugaison](../practice/conjugation.md) (plus-que-parfait).
 - [ ] Vous pouvez raconter une histoire de cinq phrases avec deux actions plus anciennes que les autres.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

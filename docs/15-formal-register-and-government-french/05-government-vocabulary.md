@@ -115,8 +115,8 @@ La consultation publique se termine le 15 janvier. | The public consultation end
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | Les mots longs : *reddition*, *admissibilité* |
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les mots que vous confondez |
 | 2 | Lisez la page d'accueil d'un ministère ou d'une ville | Les mots de la leçon |
-| 6 | Écoutez l'organigramme et l'avis de Écoutez, trois fois | Les mots de la leçon dans leur phrase |
-| 7 | Dites les phrases de Dites-le, puis décrivez à voix haute l'organigramme | Le rythme des phrases longues |
+| 6 | Écoutez l'organigramme et l'avis de la section Écoutez, trois fois | Les mots de la leçon dans leur phrase |
+| 7 | Dites les phrases de la section Dites-le, puis décrivez à voix haute l'organigramme | Le rythme des phrases longues |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -129,7 +129,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez expliquer en français la différence entre un ministre et un sous-ministre.
 - [ ] Vous pouvez expliquer la différence entre une subvention et une prestation.
 - [ ] Vous pouvez nommer l'équivalent fédéral, québécois et ontarien d'un parlement.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

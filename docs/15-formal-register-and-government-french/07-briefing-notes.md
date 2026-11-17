@@ -136,8 +136,8 @@ Les parties prenantes seront consultées en janvier. | The stakeholders will be 
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | Le *r* de *recommandation*, *répercussions* |
 | 10 | Lisez la leçon. Faites À vous 1 à 3 avec les réponses fermées | Les titres de la note |
 | 2 | Lisez une note ou un résumé d'un site de ministère ou de ville | La recommandation |
-| 4 | Écoutez la note de Écoutez | Le ton neutre et court |
-| 3 | Dites les phrases de Dites-le | Votre rythme |
+| 4 | Écoutez la note de la section Écoutez | Le ton neutre et court |
+| 3 | Dites les phrases de la section Dites-le | Votre rythme |
 | 6 | Écrivez votre note, puis relisez : six titres, 250 à 300 mots | Les phrases trop longues |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
@@ -151,7 +151,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez nommer les six titres d'une note de breffage dans l'ordre.
 - [ ] Vous avez écrit une note de 250 à 300 mots avec une recommandation claire.
 - [ ] Vous pouvez dire la différence entre *pour décision* et *à titre d'information*.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

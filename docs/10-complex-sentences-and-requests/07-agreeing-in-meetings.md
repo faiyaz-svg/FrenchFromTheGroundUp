@@ -131,7 +131,7 @@ Je propose que nous ouvrions à 8 h. | I propose that we open at 8.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous manquez un mot |
 | 2 | Relisez les tableaux de phrases à voix basse | Le ton poli de *Je comprends votre point de vue, mais* |
 | 6 | Écoutez la réunion. Arrêtez et répétez chaque réplique | Le ton de la voix quand on n'est pas d'accord |
-| 7 | Dites les phrases de Dites-le, puis jouez le rôle de Marc en disant non poliment | Le rythme de *Je ne suis pas convaincu* |
+| 7 | Dites les phrases de la section Dites-le, puis jouez le rôle de Marc en disant non poliment | Le rythme de *Je ne suis pas convaincu* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 

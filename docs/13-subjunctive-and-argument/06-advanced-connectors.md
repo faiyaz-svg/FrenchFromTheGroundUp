@@ -132,7 +132,7 @@ En définitive, il faut un équilibre. | In the end, a balance is needed.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le rôle de chaque connecteur |
 | 2 | Lisez un éditorial et soulignez trois connecteurs de cette leçon | Le mot qui suit le connecteur |
 | 6 | Écoutez l'essai. Répétez chaque ligne | La pause après chaque connecteur |
-| 7 | Dites les phrases de Dites-le, puis résumez l'essai en cinq phrases avec cinq connecteurs | La virgule dite par un petit arrêt |
+| 7 | Dites les phrases de la section Dites-le, puis résumez l'essai en cinq phrases avec cinq connecteurs | La virgule dite par un petit arrêt |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -145,7 +145,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez donner un connecteur formel pour chaque rôle, sans regarder.
 - [ ] Vous pouvez dire ce qui suit *d'où*, *en raison de*, *à force de* et *force est de constater que*.
 - [ ] Vous pouvez trouver les dix connecteurs de l'essai sans regarder la réponse.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

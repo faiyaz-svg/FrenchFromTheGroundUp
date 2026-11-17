@@ -132,8 +132,8 @@ Quelque temps plus tard, le maire fit un discours. | Some time later, the mayor 
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | Le *r* de *naguère*, *jadis* |
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les terminaisons -a, -it, -ut |
 | 2 | Lisez un résumé historique d'une ville ou d'un musée | Les verbes en -a et en -irent |
-| 6 | Écoutez les trois passages de Écoutez, suivez le texte avec le doigt | Le rythme du récit |
-| 7 | Lisez à voix haute les phrases de Dites-le | La différence avec le passé composé |
+| 6 | Écoutez les trois passages de la section Écoutez, suivez le texte avec le doigt | Le rythme du récit |
+| 7 | Lisez à voix haute les phrases de la section Dites-le | La différence avec le passé composé |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -146,7 +146,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez donner l'infinitif de dix formes du passé simple (*il fit*, *ils vinrent*, ...).
 - [ ] Vous pouvez dire à quoi sert le passé simple et pourquoi on ne l'entend pas à l'oral.
 - [ ] Vous pouvez repérer le passé antérieur dans une phrase.
-- [ ] Vous pouvez lire à voix haute les quatre phrases de Dites-le.
+- [ ] Vous pouvez lire à voix haute les quatre phrases de la section Dites-le.
 
 </div>
 

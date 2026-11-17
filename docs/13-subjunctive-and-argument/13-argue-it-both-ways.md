@@ -141,7 +141,7 @@ J'ai pesé le pour et le contre, et je prends position. | I weighed the pros and
 | 10 | Lisez la leçon et préparez votre tableau « pour » et « contre » | Les arguments qui ont un exemple |
 | 2 | Écoutez deux minutes d'une discussion à ICI Radio-Canada | Le moment où la personne prend position |
 | 6 | Écoutez le monologue modèle. Répétez trois phrases de chaque partie | Les pauses entre les quatre parties |
-| 7 | Dites les phrases de Dites-le, puis enregistrez votre monologue de trois minutes | Le mode après chaque *que* |
+| 7 | Dites les phrases de la section Dites-le, puis enregistrez votre monologue de trois minutes | Le mode après chaque *que* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases. Changez de sujet chaque jour.
 

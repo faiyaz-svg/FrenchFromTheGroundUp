@@ -136,8 +136,8 @@ Entendu, nous nous en tenons à cette date. | Agreed, we will keep to that date.
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | La voyelle accentuée de chaque mot |
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les paires que vous oubliez |
 | 2 | Lisez une page d'un site de ministère ou de ville | Les mots soutenus de la leçon |
-| 6 | Écoutez les trois messages de Écoutez, puis répétez les lignes du collègue | Le ton poli du registre courant |
-| 7 | Dites les phrases de Dites-le, puis changez-les en registre courant | Votre rythme soutenu |
+| 6 | Écoutez les trois messages de la section Écoutez, puis répétez les lignes du collègue | Le ton poli du registre courant |
+| 7 | Dites les phrases de la section Dites-le, puis changez-les en registre courant | Votre rythme soutenu |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -150,7 +150,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez donner l'équivalent soutenu de dix mots courants du tableau.
 - [ ] Vous pouvez dire le message du bureau dans les trois registres.
 - [ ] Vous pouvez expliquer pourquoi *assister à* est un faux ami.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

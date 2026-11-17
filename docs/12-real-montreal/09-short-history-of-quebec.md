@@ -112,7 +112,7 @@ En 1980 et en 1995, les Québécois votent dans deux référendums. | In 1980 an
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le temps du verbe |
 | 2 | Lisez la page de la Bibliothèque de l'Assemblée nationale sur la [Charte de la langue française](https://www.bibliotheque.assnat.qc.ca/guides/fr/charte-de-la-langue-francaise/905-1977-projets-de-loi-1-et-101) | Les dates et les verbes |
 | 6 | Écoutez le panneau de musée et les dates du tableau, traduction cachée | Le présent historique |
-| 7 | Dites les phrases de Dites-le. Redites chaque date du tableau avec un verbe au présent historique | Les chiffres des années |
+| 7 | Dites les phrases de la section Dites-le. Redites chaque date du tableau avec un verbe au présent historique | Les chiffres des années |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -125,7 +125,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire dix dates du tableau, avec l'événement, sans regarder.
 - [ ] Vous pouvez mettre trois phrases du passé composé au présent historique.
 - [ ] Vous pouvez dire ce qu'est un référendum et donner les deux dates.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

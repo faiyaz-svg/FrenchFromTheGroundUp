@@ -161,7 +161,7 @@ Il prétend qu'il a tout envoyé. | He claims he sent everything.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les pronoms qui changent |
 | 2 | Écoutez un extrait de Mauril (Intermédiaire 2) | *dit que*, *demande si* |
 | 6 | Écoutez le dialogue. Répétez chaque phrase de Julie | Le *s'* devant *il* |
-| 7 | Dites les phrases de Dites-le, puis rapportez un message à voix haute | Le ton qui ne monte pas dans *demande si* |
+| 7 | Dites les phrases de la section Dites-le, puis rapportez un message à voix haute | Le ton qui ne monte pas dans *demande si* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -174,7 +174,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez rapporter trois phrases, trois questions et trois ordres sans regarder la leçon.
 - [ ] Vous pouvez dire la différence entre *si* et *que* après *demander* et *dire*.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à trous](../practice/fill-in-the-blank.md) (étape 11).
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

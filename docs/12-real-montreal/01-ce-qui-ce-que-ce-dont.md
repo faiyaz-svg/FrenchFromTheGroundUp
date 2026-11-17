@@ -124,7 +124,7 @@ Je ne sais pas de quoi vous parlez. | I don't know what you are talking about.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le mot qui suit *ce* : verbe ou sujet |
 | 2 | Lisez un article de [ICI Radio-Canada](https://ici.radio-canada.ca/) et soulignez chaque *ce qui* et *ce que* | Le verbe qui suit |
 | 6 | Écoutez le dialogue deux fois, sans la traduction | Les groupes avec *ce* |
-| 7 | Dites les phrases de Dites-le, puis inventez trois phrases sur votre travail | Le rythme : *ce* sans accent |
+| 7 | Dites les phrases de la section Dites-le, puis inventez trois phrases sur votre travail | Le rythme : *ce* sans accent |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -137,7 +137,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à trous](../practice/fill-in-the-blank.md) de ce niveau.
 - [ ] Vous pouvez dire, pour quatre phrases, pourquoi on utilise *ce qui* ou *ce que*.
 - [ ] Vous pouvez dire trois phrases avec *ce dont*, sans regarder.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

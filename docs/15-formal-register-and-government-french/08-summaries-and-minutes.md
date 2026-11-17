@@ -136,8 +136,8 @@ Deux membres sont excusés. | Two members are excused.
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | Le *u* de *résolution*, *unanimité* |
 | 10 | Lisez la leçon. Faites À vous 1 à 4 avec les réponses fermées | Les formules de décision |
 | 2 | Lisez le procès-verbal d'un conseil de ville en ligne | L'ordre des points |
-| 4 | Écoutez le procès-verbal de Écoutez, puis l'article | Les chiffres et les noms |
-| 3 | Dites les phrases de Dites-le | Votre rythme |
+| 4 | Écoutez le procès-verbal de la section Écoutez, puis l'article | Les chiffres et les noms |
+| 3 | Dites les phrases de la section Dites-le | Votre rythme |
 | 6 | Écrivez le procès-verbal et le résumé, puis comptez les mots | L'absence d'opinion |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
@@ -151,7 +151,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez écrire la formule *Il est proposé par... et appuyé par... que...* sans modèle.
 - [ ] Vous avez écrit un procès-verbal de 120 à 160 mots et un résumé de 100 mots.
 - [ ] Vous pouvez expliquer *quorum*, *abstention* et *à l'unanimité*.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

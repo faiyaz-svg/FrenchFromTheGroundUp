@@ -124,8 +124,8 @@ Le déroulement de la réunion était clair. | The way the meeting went was clea
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | La finale de chaque nom (-tion, -ment, -ité) |
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez sur le genre |
 | 2 | Lisez un avis ou un communiqué d'une ville ou d'un ministère | Les noms en -tion |
-| 6 | Écoutez le paragraphe de Écoutez trois fois | Le rythme verbal, puis nominal |
-| 7 | Dites les phrases de Dites-le, puis changez-les en style verbal | Votre rythme |
+| 6 | Écoutez le paragraphe de la section Écoutez trois fois | Le rythme verbal, puis nominal |
+| 7 | Dites les phrases de la section Dites-le, puis changez-les en style verbal | Votre rythme |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -138,7 +138,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez donner le nom dérivé de dix verbes de la leçon, avec le bon article.
 - [ ] Vous pouvez transformer une phrase verbale en phrase nominale, et l'inverse, en moins d'une minute.
 - [ ] Vous pouvez expliquer deux raisons d'utiliser le style nominal et un risque.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

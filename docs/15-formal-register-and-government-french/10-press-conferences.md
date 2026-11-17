@@ -115,8 +115,8 @@ Je ne peux pas commenter cette déclaration. | I cannot comment on that statemen
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | Le son /lj/ de *milliard* et le *u* de *investir* |
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les chiffres |
 | 2 | Écoutez un extrait de nouvelles ou de conférence de presse sur ICI OHdio | Les mots *annonce*, *plan*, *enveloppe* |
-| 6 | Écoutez les douze lignes de Écoutez trois fois, avec une tâche chaque fois | Les chiffres, puis les questions |
-| 7 | Dites les phrases de Dites-le, puis résumez l'annonce à voix haute en trois phrases | Votre rythme |
+| 6 | Écoutez les douze lignes de la section Écoutez trois fois, avec une tâche chaque fois | Les chiffres, puis les questions |
+| 7 | Dites les phrases de la section Dites-le, puis résumez l'annonce à voix haute en trois phrases | Votre rythme |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -129,7 +129,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez résumer l'annonce en trois phrases, avec le montant et la durée.
 - [ ] Vous pouvez repérer une réponse prudente qui ne donne pas d'information.
 - [ ] Vous pouvez expliquer *dans le cadre de*, *saluer* et *prendre acte*.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

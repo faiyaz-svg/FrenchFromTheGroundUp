@@ -143,7 +143,7 @@ Je n'ai pas fini. | I haven't finished.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les trois temps du tour de parole |
 | 2 | Écoutez deux minutes d'une discussion à ICI Radio-Canada | Les formules pour interrompre |
 | 6 | Écoutez le débat. Répétez les lignes de Martel et de Diallo | Le ton poli de *Excusez-moi de vous interrompre* |
-| 7 | Dites les phrases de Dites-le, puis débattez à voix haute avec vous-même, pour puis contre, pendant une minute | Les pauses entre reconnaître, opposer, appuyer |
+| 7 | Dites les phrases de la section Dites-le, puis débattez à voix haute avec vous-même, pour puis contre, pendant une minute | Les pauses entre reconnaître, opposer, appuyer |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 

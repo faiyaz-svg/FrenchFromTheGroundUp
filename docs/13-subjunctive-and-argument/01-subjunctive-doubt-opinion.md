@@ -137,7 +137,7 @@ Il me semble que le chiffre est trop haut. | It seems to me that the figure is t
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez entre le subjonctif et l'indicatif |
 | 2 | Lisez un titre de journal avec *il est possible que* ou *il semble que* | Le verbe après *que* |
 | 6 | Écoutez le dialogue de Nadia et de Gilles. Répétez chaque ligne | La différence de ton entre le doute et la certitude |
-| 7 | Dites les phrases de Dites-le, puis donnez trois doutes et trois certitudes sur un projet | Le son final de *soit*, *ait*, *ayons* |
+| 7 | Dites les phrases de la section Dites-le, puis donnez trois doutes et trois certitudes sur un projet | Le son final de *soit*, *ait*, *ayons* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -150,7 +150,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire, sans regarder, quatre expressions de doute et quatre expressions de certitude.
 - [ ] Vous pouvez expliquer pourquoi *il est probable que* prend l'indicatif et *il est peu probable que* le subjonctif.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à trous](../practice/fill-in-the-blank.md) de cette étape.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

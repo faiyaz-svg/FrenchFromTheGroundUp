@@ -139,7 +139,7 @@ Après que le client a refusé, nous avons perdu confiance. | After the client r
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | L'auxiliaire : *ait*, *aie*, *soit*, *soyez* |
 | 2 | Lisez le tableau des formes à voix haute | Le /ɛ/ de *ait*, *aies*, *aient* |
 | 6 | Écoutez la réunion de bilan. Arrêtez et répétez chaque ligne | Le participe passé après l'auxiliaire |
-| 7 | Dites les phrases de Dites-le, puis faites un bilan oral de trois phrases sur un projet | Le *-é* final des participes |
+| 7 | Dites les phrases de la section Dites-le, puis faites un bilan oral de trois phrases sur un projet | Le *-é* final des participes |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 

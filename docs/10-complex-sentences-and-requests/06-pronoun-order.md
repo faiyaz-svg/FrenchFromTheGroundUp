@@ -140,7 +140,7 @@ Donne-le-moi. | Give it to me.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez sur l'ordre |
 | 2 | Lisez le tableau des cinq colonnes à voix haute | Le /ə/ de *le*, *me*, *te* |
 | 6 | Écoutez le dialogue d'Inès et de Paul. Arrêtez et répétez | Les deux petits mots avant le verbe |
-| 7 | Dites les phrases de Dites-le, puis répondez à trois questions avec deux pronoms | Les mots liés : *je le lui ai* |
+| 7 | Dites les phrases de la section Dites-le, puis répondez à trois questions avec deux pronoms | Les mots liés : *je le lui ai* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -153,7 +153,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire l'ordre des cinq colonnes sans regarder la leçon.
 - [ ] Vous pouvez dire cinq phrases avec deux pronoms : au présent, au passé composé, à l'infinitif, au négatif.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à compléter](../practice/fill-in-the-blank.md) (pronoms).
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

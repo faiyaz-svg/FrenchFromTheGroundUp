@@ -132,7 +132,7 @@ Ils viendront ultérieurement. | They will come later.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez |
 | 2 | Lisez ou écoutez un extrait de Mauril (Intermédiaire 1) | Les phrases avec *il faudra* ou *il y aura* |
 | 6 | Écoutez le dialogue de Carole. Arrêtez et répétez chaque phrase | Le son final de *serai*, *irai*, *ferai* |
-| 7 | Dites les phrases de Dites-le, puis changez le sujet | Le radical, puis la terminaison |
+| 7 | Dites les phrases de la section Dites-le, puis changez le sujet | Le radical, puis la terminaison |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -145,7 +145,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire les radicaux de douze verbes irréguliers, de mémoire.
 - [ ] Vous pouvez dire les six formes de *être* et de *aller* au futur simple.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice de conjugaison](../practice/conjugation.md) (futur simple).
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

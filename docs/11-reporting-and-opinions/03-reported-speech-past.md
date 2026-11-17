@@ -160,7 +160,7 @@ Il a dit que le client avait refusé la veille. | He said the client had refused
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le temps du verbe après *a dit que* |
 | 2 | Écoutez un extrait de Mauril (Intermédiaire 2) | *il a dit que*, *elle a demandé si* |
 | 6 | Écoutez le dialogue. Répétez les phrases de Samir | Le /ɛ/ final de *-ait* et de *-rait* |
-| 7 | Dites les phrases de Dites-le, puis racontez une réunion à voix haute | *la veille*, *le lendemain* |
+| 7 | Dites les phrases de la section Dites-le, puis racontez une réunion à voix haute | *la veille*, *le lendemain* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -173,7 +173,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez rapporter trois phrases au présent, au passé composé et au futur, sans regarder le tableau.
 - [ ] Vous pouvez remplacer *demain*, *hier* et *la semaine prochaine* dans un récit au passé.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice de conjugaison](../practice/conjugation.md) (imparfait, plus-que-parfait, conditionnel).
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

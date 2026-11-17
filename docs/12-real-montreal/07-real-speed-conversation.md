@@ -151,7 +151,7 @@ Je veux dire, c'était vraiment bien. | I mean, it was really good.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les mots de liaison |
 | 2 | Écoutez deux minutes d'un balado de [ICI OHdio](https://ici.radio-canada.ca/ohdio) avec deux voix | Quand les voix se chevauchent |
 | 6 | Écoutez la version rapide trois fois, sans la traduction, puis la version lente | La première, le sujet; la deuxième, la décision; la troisième, les formes courtes |
-| 7 | Dites les phrases de Dites-le. Redites trois lignes de la version lente à votre vitesse | Le rythme de chaque groupe |
+| 7 | Dites les phrases de la section Dites-le. Redites trois lignes de la version lente à votre vitesse | Le rythme de chaque groupe |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -164,7 +164,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez résumer la conversation en deux phrases après avoir écouté la version rapide deux fois.
 - [ ] Vous pouvez relever six formes courtes dans la version rapide.
 - [ ] Vous pouvez dire à quoi servent les six expressions de liaison.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

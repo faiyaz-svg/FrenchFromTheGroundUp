@@ -121,7 +121,7 @@ Quoi qu'il en soit, nous continuons. | Whatever the case, we are continuing.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le mode après chaque conjonction |
 | 2 | Lisez un texte d'opinion court dans un journal et notez un *pourtant* ou un *cependant* | La phrase qui vient après |
 | 6 | Écoutez l'éditorial. Répétez chaque ligne | La pause après *Néanmoins,* et *Toutefois,* |
-| 7 | Dites les phrases de Dites-le, puis faites trois concessions sur un sujet de votre choix | Le ton qui monte avant *mais* |
+| 7 | Dites les phrases de la section Dites-le, puis faites trois concessions sur un sujet de votre choix | Le ton qui monte avant *mais* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 

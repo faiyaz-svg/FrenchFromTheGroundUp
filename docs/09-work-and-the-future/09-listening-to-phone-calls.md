@@ -116,7 +116,7 @@ Nous vous rappellerons le plus tôt possible. | We will call you back as soon as
 | 10 | Lisez la leçon. Écoutez les trois appels et faites À vous avec les réponses fermées | Les jours, les heures et les noms |
 | 2 | Écoutez un autre extrait de Mauril (Intermédiaire 1) | Les chiffres dans l'extrait |
 | 6 | Écoutez encore l'appel qui est le plus difficile. Répétez chaque phrase | Le rythme à vitesse normale |
-| 7 | Dites les phrases de Dites-le, puis résumez un appel à voix haute | Les mots *reporté*, *déplacé*, *retour* |
+| 7 | Dites les phrases de la section Dites-le, puis résumez un appel à voix haute | Les mots *reporté*, *déplacé*, *retour* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -126,10 +126,10 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
 ## Pour passer à la suite
 
-- [ ] Vous répondez correctement à 8 questions sur 10 de À vous, sans lire la transcription.
+- [ ] Vous répondez correctement à 8 questions sur 10 de la section À vous, sans lire la transcription.
 - [ ] Vous pouvez résumer chaque appel en une phrase.
 - [ ] Vous reconnaissez les neuf mots de la liste à l'oreille.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

@@ -161,8 +161,8 @@ Dans l'attente de votre réponse, je vous prie d'agréer, Madame, mes salutation
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | Le *r* de *agréer*, *déplorer*, *reconnaissant* |
 | 10 | Lisez la leçon. Faites À vous 1 à 3 avec les réponses fermées | Où vous hésitez sur les espaces |
 | 2 | Lisez la page de l'OQLF sur les formules de lettre | Les verbes *agréer* et *recevoir* |
-| 4 | Écoutez les trois courriels de Écoutez | La formule de politesse de chacun |
-| 3 | Dites les phrases de Dites-le | Le ton poli |
+| 4 | Écoutez les trois courriels de la section Écoutez | La formule de politesse de chacun |
+| 3 | Dites les phrases de la section Dites-le | Le ton poli |
 | 6 | Écrivez les trois courriels, puis relisez avec la liste de contrôle | Les espaces et les majuscules |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
@@ -176,7 +176,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez écrire de mémoire la formule *Veuillez agréer* et la formule *Je vous prie d'agréer*, avec l'appel répété.
 - [ ] Vous pouvez dire où il y a une espace insécable (deux-points, $, %, h, guillemets).
 - [ ] Vous avez écrit trois courriels de 100 à 130 mots et coché toute la liste de contrôle.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

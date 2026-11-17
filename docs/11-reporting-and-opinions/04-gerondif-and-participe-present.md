@@ -169,7 +169,7 @@ C'est une histoire passionnante. | It's a gripping story.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | La forme avec *nous* |
 | 2 | Lisez un paragraphe d'un article de presse | Les mots en *-ant* |
 | 6 | Écoutez le dialogue. Répétez chaque phrase | *en* avant le participe |
-| 7 | Dites les phrases de Dites-le, puis décrivez trois choses que vous faites en même temps | Le /ɑ̃/ de *-ant* |
+| 7 | Dites les phrases de la section Dites-le, puis décrivez trois choses que vous faites en même temps | Le /ɑ̃/ de *-ant* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -182,7 +182,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez former sept participes présents de mémoire, dont *étant*, *ayant* et *sachant*.
 - [ ] Vous pouvez dire trois phrases avec le gérondif sans regarder la leçon.
 - [ ] Vous pouvez dire si un mot en *-ant* est un participe ou un adjectif dans cinq phrases.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

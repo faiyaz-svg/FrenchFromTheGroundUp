@@ -126,7 +126,7 @@ Dans l'attente de votre réponse, je vous remercie. | While waiting for your rep
 | 2 | Lisez un autre exemple de courriel dans la page des formules | La formule de fin |
 | 4 | Écrivez votre courriel de 80 à 100 mots, puis relisez-le | Les phrases trop longues |
 | 4 | Écoutez le courriel de Mme Roux et répétez chaque phrase | Le rythme de chaque phrase |
-| 5 | Dites les phrases de Dites-le, puis lisez votre courriel à voix haute | Les liaisons |
+| 5 | Dites les phrases de la section Dites-le, puis lisez votre courriel à voix haute | Les liaisons |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -138,7 +138,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
 - [ ] Votre courriel a les cinq parties et entre 80 et 100 mots.
 - [ ] Vous pouvez écrire une ligne d'objet claire, avec une action et une date.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 - [ ] Vous pouvez lire votre courriel à voix haute sans vous arrêter.
 
 </div>

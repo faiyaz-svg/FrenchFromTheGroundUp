@@ -120,7 +120,7 @@ Il faut que vous nous le demandiez avant jeudi. | You need to ask us for it befo
 | 10 | Lisez la leçon et les deux réponses. Faites À vous 1 à 3 avec les réponses fermées | Les pronoms avant les verbes |
 | 2 | Lisez les phrases d'excuse à voix haute | Le ton poli de *nous nous excusons* |
 | 4 | Écoutez les deux réponses avec le bouton de lecture | Les pauses après les virgules |
-| 4 | Dites les phrases de Dites-le | Le rythme de *nous vous l'enverrons* |
+| 4 | Dites les phrases de la section Dites-le | Le rythme de *nous vous l'enverrons* |
 | 5 | Écrivez le brouillon de la tâche 4 | Si les quatre parties sont là |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases. Finissez votre réponse le deuxième ou le troisième jour.
@@ -134,7 +134,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases. 
 - [ ] Vous avez écrit une réponse de 100 à 130 mots avec les quatre parties.
 - [ ] Votre réponse contient deux pronoms doubles et un subjonctif corrects.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à compléter](../practice/fill-in-the-blank.md) du stage 10.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

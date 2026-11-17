@@ -189,7 +189,7 @@ Il y a une manifestation dans le centre-ville. | There is a demonstration downto
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le mot du thème dans chaque titre |
 | 2 | Lisez trois titres sur ICI Radio-Canada | Le mot avant les deux points |
 | 6 | Écoutez les titres. Répétez chaque titre | Les mots qui finissent par *-tion* et *-ment* |
-| 7 | Dites les phrases de Dites-le, puis lisez un titre à voix haute | Le ton qui baisse à la fin d'un titre |
+| 7 | Dites les phrases de la section Dites-le, puis lisez un titre à voix haute | Le ton qui baisse à la fin d'un titre |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -202,7 +202,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez donner le thème de huit titres, sans regarder les tableaux.
 - [ ] Vous pouvez dire cinq mots de chaque thème avec leur sens.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice du masculin et du féminin](../practice/le-or-la.md) (étape 11).
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

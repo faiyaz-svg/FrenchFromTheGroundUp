@@ -139,7 +139,7 @@ La femme dont le fils est médecin travaille ici. | The woman whose son is a doc
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez entre *que* et *dont* |
 | 2 | Lisez le dialogue de Marc en soulignant *dont* et *où* | Le mot qui suit *dont* |
 | 6 | Écoutez le dialogue de Marc. Arrêtez et répétez chaque phrase | Le /ɔ̃/ de *dont* |
-| 7 | Dites les phrases de Dites-le, puis décrivez votre rue avec *où* et *dont* | Une pause avant le pronom relatif |
+| 7 | Dites les phrases de la section Dites-le, puis décrivez votre rue avec *où* et *dont* | Une pause avant le pronom relatif |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -152,7 +152,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire à quoi servent *qui*, *que*, *dont* et *où*, avec un exemple chacun.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à compléter](../practice/fill-in-the-blank.md) (pronoms relatifs).
 - [ ] Vous pouvez faire cinq phrases avec *dont* en utilisant cinq verbes avec *de* différents.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

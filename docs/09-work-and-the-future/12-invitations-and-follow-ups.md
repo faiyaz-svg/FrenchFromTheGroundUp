@@ -119,7 +119,7 @@ Je vous rappelle que la réunion aura lieu demain. | I remind you that the meeti
 | 2 | Lisez un autre courriel de la page des formules | Les formules de fin |
 | 4 | Écrivez l'invitation (50 mots) et le suivi (70 mots), puis relisez-les | Les phrases sans nom ou sans date |
 | 4 | Écoutez les modèles et répétez chaque ligne | Le rythme et les dates |
-| 5 | Dites les phrases de Dites-le, puis lisez vos deux courriels à voix haute | Les liaisons |
+| 5 | Dites les phrases de la section Dites-le, puis lisez vos deux courriels à voix haute | Les liaisons |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -132,7 +132,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Votre invitation répond aux cinq questions et fait environ 50 mots.
 - [ ] Votre suivi liste trois actions avec un nom, un verbe au futur et une date, et fait environ 70 mots.
 - [ ] Vous écrivez les dates au format *le mardi 20 mars* et les heures au format *10 h*, sans erreur.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

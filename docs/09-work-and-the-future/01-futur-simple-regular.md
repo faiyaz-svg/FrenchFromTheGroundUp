@@ -139,7 +139,7 @@ J'achèterai le café d'ici là. | I will buy the coffee before then.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez |
 | 2 | Lisez ou écoutez un extrait de Mauril (Intermédiaire 1) | Le *r* avant la terminaison |
 | 6 | Écoutez le dialogue de Nadine. Arrêtez et répétez chaque phrase | Le son final de *je finirai* |
-| 7 | Dites les phrases de Dites-le, puis changez le sujet (*nous*, *elle*) | La syllabe *-rai* |
+| 7 | Dites les phrases de la section Dites-le, puis changez le sujet (*nous*, *elle*) | La syllabe *-rai* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -150,7 +150,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 ## Pour passer à la suite
 
 - [ ] Vous pouvez écrire les six formes de *finir* et de *vendre* au futur simple, de mémoire.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice de conjugaison](../practice/conjugation.md) (futur simple, verbes réguliers).
 - [ ] Vous pouvez dire trois plans pour la semaine prochaine avec le futur simple.
 

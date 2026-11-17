@@ -148,8 +148,8 @@ La réunion est reportée à vendredi à 10 h, salle 204. | The meeting is post
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | Le *ch* de *chronomètre* (le son /k/) |
 | 10 | Lisez la leçon. Faites la partie 1 et la partie 2 avec les réponses fermées | Les fautes que vous laissez passer |
 | 2 | Lisez un courriel de réponse à une plainte, sur un site de ville | Les formules de réponse |
-| 4 | Écoutez les phrases de Dites-le sur la page, puis répétez | Le ton poli |
-| 3 | Dites les phrases de Dites-le | Votre rythme |
+| 4 | Écoutez les phrases de la section Dites-le sur la page, puis répétez | Le ton poli |
+| 3 | Dites les phrases de la section Dites-le | Votre rythme |
 | 6 | Écrivez la tâche C (ou A ou B un autre jour) avec le chronomètre, puis notez-vous | Le temps imparti |
 
 Répétez cette routine pendant au moins trois jours (une tâche par jour) avant de cocher les cases.

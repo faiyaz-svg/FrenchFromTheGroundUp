@@ -172,10 +172,10 @@ Je ne pense pas que ce soit une mauvaise idée. | I don't think it is a bad idea
 | Minutes | Tâche | À écouter |
 |---|---|---|
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | La voyelle de chaque mot |
-| 10 | Lisez la leçon. Faites les passages 1 et 2 de À vous 1 | Les phrases qui sonnent faux |
+| 10 | Lisez la leçon. Faites les passages 1 et 2 de la section À vous 1 | Les phrases qui sonnent faux |
 | 2 | Lisez un paragraphe d'un journal et cherchez une phrase lourde | Les mots qui se répètent |
 | 4 | Écoutez les deux lignes correctes et répétez-les. Lisez les lignes corrigées à voix haute | Le mode après chaque *que* |
-| 5 | Dites les phrases de Dites-le | Le son final : *soit*, *a voté* |
+| 5 | Dites les phrases de la section Dites-le | Le son final : *soit*, *a voté* |
 | 4 | Faites les passages 3 à 5, puis À vous 3 à 5 | Où vos corrections changent la phrase |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.

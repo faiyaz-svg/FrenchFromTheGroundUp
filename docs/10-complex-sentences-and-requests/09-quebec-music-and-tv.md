@@ -126,7 +126,7 @@ C'est une salle où j'aimerais aller. | It's a venue where I'd like to go.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les mots que vous ne reconnaissez pas |
 | 2 | Ouvrez un site de la liste et lisez trois titres à voix haute | Les sons de chaque titre |
 | 6 | Écoutez le dialogue des trois amis. Arrêtez et répétez | Le mot avant *dont* et *où* |
-| 7 | Dites les phrases de Dites-le, puis parlez d'une émission ou d'une chanson que vous aimez | Le rythme de *une chanson que j'écoute* |
+| 7 | Dites les phrases de la section Dites-le, puis parlez d'une émission ou d'une chanson que vous aimez | Le rythme de *une chanson que j'écoute* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -139,7 +139,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire les onze mots de musique et d'émissions sans regarder la leçon.
 - [ ] Vous pouvez parler d'une émission avec *dont*, *où* et *que*.
 - [ ] Vous pouvez dire la différence entre *balado* et *podcast*.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

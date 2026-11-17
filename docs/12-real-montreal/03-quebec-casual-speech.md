@@ -145,7 +145,7 @@ Pouvez-vous répéter, s'il vous plaît? | Can you repeat, please?
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les petits mots qui reviennent |
 | 2 | Écoutez deux minutes d'un balado ou d'une série de [ICI TOU.TV](https://ici.tou.tv/) et notez trois formes du tableau | *t'as*, *chu*, *pis* |
 | 6 | Écoutez le dialogue avec la traduction cachée, puis la version standard | Les mêmes idées, deux vitesses |
-| 7 | Dites les phrases de Dites-le. Redites trois lignes de la fête en français standard | Le *e* qu'on entend en standard |
+| 7 | Dites les phrases de la section Dites-le. Redites trois lignes de la fête en français standard | Le *e* qu'on entend en standard |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -158,7 +158,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez donner le standard de huit formes du tableau, sans regarder.
 - [ ] Vous pouvez dire à quoi servent *pis*, *faque*, *là* et *mettons*.
 - [ ] Vous pouvez suivre le dialogue de la fête sans lire la traduction.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

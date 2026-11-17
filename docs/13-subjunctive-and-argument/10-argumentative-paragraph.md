@@ -136,7 +136,7 @@ En définitive, il faut que les entreprises gardent le télétravail. | In the e
 | 8 | Lisez la leçon et le modèle. Faites À vous 1 à 3 avec les réponses fermées | Les cinq étapes |
 | 2 | Lisez un paragraphe d'opinion dans un journal et soulignez la thèse | La première phrase |
 | 4 | Écoutez le modèle et répétez trois phrases | Le ton qui monte avant *mais* |
-| 5 | Dites les phrases de Dites-le | La pause après *Certes,* et *Néanmoins,* |
+| 5 | Dites les phrases de la section Dites-le | La pause après *Certes,* et *Néanmoins,* |
 | 6 | Écrivez votre paragraphe (150 à 180 mots) | Le mode après chaque *que* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.

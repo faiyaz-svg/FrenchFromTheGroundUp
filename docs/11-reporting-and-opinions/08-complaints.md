@@ -120,7 +120,7 @@ Je vous appelle au sujet de ma commande. | I'm calling about my order.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez |
 | 2 | Écoutez un extrait de Mauril (Intermédiaire 2) | Les excuses polies |
 | 6 | Écoutez les dialogues. Répétez les phrases du client | Le ton calme et ferme |
-| 7 | Dites les phrases de Dites-le, puis jouez la scène avec un ami ou à voix haute | La politesse de *Pourrais-je...* |
+| 7 | Dites les phrases de la section Dites-le, puis jouez la scène avec un ami ou à voix haute | La politesse de *Pourrais-je...* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -133,7 +133,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire le problème, la demande et une phrase polie en moins de trente secondes.
 - [ ] Vous pouvez demander un responsable de trois façons.
 - [ ] Vous pouvez faire une plainte au téléphone avec un numéro de commande.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

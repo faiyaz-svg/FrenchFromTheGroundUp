@@ -120,7 +120,7 @@ Je voudrais faire un virement. | I would like to make a transfer.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les mots que vous ne reconnaissez pas |
 | 2 | Lisez les tableaux de mots à voix haute | Le /ɛ/ de *chèque* et le /e/ final de *relevé* |
 | 6 | Écoutez le dialogue de Nour. Arrêtez et répétez les phrases de la conseillère | Les deux pronoms de *je vous les remets* |
-| 7 | Dites les phrases de Dites-le, puis jouez le rôle de Nour avec un partenaire ou à voix haute | Le ton poli de *je voudrais* |
+| 7 | Dites les phrases de la section Dites-le, puis jouez le rôle de Nour avec un partenaire ou à voix haute | Le ton poli de *je voudrais* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -133,7 +133,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire les huit mots des comptes et des cartes sans regarder la leçon.
 - [ ] Vous pouvez dire comment ouvrir un compte et demander un virement en cinq phrases.
 - [ ] Vous pouvez comprendre le dialogue de Nour sans lire l'anglais.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

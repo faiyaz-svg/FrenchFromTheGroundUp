@@ -127,7 +127,7 @@ Pouvez-vous répéter, s'il vous plaît? | Can you repeat, please?
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le mot d'église derrière chaque sacre |
 | 2 | Lisez l'article de Diane Vincent sur [Usito](https://usito.usherbrooke.ca/articles/th%C3%A9matiques/vincent_1) | Les dates de l'article |
 | 6 | Écoutez le dialogue de Lena et de Mme Gagné, traduction cachée | Le ton calme de Mme Gagné |
-| 7 | Dites les phrases de Dites-le. Redites-les avec un ton calme | Une voix calme et claire |
+| 7 | Dites les phrases de la section Dites-le. Redites-les avec un ton calme | Une voix calme et claire |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -140,7 +140,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire ce qu'est un sacre et d'où il vient, en deux phrases.
 - [ ] Vous pouvez donner trois mots d'église derrière trois sacres, sans regarder.
 - [ ] Vous pouvez donner deux raisons de ne pas les utiliser.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

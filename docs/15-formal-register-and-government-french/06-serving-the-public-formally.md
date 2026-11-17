@@ -133,7 +133,7 @@ Je ne suis pas en mesure de vous donner une date. | I am not able to give you a 
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les phrases polies |
 | 2 | Écoutez ou lisez l'accueil d'un site de ville ou de ministère | Les mots *renseigner* et *orienter* |
 | 6 | Écoutez les quatre scènes. Répétez les phrases du préposé | Le ton calme et poli |
-| 7 | Dites les phrases de Dites-le, puis jouez deux scènes avec un ami ou à voix haute | Votre rythme et votre politesse |
+| 7 | Dites les phrases de la section Dites-le, puis jouez deux scènes avec un ami ou à voix haute | Votre rythme et votre politesse |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -146,7 +146,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez accueillir une personne, demander son dossier et l'orienter en moins d'une minute, avec *vous*.
 - [ ] Vous pouvez expliquer l'offre active en une phrase.
 - [ ] Vous pouvez nommer cinq mots de l'accueil d'un hôpital.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

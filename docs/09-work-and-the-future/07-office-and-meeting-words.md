@@ -135,7 +135,7 @@ Envoyez-moi le fichier par courriel. | Send me the file by email.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les mots que vous oubliez |
 | 2 | Lisez l'ordre du jour de la leçon à voix haute | Les heures et les numéros |
 | 6 | Écoutez la lecture. Arrêtez et répétez chaque phrase | Les mots de bureau |
-| 7 | Dites les phrases de Dites-le, puis décrivez votre propre semaine | Le rythme de *en présentiel* |
+| 7 | Dites les phrases de la section Dites-le, puis décrivez votre propre semaine | Le rythme de *en présentiel* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -147,7 +147,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
 - [ ] Vous pouvez dire cinq mots de chaque groupe (personnes, réunions, ordinateur, télétravail) avec leur article.
 - [ ] Vous pouvez lire l'ordre du jour sans traduire.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à compléter](../practice/fill-in-the-blank.md) de l'étape 9.
 
 </div>

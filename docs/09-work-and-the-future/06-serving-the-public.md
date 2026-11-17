@@ -130,7 +130,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire les cinq étapes d'une visite avec une phrase pour chaque étape.
 - [ ] Vous pouvez dire ce qui manque avec *il manque* et *il vous manque*.
 - [ ] Vous pouvez jouer les deux rôles du dialogue en deux minutes.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

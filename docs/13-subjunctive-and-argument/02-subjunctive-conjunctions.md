@@ -148,7 +148,7 @@ Je répète pour que tout le monde comprenne. | I repeat so that everyone unders
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez entre le subjonctif et l'infinitif |
 | 2 | Lisez les tableaux de conjonctions à voix haute | Le *-ce que* de *jusqu'à ce que* |
 | 6 | Écoutez le dialogue de Mme Gagnon. Arrêtez et répétez chaque ligne | Le verbe après chaque conjonction |
-| 7 | Dites les phrases de Dites-le, puis donnez trois conditions pour un projet de votre choix | Le son final : *soit*, *voie*, *appeliez* |
+| 7 | Dites les phrases de la section Dites-le, puis donnez trois conditions pour un projet de votre choix | Le son final : *soit*, *voie*, *appeliez* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 

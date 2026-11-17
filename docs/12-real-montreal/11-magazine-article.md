@@ -119,7 +119,7 @@ Tout ce dont j'ai besoin, c'est de gants chauds. | All I need is warm gloves.
 | 10 | Lisez la leçon. Lisez l'article en cinq étapes, puis faites À vous avec les réponses fermées | Les chiffres et les verbes de constat |
 | 2 | Lisez un article court dans un magazine en français, comme [L'actualité](https://lactualite.com/), et notez deux pourcentages | Le verbe qui annonce le chiffre |
 | 6 | Écoutez l'article avec la voix du Québec, traduction cachée | Le rythme de chaque phrase |
-| 7 | Dites les phrases de Dites-le, puis résumez l'article en trois phrases | Les nombres : *près de douze*, *environ quatre* |
+| 7 | Dites les phrases de la section Dites-le, puis résumez l'article en trois phrases | Les nombres : *près de douze*, *environ quatre* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -132,7 +132,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez résumer l'article en trois phrases, sans regarder.
 - [ ] Vous pouvez dire la valeur de *la moitié*, *le tiers* et *la majorité*.
 - [ ] Vous pouvez trouver trois verbes de constat dans un article français.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

@@ -152,7 +152,7 @@ Il vaut mieux que vous attendiez. | It is better that you wait.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez entre le présent et le subjonctif |
 | 2 | Lisez les tableaux de *être*, *avoir*, *aller* et *faire* à voix haute | Le /s/ de *fasse* et de *sois* |
 | 6 | Écoutez le dialogue de Mme Dubois. Arrêtez et répétez | Le *que* avant chaque verbe |
-| 7 | Dites les phrases de Dites-le, puis dites cinq choses que vous devez faire demain avec *il faut que* | Le son final : *finisse*, *soit*, *fasse* |
+| 7 | Dites les phrases de la section Dites-le, puis dites cinq choses que vous devez faire demain avec *il faut que* | Le son final : *finisse*, *soit*, *fasse* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -165,7 +165,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire les trois étapes pour former le subjonctif présent.
 - [ ] Vous pouvez dire de mémoire *que je sois*, *que j'aie*, *que j'aille*, *que je fasse*, *que je puisse*, *que je sache*.
 - [ ] Vous obtenez 8 sur 10 à l'exercice de [conjugaison](../practice/conjugation.md) (subjonctif présent).
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

@@ -129,7 +129,7 @@ J'aimerais travailler à Montréal. | I would like to work in Montreal.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez |
 | 2 | Écoutez un extrait de Mauril (Intermédiaire 1) | Les demandes polies |
 | 6 | Écoutez les deux dialogues. Répétez chaque phrase | Le /ɛ/ final de *voudrais*, *pourrais* |
-| 7 | Dites les phrases de Dites-le, puis faites une demande polie à un ami | Le ton qui monte sur *pourriez-vous* |
+| 7 | Dites les phrases de la section Dites-le, puis faites une demande polie à un ami | Le ton qui monte sur *pourriez-vous* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -142,7 +142,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez écrire les six formes du conditionnel de *vouloir* et de *pouvoir*, de mémoire.
 - [ ] Vous pouvez faire trois demandes polies sans regarder la leçon.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice de conjugaison](../practice/conjugation.md) (conditionnel présent).
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

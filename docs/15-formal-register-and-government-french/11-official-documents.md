@@ -50,7 +50,7 @@ Proceed like this. First step: read the headings and numbers to see the structur
 
 ## Écoutez
 
-Trois documents inventés : un extrait de loi, une clause de contrat et une lettre de décision. Lisez chaque texte, puis répondez aux questions de À vous. Les noms et les numéros sont inventés.
+Trois documents inventés : un extrait de loi, une clause de contrat et une lettre de décision. Lisez chaque texte, puis répondez aux questions de la section À vous. Les noms et les numéros sont inventés.
 {: .fr }
 
 Three invented documents: a law excerpt, a contract clause and a decision letter. Read each text, then answer the questions in À vous. The names and numbers are invented.
@@ -119,7 +119,7 @@ Vous pouvez demander une révision dans les trente jours. | You may request a re
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les mots rares |
 | 2 | Lisez un avis officiel court d'un site de ville ou de ministère | Les formules fixes |
 | 6 | Lisez les trois documents à voix haute, lentement, puis plus vite | Les phrases longues, leurs pauses |
-| 7 | Dites les phrases de Dites-le, puis expliquez un document à voix haute avec vos mots | Votre rythme |
+| 7 | Dites les phrases de la section Dites-le, puis expliquez un document à voix haute avec vos mots | Votre rythme |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -132,7 +132,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire en vos propres mots la règle principale de chaque document.
 - [ ] Vous pouvez expliquer *aux fins de*, *nonobstant*, *ci-après* et *ledit*.
 - [ ] Vous pouvez trouver l'obligation dans une phrase avec *est tenu de*.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

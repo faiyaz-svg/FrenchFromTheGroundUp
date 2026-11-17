@@ -129,7 +129,7 @@ J'ai peur qu'il soit en retard. | I am afraid he will be late.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez entre l'infinitif et *que* |
 | 2 | Lisez le dialogue de Léa et de Tom à voix basse | Le mot qui suit *que* |
 | 6 | Écoutez le dialogue de Léa et de Tom. Arrêtez et répétez | Le ton de chaque phrase : demande, peur ou joie |
-| 7 | Dites les phrases de Dites-le, puis dites trois choses que vous voulez et trois choses qui vous rendent content | Le /ɛ/ de *viennes*, *soit*, *fasses* |
+| 7 | Dites les phrases de la section Dites-le, puis dites trois choses que vous voulez et trois choses qui vous rendent content | Le /ɛ/ de *viennes*, *soit*, *fasses* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -142,7 +142,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire la différence entre *je veux partir* et *je veux que tu partes*.
 - [ ] Vous pouvez dire cinq expressions de sentiment suivies de *que* et du subjonctif.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à compléter](../practice/fill-in-the-blank.md) (subjonctif).
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

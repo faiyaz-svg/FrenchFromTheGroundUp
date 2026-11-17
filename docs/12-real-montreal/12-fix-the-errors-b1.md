@@ -192,7 +192,7 @@ Voici la collègue dont je vous ai parlé hier. | Here is the colleague I told y
 | 10 | Lisez la leçon. Faites À vous, sans ouvrir les réponses | Là où la phrase sonne mal |
 | 2 | Relisez un de vos textes (une lettre, un message) avec les cinq passes | Les verbes, puis les accords |
 | 4 | Écoutez la version corrigée du courriel, traduction cachée | Les groupes avec *dont* et *soit* |
-| 5 | Dites les phrases de Dites-le, puis relisez votre texte à voix haute | Le moment où votre voix hésite |
+| 5 | Dites les phrases de la section Dites-le, puis relisez votre texte à voix haute | Le moment où votre voix hésite |
 | 4 | Réécrivez le courriel corrigé de mémoire, puis comparez | Chaque faute que vous refaites |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
@@ -206,7 +206,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous trouvez au moins 16 fautes sur 20 dans le courriel, avant d'ouvrir les réponses.
 - [ ] Vous pouvez nommer les cinq passes de relecture, sans regarder.
 - [ ] Vous pouvez donner le mot standard de deux emprunts familiers.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

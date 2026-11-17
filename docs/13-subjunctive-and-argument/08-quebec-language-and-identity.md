@@ -135,7 +135,7 @@ Cette personne estime que le français doit être protégé. | This person belie
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Les mots qui annoncent une source : *selon*, *la loi prévoit* |
 | 2 | Lisez la page [À propos de la Charte](https://www.quebec.ca/culture/langue-francaise/portrait-francais-quebec/a-propos-francais/a-propos-charte) | Les dates et les noms d'institutions |
 | 6 | Écoutez le texte et les deux témoignages. Répétez les phrases de Mathieu et de Daniel | Le ton calme des deux témoignages |
-| 7 | Dites les phrases de Dites-le, puis décrivez le débat en trois phrases neutres | Les mots *selon* et *les opinions divergent* |
+| 7 | Dites les phrases de la section Dites-le, puis décrivez le débat en trois phrases neutres | Les mots *selon* et *les opinions divergent* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -148,7 +148,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire les deux dates (1977 et 2022) et ce que chaque loi fait, en deux phrases.
 - [ ] Vous pouvez expliquer *francophone*, *anglophone* et *allophone* avec vos mots.
 - [ ] Vous pouvez décrire un débat en trois phrases, sans dire ce que vous pensez.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

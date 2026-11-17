@@ -114,7 +114,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire quand on utilise *tu* et quand on utilise *vous* au travail, avec un exemple pour chaque cas.
 - [ ] Vous pouvez expliquer en deux phrases ce que veut dire *la francisation*.
 - [ ] Vous pouvez jouer les deux dialogues sans regarder la leçon.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 

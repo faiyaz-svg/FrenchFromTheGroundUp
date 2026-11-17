@@ -147,8 +147,8 @@ Le soldat va vers le nord. | The soldier goes toward the north.
 | 5 | Anki : les cartes du jour, dites chaque mot avant de retourner la carte | La voyelle de chaque mot |
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Syllabe ouverte ou fermée |
 | 2 | Écoutez un extrait de [ONF](https://www.onf.ca/films/) en français et notez deux diphtongues | La voyelle longue avant [ʁ] |
-| 6 | Écoutez les six lignes de Écoutez, voix du Québec, traduction cachée | La voyelle nommée sous la liste |
-| 7 | Dites les phrases de Dites-le avec votre voix, puis écoutez-les avec la voix du Québec | La différence entre les deux voix |
+| 6 | Écoutez les six lignes de la section Écoutez, voix du Québec, traduction cachée | La voyelle nommée sous la liste |
+| 7 | Dites les phrases de la section Dites-le avec votre voix, puis écoutez-les avec la voix du Québec | La différence entre les deux voix |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -161,7 +161,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire, pour *lutte*, *jupe* et *soupe*, quelle voyelle est relâchée.
 - [ ] Vous pouvez dire ce qu'est une diphtongue et en donner deux exemples.
 - [ ] Vous pouvez dire où le Québec garde la différence entre *patte* et *pâte*.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

@@ -142,7 +142,7 @@ On m'a dit que le bureau était fermé. | I was told the office was closed.
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Le participe qui s'accorde |
 | 2 | Lisez un titre de journal sur ICI Radio-Canada | Les titres sans *être* |
 | 6 | Écoutez le reportage. Arrêtez et répétez chaque phrase | *est*, *a été*, *sera* |
-| 7 | Dites les phrases de Dites-le, puis changez un verbe actif en passif | Le *par* avant l'agent |
+| 7 | Dites les phrases de la section Dites-le, puis changez un verbe actif en passif | Le *par* avant l'agent |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -155,7 +155,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez mettre cinq phrases actives au passif, à trois temps différents, sans regarder la leçon.
 - [ ] Vous pouvez dire *On m'a dit que...* au lieu de *Je suis dit*.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à trous](../practice/fill-in-the-blank.md) (étape 11).
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

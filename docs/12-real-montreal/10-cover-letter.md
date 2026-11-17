@@ -119,7 +119,7 @@ Vous trouverez ci-joint mon curriculum vitæ. | Please find my curriculum vitæ 
 | 10 | Lisez la leçon. Faites À vous (questions 1 à 4) avec les réponses fermées | Le *vous* dans chaque phrase |
 | 2 | Lisez une offre d'emploi en français sur le [Guichet-Emplois](https://www.guichetemplois.gc.ca/) du gouvernement du Canada | Les mots *exigences*, *compétences* |
 | 4 | Écoutez la lettre de Samira, traduction cachée | Le ton poli |
-| 5 | Dites les phrases de Dites-le, puis lisez votre brouillon à voix haute | Les phrases trop longues |
+| 5 | Dites les phrases de la section Dites-le, puis lisez votre brouillon à voix haute | Les phrases trop longues |
 | 4 | Écrivez le premier paragraphe de votre lettre | Chaque verbe : forme et accord |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
@@ -133,7 +133,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous avez écrit une lettre de 220 à 260 mots avec quatre paragraphes et la formule de fin.
 - [ ] Vous avez relu votre lettre deux fois et vous n'y trouvez plus de faute.
 - [ ] Vous pouvez dire à quoi sert chaque paragraphe, sans regarder.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

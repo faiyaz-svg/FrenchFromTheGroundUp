@@ -148,7 +148,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
 - [ ] Vous pouvez répondre à un appel, demander qui appelle et transférer l'appel, sans regarder la leçon.
 - [ ] Vous pouvez épeler votre nom et dire un numéro de téléphone avec un poste.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 - [ ] Vous pouvez jouer les deux rôles du dialogue en 90 secondes.
 
 </div>

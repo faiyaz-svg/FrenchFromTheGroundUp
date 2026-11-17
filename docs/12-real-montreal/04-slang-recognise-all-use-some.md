@@ -149,7 +149,7 @@ C'est tiguidou! {qc} | It's all good!
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | L'étiquette de registre de chaque mot |
 | 2 | Cherchez trois mots du tableau dans [Usito](https://usito.usherbrooke.ca/) et lisez l'étiquette | *fam.*, *Q/C*, *F/E* |
 | 6 | Écoutez les huit lignes de Camille et d'Hugo, traduction cachée | Le ton de *tiguidou* et de *tanné* |
-| 7 | Dites les phrases de Dites-le. Redites chaque mot familier avec son mot standard | La différence entre *tanné* et *à bout de patience* |
+| 7 | Dites les phrases de la section Dites-le. Redites chaque mot familier avec son mot standard | La différence entre *tanné* et *à bout de patience* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -162,7 +162,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez donner le sens de dix mots du premier tableau, sans regarder.
 - [ ] Vous pouvez lire une étiquette *fam.*, *très familier*, *Q/C* ou *F/E* et dire ce qu'elle veut dire.
 - [ ] Vous pouvez nommer trois mots à dire entre amis et trois mots à seulement reconnaître.
-- [ ] Vous pouvez dire les cinq phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les cinq phrases de la section Dites-le sans arrêt.
 
 </div>
 

@@ -129,7 +129,7 @@ Appelle-moi au cas où tu aurais un problème. | Call me in case you have a prob
 | 10 | Lisez la leçon. Faites À vous avec les réponses fermées | Où vous hésitez |
 | 2 | Écoutez un extrait de Mauril (Intermédiaire 1) | Le mot *si* dans les phrases |
 | 6 | Écoutez le dialogue de Hugo, Salma et Dan. Arrêtez et répétez | La différence entre *-ais* et *-rais* |
-| 7 | Dites les phrases de Dites-le, puis inventez deux phrases sur votre travail | Le /ɛ/ final après *r* |
+| 7 | Dites les phrases de la section Dites-le, puis inventez deux phrases sur votre travail | Le /ɛ/ final après *r* |
 
 Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 
@@ -142,7 +142,7 @@ Répétez cette routine pendant au moins trois jours avant de cocher les cases.
 - [ ] Vous pouvez dire la règle des deux types de phrases avec *si*, sans regarder la leçon.
 - [ ] Vous obtenez 8 sur 10 à l'[exercice à compléter](../practice/fill-in-the-blank.md) (*si* + imparfait).
 - [ ] Vous pouvez faire cinq phrases avec *si* sur ce que vous feriez à un autre travail.
-- [ ] Vous pouvez dire les quatre phrases de Dites-le sans arrêt.
+- [ ] Vous pouvez dire les quatre phrases de la section Dites-le sans arrêt.
 
 </div>
 
