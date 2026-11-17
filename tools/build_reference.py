@@ -114,6 +114,8 @@ def main() -> None:
     for key in sorted(terms, key=lambda k: re.sub(r"[^a-z0-9]", "", unicodedata.normalize("NFD", k).encode("ascii", "ignore").decode())):
         t = terms[key]
         first = re.sub(r"[^A-Za-z]", "", unicodedata.normalize("NFD", t["term"]).encode("ascii", "ignore").decode())[:1].upper() or "#"
+        if t["term"][:1].isdigit():
+            first = "0-9"
         if first != letter:
             letter = first
             out += ["", f"## {letter}", ""]

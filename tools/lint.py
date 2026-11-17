@@ -45,6 +45,7 @@ SPARING = re.compile(
 
 # Words allowed to keep a capital in a heading (besides the first word).
 HEADING_OK = {
+    "City",
     "I", "A1", "A2", "B1", "B2", "C1", "C2", "CEFR", "OQLF", "IPA", "SLE", "CV", "TV", "FAQ", "PDF", "URL",
     "Mauril", "Radio-Canada", "Anki", "Windows", "Edge", "Chrome", "Firefox", "Android", "iPhone", "YouTube",
     "Google", "Microsoft", "Duolingo", "Usito", "Termium", "Lexique", "LanguageTool", "TMU", "Meetup",
@@ -173,6 +174,8 @@ def check_fr_line(line: str) -> str | None:
 
 
 def heading_issue(line: str) -> bool:
+    # Generated "Stage N: Title" headings: check the title part only.
+    line = re.sub(r"^(#+\s*)Stage \d+:\s*", r"\1", line)
     words = re.sub(r"[()\[\]]", " ", line.lstrip("#")).split()
     for w in words[1:]:
         core = w.strip(".,:;!?\"'«»")
@@ -257,7 +260,7 @@ def check(path: Path) -> list[str]:
                     continue
                 issues.append(f"{no}: use rarely '{m.group(0)}'")
         # The key terms list is the one place where "- **Term**: ..." is the format.
-        if section not in KEY_TERMS_HEADINGS and (
+        if section not in KEY_TERMS_HEADINGS and path.name != "glossary.md" and (
             re.match(r"^\s*[-*] \*\*[^*]+:\*\*", line) or re.match(r"^\s*[-*] \*\*[^*]+\*\*[ \xa0]?:", line)
         ):
             issues.append(f"{no}: bold label bullet")
