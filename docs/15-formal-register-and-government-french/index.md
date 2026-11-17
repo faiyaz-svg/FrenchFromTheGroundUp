@@ -7,10 +7,10 @@ Before this stage: Stages 1 to 14.
 <!-- lessons:start -->
 ## Lessons
 
-1. Nominalisation (not written yet) (grammar)
-2. Shifting register (not written yet) (words)
-3. Formal emails (not written yet) (write)
-4. Recognising the passé simple (not written yet) (grammar)
+1. [Nominalisation](01-nominalisation.md) (grammar)
+2. [Shifting register](02-register-shifts.md) (words)
+3. [Formal emails](03-formal-emails.md) (write)
+4. [Recognising the passé simple](04-passe-simple-recognition.md) (grammar)
 5. Government vocabulary (not written yet) (words)
 6. Serving the public formally (not written yet) (speak)
 7. Briefing notes (not written yet) (write)

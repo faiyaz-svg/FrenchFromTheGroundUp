@@ -271,10 +271,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="15">
 <a class="fm-seg-name" href="15-formal-register-and-government-french/">15 · Formal register and government French</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="Nominalisation"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Shifting register"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Formal emails"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="Recognising the passé simple"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="15-formal-register-and-government-french/01-nominalisation/" data-lesson="15-formal-register-and-government-french/01-nominalisation/" title="Nominalisation"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="15-formal-register-and-government-french/02-register-shifts/" data-lesson="15-formal-register-and-government-french/02-register-shifts/" title="Shifting register"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="15-formal-register-and-government-french/03-formal-emails/" data-lesson="15-formal-register-and-government-french/03-formal-emails/" title="Formal emails"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="15-formal-register-and-government-french/04-passe-simple-recognition/" data-lesson="15-formal-register-and-government-french/04-passe-simple-recognition/" title="Recognising the passé simple"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Government vocabulary"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Serving the public formally"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="Briefing notes"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
