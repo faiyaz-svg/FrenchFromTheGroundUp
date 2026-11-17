@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 157 of 205. New lessons appear here as they are added.
+Lessons written so far: 161 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -207,3 +207,7 @@ Lessons written so far: 157 of 205. New lessons appear here as they are added.
 - [ ] [The subjunctive after conjunctions](13-subjunctive-and-argument/02-subjunctive-conjunctions.md) (grammar)
 - [ ] [Concession](13-subjunctive-and-argument/03-concession.md) (grammar)
 - [ ] [The past subjunctive](13-subjunctive-and-argument/04-subjonctif-passe.md) (grammar)
+- [ ] [Subjunctive or indicative](13-subjunctive-and-argument/05-subjunctive-or-indicative.md) (grammar)
+- [ ] [Advanced connectors](13-subjunctive-and-argument/06-advanced-connectors.md) (words)
+- [ ] [Debating a point](13-subjunctive-and-argument/07-debating-a-point.md) (speak)
+- [ ] [Language and identity in Quebec](13-subjunctive-and-argument/08-quebec-language-and-identity.md) (quebec)

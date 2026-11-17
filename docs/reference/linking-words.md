@@ -2,7 +2,7 @@
 
 This page lists the words that join ideas and sentences, grouped by what they do. Use it when you want a better word than *et* or *mais*, or when you need to know which verb form follows a connector.
 
-Lessons for these: [connectors for opinions](../11-reporting-and-opinions/05-opinion-connectors.md), [the subjunctive after conjunctions](../13-subjunctive-and-argument/02-subjunctive-conjunctions.md) and advanced connectors<!-- link: ../13-subjunctive-and-argument/06-advanced-connectors.md -->.
+Lessons for these: [connectors for opinions](../11-reporting-and-opinions/05-opinion-connectors.md), [the subjunctive after conjunctions](../13-subjunctive-and-argument/02-subjunctive-conjunctions.md) and [advanced connectors](../13-subjunctive-and-argument/06-advanced-connectors.md).
 
 ## How to read the tables
 

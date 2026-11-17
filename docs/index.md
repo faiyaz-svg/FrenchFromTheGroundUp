@@ -239,10 +239,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="13-subjunctive-and-argument/02-subjunctive-conjunctions/" data-lesson="13-subjunctive-and-argument/02-subjunctive-conjunctions/" title="The subjunctive after conjunctions"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
 <li><a class="fm-st" href="13-subjunctive-and-argument/03-concession/" data-lesson="13-subjunctive-and-argument/03-concession/" title="Concession"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
 <li><a class="fm-st" href="13-subjunctive-and-argument/04-subjonctif-passe/" data-lesson="13-subjunctive-and-argument/04-subjonctif-passe/" title="The past subjunctive"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
-<li><span class="fm-st fm-planned" title="Subjunctive or indicative"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
-<li><span class="fm-st fm-planned" title="Advanced connectors"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
-<li><span class="fm-st fm-planned" title="Debating a point"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
-<li><span class="fm-st fm-planned" title="Language and identity in Quebec"><span class="fm-dot"></span><span class="fm-st-num">8</span></span></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/05-subjunctive-or-indicative/" data-lesson="13-subjunctive-and-argument/05-subjunctive-or-indicative/" title="Subjunctive or indicative"><span class="fm-dot"></span><span class="fm-st-num">5</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/06-advanced-connectors/" data-lesson="13-subjunctive-and-argument/06-advanced-connectors/" title="Advanced connectors"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/07-debating-a-point/" data-lesson="13-subjunctive-and-argument/07-debating-a-point/" title="Debating a point"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/08-quebec-language-and-identity/" data-lesson="13-subjunctive-and-argument/08-quebec-language-and-identity/" title="Language and identity in Quebec"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
 <li><span class="fm-st fm-planned" title="Podcast listening"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
 <li><span class="fm-st fm-planned" title="An argumentative paragraph"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
 <li><span class="fm-st fm-planned" title="Longer articles"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>

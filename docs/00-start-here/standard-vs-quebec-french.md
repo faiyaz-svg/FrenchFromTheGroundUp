@@ -41,6 +41,6 @@ Habits differ by region and by person. In Quebec, a shop worker or a younger col
 
 People in every French-speaking place shift between formal and casual. A Montrealer writing to a client uses the same standard forms as a Parisian, and a Parisian with friends uses casual forms too. The labels in this book (formal, neutral, casual, Quebec, France, spoken, written) mark where a form belongs.
 
-The Quebec lessons also cover how language and history connect, in Language and identity in Quebec<!-- link: ../13-subjunctive-and-argument/08-quebec-language-and-identity.md -->. The OQLF, Quebec's language office, publishes usage rules that this book follows for writing (see [credits and sources](credits-and-sources.md)).
+The Quebec lessons also cover how language and history connect, in [Language and identity in Quebec](../13-subjunctive-and-argument/08-quebec-language-and-identity.md). The OQLF, Quebec's language office, publishes usage rules that this book follows for writing (see [credits and sources](credits-and-sources.md)).
 
 Next: [Practising with people in Toronto](practising-with-people-in-toronto.md)
