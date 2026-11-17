@@ -289,10 +289,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="16">
 <a class="fm-seg-name" href="16-debate-news-and-test-readiness/">16 · Debate, news and test readiness</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="Structuring an argument"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="Emphasis and inversion"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Advanced news vocabulary"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="Discussing current events"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/01-structuring-an-argument/" data-lesson="16-debate-news-and-test-readiness/01-structuring-an-argument/" title="Structuring an argument"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/02-emphasis-and-inversion/" data-lesson="16-debate-news-and-test-readiness/02-emphasis-and-inversion/" title="Emphasis and inversion"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/03-news-vocabulary-advanced/" data-lesson="16-debate-news-and-test-readiness/03-news-vocabulary-advanced/" title="Advanced news vocabulary"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="16-debate-news-and-test-readiness/04-current-events-discussion/" data-lesson="16-debate-news-and-test-readiness/04-current-events-discussion/" title="Discussing current events"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Formal debate"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Radio debates"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="TV news and documentaries"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>

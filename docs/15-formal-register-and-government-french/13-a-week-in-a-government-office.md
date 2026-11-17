@@ -168,4 +168,4 @@ Forgetting the OQLF spacing under time pressure: the non-breaking space before t
 
 - **Semaine type**: an ordinary week used as an example of a usual workload.
 
-Suite : Structuring an argument<!-- link: ../16-debate-news-and-test-readiness/01-structuring-an-argument.md -->
+Suite : [Structuring an argument](../16-debate-news-and-test-readiness/01-structuring-an-argument.md)

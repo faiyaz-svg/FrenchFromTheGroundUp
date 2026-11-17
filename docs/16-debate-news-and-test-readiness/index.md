@@ -7,10 +7,10 @@ Before this stage: Stages 1 to 15.
 <!-- lessons:start -->
 ## Lessons
 
-1. Structuring an argument (not written yet) (write)
-2. Emphasis and inversion (not written yet) (grammar)
-3. Advanced news vocabulary (not written yet) (words)
-4. Discussing current events (not written yet) (speak)
+1. [Structuring an argument](01-structuring-an-argument.md) (write)
+2. [Emphasis and inversion](02-emphasis-and-inversion.md) (grammar)
+3. [Advanced news vocabulary](03-news-vocabulary-advanced.md) (words)
+4. [Discussing current events](04-current-events-discussion.md) (speak)
 5. Formal debate (not written yet) (speak)
 6. Radio debates (not written yet) (listen)
 7. TV news and documentaries (not written yet) (listen)
@@ -34,7 +34,7 @@ Before this stage: Stages 1 to 15.
 | Concession | admit a point, then return to your idea | *certes ... mais*, *cela dit*, *bien que* + subjunctive |
 | Conclusion | answer the question, open onto something wider | *en guise de conclusion*, *pour finir*, *en somme* |
 
-Plans: thematic (two or three arguments), dialectic (thesis, antithesis, synthesis), comparative. For 250 to 300 words, use the thematic plan.
+Plans: thematic (two or three arguments), dialectic (thesis, antithesis, synthesis), comparative. For 200 to 300 words, use the thematic plan.
 
 ### Emphasis, inversion and *faire* + infinitive
 

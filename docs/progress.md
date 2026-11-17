@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 179 of 205. New lessons appear here as they are added.
+Lessons written so far: 183 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -232,3 +232,10 @@ Lessons written so far: 179 of 205. New lessons appear here as they are added.
 - [ ] [Official documents](15-formal-register-and-government-french/11-official-documents.md) (read)
 - [ ] [Test-style work texts](15-formal-register-and-government-french/12-test-style-work-texts.md) (write)
 - [ ] [A week in a government office](15-formal-register-and-government-french/13-a-week-in-a-government-office.md) (write, review)
+
+### Stage 16: Debate, news and test readiness
+
+- [ ] [Structuring an argument](16-debate-news-and-test-readiness/01-structuring-an-argument.md) (write)
+- [ ] [Emphasis and inversion](16-debate-news-and-test-readiness/02-emphasis-and-inversion.md) (grammar)
+- [ ] [Advanced news vocabulary](16-debate-news-and-test-readiness/03-news-vocabulary-advanced.md) (words)
+- [ ] [Discussing current events](16-debate-news-and-test-readiness/04-current-events-discussion.md) (speak)
