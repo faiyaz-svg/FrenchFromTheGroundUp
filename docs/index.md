@@ -314,3 +314,5 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 - [Practice tools](practice/index.md): drills for verbs, gender, spelling, numbers and Quebec words, and a tool to check your speaking.
 - [Reference](reference/index.md): the glossary, verb tables, the IPA chart, false friends, email formulas and a Montreal phrasebook.
 - [Progress](progress.md): a checklist of every lesson.
+
+The sibling books: [Math From the Ground Up](https://faiyaz-svg.github.io/MathFromTheGroundUp/), [CS From the Ground Up](https://faiyaz-svg.github.io/CSFromTheGroundUp/) and [Music From the Ground Up](https://faiyaz-svg.github.io/MusicFromTheGroundUp/).
