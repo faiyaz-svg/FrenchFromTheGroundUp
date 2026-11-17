@@ -15,7 +15,7 @@ After this lesson you can read three types of official documents (a law excerpt,
 Avant : [le passé simple](04-passe-simple-recognition.md), [le vocabulaire du gouvernement](05-government-vocabulary.md), les offres d'emploi et les politiques. Vous n'avez besoin de rien. Les trois documents de cette leçon sont inventés : ils ne sont pas de vrais textes de loi.
 {: .fr }
 
-Before this: [the passé simple](04-passe-simple-recognition.md), [government vocabulary](05-government-vocabulary.md) and Job postings and policies<!-- link: ../14-conditionals-work-and-interviews/12-job-postings-and-policies.md -->. You need: nothing. The three documents in this lesson are invented: they are not real law texts.
+Before this: [the passé simple](04-passe-simple-recognition.md), [government vocabulary](05-government-vocabulary.md) and [Job postings and policies](../14-conditionals-work-and-interviews/12-job-postings-and-policies.md). You need: nothing. The three documents in this lesson are invented: they are not real law texts.
 {: .en }
 
 ## L'idée

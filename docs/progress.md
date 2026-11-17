@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 200 of 205. New lessons appear here as they are added.
+Lessons written so far: 205 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -227,6 +227,11 @@ Lessons written so far: 200 of 205. New lessons appear here as they are added.
 - [ ] [HR vocabulary](14-conditionals-work-and-interviews/06-hr-vocabulary.md) (words)
 - [ ] [A Canadian CV](14-conditionals-work-and-interviews/07-canadian-cv.md) (write)
 - [ ] [Interview role play](14-conditionals-work-and-interviews/08-interview-role-play.md) (speak)
+- [ ] [TV, cinema and humour in Quebec](14-conditionals-work-and-interviews/09-quebec-tv-cinema-humour.md) (quebec)
+- [ ] [Interviews and meetings](14-conditionals-work-and-interviews/10-interviews-and-meetings.md) (listen)
+- [ ] [Contributing to meetings](14-conditionals-work-and-interviews/11-contributing-to-meetings.md) (speak)
+- [ ] [Job postings and policies](14-conditionals-work-and-interviews/12-job-postings-and-policies.md) (read)
+- [ ] [Interview day](14-conditionals-work-and-interviews/13-interview-day.md) (speak, review)
 
 ### Stage 15: Formal register and government French
 

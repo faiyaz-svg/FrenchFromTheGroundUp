@@ -617,6 +617,20 @@
    "stage": 13
   },
   {
+   "qc": "une entrevue",
+   "std": "un entretien",
+   "en": "a job interview",
+   "note": "Quebec and Canada; entretien is the general French form (OQLF lists both)",
+   "stage": 14
+  },
+  {
+   "qc": "un shift",
+   "std": "un quart de travail",
+   "en": "a work shift",
+   "note": "casual in Quebec; the OQLF advises against shift and recommends quart de travail",
+   "stage": 14
+  },
+  {
    "qc": "carte soleil",
    "std": "carte d'assurance maladie",
    "en": "health insurance card",

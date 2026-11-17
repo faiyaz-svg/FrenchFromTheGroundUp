@@ -1,0 +1,746 @@
+{
+ "conjugation": [
+  {
+   "verb": "finir",
+   "tense": "conditionnel passé",
+   "person": "tu",
+   "answer": "aurais fini",
+   "en": "to finish",
+   "stage": 14
+  },
+  {
+   "verb": "parler",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions parlé",
+   "en": "to speak",
+   "stage": 14
+  },
+  {
+   "verb": "faire",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "aurait fait",
+   "en": "to do, to make",
+   "stage": 14
+  },
+  {
+   "verb": "prendre",
+   "tense": "conditionnel passé",
+   "person": "vous",
+   "answer": "auriez pris",
+   "en": "to take",
+   "stage": 14
+  },
+  {
+   "verb": "voir",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "auraient vu",
+   "en": "to see",
+   "stage": 14
+  },
+  {
+   "verb": "dire",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais dit",
+   "en": "to say",
+   "stage": 14
+  },
+  {
+   "verb": "devoir",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais dû",
+   "en": "to have to",
+   "stage": 14
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel passé",
+   "person": "tu",
+   "answer": "aurais pu",
+   "en": "can, to be able to",
+   "stage": 14
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais voulu",
+   "en": "to want",
+   "stage": 14
+  },
+  {
+   "verb": "savoir",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "aurait su",
+   "en": "to know",
+   "stage": 14
+  },
+  {
+   "verb": "recevoir",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions reçu",
+   "en": "to receive",
+   "stage": 14
+  },
+  {
+   "verb": "envoyer",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "aurait envoyé",
+   "en": "to send",
+   "stage": 14
+  },
+  {
+   "verb": "partir",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "serait partie",
+   "en": "to leave",
+   "stage": 14
+  },
+  {
+   "verb": "arriver",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "seraient arrivés",
+   "en": "to arrive",
+   "stage": 14
+  },
+  {
+   "verb": "aller",
+   "tense": "conditionnel passé",
+   "person": "elles",
+   "answer": "seraient allées",
+   "en": "to go",
+   "stage": 14
+  },
+  {
+   "verb": "venir",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "serait venu",
+   "en": "to come",
+   "stage": 14
+  },
+  {
+   "verb": "rester",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "serait restée",
+   "en": "to stay",
+   "stage": 14
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "aurait eu",
+   "en": "to have",
+   "stage": 14
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel passé",
+   "person": "tu",
+   "answer": "aurais été",
+   "en": "to be",
+   "stage": 14
+  },
+  {
+   "verb": "finir",
+   "tense": "futur antérieur",
+   "person": "je",
+   "answer": "aurai fini",
+   "en": "to finish",
+   "stage": 14
+  },
+  {
+   "verb": "parler",
+   "tense": "futur antérieur",
+   "person": "tu",
+   "answer": "auras parlé",
+   "en": "to speak",
+   "stage": 14
+  },
+  {
+   "verb": "faire",
+   "tense": "futur antérieur",
+   "person": "nous",
+   "answer": "aurons fait",
+   "en": "to do, to make",
+   "stage": 14
+  },
+  {
+   "verb": "prendre",
+   "tense": "futur antérieur",
+   "person": "vous",
+   "answer": "aurez pris",
+   "en": "to take",
+   "stage": 14
+  },
+  {
+   "verb": "voir",
+   "tense": "futur antérieur",
+   "person": "il",
+   "answer": "aura vu",
+   "en": "to see",
+   "stage": 14
+  },
+  {
+   "verb": "recevoir",
+   "tense": "futur antérieur",
+   "person": "elle",
+   "answer": "aura reçu",
+   "en": "to receive",
+   "stage": 14
+  },
+  {
+   "verb": "envoyer",
+   "tense": "futur antérieur",
+   "person": "je",
+   "answer": "aurai envoyé",
+   "en": "to send",
+   "stage": 14
+  },
+  {
+   "verb": "partir",
+   "tense": "futur antérieur",
+   "person": "il",
+   "answer": "sera parti",
+   "en": "to leave",
+   "stage": 14
+  },
+  {
+   "verb": "arriver",
+   "tense": "futur antérieur",
+   "person": "elles",
+   "answer": "seront arrivées",
+   "en": "to arrive",
+   "stage": 14
+  },
+  {
+   "verb": "aller",
+   "tense": "futur antérieur",
+   "person": "ils",
+   "answer": "seront allés",
+   "en": "to go",
+   "stage": 14
+  },
+  {
+   "verb": "venir",
+   "tense": "futur antérieur",
+   "person": "elle",
+   "answer": "sera venue",
+   "en": "to come",
+   "stage": 14
+  },
+  {
+   "verb": "être",
+   "tense": "futur antérieur",
+   "person": "il",
+   "answer": "aura été",
+   "en": "to be",
+   "stage": 14
+  },
+  {
+   "verb": "avoir",
+   "tense": "futur antérieur",
+   "person": "nous",
+   "answer": "aurons eu",
+   "en": "to have",
+   "stage": 14
+  },
+  {
+   "verb": "dire",
+   "tense": "futur antérieur",
+   "person": "ils",
+   "answer": "auront dit",
+   "en": "to say",
+   "stage": 14
+  }
+ ],
+ "gender": [
+  {
+   "noun": "rémunération",
+   "answer": "la",
+   "en": "pay",
+   "stage": 14
+  },
+  {
+   "noun": "régime",
+   "answer": "le",
+   "en": "plan, scheme",
+   "stage": 14
+  },
+  {
+   "noun": "retraite",
+   "answer": "la",
+   "en": "retirement",
+   "stage": 14
+  },
+  {
+   "noun": "quart",
+   "answer": "le",
+   "en": "shift",
+   "stage": 14
+  },
+  {
+   "noun": "évaluation",
+   "answer": "la",
+   "en": "evaluation",
+   "stage": 14
+  },
+  {
+   "noun": "promotion",
+   "answer": "la",
+   "en": "promotion",
+   "stage": 14
+  },
+  {
+   "noun": "mutation",
+   "answer": "la",
+   "en": "transfer",
+   "stage": 14
+  },
+  {
+   "noun": "licenciement",
+   "answer": "le",
+   "en": "dismissal",
+   "stage": 14
+  },
+  {
+   "noun": "harcèlement",
+   "answer": "le",
+   "en": "harassment",
+   "stage": 14
+  },
+  {
+   "noun": "diversité",
+   "answer": "la",
+   "en": "diversity",
+   "stage": 14
+  },
+  {
+   "noun": "équité",
+   "answer": "la",
+   "en": "equity",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "inclusion",
+   "answer": "la",
+   "en": "inclusion",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "livrable",
+   "answer": "le",
+   "en": "deliverable",
+   "stage": 14
+  },
+  {
+   "noun": "jalon",
+   "answer": "le",
+   "en": "milestone",
+   "stage": 14
+  },
+  {
+   "noun": "obstacle",
+   "answer": "le",
+   "en": "obstacle",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "priorité",
+   "answer": "la",
+   "en": "priority",
+   "stage": 14
+  },
+  {
+   "noun": "écart",
+   "answer": "le",
+   "en": "gap",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "entrevue",
+   "answer": "la",
+   "en": "interview",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "faiblesse",
+   "answer": "la",
+   "en": "weakness",
+   "stage": 14
+  },
+  {
+   "noun": "attente",
+   "answer": "la",
+   "en": "expectation",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "regret",
+   "answer": "le",
+   "en": "regret",
+   "stage": 14
+  },
+  {
+   "noun": "rancune",
+   "answer": "la",
+   "en": "grudge",
+   "stage": 14
+  },
+  {
+   "noun": "congé",
+   "answer": "le",
+   "en": "day off, leave",
+   "stage": 14
+  },
+  {
+   "noun": "panne",
+   "answer": "la",
+   "en": "breakdown",
+   "stage": 14
+  },
+  {
+   "noun": "serveur",
+   "answer": "le",
+   "en": "server",
+   "stage": 14
+  },
+  {
+   "noun": "échéance",
+   "answer": "la",
+   "en": "deadline",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "atout",
+   "answer": "le",
+   "en": "asset",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "exigence",
+   "answer": "la",
+   "en": "requirement",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "tenue",
+   "answer": "la",
+   "en": "outfit",
+   "stage": 14
+  },
+  {
+   "noun": "doublage",
+   "answer": "le",
+   "en": "dubbing",
+   "stage": 14
+  }
+ ],
+ "fill": [
+  {
+   "q": "Si j'avais su, je ___ plus tôt. (venir)",
+   "hint": "venir, conditionnel passé",
+   "a": [
+    "serais venu",
+    "serais venue"
+   ],
+   "en": "If I had known, I would have come earlier.",
+   "stage": 14
+  },
+  {
+   "q": "Tu ___ me prévenir! (pouvoir)",
+   "hint": "pouvoir, conditionnel passé",
+   "a": [
+    "aurais pu"
+   ],
+   "en": "You could have warned me!",
+   "stage": 14
+  },
+  {
+   "q": "J'___ demander un congé. (devoir)",
+   "hint": "devoir, conditionnel passé",
+   "a": [
+    "aurais dû"
+   ],
+   "en": "I should have asked for a day off.",
+   "stage": 14
+  },
+  {
+   "q": "Quand j'___ fini le rapport, je vous appellerai. (avoir)",
+   "hint": "avoir, futur simple",
+   "a": [
+    "aurai"
+   ],
+   "en": "When I have finished the report, I will call you.",
+   "stage": 14
+  },
+  {
+   "q": "Dès que nous ___ votre paiement, nous enverrons le colis. (recevoir)",
+   "hint": "recevoir, futur antérieur",
+   "a": [
+    "aurons reçu"
+   ],
+   "en": "As soon as we have received your payment, we will send the parcel.",
+   "stage": 14
+  },
+  {
+   "q": "Si tu venais, nous ___ ensemble. (manger)",
+   "hint": "manger, conditionnel présent",
+   "a": [
+    "mangerions"
+   ],
+   "en": "If you came, we would eat together.",
+   "stage": 14
+  },
+  {
+   "q": "Si tu viens, nous ___ ensemble. (manger)",
+   "hint": "manger, futur simple",
+   "a": [
+    "mangerons"
+   ],
+   "en": "If you come, we will eat together.",
+   "stage": 14
+  },
+  {
+   "q": "Si elle avait étudié, elle ___ l'examen. (réussir)",
+   "hint": "réussir, conditionnel passé",
+   "a": [
+    "aurait réussi"
+   ],
+   "en": "If she had studied, she would have passed the exam.",
+   "stage": 14
+  },
+  {
+   "q": "Si j'___ plus de temps, je finirais aujourd'hui. (avoir)",
+   "hint": "avoir, imparfait",
+   "a": [
+    "avais"
+   ],
+   "en": "If I had more time, I would finish today.",
+   "stage": 14
+  },
+  {
+   "q": "Au cas où il ___, restez ici. (pleuvoir)",
+   "hint": "pleuvoir, conditionnel présent",
+   "a": [
+    "pleuvrait"
+   ],
+   "en": "In case it rained, stay here.",
+   "stage": 14
+  },
+  {
+   "q": "Il semblerait que le prix ___ trop élevé. (être)",
+   "hint": "être, subjonctif présent",
+   "a": [
+    "soit"
+   ],
+   "en": "It seems the price is too high.",
+   "stage": 14
+  },
+  {
+   "q": "J'ai l'impression que le projet ___ du retard. (prendre)",
+   "hint": "prendre, présent",
+   "a": [
+    "prend"
+   ],
+   "en": "I have the impression the project is running late.",
+   "stage": 14
+  },
+  {
+   "q": "Je regrette que tu ne m'___ pas prévenu. (avoir)",
+   "hint": "avoir, subjonctif passé",
+   "a": [
+    "aies"
+   ],
+   "en": "I regret that you did not warn me.",
+   "stage": 14
+  },
+  {
+   "q": "Le directeur ___ démissionné, selon des sources. (avoir)",
+   "hint": "avoir, conditionnel passé",
+   "a": [
+    "aurait"
+   ],
+   "en": "The director would have resigned, according to sources.",
+   "stage": 14
+  },
+  {
+   "q": "Marc n'est pas là. Il ___ oublié la réunion. (avoir)",
+   "hint": "avoir, futur simple",
+   "a": [
+    "aura"
+   ],
+   "en": "Marc is not here. He must have forgotten the meeting.",
+   "stage": 14
+  },
+  {
+   "q": "J'aurai envoyé le document ___ lundi.",
+   "a": [
+    "d'ici"
+   ],
+   "en": "I will have sent the document by Monday.",
+   "stage": 14
+  },
+  {
+   "q": "Envoyez-le ___ vendredi midi.",
+   "a": [
+    "au plus tard"
+   ],
+   "en": "Send it by Friday noon at the latest.",
+   "stage": 14
+  },
+  {
+   "q": "Que feriez-vous si vous ___ un conflit? (avoir)",
+   "hint": "avoir, imparfait",
+   "a": [
+    "aviez"
+   ],
+   "en": "What would you do if you had a conflict?",
+   "stage": 14
+  },
+  {
+   "q": "Il a dit qu'il ___ fini avant midi. (avoir)",
+   "hint": "avoir, conditionnel présent",
+   "a": [
+    "aurait"
+   ],
+   "en": "He said he would have finished before noon.",
+   "stage": 14
+  },
+  {
+   "q": "Elle ___ partie plus tôt si elle avait su. (être)",
+   "hint": "être, conditionnel présent",
+   "a": [
+    "serait"
+   ],
+   "en": "She would have left earlier if she had known.",
+   "stage": 14
+  },
+  {
+   "q": "Nous aurions fini si nous ___ commencé plus tôt. (avoir)",
+   "hint": "avoir, imparfait",
+   "a": [
+    "avions"
+   ],
+   "en": "We would have finished if we had started earlier.",
+   "stage": 14
+  },
+  {
+   "q": "Cette politique ___ la politique de 2022. (abroger)",
+   "hint": "abroger, présent",
+   "a": [
+    "abroge"
+   ],
+   "en": "This policy repeals the 2022 policy.",
+   "stage": 14
+  }
+ ],
+ "dictation": [
+  {
+   "fr": "J'aurais dû demander un jour de congé.",
+   "en": "I should have asked for a day off.",
+   "stage": 14
+  },
+  {
+   "fr": "Tu aurais pu m'appeler.",
+   "en": "You could have called me.",
+   "stage": 14
+  },
+  {
+   "fr": "Le directeur aurait démissionné, selon plusieurs sources.",
+   "en": "The director would have resigned, according to several sources.",
+   "stage": 14
+  },
+  {
+   "fr": "Si j'avais su, je serais venu plus tôt.",
+   "en": "If I had known, I would have come earlier.",
+   "stage": 14
+  },
+  {
+   "fr": "Au cas où la panne reviendrait, nous serions prêts.",
+   "en": "In case the outage came back, we would be ready.",
+   "stage": 14
+  },
+  {
+   "fr": "Dès que j'aurai reçu les chiffres, je finirai le rapport.",
+   "en": "As soon as I have received the figures, I will finish the report.",
+   "stage": 14
+  },
+  {
+   "fr": "J'aurai envoyé le document d'ici lundi.",
+   "en": "I will have sent the document by Monday.",
+   "stage": 14
+  },
+  {
+   "fr": "Il semblerait que le prix soit trop élevé.",
+   "en": "It seems the price is too high.",
+   "stage": 14
+  },
+  {
+   "fr": "Sans vouloir vous contredire, je dirais que le délai est trop court.",
+   "en": "Without wanting to contradict you, I would say the deadline is too short.",
+   "stage": 14
+  },
+  {
+   "fr": "Je m'adapte vite et je reste calme sous pression.",
+   "en": "I adapt quickly and I stay calm under pressure.",
+   "stage": 14
+  },
+  {
+   "fr": "La présente politique s'applique à tous les employés.",
+   "en": "This policy applies to all employees.",
+   "stage": 14
+  },
+  {
+   "fr": "Je propose que nous réorientions la publicité.",
+   "en": "I propose that we redirect the advertising.",
+   "stage": 14
+  },
+  {
+   "fr": "Le prochain jalon est la mise à l'essai.",
+   "en": "The next milestone is the trial run.",
+   "stage": 14
+  },
+  {
+   "fr": "Je vous remercie de m'avoir reçu ce matin.",
+   "en": "Thank you for receiving me this morning.",
+   "stage": 14
+  }
+ ],
+ "quebec-words": [
+  {
+   "qc": "une entrevue",
+   "std": "un entretien",
+   "en": "a job interview",
+   "note": "Quebec and Canada; entretien is the general French form (OQLF lists both)",
+   "stage": 14
+  },
+  {
+   "qc": "un shift",
+   "std": "un quart de travail",
+   "en": "a work shift",
+   "note": "casual in Quebec; the OQLF advises against shift and recommends quart de travail",
+   "stage": 14
+  }
+ ]
+}

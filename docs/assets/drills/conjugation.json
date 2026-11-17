@@ -3185,6 +3185,270 @@
    "stage": 13
   },
   {
+   "verb": "finir",
+   "tense": "conditionnel passé",
+   "person": "tu",
+   "answer": "aurais fini",
+   "en": "to finish",
+   "stage": 14
+  },
+  {
+   "verb": "parler",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions parlé",
+   "en": "to speak",
+   "stage": 14
+  },
+  {
+   "verb": "faire",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "aurait fait",
+   "en": "to do, to make",
+   "stage": 14
+  },
+  {
+   "verb": "prendre",
+   "tense": "conditionnel passé",
+   "person": "vous",
+   "answer": "auriez pris",
+   "en": "to take",
+   "stage": 14
+  },
+  {
+   "verb": "voir",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "auraient vu",
+   "en": "to see",
+   "stage": 14
+  },
+  {
+   "verb": "dire",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais dit",
+   "en": "to say",
+   "stage": 14
+  },
+  {
+   "verb": "devoir",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais dû",
+   "en": "to have to",
+   "stage": 14
+  },
+  {
+   "verb": "pouvoir",
+   "tense": "conditionnel passé",
+   "person": "tu",
+   "answer": "aurais pu",
+   "en": "can, to be able to",
+   "stage": 14
+  },
+  {
+   "verb": "vouloir",
+   "tense": "conditionnel passé",
+   "person": "je",
+   "answer": "aurais voulu",
+   "en": "to want",
+   "stage": 14
+  },
+  {
+   "verb": "savoir",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "aurait su",
+   "en": "to know",
+   "stage": 14
+  },
+  {
+   "verb": "recevoir",
+   "tense": "conditionnel passé",
+   "person": "nous",
+   "answer": "aurions reçu",
+   "en": "to receive",
+   "stage": 14
+  },
+  {
+   "verb": "envoyer",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "aurait envoyé",
+   "en": "to send",
+   "stage": 14
+  },
+  {
+   "verb": "partir",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "serait partie",
+   "en": "to leave",
+   "stage": 14
+  },
+  {
+   "verb": "arriver",
+   "tense": "conditionnel passé",
+   "person": "ils",
+   "answer": "seraient arrivés",
+   "en": "to arrive",
+   "stage": 14
+  },
+  {
+   "verb": "aller",
+   "tense": "conditionnel passé",
+   "person": "elles",
+   "answer": "seraient allées",
+   "en": "to go",
+   "stage": 14
+  },
+  {
+   "verb": "venir",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "serait venu",
+   "en": "to come",
+   "stage": 14
+  },
+  {
+   "verb": "rester",
+   "tense": "conditionnel passé",
+   "person": "elle",
+   "answer": "serait restée",
+   "en": "to stay",
+   "stage": 14
+  },
+  {
+   "verb": "avoir",
+   "tense": "conditionnel passé",
+   "person": "il",
+   "answer": "aurait eu",
+   "en": "to have",
+   "stage": 14
+  },
+  {
+   "verb": "être",
+   "tense": "conditionnel passé",
+   "person": "tu",
+   "answer": "aurais été",
+   "en": "to be",
+   "stage": 14
+  },
+  {
+   "verb": "finir",
+   "tense": "futur antérieur",
+   "person": "je",
+   "answer": "aurai fini",
+   "en": "to finish",
+   "stage": 14
+  },
+  {
+   "verb": "parler",
+   "tense": "futur antérieur",
+   "person": "tu",
+   "answer": "auras parlé",
+   "en": "to speak",
+   "stage": 14
+  },
+  {
+   "verb": "faire",
+   "tense": "futur antérieur",
+   "person": "nous",
+   "answer": "aurons fait",
+   "en": "to do, to make",
+   "stage": 14
+  },
+  {
+   "verb": "prendre",
+   "tense": "futur antérieur",
+   "person": "vous",
+   "answer": "aurez pris",
+   "en": "to take",
+   "stage": 14
+  },
+  {
+   "verb": "voir",
+   "tense": "futur antérieur",
+   "person": "il",
+   "answer": "aura vu",
+   "en": "to see",
+   "stage": 14
+  },
+  {
+   "verb": "recevoir",
+   "tense": "futur antérieur",
+   "person": "elle",
+   "answer": "aura reçu",
+   "en": "to receive",
+   "stage": 14
+  },
+  {
+   "verb": "envoyer",
+   "tense": "futur antérieur",
+   "person": "je",
+   "answer": "aurai envoyé",
+   "en": "to send",
+   "stage": 14
+  },
+  {
+   "verb": "partir",
+   "tense": "futur antérieur",
+   "person": "il",
+   "answer": "sera parti",
+   "en": "to leave",
+   "stage": 14
+  },
+  {
+   "verb": "arriver",
+   "tense": "futur antérieur",
+   "person": "elles",
+   "answer": "seront arrivées",
+   "en": "to arrive",
+   "stage": 14
+  },
+  {
+   "verb": "aller",
+   "tense": "futur antérieur",
+   "person": "ils",
+   "answer": "seront allés",
+   "en": "to go",
+   "stage": 14
+  },
+  {
+   "verb": "venir",
+   "tense": "futur antérieur",
+   "person": "elle",
+   "answer": "sera venue",
+   "en": "to come",
+   "stage": 14
+  },
+  {
+   "verb": "être",
+   "tense": "futur antérieur",
+   "person": "il",
+   "answer": "aura été",
+   "en": "to be",
+   "stage": 14
+  },
+  {
+   "verb": "avoir",
+   "tense": "futur antérieur",
+   "person": "nous",
+   "answer": "aurons eu",
+   "en": "to have",
+   "stage": 14
+  },
+  {
+   "verb": "dire",
+   "tense": "futur antérieur",
+   "person": "ils",
+   "answer": "auront dit",
+   "en": "to say",
+   "stage": 14
+  },
+  {
    "verb": "procéder",
    "tense": "subjonctif présent",
    "person": "il",

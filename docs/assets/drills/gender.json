@@ -2545,6 +2545,195 @@
    "stage": 13
   },
   {
+   "noun": "rémunération",
+   "answer": "la",
+   "en": "pay",
+   "stage": 14
+  },
+  {
+   "noun": "régime",
+   "answer": "le",
+   "en": "plan, scheme",
+   "stage": 14
+  },
+  {
+   "noun": "retraite",
+   "answer": "la",
+   "en": "retirement",
+   "stage": 14
+  },
+  {
+   "noun": "quart",
+   "answer": "le",
+   "en": "shift",
+   "stage": 14
+  },
+  {
+   "noun": "évaluation",
+   "answer": "la",
+   "en": "evaluation",
+   "stage": 14
+  },
+  {
+   "noun": "promotion",
+   "answer": "la",
+   "en": "promotion",
+   "stage": 14
+  },
+  {
+   "noun": "mutation",
+   "answer": "la",
+   "en": "transfer",
+   "stage": 14
+  },
+  {
+   "noun": "licenciement",
+   "answer": "le",
+   "en": "dismissal",
+   "stage": 14
+  },
+  {
+   "noun": "harcèlement",
+   "answer": "le",
+   "en": "harassment",
+   "stage": 14
+  },
+  {
+   "noun": "diversité",
+   "answer": "la",
+   "en": "diversity",
+   "stage": 14
+  },
+  {
+   "noun": "équité",
+   "answer": "la",
+   "en": "equity",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "inclusion",
+   "answer": "la",
+   "en": "inclusion",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "livrable",
+   "answer": "le",
+   "en": "deliverable",
+   "stage": 14
+  },
+  {
+   "noun": "jalon",
+   "answer": "le",
+   "en": "milestone",
+   "stage": 14
+  },
+  {
+   "noun": "obstacle",
+   "answer": "le",
+   "en": "obstacle",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "priorité",
+   "answer": "la",
+   "en": "priority",
+   "stage": 14
+  },
+  {
+   "noun": "écart",
+   "answer": "le",
+   "en": "gap",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "entrevue",
+   "answer": "la",
+   "en": "interview",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "faiblesse",
+   "answer": "la",
+   "en": "weakness",
+   "stage": 14
+  },
+  {
+   "noun": "attente",
+   "answer": "la",
+   "en": "expectation",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "regret",
+   "answer": "le",
+   "en": "regret",
+   "stage": 14
+  },
+  {
+   "noun": "rancune",
+   "answer": "la",
+   "en": "grudge",
+   "stage": 14
+  },
+  {
+   "noun": "congé",
+   "answer": "le",
+   "en": "day off, leave",
+   "stage": 14
+  },
+  {
+   "noun": "panne",
+   "answer": "la",
+   "en": "breakdown",
+   "stage": 14
+  },
+  {
+   "noun": "serveur",
+   "answer": "le",
+   "en": "server",
+   "stage": 14
+  },
+  {
+   "noun": "échéance",
+   "answer": "la",
+   "en": "deadline",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "atout",
+   "answer": "le",
+   "en": "asset",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "exigence",
+   "answer": "la",
+   "en": "requirement",
+   "stage": 14,
+   "elided": true
+  },
+  {
+   "noun": "tenue",
+   "answer": "la",
+   "en": "outfit",
+   "stage": 14
+  },
+  {
+   "noun": "doublage",
+   "answer": "le",
+   "en": "dubbing",
+   "stage": 14
+  },
+  {
    "noun": "réduction",
    "answer": "la",
    "en": "reduction",

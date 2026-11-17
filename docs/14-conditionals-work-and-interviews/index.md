@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 13.
 6. [HR vocabulary](06-hr-vocabulary.md) (words)
 7. [A Canadian CV](07-canadian-cv.md) (write)
 8. [Interview role play](08-interview-role-play.md) (speak)
-9. TV, cinema and humour in Quebec (not written yet) (quebec)
-10. Interviews and meetings (not written yet) (listen)
-11. Contributing to meetings (not written yet) (speak)
-12. Job postings and policies (not written yet) (read)
-13. Interview day (not written yet) (speak, review)
+9. [TV, cinema and humour in Quebec](09-quebec-tv-cinema-humour.md) (quebec)
+10. [Interviews and meetings](10-interviews-and-meetings.md) (listen)
+11. [Contributing to meetings](11-contributing-to-meetings.md) (speak)
+12. [Job postings and policies](12-job-postings-and-policies.md) (read)
+13. [Interview day](13-interview-day.md) (speak, review)
 
 <!-- lessons:end -->
 

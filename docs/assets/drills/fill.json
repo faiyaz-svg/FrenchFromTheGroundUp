@@ -2631,6 +2631,203 @@
    "stage": 13
   },
   {
+   "q": "Si j'avais su, je ___ plus tôt. (venir)",
+   "hint": "venir, conditionnel passé",
+   "a": [
+    "serais venu",
+    "serais venue"
+   ],
+   "en": "If I had known, I would have come earlier.",
+   "stage": 14
+  },
+  {
+   "q": "Tu ___ me prévenir! (pouvoir)",
+   "hint": "pouvoir, conditionnel passé",
+   "a": [
+    "aurais pu"
+   ],
+   "en": "You could have warned me!",
+   "stage": 14
+  },
+  {
+   "q": "J'___ demander un congé. (devoir)",
+   "hint": "devoir, conditionnel passé",
+   "a": [
+    "aurais dû"
+   ],
+   "en": "I should have asked for a day off.",
+   "stage": 14
+  },
+  {
+   "q": "Quand j'___ fini le rapport, je vous appellerai. (avoir)",
+   "hint": "avoir, futur simple",
+   "a": [
+    "aurai"
+   ],
+   "en": "When I have finished the report, I will call you.",
+   "stage": 14
+  },
+  {
+   "q": "Dès que nous ___ votre paiement, nous enverrons le colis. (recevoir)",
+   "hint": "recevoir, futur antérieur",
+   "a": [
+    "aurons reçu"
+   ],
+   "en": "As soon as we have received your payment, we will send the parcel.",
+   "stage": 14
+  },
+  {
+   "q": "Si tu venais, nous ___ ensemble. (manger)",
+   "hint": "manger, conditionnel présent",
+   "a": [
+    "mangerions"
+   ],
+   "en": "If you came, we would eat together.",
+   "stage": 14
+  },
+  {
+   "q": "Si tu viens, nous ___ ensemble. (manger)",
+   "hint": "manger, futur simple",
+   "a": [
+    "mangerons"
+   ],
+   "en": "If you come, we will eat together.",
+   "stage": 14
+  },
+  {
+   "q": "Si elle avait étudié, elle ___ l'examen. (réussir)",
+   "hint": "réussir, conditionnel passé",
+   "a": [
+    "aurait réussi"
+   ],
+   "en": "If she had studied, she would have passed the exam.",
+   "stage": 14
+  },
+  {
+   "q": "Si j'___ plus de temps, je finirais aujourd'hui. (avoir)",
+   "hint": "avoir, imparfait",
+   "a": [
+    "avais"
+   ],
+   "en": "If I had more time, I would finish today.",
+   "stage": 14
+  },
+  {
+   "q": "Au cas où il ___, restez ici. (pleuvoir)",
+   "hint": "pleuvoir, conditionnel présent",
+   "a": [
+    "pleuvrait"
+   ],
+   "en": "In case it rained, stay here.",
+   "stage": 14
+  },
+  {
+   "q": "Il semblerait que le prix ___ trop élevé. (être)",
+   "hint": "être, subjonctif présent",
+   "a": [
+    "soit"
+   ],
+   "en": "It seems the price is too high.",
+   "stage": 14
+  },
+  {
+   "q": "J'ai l'impression que le projet ___ du retard. (prendre)",
+   "hint": "prendre, présent",
+   "a": [
+    "prend"
+   ],
+   "en": "I have the impression the project is running late.",
+   "stage": 14
+  },
+  {
+   "q": "Je regrette que tu ne m'___ pas prévenu. (avoir)",
+   "hint": "avoir, subjonctif passé",
+   "a": [
+    "aies"
+   ],
+   "en": "I regret that you did not warn me.",
+   "stage": 14
+  },
+  {
+   "q": "Le directeur ___ démissionné, selon des sources. (avoir)",
+   "hint": "avoir, conditionnel passé",
+   "a": [
+    "aurait"
+   ],
+   "en": "The director would have resigned, according to sources.",
+   "stage": 14
+  },
+  {
+   "q": "Marc n'est pas là. Il ___ oublié la réunion. (avoir)",
+   "hint": "avoir, futur simple",
+   "a": [
+    "aura"
+   ],
+   "en": "Marc is not here. He must have forgotten the meeting.",
+   "stage": 14
+  },
+  {
+   "q": "J'aurai envoyé le document ___ lundi.",
+   "a": [
+    "d'ici"
+   ],
+   "en": "I will have sent the document by Monday.",
+   "stage": 14
+  },
+  {
+   "q": "Envoyez-le ___ vendredi midi.",
+   "a": [
+    "au plus tard"
+   ],
+   "en": "Send it by Friday noon at the latest.",
+   "stage": 14
+  },
+  {
+   "q": "Que feriez-vous si vous ___ un conflit? (avoir)",
+   "hint": "avoir, imparfait",
+   "a": [
+    "aviez"
+   ],
+   "en": "What would you do if you had a conflict?",
+   "stage": 14
+  },
+  {
+   "q": "Il a dit qu'il ___ fini avant midi. (avoir)",
+   "hint": "avoir, conditionnel présent",
+   "a": [
+    "aurait"
+   ],
+   "en": "He said he would have finished before noon.",
+   "stage": 14
+  },
+  {
+   "q": "Elle ___ partie plus tôt si elle avait su. (être)",
+   "hint": "être, conditionnel présent",
+   "a": [
+    "serait"
+   ],
+   "en": "She would have left earlier if she had known.",
+   "stage": 14
+  },
+  {
+   "q": "Nous aurions fini si nous ___ commencé plus tôt. (avoir)",
+   "hint": "avoir, imparfait",
+   "a": [
+    "avions"
+   ],
+   "en": "We would have finished if we had started earlier.",
+   "stage": 14
+  },
+  {
+   "q": "Cette politique ___ la politique de 2022. (abroger)",
+   "hint": "abroger, présent",
+   "a": [
+    "abroge"
+   ],
+   "en": "This policy repeals the 2022 policy.",
+   "stage": 14
+  },
+  {
    "q": "Je ___ de vous écrire au sujet de mon dossier.",
    "hint": "se permettre, présent",
    "a": [

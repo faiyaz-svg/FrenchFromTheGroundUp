@@ -261,11 +261,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="14-conditionals-work-and-interviews/06-hr-vocabulary/" data-lesson="14-conditionals-work-and-interviews/06-hr-vocabulary/" title="HR vocabulary"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="14-conditionals-work-and-interviews/07-canadian-cv/" data-lesson="14-conditionals-work-and-interviews/07-canadian-cv/" title="A Canadian CV"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="14-conditionals-work-and-interviews/08-interview-role-play/" data-lesson="14-conditionals-work-and-interviews/08-interview-role-play/" title="Interview role play"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="TV, cinema and humour in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="Interviews and meetings"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Contributing to meetings"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Job postings and policies"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="Interview day"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/09-quebec-tv-cinema-humour/" data-lesson="14-conditionals-work-and-interviews/09-quebec-tv-cinema-humour/" title="TV, cinema and humour in Quebec"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/10-interviews-and-meetings/" data-lesson="14-conditionals-work-and-interviews/10-interviews-and-meetings/" title="Interviews and meetings"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/11-contributing-to-meetings/" data-lesson="14-conditionals-work-and-interviews/11-contributing-to-meetings/" title="Contributing to meetings"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/12-job-postings-and-policies/" data-lesson="14-conditionals-work-and-interviews/12-job-postings-and-policies/" title="Job postings and policies"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="14-conditionals-work-and-interviews/13-interview-day/" data-lesson="14-conditionals-work-and-interviews/13-interview-day/" title="Interview day"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="15">
