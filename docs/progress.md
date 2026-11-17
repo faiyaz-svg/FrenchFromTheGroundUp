@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 153 of 205. New lessons appear here as they are added.
+Lessons written so far: 157 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -198,3 +198,12 @@ Lessons written so far: 153 of 205. New lessons appear here as they are added.
 - [ ] [A magazine article](12-real-montreal/11-magazine-article.md) (read)
 - [ ] [Fix the errors, B1](12-real-montreal/12-fix-the-errors-b1.md) (write)
 - [ ] [The B1 checkpoint](12-real-montreal/13-b1-checkpoint.md) (speak, review)
+
+## B2 blue line
+
+### Stage 13: Subjunctive and argument
+
+- [ ] [The subjunctive: doubt and opinion](13-subjunctive-and-argument/01-subjunctive-doubt-opinion.md) (grammar)
+- [ ] [The subjunctive after conjunctions](13-subjunctive-and-argument/02-subjunctive-conjunctions.md) (grammar)
+- [ ] [Concession](13-subjunctive-and-argument/03-concession.md) (grammar)
+- [ ] [The past subjunctive](13-subjunctive-and-argument/04-subjonctif-passe.md) (grammar)

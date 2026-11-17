@@ -174,4 +174,4 @@ Hiding weak points. A gap you have noted is a gap you can work on.
 - **Point d'étape**: a short check, made at the end of a stage, of what you can already do.
 - **Grille d'évaluation**: a table of criteria with levels, used to rate your own work.
 
-Suite : The subjunctive: doubt and opinion<!-- link: ../13-subjunctive-and-argument/01-subjunctive-doubt-opinion.md -->
+Suite : [The subjunctive: doubt and opinion](../13-subjunctive-and-argument/01-subjunctive-doubt-opinion.md)

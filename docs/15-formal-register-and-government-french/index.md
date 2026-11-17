@@ -54,7 +54,7 @@ Pour lire un texte nominal, retrouvez le verbe et ajoutez le sujet : qui fait q
 |---|---|
 | Objet | précis, avec la demande ou la date |
 | Appel | *Madame, Monsieur,* (sans nom); *Madame la Directrice,* (avec titre); *Madame* en toutes lettres |
-| Formule de politesse | *Veuillez agréer, Madame, mes salutations distinguées.* ou *Je vous prie d'agréer, Madame, ...* (plus déférent) |
+| Formule de politesse | *Veuillez agréer, Madame, mes salutations distinguées.* ou *Je vous prie d'agréer, Madame, etc.* (plus déférent) |
 | Abréviations | *M.*, *Mme* (sans point), *p. j.*, *c. c.* |
 | Espace insécable | avant *:*, *$*, *%*, *h* et dans « » |
 | Majuscules | titre de fonction avec majuscule dans l'appel, minuscule dans le texte |
@@ -96,7 +96,7 @@ Cette note est présentée pour décision. | This note is presented for decision
 
 ### Sons
 
-Ce stage n'a pas de leçon de sons. Écoutez le *r* des mots longs (*reddition*, *recommandation*) et les terminaisons du passé simple (*-èrent*, *-irent*).
+Cette étape n'a pas de leçon de sons. Écoutez le *r* des mots longs (*reddition*, *recommandation*) et les terminaisons du passé simple (*-èrent*, *-irent*).
 
 ## Listen and watch at this level
 

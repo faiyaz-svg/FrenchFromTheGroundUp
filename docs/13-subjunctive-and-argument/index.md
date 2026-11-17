@@ -7,10 +7,10 @@ Before this stage: Stages 1 to 12.
 <!-- lessons:start -->
 ## Lessons
 
-1. The subjunctive: doubt and opinion (not written yet) (grammar)
-2. The subjunctive after conjunctions (not written yet) (grammar)
-3. Concession (not written yet) (grammar)
-4. The past subjunctive (not written yet) (grammar)
+1. [The subjunctive: doubt and opinion](01-subjunctive-doubt-opinion.md) (grammar)
+2. [The subjunctive after conjunctions](02-subjunctive-conjunctions.md) (grammar)
+3. [Concession](03-concession.md) (grammar)
+4. [The past subjunctive](04-subjonctif-passe.md) (grammar)
 5. Subjunctive or indicative (not written yet) (grammar)
 6. Advanced connectors (not written yet) (words)
 7. Debating a point (not written yet) (speak)

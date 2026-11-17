@@ -235,10 +235,10 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <div class="fm-seg" data-stage="13">
 <a class="fm-seg-name" href="13-subjunctive-and-argument/">13 · Subjunctive and argument</a>
 <ol class="fm-stations">
-<li><span class="fm-st fm-planned" title="The subjunctive: doubt and opinion"><span class="fm-dot"></span><span class="fm-st-num">1</span></span></li>
-<li><span class="fm-st fm-planned" title="The subjunctive after conjunctions"><span class="fm-dot"></span><span class="fm-st-num">2</span></span></li>
-<li><span class="fm-st fm-planned" title="Concession"><span class="fm-dot"></span><span class="fm-st-num">3</span></span></li>
-<li><span class="fm-st fm-planned" title="The past subjunctive"><span class="fm-dot"></span><span class="fm-st-num">4</span></span></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/01-subjunctive-doubt-opinion/" data-lesson="13-subjunctive-and-argument/01-subjunctive-doubt-opinion/" title="The subjunctive: doubt and opinion"><span class="fm-dot"></span><span class="fm-st-num">1</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/02-subjunctive-conjunctions/" data-lesson="13-subjunctive-and-argument/02-subjunctive-conjunctions/" title="The subjunctive after conjunctions"><span class="fm-dot"></span><span class="fm-st-num">2</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/03-concession/" data-lesson="13-subjunctive-and-argument/03-concession/" title="Concession"><span class="fm-dot"></span><span class="fm-st-num">3</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/04-subjonctif-passe/" data-lesson="13-subjunctive-and-argument/04-subjonctif-passe/" title="The past subjunctive"><span class="fm-dot"></span><span class="fm-st-num">4</span></a></li>
 <li><span class="fm-st fm-planned" title="Subjunctive or indicative"><span class="fm-dot"></span><span class="fm-st-num">5</span></span></li>
 <li><span class="fm-st fm-planned" title="Advanced connectors"><span class="fm-dot"></span><span class="fm-st-num">6</span></span></li>
 <li><span class="fm-st fm-planned" title="Debating a point"><span class="fm-dot"></span><span class="fm-st-num">7</span></span></li>
