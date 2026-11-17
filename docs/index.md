@@ -243,11 +243,11 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 <li><a class="fm-st" href="13-subjunctive-and-argument/06-advanced-connectors/" data-lesson="13-subjunctive-and-argument/06-advanced-connectors/" title="Advanced connectors"><span class="fm-dot"></span><span class="fm-st-num">6</span></a></li>
 <li><a class="fm-st" href="13-subjunctive-and-argument/07-debating-a-point/" data-lesson="13-subjunctive-and-argument/07-debating-a-point/" title="Debating a point"><span class="fm-dot"></span><span class="fm-st-num">7</span></a></li>
 <li><a class="fm-st" href="13-subjunctive-and-argument/08-quebec-language-and-identity/" data-lesson="13-subjunctive-and-argument/08-quebec-language-and-identity/" title="Language and identity in Quebec"><span class="fm-dot"></span><span class="fm-st-num">8</span></a></li>
-<li><span class="fm-st fm-planned" title="Podcast listening"><span class="fm-dot"></span><span class="fm-st-num">9</span></span></li>
-<li><span class="fm-st fm-planned" title="An argumentative paragraph"><span class="fm-dot"></span><span class="fm-st-num">10</span></span></li>
-<li><span class="fm-st fm-planned" title="Longer articles"><span class="fm-dot"></span><span class="fm-st-num">11</span></span></li>
-<li><span class="fm-st fm-planned" title="Fix the errors, B2"><span class="fm-dot"></span><span class="fm-st-num">12</span></span></li>
-<li><span class="fm-st fm-planned" title="Argue it both ways"><span class="fm-dot"></span><span class="fm-st-num">13</span></span></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/09-podcast-listening/" data-lesson="13-subjunctive-and-argument/09-podcast-listening/" title="Podcast listening"><span class="fm-dot"></span><span class="fm-st-num">9</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/10-argumentative-paragraph/" data-lesson="13-subjunctive-and-argument/10-argumentative-paragraph/" title="An argumentative paragraph"><span class="fm-dot"></span><span class="fm-st-num">10</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/11-longer-articles/" data-lesson="13-subjunctive-and-argument/11-longer-articles/" title="Longer articles"><span class="fm-dot"></span><span class="fm-st-num">11</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/12-fix-the-errors-b2/" data-lesson="13-subjunctive-and-argument/12-fix-the-errors-b2/" title="Fix the errors, B2"><span class="fm-dot"></span><span class="fm-st-num">12</span></a></li>
+<li><a class="fm-st" href="13-subjunctive-and-argument/13-argue-it-both-ways/" data-lesson="13-subjunctive-and-argument/13-argue-it-both-ways/" title="Argue it both ways"><span class="fm-dot"></span><span class="fm-st-num">13</span></a></li>
 </ol>
 </div>
 <div class="fm-seg" data-stage="14">

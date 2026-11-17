@@ -2404,6 +2404,231 @@
    ],
    "en": "I need to have time to proofread.",
    "stage": 12
+  },
+  {
+   "q": "Je doute qu'il ___ raison.",
+   "hint": "avoir, subjonctif",
+   "a": [
+    "ait"
+   ],
+   "en": "I doubt that he is right.",
+   "stage": 13
+  },
+  {
+   "q": "Il est certain que nous ___ le temps.",
+   "hint": "avoir, indicatif",
+   "a": [
+    "avons"
+   ],
+   "en": "It is certain that we have the time.",
+   "stage": 13
+  },
+  {
+   "q": "Je ne pense pas que ce ___ possible.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "I don't think it is possible.",
+   "stage": 13
+  },
+  {
+   "q": "Je pense que c'___ possible.",
+   "hint": "être, indicatif",
+   "a": [
+    "est"
+   ],
+   "en": "I think it is possible.",
+   "stage": 13
+  },
+  {
+   "q": "Il est peu probable que vous ___ finir avant lundi.",
+   "hint": "pouvoir, subjonctif",
+   "a": [
+    "puissiez"
+   ],
+   "en": "It is unlikely that you can finish before Monday.",
+   "stage": 13
+  },
+  {
+   "q": "Nous attendons jusqu'à ce qu'il ___.",
+   "hint": "répondre, subjonctif",
+   "a": [
+    "réponde"
+   ],
+   "en": "We wait until he answers.",
+   "stage": 13
+  },
+  {
+   "q": "Appelez-moi avant qu'il ___ trop tard.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "Call me before it is too late.",
+   "stage": 13
+  },
+  {
+   "q": "Il part sans que personne le ___.",
+   "hint": "voir, subjonctif",
+   "a": [
+    "voie"
+   ],
+   "en": "He leaves without anyone seeing him.",
+   "stage": 13
+  },
+  {
+   "q": "Bien que le budget ___ petit, nous commençons.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "Although the budget is small, we are starting.",
+   "stage": 13
+  },
+  {
+   "q": "Même si le billet ___ plus cher, je le prends.",
+   "hint": "coûter, indicatif",
+   "a": [
+    "coûte"
+   ],
+   "en": "Even if the ticket costs more, I'm taking it.",
+   "stage": 13
+  },
+  {
+   "q": "Après que le client ___ signé, nous avons commencé.",
+   "hint": "avoir, indicatif",
+   "a": [
+    "a"
+   ],
+   "en": "After the client signed, we started.",
+   "stage": 13
+  },
+  {
+   "q": "Je suis content que tu ___ venu.",
+   "hint": "être, subjonctif passé",
+   "a": [
+    "sois"
+   ],
+   "en": "I am glad that you came.",
+   "stage": 13
+  },
+  {
+   "q": "Il faut que tu ___ fini avant 17 h.",
+   "hint": "avoir, subjonctif passé",
+   "a": [
+    "aies"
+   ],
+   "en": "You must have finished before 5 p.m.",
+   "stage": 13
+  },
+  {
+   "q": "Bien qu'elle ___ échoué, elle continue.",
+   "hint": "avoir, subjonctif passé",
+   "a": [
+    "ait"
+   ],
+   "en": "Although she failed, she continues.",
+   "stage": 13
+  },
+  {
+   "q": "J'espère que vous ___ à l'heure.",
+   "hint": "arriver, futur simple",
+   "a": [
+    "arriverez"
+   ],
+   "en": "I hope you will arrive on time.",
+   "stage": 13
+  },
+  {
+   "q": "Je souhaite que vous ___ à l'heure.",
+   "hint": "arriver, subjonctif",
+   "a": [
+    "arriviez"
+   ],
+   "en": "I wish that you would arrive on time.",
+   "stage": 13
+  },
+  {
+   "q": "___ les coûts, le projet est utile.",
+   "hint": "malgré ou bien que?",
+   "a": [
+    "Malgré"
+   ],
+   "en": "Despite the costs, the project is useful.",
+   "stage": 13
+  },
+  {
+   "q": "J'ai ___ chercher, je ne trouve pas.",
+   "hint": "avoir ___ + infinitif",
+   "a": [
+    "beau"
+   ],
+   "en": "However hard I look, I can't find it.",
+   "stage": 13
+  },
+  {
+   "q": "Le trafic augmente, ___ des retards.",
+   "hint": "conséquence : d'où ou donc?",
+   "a": [
+    "d'où"
+   ],
+   "en": "Traffic is increasing, hence delays.",
+   "stage": 13
+  },
+  {
+   "q": "Il y a eu une panne, si ___ que nous avons annulé.",
+   "hint": "si bien que",
+   "a": [
+    "bien"
+   ],
+   "en": "There was a breakdown, so we cancelled.",
+   "stage": 13
+  },
+  {
+   "q": "Je propose que nous ___ les calculs.",
+   "hint": "refaire, subjonctif",
+   "a": [
+    "refassions"
+   ],
+   "en": "I suggest that we redo the calculations.",
+   "stage": 13
+  },
+  {
+   "q": "Il semble que le chiffre ___ trop haut.",
+   "hint": "être, subjonctif",
+   "a": [
+    "soit"
+   ],
+   "en": "It seems that the figure is too high.",
+   "stage": 13
+  },
+  {
+   "q": "Il me semble que le chiffre ___ trop haut.",
+   "hint": "être, indicatif",
+   "a": [
+    "est"
+   ],
+   "en": "It seems to me that the figure is too high.",
+   "stage": 13
+  },
+  {
+   "q": "Je regrette que nous ___ abandonné trop tôt.",
+   "hint": "avoir, subjonctif passé",
+   "a": [
+    "ayons"
+   ],
+   "en": "I regret that we abandoned it too early.",
+   "stage": 13
+  },
+  {
+   "q": "Admettons que vous ___ raison.",
+   "hint": "avoir, subjonctif",
+   "a": [
+    "ayez"
+   ],
+   "en": "Let's suppose you are right.",
+   "stage": 13
   }
  ]
 }

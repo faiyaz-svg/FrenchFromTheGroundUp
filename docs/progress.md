@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 161 of 205. New lessons appear here as they are added.
+Lessons written so far: 166 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -211,3 +211,8 @@ Lessons written so far: 161 of 205. New lessons appear here as they are added.
 - [ ] [Advanced connectors](13-subjunctive-and-argument/06-advanced-connectors.md) (words)
 - [ ] [Debating a point](13-subjunctive-and-argument/07-debating-a-point.md) (speak)
 - [ ] [Language and identity in Quebec](13-subjunctive-and-argument/08-quebec-language-and-identity.md) (quebec)
+- [ ] [Podcast listening](13-subjunctive-and-argument/09-podcast-listening.md) (listen)
+- [ ] [An argumentative paragraph](13-subjunctive-and-argument/10-argumentative-paragraph.md) (write)
+- [ ] [Longer articles](13-subjunctive-and-argument/11-longer-articles.md) (read)
+- [ ] [Fix the errors, B2](13-subjunctive-and-argument/12-fix-the-errors-b2.md) (write)
+- [ ] [Argue it both ways](13-subjunctive-and-argument/13-argue-it-both-ways.md) (speak, review)

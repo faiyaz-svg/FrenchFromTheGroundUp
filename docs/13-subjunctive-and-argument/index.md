@@ -15,11 +15,11 @@ Before this stage: Stages 1 to 12.
 6. [Advanced connectors](06-advanced-connectors.md) (words)
 7. [Debating a point](07-debating-a-point.md) (speak)
 8. [Language and identity in Quebec](08-quebec-language-and-identity.md) (quebec)
-9. Podcast listening (not written yet) (listen)
-10. An argumentative paragraph (not written yet) (write)
-11. Longer articles (not written yet) (read)
-12. Fix the errors, B2 (not written yet) (write)
-13. Argue it both ways (not written yet) (speak, review)
+9. [Podcast listening](09-podcast-listening.md) (listen)
+10. [An argumentative paragraph](10-argumentative-paragraph.md) (write)
+11. [Longer articles](11-longer-articles.md) (read)
+12. [Fix the errors, B2](12-fix-the-errors-b2.md) (write)
+13. [Argue it both ways](13-argue-it-both-ways.md) (speak, review)
 
 <!-- lessons:end -->
 

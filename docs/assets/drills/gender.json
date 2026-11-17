@@ -2357,6 +2357,192 @@
    "answer": "la",
    "en": "half",
    "stage": 12
+  },
+  {
+   "noun": "doute",
+   "answer": "le",
+   "en": "doubt",
+   "stage": 13
+  },
+  {
+   "noun": "prévision",
+   "answer": "la",
+   "en": "forecast",
+   "stage": 13
+  },
+  {
+   "noun": "projet pilote",
+   "answer": "le",
+   "en": "pilot project",
+   "stage": 13
+  },
+  {
+   "noun": "thèse",
+   "answer": "la",
+   "en": "thesis",
+   "stage": 13
+  },
+  {
+   "noun": "paragraphe",
+   "answer": "le",
+   "en": "paragraph",
+   "stage": 13
+  },
+  {
+   "noun": "conclusion",
+   "answer": "la",
+   "en": "conclusion",
+   "stage": 13
+  },
+  {
+   "noun": "introduction",
+   "answer": "la",
+   "en": "introduction",
+   "stage": 13,
+   "elided": true
+  },
+  {
+   "noun": "donnée",
+   "answer": "la",
+   "en": "datum, figure",
+   "stage": 13
+  },
+  {
+   "noun": "registre",
+   "answer": "le",
+   "en": "register",
+   "stage": 13
+  },
+  {
+   "noun": "tournure",
+   "answer": "la",
+   "en": "turn of phrase",
+   "stage": 13
+  },
+  {
+   "noun": "lourdeur",
+   "answer": "la",
+   "en": "heavy passage",
+   "stage": 13
+  },
+  {
+   "noun": "répétition",
+   "answer": "la",
+   "en": "repetition",
+   "stage": 13
+  },
+  {
+   "noun": "pléonasme",
+   "answer": "le",
+   "en": "pleonasm",
+   "stage": 13
+  },
+  {
+   "noun": "angle",
+   "answer": "le",
+   "en": "angle",
+   "stage": 13,
+   "elided": true
+  },
+  {
+   "noun": "perspective",
+   "answer": "la",
+   "en": "perspective",
+   "stage": 13
+  },
+  {
+   "noun": "témoignage",
+   "answer": "le",
+   "en": "testimony",
+   "stage": 13
+  },
+  {
+   "noun": "épisode",
+   "answer": "le",
+   "en": "episode",
+   "stage": 13,
+   "elided": true
+  },
+  {
+   "noun": "dilemme",
+   "answer": "le",
+   "en": "dilemma",
+   "stage": 13
+  },
+  {
+   "noun": "pénurie",
+   "answer": "la",
+   "en": "shortage",
+   "stage": 13
+  },
+  {
+   "noun": "promoteur",
+   "answer": "le",
+   "en": "developer",
+   "stage": 13
+  },
+  {
+   "noun": "investisseur",
+   "answer": "le",
+   "en": "investor",
+   "stage": 13,
+   "elided": true
+  },
+  {
+   "noun": "spéculation",
+   "answer": "la",
+   "en": "speculation",
+   "stage": 13
+  },
+  {
+   "noun": "immeuble",
+   "answer": "le",
+   "en": "building",
+   "stage": 13,
+   "elided": true
+  },
+  {
+   "noun": "réglementation",
+   "answer": "la",
+   "en": "regulation",
+   "stage": 13
+  },
+  {
+   "noun": "conjonction",
+   "answer": "la",
+   "en": "conjunction",
+   "stage": 13
+  },
+  {
+   "noun": "objection",
+   "answer": "la",
+   "en": "objection",
+   "stage": 13,
+   "elided": true
+  },
+  {
+   "noun": "contre-exemple",
+   "answer": "le",
+   "en": "counter-example",
+   "stage": 13
+  },
+  {
+   "noun": "terminologie",
+   "answer": "la",
+   "en": "terminology",
+   "stage": 13
+  },
+  {
+   "noun": "néologisme",
+   "answer": "le",
+   "en": "new word",
+   "stage": 13
+  },
+  {
+   "noun": "locuteur",
+   "answer": "le",
+   "en": "speaker",
+   "stage": 13
   }
  ]
 }

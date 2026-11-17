@@ -580,6 +580,41 @@
    "en": "a job",
    "note": "familiar; criticised anglicism; write emploi",
    "stage": 12
+  },
+  {
+   "qc": "pareil",
+   "std": "quand même",
+   "en": "all the same",
+   "note": "casual; common in Quebec (OQLF), quand même is neutral",
+   "stage": 13
+  },
+  {
+   "qc": "tsé",
+   "std": "tu sais",
+   "en": "you know",
+   "note": "casual Quebec; spoken only",
+   "stage": 13
+  },
+  {
+   "qc": "faque",
+   "std": "alors",
+   "en": "so",
+   "note": "casual Quebec; spoken only",
+   "stage": 13
+  },
+  {
+   "qc": "ben",
+   "std": "bien",
+   "en": "well",
+   "note": "casual Quebec; spoken only",
+   "stage": 13
+  },
+  {
+   "qc": "pis",
+   "std": "et",
+   "en": "and, then",
+   "note": "casual Quebec; spoken only",
+   "stage": 13
   }
  ]
 }

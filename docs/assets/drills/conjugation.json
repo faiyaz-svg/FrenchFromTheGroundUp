@@ -2871,6 +2871,318 @@
    "answer": "était allée",
    "en": "to go",
    "stage": 12
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif passé",
+   "person": "je",
+   "answer": "aie fini",
+   "en": "to finish",
+   "stage": 13
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif passé",
+   "person": "il",
+   "answer": "ait fini",
+   "en": "to finish",
+   "stage": 13
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif passé",
+   "person": "nous",
+   "answer": "ayons fini",
+   "en": "to finish",
+   "stage": 13
+  },
+  {
+   "verb": "finir",
+   "tense": "subjonctif passé",
+   "person": "ils",
+   "answer": "aient fini",
+   "en": "to finish",
+   "stage": 13
+  },
+  {
+   "verb": "parler",
+   "tense": "subjonctif passé",
+   "person": "tu",
+   "answer": "aies parlé",
+   "en": "to speak",
+   "stage": 13
+  },
+  {
+   "verb": "parler",
+   "tense": "subjonctif passé",
+   "person": "vous",
+   "answer": "ayez parlé",
+   "en": "to speak",
+   "stage": 13
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif passé",
+   "person": "je",
+   "answer": "aie fait",
+   "en": "to do, to make",
+   "stage": 13
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif passé",
+   "person": "tu",
+   "answer": "aies fait",
+   "en": "to do, to make",
+   "stage": 13
+  },
+  {
+   "verb": "faire",
+   "tense": "subjonctif passé",
+   "person": "nous",
+   "answer": "ayons fait",
+   "en": "to do, to make",
+   "stage": 13
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif passé",
+   "person": "il",
+   "answer": "ait pris",
+   "en": "to take",
+   "stage": 13
+  },
+  {
+   "verb": "prendre",
+   "tense": "subjonctif passé",
+   "person": "vous",
+   "answer": "ayez pris",
+   "en": "to take",
+   "stage": 13
+  },
+  {
+   "verb": "accomplir",
+   "tense": "subjonctif passé",
+   "person": "nous",
+   "answer": "ayons accompli",
+   "en": "to accomplish",
+   "stage": 13
+  },
+  {
+   "verb": "accomplir",
+   "tense": "subjonctif passé",
+   "person": "ils",
+   "answer": "aient accompli",
+   "en": "to accomplish",
+   "stage": 13
+  },
+  {
+   "verb": "échouer",
+   "tense": "subjonctif passé",
+   "person": "il",
+   "answer": "ait échoué",
+   "en": "to fail",
+   "stage": 13
+  },
+  {
+   "verb": "échouer",
+   "tense": "subjonctif passé",
+   "person": "ils",
+   "answer": "aient échoué",
+   "en": "to fail",
+   "stage": 13
+  },
+  {
+   "verb": "abandonner",
+   "tense": "subjonctif passé",
+   "person": "je",
+   "answer": "aie abandonné",
+   "en": "to abandon",
+   "stage": 13
+  },
+  {
+   "verb": "abandonner",
+   "tense": "subjonctif passé",
+   "person": "vous",
+   "answer": "ayez abandonné",
+   "en": "to abandon",
+   "stage": 13
+  },
+  {
+   "verb": "partir",
+   "tense": "subjonctif passé",
+   "person": "je",
+   "answer": "sois parti",
+   "en": "to leave",
+   "stage": 13
+  },
+  {
+   "verb": "partir",
+   "tense": "subjonctif passé",
+   "person": "il",
+   "answer": "soit parti",
+   "en": "to leave",
+   "stage": 13
+  },
+  {
+   "verb": "partir",
+   "tense": "subjonctif passé",
+   "person": "nous",
+   "answer": "soyons partis",
+   "en": "to leave",
+   "stage": 13
+  },
+  {
+   "verb": "partir",
+   "tense": "subjonctif passé",
+   "person": "ils",
+   "answer": "soient partis",
+   "en": "to leave",
+   "stage": 13
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif passé",
+   "person": "tu",
+   "answer": "sois venu",
+   "en": "to come",
+   "stage": 13
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif passé",
+   "person": "il",
+   "answer": "soit venu",
+   "en": "to come",
+   "stage": 13
+  },
+  {
+   "verb": "venir",
+   "tense": "subjonctif passé",
+   "person": "vous",
+   "answer": "soyez venus",
+   "en": "to come",
+   "stage": 13
+  },
+  {
+   "verb": "arriver",
+   "tense": "subjonctif passé",
+   "person": "je",
+   "answer": "sois arrivé",
+   "en": "to arrive",
+   "stage": 13
+  },
+  {
+   "verb": "arriver",
+   "tense": "subjonctif passé",
+   "person": "nous",
+   "answer": "soyons arrivés",
+   "en": "to arrive",
+   "stage": 13
+  },
+  {
+   "verb": "arriver",
+   "tense": "subjonctif passé",
+   "person": "ils",
+   "answer": "soient arrivés",
+   "en": "to arrive",
+   "stage": 13
+  },
+  {
+   "verb": "réussir",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "réussisse",
+   "en": "to succeed",
+   "stage": 13
+  },
+  {
+   "verb": "réussir",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "réussissions",
+   "en": "to succeed",
+   "stage": 13
+  },
+  {
+   "verb": "abandonner",
+   "tense": "subjonctif présent",
+   "person": "tu",
+   "answer": "abandonnes",
+   "en": "to abandon",
+   "stage": 13
+  },
+  {
+   "verb": "abandonner",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "abandonniez",
+   "en": "to abandon",
+   "stage": 13
+  },
+  {
+   "verb": "renoncer",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "renonce",
+   "en": "to give up",
+   "stage": 13
+  },
+  {
+   "verb": "renoncer",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "renoncions",
+   "en": "to give up",
+   "stage": 13
+  },
+  {
+   "verb": "accomplir",
+   "tense": "subjonctif présent",
+   "person": "je",
+   "answer": "accomplisse",
+   "en": "to accomplish",
+   "stage": 13
+  },
+  {
+   "verb": "accomplir",
+   "tense": "subjonctif présent",
+   "person": "ils",
+   "answer": "accomplissent",
+   "en": "to accomplish",
+   "stage": 13
+  },
+  {
+   "verb": "aboutir",
+   "tense": "subjonctif présent",
+   "person": "il",
+   "answer": "aboutisse",
+   "en": "to succeed",
+   "stage": 13
+  },
+  {
+   "verb": "aboutir",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "aboutissiez",
+   "en": "to succeed",
+   "stage": 13
+  },
+  {
+   "verb": "refaire",
+   "tense": "subjonctif présent",
+   "person": "nous",
+   "answer": "refassions",
+   "en": "to redo",
+   "stage": 13
+  },
+  {
+   "verb": "refaire",
+   "tense": "subjonctif présent",
+   "person": "vous",
+   "answer": "refassiez",
+   "en": "to redo",
+   "stage": 13
   }
  ]
 }

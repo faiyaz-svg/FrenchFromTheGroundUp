@@ -904,6 +904,76 @@
    "fr": "La moitié des personnes pédalent pour gagner du temps.",
    "en": "Half of the people ride to save time.",
    "stage": 12
+  },
+  {
+   "fr": "Je doute que cette prévision soit réaliste.",
+   "en": "I doubt that this forecast is realistic.",
+   "stage": 13
+  },
+  {
+   "fr": "Il est peu probable que nous ayons le même rythme.",
+   "en": "It is unlikely that we will have the same pace.",
+   "stage": 13
+  },
+  {
+   "fr": "Nous attendons jusqu'à ce que le contrat soit signé.",
+   "en": "We wait until the contract is signed.",
+   "stage": 13
+  },
+  {
+   "fr": "Bien que le budget soit petit, nous commençons.",
+   "en": "Although the budget is small, we are starting.",
+   "stage": 13
+  },
+  {
+   "fr": "Même si le billet coûte plus cher, beaucoup de gens le prendront.",
+   "en": "Even if the ticket costs more, many people will take it.",
+   "stage": 13
+  },
+  {
+   "fr": "Je suis content que tu sois venu.",
+   "en": "I am glad that you came.",
+   "stage": 13
+  },
+  {
+   "fr": "Après que le client a refusé, nous avons perdu confiance.",
+   "en": "After the client refused, we lost confidence.",
+   "stage": 13
+  },
+  {
+   "fr": "Il faut que tu aies fini avant 17 h.",
+   "en": "You must have finished before 5 p.m.",
+   "stage": 13
+  },
+  {
+   "fr": "Certes, l'idée est séduisante, mais elle a des limites.",
+   "en": "Admittedly, the idea is attractive, but it has limits.",
+   "stage": 13
+  },
+  {
+   "fr": "Cela dit, il ne faut pas oublier que les coûts sont élevés.",
+   "en": "That said, we must not forget that the costs are high.",
+   "stage": 13
+  },
+  {
+   "fr": "Le trafic augmente, d'où des retards.",
+   "en": "Traffic is increasing, hence delays.",
+   "stage": 13
+  },
+  {
+   "fr": "En définitive, il faut un équilibre entre les deux.",
+   "en": "In the end, a balance between the two is needed.",
+   "stage": 13
+  },
+  {
+   "fr": "Je ne pense pas que ce soit une mauvaise idée.",
+   "en": "I don't think it is a bad idea.",
+   "stage": 13
+  },
+  {
+   "fr": "J'ai pesé le pour et le contre, et je prends position.",
+   "en": "I weighed the pros and cons, and I take a stand.",
+   "stage": 13
   }
  ]
 }
