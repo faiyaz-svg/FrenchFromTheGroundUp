@@ -2,7 +2,7 @@
 
 Tick each lesson when you finish it. On the website, ticks are saved in the browser you use, so each device keeps its own list, and the stations on the home map fill in too. In VS Code, change `[ ]` to `[x]` in `docs/progress.md`.
 
-Lessons written so far: 170 of 205. New lessons appear here as they are added.
+Lessons written so far: 174 of 205. New lessons appear here as they are added.
 
 ## A1 green line
 
@@ -223,3 +223,7 @@ Lessons written so far: 170 of 205. New lessons appear here as they are added.
 - [ ] [Shifting register](15-formal-register-and-government-french/02-register-shifts.md) (words)
 - [ ] [Formal emails](15-formal-register-and-government-french/03-formal-emails.md) (write)
 - [ ] [Recognising the passé simple](15-formal-register-and-government-french/04-passe-simple-recognition.md) (grammar)
+- [ ] [Government vocabulary](15-formal-register-and-government-french/05-government-vocabulary.md) (words)
+- [ ] [Serving the public formally](15-formal-register-and-government-french/06-serving-the-public-formally.md) (speak)
+- [ ] [Briefing notes](15-formal-register-and-government-french/07-briefing-notes.md) (write)
+- [ ] [Summaries and minutes](15-formal-register-and-government-french/08-summaries-and-minutes.md) (write)
