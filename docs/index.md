@@ -315,4 +315,4 @@ Start with [how to use this book](00-start-here/index.md), then follow the lines
 - [Reference](reference/index.md): the glossary, verb tables, the IPA chart, false friends, email formulas and a Montreal phrasebook.
 - [Progress](progress.md): a checklist of every lesson.
 
-The sibling books: [Math From the Ground Up](https://faiyaz-svg.github.io/MathFromTheGroundUp/), [CS From the Ground Up](https://faiyaz-svg.github.io/CSFromTheGroundUp/) and [Music From the Ground Up](https://faiyaz-svg.github.io/MusicFromTheGroundUp/).
+The sibling books: [Math From the Ground Up](https://faiyaz-svg.github.io/MathFromTheGroundUp/), [CS From the Ground Up](https://faiyaz-svg.github.io/CSFromTheGroundUp/), [Music From the Ground Up](https://faiyaz-svg.github.io/MusicFromTheGroundUp/) and [Investing and Trading From the Ground Up](https://faiyaz-svg.github.io/InvestingAndTradingFromTheGroundUp/).
